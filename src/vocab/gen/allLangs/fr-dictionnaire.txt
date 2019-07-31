@@ -1,0 +1,2515 @@
+infinitif: infini, infini, origine, lasource
+nominatifcas: prépositionnelcas
+accusatifcas: 
+sujetcas: assujettircas
+parent: parental, majeur, supérieur, épinards
+papa: père
+maman: maman, mère, maternel
+Salut: adieu, salut, Hey
+ancêtre: prédécesseur, grand-père
+grand-parent: grand-père, grand-mère
+affamé: faim, affamer
+génitifcas: possessifcas
+adjectif: 
+et: somme, par, un
+moi: moimême, je, mon, nous, lécher
+toi: eux, te, tu, Ya
+nous: nous, notre, lesnotres
+ce: il, que, elle, ce, ces, laquelle
+destinationcas: objectifcas
+datifcas: 
+realishumeur: 
+déontiquehumeur: 
+conditionnelhumeur: subjonctifhumeur, hypothétiquehumeur
+épistémiquehumeur: 
+instrumentalcas: 
+intérieurlecontexte: 
+personnelecontexte: 
+dépendantclause: 
+perfectifaspect: 
+passétendu: 
+masculinlegenre: neutrelegenre
+comitativecas: 
+présenttendu: 
+benefactivecas: 
+essivecas: 
+pas: non, non, àpeine, incapable, pas, jamais, ni, aucun, plutôt, nonplus, nepeuxpas, Mademoiselle
+ses: leur, lesien, elle, lui, ceux, lasienne, de, àqui, indépendant
+surfacelecontexte: 
+adpositionalcas: 
+emplacementcas: 
+espacelecontexte: 
+façoncas: 
+interrogatifhumeur: 
+etou: 
+OUexclusif: 
+lasourcecas: 
+ablatifcas: 
+démonstratif: solide, substantiel, béton, convaincant, directif, dramatique, express, apparent, articuler
+mais: encore, toutefois, bienque, bienque, Néanmoins
+tous: toutlemonde, Toutlemonde, letotal, tout, Globalement, entier, tout, quelconque, deplusenplus, toutàfait
+fémininlegenre: 
+ils: eux, elle, ceux, leur, lesleurs, nomdefamille, ces, même, Juste, similaire, à
+plurielnombre: 
+un: unique, une, dans, ensolo, un, fairetourner, toutefois
+qui: quelqu'un, quiconque, laquelle, àqui, comme, qui, n'importequoi, n'importequi, que, leur, ceux, chanter, Ya
+avenirtendu: 
+sociallecontexte: 
+lorsque: n'importequand, toujours
+nonaccompliaspect: 
+Là: exister, Jeudi
+plus: plusde, laplupart, plusloin, au-delà, ascendant, verslehaut, multi, que, plutôt, aussi, deplus, plus, encore, encore, autre, Plusieurs, plusieurs, autre, autrement, unautre, durepos
+dehors: dehors, extérieur, externe, depleinair, enpleinair, de, endehorsde, au-delà, enhaut, sur, sur, enavant, cesserde, Sortie
+relatifcas: relatifcas
+illatifcas: 
+faire: faire, effectuer, entreprendre, rendre, activer, fait, commettre, mettre, que, réagir, n'importequoi, qu'ellesoit, peuimporte, travailler
+directifhumeur: indicatifhumeur
+questionmot: 
+copule: connecteur, liaison, bouquet, lien
+lapersonne: homme, personnes, individuel, quelqu'un, Quelqu'un, gars, Humain, visage, personnalité, lui, eux, personnellement, piéton, bonhomme
+mâle: masculin, mention, gentilhomme, homme, doux, femelle
+pourrait: peut, pourrait, peut-être, Peutêtre, possibilité, probabilité, mai, possible, capable
+nombre: montant, somme, figure, numérique, numéral, Quantité, Nombres
+très: considérablement, extrêmement, terriblement, beaucoup, aussi, terriblement, largement, très, vraiment, mal, énorme, considérablement, lot, multi, énormément, laplupart, assez, équitablement, loin, assez, D'accord, OK, d'accord, extrême, endolori, abondant, exceptionnellement, incroyablement, excellent, faible, fortement, nettement
+temps: Pendantque, moment, durant, opportun, durée, temporel, tendu, calendrier, pointfinal, Météo, redoublement, heure, vue
+tempslecontexte: 
+temporelcas: 
+environ: Encequiconcerne, concernant, presque, environ, de, par, que, autour, pour, sur, presque, approximativement, chose, lerespect, chapitre, drogue
+littéral: ausenspropre, réal, original, absolu, verbal, littéraire, exact, exacte, précis
+seulement: juste, simplement, simplement, point, simple, purement, confiné, àpeine, baie, ensolo, nu
+petit: petit, minuscule, mince, légèrement, bit, mineur, petit, diminutif, portable, peu, légèrement, court
+puis: denouveau, Ya, depuis, depuis, sedan, plustard, après, toutefois, après, ultérieur, parlasuite, après
+ilrevêthumeur: 
+rétrospectiveaspect: 
+formidable: grand, grand, noble, Sérieux, vaste, bruyant, énorme, géant, énorme, dominant, bien, amende, considérable, énorme, substantiel, formidable, excellent, optimum, grandiose, majeur, parfait, remarquable, brillant, tronc, macro
+volitivehumeur: 
+avant: avant, pré, depuis, précéder, jusqu'à, jusqu'à, avant, anciennement, contre, contre, versl'avant, avance, plusloin, devant, précédent, auparavant
+Dois: devrait, nécessairement, inutile, devoir, avoirbesoin, doit, devrait, vouloir, devrait
+deux: double, lesdeux, àl'écart, couple
+voir: Regarde, vue, vue, avis, apercevoir, regarde, regard, référer, rencontrer
+connaître: vérifier, aucourant, enseigner, drapeau, visible, comprendre
+enbas: verslebas, verslebas, endessousde, audessousde, endessousde, sous, Moins, bas, inférieur, enbas
+premier: début, initiale, depuis, enavant, Premièrement, initialement
+posséder: lui-même, toimême, posséder, personnellement, lesien, lui-même, soi, personnel
+aliénablepossession: 
+inaliénablepossession: 
+Agéde: utilisé, ancien, vieilli, personneâgée, ancien, ex, âge, avant, prédécesseur
+délibéranthumeur: 
+jour: auquotidien, laisser, travailler, affaire, emploi
+où: partoutoù, parlequel, lieu
+Venez: à, jusqu'à, portée, arrivée, arriver, devenir, seproduire
+façon: laméthode, méthodologie, passerelle, veuxdire, chemin, route, tract, sentier, sentier, manière, route, rue, dusucre, Piste, trajectoire, habitude, Comment, processus, mode, credo
+oeuvre: emploi, affectation, actif, tâche, lamaind'oeuvre, lamaind'oeuvre, carrière, fonction, fonctionner, fonctionnel, Entreprise, acte, fairedesexercices, emploi, professionnel, travailler, oeuvre
+unevoyelle: célèbre, lavie, survie, mouvement, mouvement, circulation, alphabet, moule
+aller: marche, aller, partir, Départ, émigrer
+perlativecas: 
+progressiveaspect: 
+long: prolongé, durable, grand, lelongde, pointfinal, ère, tendu, unmoyen, représenter
+dire: parlé, dire, parler, représenter, rapporter, appelé
+pair: aussi, nonplus, jusqu'à, jusqu'à, deplus, aussi, également, plusloin, enoutre, lui-même
+arrière: derrière, arrière, enarrière, enarrière, retour, restaurer, annuler, denouveau, répéter, depuis, selon, sedésister, récupérer, récupérer
+ici: à
+pense: enpensant, pensée, considérer, imaginer, concevoir, méditer, voudrais, appelé, dérange, ressentir, sembler, indiquer, considération
+chaque: tout, chaque, quelconque, laquelle, envers, par, Toutlemonde, dénominateur, entier, moyen
+dernière: fin, dernier, final, ultime, unautre, autre, dernier, récent, fin, passé, supporter, persister, précédent, enretard
+endessousdelecontexte: 
+prendre: recours, occuper, rapporter, adopter, saisir, Obtenez, recevoir, choisir, capture, capture, charger, Acceptez, apporter, porter, tirer, appliquer, attribuer, appliqué
+atrouvé: trouve, découvrir, Découverte, détection, accessible, Obtenez, rencontrer
+leMain: bras, poignet, bras
+Jeune: jeunesse, junior, adolescent, adolescent, neuf
+donner: prêter, fournir, offre, fournir, livrer, rendre, offrir, mettre, faireundon, laisser, subvention, prix, périodique, cycle, admettre, devoir
+Dieu: Divin
+delativecas: 
+rien: quelquechose, objet, personne, n'importequoi, aucun, personne, certains, peu, certain, quelquepeu
+droit: paire, Corriger, avecprécision, Juste, Justice, justifiée, injuste, éligible, droit, loi, correctement, vrai, certain, biensur, habiliter, Hébien, del'autrecôté, dû, correct, correctement, adapté, approprier
+uneseulfois: immédiatement, rapidement, laméthode, modèle, méthodologie
+semelfactiveaspect: 
+gauche: unmoyen, abandonner, sauter
+partie: section, partiellement, partie, enpartie, parcelle, fraction, segment, partager, bit, pièce, passage, sous-ensemble, chapitre, département, épisode, partiel, division, quartier, secteur, proportion, nom, participer, quantum
+maison: domicile, locaux, temple, logement, Ménage
+monde: domaine, mondial, univers
+directeur: Titre, Principal, chef, chapitre, guide, Président, président, directeur, patron, Stylo, maldetête, cheveux
+Trois: troisième, neuvième, Impôt
+concentrer: prévu, avoirpourbut, objectif, objectif, concentrer, attention, concentration, converger, lavision
+aimer: affection, charité, aimer, écraser
+toujours: pourtoujours, constamment, toujours
+nuit: soir, dîner, p.m., cesoir
+Roi: règne, Seigneur, monarque, magnat, prince
+comprisentre: parmi, parmi, de, dans, dans, dans, milieu, milieu, durant
+cœur: acclamation, encourageant, renverser, coronaire
+paucalnombre: 
+enraison: dû, depuis, cas, cause, raison
+causalcas: 
+prénom: nomdefamille, nom, artisanat
+correctnom: 
+Pays: nation, laterre, Terre, Etat, sol, sol, fête, campagne
+ademandé: demander, consulter, exhorter, lesquestions
+visibleévident: 
+mieux: supérieur, meilleur, excellent, idéal, exceptionnel, plusloin, plusloin, bien
+côté: latéral, faveur, faveur, nom, fairetourner, page, aspect, demi, facette, envers, àcôtéde, decôté
+cours: programmed'études, cours, conférence, assurément, sûrement, certainement,vraiment,définitivement, taux, chemin, confiant
+assez: suffisant, suffisamment, adéquat, ample, équitablement, beaucoup, insuffisant, assez, assez, considérable, considérablement, substantiel, significativement, substantiellement, raisonnable, mettre, pleinement
+bientôt: d'icipeu, rapide, rapide, rapidement, vite, immédiat, rapide, sedépêcher, urgent, ainsi, immédiatement, facilement, justeàcôté, debonneheure, casser
+complet: pleinement, suffisamment, absolu, complet, imparfait, entier, exactement, exact, prononcer, précisément, approfondi, tout, complet, Taille, entièrement, complètement, totalement, fini, accompli, accomplir, implicite, remplir, répondre
+chambre: chambre, Quatrième, chambreàcoucher, paix, compartiment, cave, profondeur
+eau: liquide, fluide, grandtournant
+désidératifhumeur: 
+lumière: lueur, brillant, bougie, mince, style, légèrement, pâle, clair, lalumièredujour, exposition
+mot: lexical, duson, vocabulaire, phrase, verbe, nom, formulation, terme
+porte: porte, porte, entrée, chapitre, port, portail
+utilisation: utiliser, usage, consommation, dépense, consommateur, engager, application, utilitaire, appliquer, employer, consommer
+matin: unm., déjeuner
+terminativecas: 
+dupouvoir: force, énergie, pourrait, fort, obliger, puissant, dynamique, salade, dominance, autorité
+se: nous-mêmes, toimême, lui-même, moimême, se, lui-même, soi, ego, ensolo
+voix: duson, àhautevoix, scrutin, Audio, vote, article, rumeur, rumeur, bruit
+blanc: blanc, plainte
+del'argent: richesse, argent, financier, argentcomptant, devise, lafinance, monétaire
+prochaine: àcôtéde, auxcôtésde, àcôtéde, ensuivant, plustard, dimension, enavant, ultérieur, après, après, parlasuite, après, enavant, versl'avant, plusloin, devant, procéder
+pauvre: bras, lapauvreté, mal, faible
+lamort: mortalité, entraindemourir, mort
+forme: forme, moule, format, contour, modèle, ferme, enformede, morphologie
+inessifcas: 
+ensemble: simultanément, lelongde, mixte, collectif, ensemble, auxcôtésde, conjonction, combiner
+matière: cas, affaire, chose, phénomène, problème, Matériel, substance, assujettir, problème, question, destrucs, sujet, intéressant
+souvent: fréquemment, constamment, defaçonrégulière, fréquent, communément, normalement, typiquement
+ami: allié, petitami, bonhomme, camarade, associer
+commande: système, arrangement, organiser, Contrat, tableau, commander, fairetourner, rangée, queue, séquence, séquentiel, Invitez, ainsi, laisser, éviter, épeler
+impératifhumeur: 
+rond: arrondie, cercle, tour, sphère
+garder: tenir, maintenir, allonger, mettre, ensemble, pâte, conserver, garde, engager, aimer, lapréservation, préservation, préserver, détenir, adhérer, rester, rester, fixé, entretien
+femme: époux, femelle
+croire: confiance, compter, présumer, foi, croyance, confiance, confiant, optimisme, optimiste, dépendance
+près: passer, àcôtéde, presque, autour, Près, presque, adjacent, pratiquement, justeàcôté, proximale, voisin, voisin
+public: général, public, commun, communément
+Etatlecontexte: 
+fils: essaim, garçon
+cent: centième, visage, cent, siècle
+enfants: enfant, progéniture, enfant, bébé
+Ainsi: ainsi, ainsi, Parconséquent, tel, Oui, donc
+espoir: souhait, perspective, anticiper, optimisme, optimiste, attendu, attendre, attente
+audessusde: enhaut, plusde, enhaut, haut, haut, Avancée, plushaut, del'autrecôté, concernant, passantpar, sur, aérien, sur, devant
+chère: amoureux, cher
+lis: entraindelire, chanter, lis, lecteur
+ville: ville, municipal, comté, Urbain
+déjà: prêt, préparé, prêt, entouscas, pré
+fait: vérité, réalité, véracité, vrai, réal, réel, eneffet, vraiment, actuellement, fait
+factiveévident: 
+Fille: Femmedeménage, fille, femelle, Dame, copine, ensolo
+entendre: écouter, audition, ressentir
+moins: minimal, leminimum, minimiser, moins, Moins, leplusbas, laplupart, meilleur, leplusélevé, optimum
+peut-être: Probablement, Peutêtre, probablement, pourrait, peut-être, possible, probable, probable, soi-disant
+Ouvert: clair, plaine, clairement, nu, évidemment, vacant, explicite, évident, depleinair, déficit, ouvertement, exposer, charge, faireapparaître
+corps: lachair, physique, physique, physiquement, corpus, organe, cadavre
+air: Vent, brise, aviation, Météo, Compagnieaérienne, vol
+lanature: Naturel, originairede, naturellement, origine, descente, indigène, faune, personnage
+Aidez-moi: aider, utile, aide, assistance, assistant, allonger, lesoulagement
+lettre: Courrier, -tête, entraind'écrire
+quatre: Quatrième
+optatifhumeur: subjonctifhumeur
+dufeu: chaud, flamme, fièvre, cheminée, Bouddha
+libre: liberté, liberté, exempter, gratuitement, vain, enliberté, vacant, librement, Libération
+guerre: bataille, lutte, bataille, champdebataille, lutter
+deuxième: autre, lesdeux, selon, unautre, Deuxièmement
+uni: singulier, unité, compris, union, allié, allié, unique, unanime, mixte, composite, coalition, fédération
+appel: Challenge, oxyder, appel, sur, connexion, combinaison, mixte, lafusion, invitation, duréedevie, conversation, téléphone
+Pourquoi: similaire, Demême
+perdu: perte, perdre, disparu, disparaître
+mille: millième, vêtements, tissu
+Famille: Ménage, survivant
+âme: esprit, fantôme, cerveau
+soins: concerné, préoccupation, attention, méditation, service, parrainage, garde, sécurité, laprotection, Sécurité, ladéfense, lapréservation, préservation, couverture, ladéfense, prudence, guérir, traitement, garde, inquiéter, inquiet, inquiétant
+signifier: impliquer, sens, sens, significatif, dénoter, milieu, agent, moyen, moyen, modérer, essentiellement, comprendre
+différent: distinct, différer, divers, varié, plusieurs, différence, séparé, variation, séparément, variabilité, différentiel, contrairementà, unevariante, varier, diverse, autre, autre, unautre, Plusieurs, différemment, lavariété
+potentielhumeur: 
+allativecas: 
+anthropiquelegenre: 
+cinq: cinquième, an, pour
+habite: lavie, survivre, secomporter, vivant, nid, district, quartier, quartier, vivant, animé, brut, toutdroit, simple, habitant, direct
+différentassujettir: 
+réponse: lenord, répondre, réponse, Solution, correspondre, répondre, nord, réplication
+mer: océan, Marin, fruitdemer
+lacrainte: crainte, peur, laterreur, awe, effrayé, panique, anxiété, angst, horreur, effrayer, effrayé, phobie
+difficile: difficile, rigide, compliqué, dur, bruyant, violemment, féroce, dure, strict, difficile, rusé, solide, serré
+lestermes: terme, terminologie, problème, basé, terrains, base, essentiellement, fondamentalement, fondamentalement, propriété
+doute: soupçon, méfiance, hésitation, suspect, fournisseur
+dubitativehumeur: 
+noir: bloque
+beau: bien, agréable, charmant, magnifiquement, bien, assez, chic, Bien, mignon
+sombre: obscurité, obscurité
+Trier: classification, classer, classificateur, aimable, espèce, lavariété, article
+Dix: décennie, dixième, Juste
+montrer: afficher, effectuer, performance, manifestation, présentation, indiquer, dénoter, unévénement, projection, exposition, art, image, esquisser, captured'écran
+histoire: mythe, histoire, récit, lafiction, terrain, conte, parler, sujet
+livre: rouleau, laréserve, livre, cahierdetexte
+électronique: électronique, électron, foudre, électrique, électricité, Electrique, électricien, email, ancien
+compte: raison, cause, calculer, calcul, calcul, facture, calcul, compter, compter, arithmétique
+Marc: marqueur, trace, sentier, But, logo, mettreenévidence, cocher, Étiquette, signe, signal, indication, signal, marque, personnage, étiquette, impression, symbolique, alerte, symbole, icône
+intérêt: unefleur, intéressé, préoccupation
+écrit: composer, entraind'écrire, type, écrit, stationnaire
+lit: 
+nécessaire: essentiel, important, utile, critique, vital, important, sansimportance, intégral, crucial, important, avoirbesoin, nécessairement, intransitif, intransitif, intransitif, urgent, gluant, nécessité, Obligatoire, exiger
+idée: pensée, considération, opinion, notion, remue-méninges, enpensant, imaginer, imagination
+vialiscas: 
+frère: enfantdemêmesparents, lasoeur, cheminée, collègue
+detempsentemps: rarement, detempsentemps, parfois
+ligne: câbler, fil, rangée, voie, conduction, tiret, bande, Impôt, scénario, lignes, grostitre
+table: bureau, calendrier, catalogue, catalogue
+Fleuve: oreiller, coussin, flux
+œil: nommer, autour, neige
+information: message, explication, ladescription, bulletin, connaissance, données, rang, informer
+soudainement: soudain, inattendu
+étrange: étrangement, surprenant, bizarrement, impair, merveille, formidable, remarquable, extraordinaire, incroyable, incroyable, bizarre, amusant, inconnu, exotique, gênant, inhabituel, bizarre, mystérieux, curieuse
+profond: profondément, profondeur, extensif, peuprofond, approfondi, détaillé, complet, critique, profond, dans, àl'intérieur, intérieur, ver
+changement: modification, variation, transformation, transformer, mutation, décalage, modifier, modifier, transition, convergence, variations, variance, variabilité
+sentiment: ressentir, lasensation, laperception, impression, émotion, humeur, impressionné, émotif, sensoriel, sentiment, sens, lapassion, conscient, conscience, impulsion, notion, conception, concept
+objectif: objet, avoirpourbut, objectif, objectif, destination, intention, prévu, motif, cible, avantage, avantage
+content: gai, amusé, plaisir, contentde, joie, bonheur, délice, Enchanté, amusant, Heureusement, chanceux, heureux, émoticône, fréquemment, prendreplaisir, préfère, malheureux
+dusang: saigner, sanglant, effusiondesang
+seleva: rose
+Sud: dusud, lemidi, midi
+dufroid: l'hiver, Bien, froidement
+position: emplacement, situation, statut, chance, occasion, espace, position,attitude, posture, lieu, poster, article, orientation, allonger, situé, lieu
+semettredebout: station, verticale, attitude, position,attitude, Arrêtez, posture, pose, stalle, être, rester, rester, exister, contre
+supposer: hypothèse, hypothèse, assumer, adopter, présumer, émettredeshypothèses, allonger, Ménage, soi-disant
+mien: mon
+Couper: l'absence, manque, réduction, carence, diminution, pénurie, Mademoiselle, Coupe, couperlaparole, côtelette, sabrer, surgir, brisé, violer, conspiration
+copie: reproduire, réplication, reproduire, transcription, photocopie, cloner, version, ordonnance, plan, richesse
+mari: homme, époux
+six: sexe
+bas: Moins, court, bonmarché, àbonmarché, faussecouche, minimal, bas, peuprofond, terne, carence, facilité, réduire, diminution, minimiser
+rappeltoi: Note, rappel, rappeler, mémoriser
+effet: influence, affecter, impression, impact, dominance, efficace, efficacement, efficacité, conséquence, résultat, exposition, résultat, implication
+tombe: l'automne, cas, situé, crash, chute, panne, effondrement, laisseztomber, décliner, diminution
+misàpart: saufsi, dehors, outre, excepté, endehorsde, àl'écart, sauf, àpart, sanspourautant
+droitsd'auteur: 
+armée: troupes, troupe, hôte, soldat
+courir: fuir, drain, fonctionnement, exécuter, fonctionner, conduire, équipement, opérations, opérationnel, défendre
+cheval: feràcheval, à, remarque, énonciation
+avenir: plustard, après, après, l'hiver
+Ouest: occidental
+Payer: lessalaires, salaire, lesalaire, poussée, Paiement, rémunérer, frais, Coût, laisser
+rouge: réduction
+or: 
+désir: volition, désireux, appétit, souhait, aspirer, exhorter, luxure
+joue: danser, pari, Jeu, joue, jouet, rouleau, tourner, fairetourner
+maîtriser: Seigneur, primaire, Principal, professeur, dominer, gouverner, M, gentilhomme, depremierplan, Monsieur, propriétaire, cerveau, contrôle
+Bureau: agence, bureau, ministère
+gouvernement: Etat, rangée
+église: 
+longueur: Hauteur, altitude, envergure, lelongde, durée, grand
+compagnie: raffermir, corporation, société, Entreprise, d'entreprise, entité, institution, agence, institut, entreprise, entreprise
+papier: feuille, carte, charte, journal
+probabilité: possibilité, probabilité, probable, peut-être, improbable, perspective, chance, probable, lesvariables, chances
+notamment: Spécial, spécialement, spécifiquement, particulièrement, particulier, exactement, principalement, principalement, principalement, spécifique, important, typiquement
+ours: porter, supporter, abstention, tolérance, avoir, posséder, offrir, tolérer
+fenêtre: 
+uneentente: protocole, règlement, compromis, consensus, traité, accepter, traiter, accord, soumissionner, accord, Contrat, convention, arrangement, bonneaffaire
+beauté: magnifiquement, éclat, esthétique
+devoir: responsabilité, laresponsabilité, obligation, responsable, douane, tâche, affectation, dette, devoir, devoir, employer, lesort
+envoyer: transmettre, soumission, poster, diffuser, email, transmission, devrait, livrer, soumettre
+distance: suppression, gamme, séparation, rue, écart
+lesilence: immobilité, silencieux, silencieux, solitude, paix
+lepied: jambe, arrêt, cuisse, doigtdepied, trimestre, patte, fonctionnement, correctement, marche
+sauvage: sauvagement, illégal, féroce, faune, jungle
+mourir: mort, entraindemourir, de, fermer
+enregistrer: économie, lapréservation, récupérer, conserver, préservation, mémoriser, boutique, racheter, lessecours, enregistrement, laprotection, préserver, débarrasser
+vert: brut, brut
+difficulté: embêter, problème, problème, épreuves, difficulté, pétrir, souffrance, problématique, obstacle, embarrasser, embarras
+sourire: sourire
+faux: erreur, Erreur, erroné, mal, maltraiter, faux, faute, échec, défaut, àtort, gaffe
+dormir: endormi, rêver, sieste
+quotativecas: 
+début: commencer, démarrer, entreprendre, segratter, début, debonneheure, initiale, initiation, début, principe, embarquer, lancer
+action: tâche, point, marche, étape, acte, procédure, actif, opération, opérationnel, activer, activiste, bougetoi, entrainetoi, entrainetoi, fonctionner, stock, exécution, exécuter, conduite
+visite: accès, entretien, accessible, Voyage, voyage, voyage, tour, philosophie, critiquer, réunion, cadeau
+suivre: conformité, adhérer, ensuivant, poursuivre, Piste, accompagner, obéit, ultérieur, persister
+Essai: tentative, tentative, effort, initiative, expérience, tester, échantillon, diligence, essai, examen, examen
+présence: existence, exister, entité, atout, occurrence, vue, présence
+lourd: répétition, fortement, difficile, sévère, poids, sérieusement, énorme, foie, énorme, massif
+sucré: dessert, bonbons, doux, fade, mignon
+bouche: oral, agresser, siroter, visage
+riches: beaucoup, abondant, riches, robe, généreux
+ennemi: hostile, adversaire, contre
+navire: bateau, voile, flotte, voile, navire, croisière, traversier, ventre, diriger
+condition: pari, pari, Etat, situation, circonstance, statut, fortune, étape, niveau, aptitude, exigence
+ycompris: contenir, comprendre, impliquer, appartenir, consister, sauf
+comprislapersonne: 
+apparaître: apparence, survenir, émerger, émergence, visible, sembler, Regarde, hanter
+secret: mystérieux, mystère, épingle, souslaterre
+S'ilvousplaît: gentiment, demander, lagrâce
+precativehumeur: 
+poliregistre: 
+mal: nuire, méchant, vicieux, mal, mal, terrible, mauvais, pire
+Mars: ledéfilé, protestation, manifestation, Mars
+endouceur: aufuretàmesur, lent, avecdouceur, doucement, enretard, graduel
+aulieu: àlaplacede, plutôt, outre, remplacement, substitution, sinon, nom
+bleu: cyan
+impossible: 
+L'école: lacitéuniversitaire, échelle
+occasion: occasion, unévénement, occurrence, chance, rue, bonneaffaire, heure
+marié: mariage, marier, mariage
+aliments: repas, régime, plat, nourrir, dîner
+vingt: 
+facilement: probable, facilement, assujetti, facile, commodité, mince, légèrement, légèrement, pratique, simple, brièvement
+éventuelaspect: 
+lalangue: linguistique, langue, base
+expression: express, déclaration, phrase, articuler, exposition, énonciation, équation, représentation
+semaine: dimanche, hebdomadaire
+salle: lethéâtre, couloir, espace, chambre, salon, salon, rayon, coureur, hall, trou, transporter
+danger: dangereux, risque, danger, lerespect
+habituel: généralement, général, commun, routine, générique, Engénéral, ordinaire, inhabituel, communément, modeste, Ordinaire, irrégulier, conventionnel, typique, décontractée, normalement, typiquement, courantdominant, ordinaire, habituel, plaine, grossièrement, facile, modérer
+né: lanaissance, Renaissance, inné
+tribunal: judiciaire, plat, forum, litige
+gnomiqueaspect: 
+valeur: mériter, valeur, précieux, validité, mérite, Coût, prix
+arbre: plante, bois, arbre, bois
+mur: 
+cieux: ciel
+inchoativeaspect: 
+jussifhumeur: 
+Ton: pas, mélodie, tonne, tonne, ombre, thon, duson
+considérer: lerespect, assumer, présumer, attention, considération, considérer, relation, association, relation, remarque, couverture, rapports, rapporter, associé, associée, concerné, appartenir, Encequiconcerne, correspondant, correspondre, pertinent
+mois: lune
+del'expérience: empirique, expérimental, expérimenté, compétence, zeste, expérience
+conditions: scénario, circonstance, situation, librement
+Frais: fraîchement, pur, nettoyer, nettoyeur, neuf, novice, dernier
+Duc: règle, prince, pair
+couvert: couvrant, couverture, de, fermé, intérieur, couverture, gouverner
+lié: ampleur, limitation, limite, frontière, restriction, limité, connecté, dépendre, lier, frontière, confiner
+l'est: est, depuis, précédent, avant, pré, Orient
+pierre: marbre, Roche, gemme
+direction: orientation, dimension, tendance, facette, instruction
+chaise: siège, fauteuil, tabouret, salon
+aider: soutenir, approuver, assistance, aider, support, aide, base, béquille
+rendez-vousamoureux: histoire, rencontre
+village: Hamlet, campagne
+champ: sphère, domaine, région, territoire, région, zone, secteur, domaine, arène, Stade, espace, lamarge, campagne, camp, ferme
+attendez: attendre, tenir, rester
+autorisation: permettre, oreille, permis, autorisation, abandonner, Licence, Licence, consentement, édition, possession, approbation
+permissifhumeur: 
+Succès: couronnédesuccès, réussir, laprospérité, exploit, lavictoire, gagner, frapper, gagnant, gagnant, prospérer
+colline: Montagne, leMont, volcan
+lamusique: musical, classique
+distaledémonstratif: 
+aprèsmidi: p.m., lemidi, midi, soir
+cri: faireledeuil, cri, crier
+honneur: honneur, lerespect, dignité, respectable, honorable, honorifique, courtoisie, gloire, taux, prix
+Sept: 
+privé: personnel, soi, personnellement, Spécial, confidentialité, spécifique, exclusif
+siéger: rester, régler
+desnouvelles: message
+scène: site, vue, lecontexte, afficher, visuel, étape, vue, perspective, tente, apparence
+jardin: jardinier, parc
+course: racial, courses, fonctionnement, concours, letournoi, soumissionner, race, rencontre, nation, brouiller, dentelle
+distributifcas: 
+apprendre: fairedesétudes, enseigner, intentionnel
+politique: politique, politiquement, hommepolitique, politique
+discours: conférence, parler, conversation, discours, parlé
+mensonge: faux, tromper, Tricher, manipuler
+jeter: lancer, jeter, jeter, lancer, format, moule, commencer, cabanon, cesserde
+manger: repas, nourrir, plat, dîner, consommation
+plancher: couverture, sol, bas, sol, marche, haut, grand, destination
+l'été: chaleur, chaud, chauffage
+lareligion: religieux, dette, credo, favoriser
+image: portrait, peinture, image, photographier, photographique, laphotographie, photo, photocopie, dessin, casser, film, illustration, représentation, figue, figure
+échapper: fuir
+auteur: écrivain, maitressed'école, éditeur
+brun: gris, gris, bronzage, bronze, lechocolat, blé
+déterminé: détermination, décider, déterminer, précis, péremptoire, designer, spécifié, vérifier, stable, certain, décision, déterminant, fixé
+douleur: blesser, angoisse, douloureux, douleur, endolori, agonie
+leprintemps: laplume, notre, lesnotres
+doux: concessif, lisse, finement, soumissionner, avecdouceur, doucement, doux, fade, doux, délicat, inné
+coin: angle, large
+: , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , la, un, une, soumettre, renforcer, vérification, imperméable, extincteur, réceptionniste, crèmesolaire, présentateur, projecteur, plancheàroulette, électricien, cosmétique, centimètre, Bourse, hésitation, confirmation, taxi, cargaison, habituel, décontractée, danger, tailleur, violon, jardinier, Charpentier, vase, gomme, périodique, trottoir, ouragan, écharpe, pique-nique, vanille, badge, dessert, arc, éventuel, entrepôt, lacaissière, tampon, pâtisserie, bibliothécaire, gymnase, grue, chef, générique, nettoyeur, serveuse, conseiller, papeterie, massage, boulangerie, sedan, microonde, plombier, gril, courtierenvaleursmobilières, brochure, hamburger, réchauffeur, cosmétique, barbecue, pop-corn, réfléchi, logo, thon, apéritif, minuteur, pharmacien, banlieue, carton, plan, mallette, escaliermécanique, Maîtrenageur, -tête, Lave-vaisselle, sacàdos, fruitdemer, fauteuilroulant, passerelle, volley-ball, conditionneur, agrafeuse, sauna, check-out, toner, industrie, secouer
+produire: production, Générer, productif, fabriquer, fabrication, fabrication, surgir, cultures, produit, création, formation
+rire: plaisanter, rire
+oublier: négliger, nier, conscient
+Europe: 
+huit: huitième
+quipasse: par, par, passer, passantpar, passé, passage, Traversée, décalage, transition, rayon
+terrible: terrible, horrible, terriblement, effrayant, énorme, tragique, alarmant, effrayer, monstrueux, terriblement
+Saké: motif, faveur, faveur
+souffle: respiratoire, respirer, respiration, exhaler, ego, haleter, soupir, chuchotement, inhaler, renifler
+sage: raisonnable, sensible, discret, réfléchi, astucieux, intelligent, intelligent, mature, brillant
+possessifmarqueur: 
+agréable: plaisant, agréable, favorable, confortable, confortablement, intéressant, agréable, bien, aimable, magnifiquement, amusant
+àlaperfection: entièrement, pleinement, complètement, totalement, activement, parfait, vraiment, toutàfait, assez, exactement, absolument, absolu
+Mémoire: mémoriser, référence, Mémorial, trace
+latombe: Sérieux, sévère, fortement, lecimetière, critique
+moderne: contemporain, sophistiqué, moderniser, àlamode, récent, discours, dernier, Avancée, aujourd'hui
+endroit: point, point, heure, emplacement, tache, pièce, lieu, nullepart, locaux, lieu, site, locale, Localiser, signe, côlon
+briser: roder, frein, recours, salon, interruption, intervalle, écart, briser, briser, Arrêtez, pause, couperlaparole, agité
+île: 
+touche: contact, robinet
+égal: équivalent, même, similaire, avecraison, D'accord, d'accord, également, degré, par, identique
+rive: sauvegarde, bord, côte
+promesse: commettre, engagement, gage, rendez-vous, assurance
+commissivehumeur: 
+plan: schème, traiter, programme, programme, initiative, planificateur, plan, proposition, projet, terrain, esquisser, projection, disposition, appartement, dessin, conception, proposition, Planification, contemplation
+surprise: étonnant, inattendu, accidentel, surprenant, merveille, étonnamment, surpris
+minute: 
+coup: tirer, tournage, balle, munition, photographier, photo, coup, coup, coup, jeter, Cadre, coupdepied
+conduire: leadership, depremierplan, diriger, balle, conduire, guider, apporter, maigre
+verre: miroir, cristal, pot, deslunettes, page, exporter
+Conseil: dalle, conseil, enhaut, monter, balade, groupe, Comité, panneau, Conseil, bord, commission, tablette, édition
+exemple: Exemple, illustration, modèle, modèle, métaphore, prototype, comme, représenter, spécimen, cas, précédent, échantillon, paradigme, illustrer, Oui
+sûr: garantir, sécurité, Sécurité, sansencombre, confiant, Assurance, biensur, inoffensif, suppression
+docteur: médecin, thérapeute, praticien, médical, dentiste
+classe: aimable, orbite, lasalledeclasse, qualité, séparation, couche, Catégorie, rang, district
+complétifaspect: 
+répété: fréquemment, ordinaire, constante, constamment, detempsentemps, fréquent, defaçonrégulière, périodique, répétition, répéter, redoublement, révision, itération
+militaire: comté
+chaleureux: chaud, chaleur, chaleur, température, chauffage, gramme, moite
+boire: boisson, ivresse
+colère: encolère, rage, outrage, irriter, dépit, ressentiment, agacé
+directement: toutdroit, direct, indirect, automatique, simple, immédiat, redresser, immédiatement, verbal
+chapeau: bouchon, casque
+chien: 
+serviteur: intendant, serveur, serveuse, Femmedeménage, esclave, national
+fierté: arrogant, fier, fièrement, hubris
+foule: seruer, bondé, foule, montant, Quantité, population, hôte, pile, beaucoup, beaucoup, nombreux, sérieusement, ample, masse, troupeau
+entrainer: lechariot, voiture, wagon, Chariot, chemindefer, rail, éduquer
+moral: moralité, moralement, éthique, éthique, moral, spirituel
+grec: 
+s'adapter: costume, adapté, adapté, compatible, correct, pratique, approprier, correspondre, éligible, pertinent, accord, ajuster, exact, précis, coïncider
+Entrer: bûche, entrée, Etat, indiquer, insérer, comprendre, Inscription, enregistrement
+Règle: administration, domination, régime, jugement, verdict, jugement, arbitre, gouverner, loi, législation, norme, Etat, réglementer, règne, règlement, ordonnance
+épée: lame, couteau
+attaque: invasion, envahir, agression, infraction, agression, infraction, lagrève, début, offensive, raid
+lasanté: enbonnesanté, saluer
+paragraphe: verset, clause, grosmorceau, point, attitude, position,attitude, par
+social: société, socialement
+remboursement: répondre, répondre
+Pardon: leregret, pôle, Pardon, excuse, excuses, pitié, chagrin, souffrir, souffrance, douleur, angoisse, ledeuil, tristesse, faireledeuil, épreuves
+courage: cueillir, audacieux, confiant, nerf, courage, oser, courageux, navire
+officiel: formel, officiellement, officiellement, officier, employédebureau, bureaucratique, autoriser
+fourni: fournir, offre, fournir, introduction, disponible, lafourniture, disposition, répondre, si
+demande: prière, demande, revendication, exiger, exigence, enquête, enquête, rapide, offre, application, souhait
+coupd'œil: aperçu, vue, attitude, laperception, perspective, vue, Regarde, perceptible, regard, éblouissement
+propager: détail, sedéployer, extension, expansion, développer, répandu, prévalence, ladiffusion, dispersion, pénétrer, amplitude, circuler
+contraire: avant, opposé, contraire, opposé, contre, del'autrecôté, compteur, contrairementà, contredire, inverser, bascule, contre, opposition, anti, inverser
+douze: douzaine
+engagé: engagement, occupé, impliqué, participer, occupé, engager, plier, pragmatique, inverse
+duvin: alcool, alcoolique
+goût: saveur, saveur, délicieux, appât, zeste
+feràrepasser: acier, métal
+distribuer: transmettre, déployer, publier, édition, ladiffusion, circuler, Distribution, allouer, partager, diviser, Divisé, séparer, classer, distributif, distributions
+Commerce: commerce, Entreprise, Commerce, marchandises, Internet, bonneaffaire, transaction, commercialisation, commercial
+juge: jugement, jugement, arbitre, jury
+anxieux: urgence, urgence, concerné, alarmé, inquiet, anxiété, préoccupation, inquiéter, réfléchi, inconfortable, inquiétant, peur, vif, inquiétant, alarmant, enthousiaste, désireux, agité, inquiet, curiosité, troubles, angst
+capitaine: 
+cessationaspect: 
+étranger: àl'étranger, extraterrestre, étranger, exotique, inconnu, externe, étranger
+intensificateur: intensifier
+importance: nécessité, lapertinence, sens, importance, crucial, Accentuation
+enfin: auboutducompte, finalement, fini, final, ultime, Terminal, finement, fin, renverser
+prouver: preuve, confirmer, affirmer, démontrer, témoigner, comprendre, axiome
+empêcher: cesser, interdire, détenir, réprimer, restreindre, inhiber, bloque, retenir, dissuader, interdire, éviter, réprimer, suspendre, arrêt
+cou: gorge, article
+intéressant: amusant, amusant, divertissant, intéressant, séduisant, attirer, impressionnant, dessiner, appel, sedésister, passionnant, curieuse
+juridique: judiciaire, loi, légitime, Cadre, théorèmes
+sec: tige, lapoudre
+servez: service, gagner, répondre, offre
+preuve: évident, preuve, guider, indice, annuaire, afficher, témoin, évident, témoigner
+évidentcas: 
+loin: unmoyen, loin, de, àl'écart, portable, éloigné, distant, lepluséloigné, bannir
+progrès: foulée, progression, Développement, progressive, dudéveloppement, avance, procéder, amélioration, soulèvement, croissance, promotion, manière, processus
+étroit: mince, serré, court, confiner, agaçant, minimiser, limité
+bâtiment: construire, lastructure, construction, construction, locaux, squelette
+chercher: trouve, découvrir, Découverte, quête, détection, recherche, chercher, recherche, enquête, poursuite, enquête, enquête, enquête, exploration, invention
+triste: déprimé, Malheureusement, misérable, bouleversant, dérangé, remords, malheureux
+péché: culpabilité, Malheureusement, commettre
+malade: mauvais, endolori, maladie, patient, maladie
+honnête: sincère, fidèle, franchement, franc, toutdroit, malhonnête
+banque: banc, étain
+forêt: jungle, sylviculture
+mesure: jauge, lamesure, peser, mètre, mètre
+courant: écoulement, clause, actuel, électricité, flux, jet
+avecattention: étroitement, prudent, prudent
+pain: cuire, truie, sandwich, morceau, lapoêle
+supplémentaire: ensupplément, derechange, deplus, excès, surplus, plusloin, addition, supplémentaire, ajouter, annexe, supplément, latéral, prime
+choisir: choix, sélection, sélectionner, sélectif, choisir, élire, composerunnuméro, vote, examen, préférence, nommer
+animal: créature, neutre
+zoiclegenre: 
+eventivehumeur: 
+multiplicatifcas: 
+obtenir: Gain, acquérir, acquisition, recevoir, Obtenez, trouve, garantir, préserver, soutenir, dériver, rapporter, avoir, accomplir, accomplir, marier
+traverser: del'autrecôté, Traversée, passer, dépasser, pénétrer
+épais: obèse, épais, dense, graisse
+croître: cultiver, monter, croissance
+pluie: humide, chutedepluie, douche, précipitation, non, balai
+tranquillement: 
+surface: visage, niveau, avion, région, substrat
+saint: sacré, glorieux
+juillet: 
+mode: àlamode, manière, laméthode, approche, procédure
+rapport: détermination, déclaration, rapport, relation, relation, Juste, exposition, essai, exposition
+dossier: document, loge, profil, archiver
+épaule: arbre, axe, représentation, peigne, bras
+royal: impérial, lamonarchie, Royaume, empire, réal, réel
+chanson: régler, Piste, enchantant, poème, chanter
+confort: facilité, détendu, relaxant, encouragement, commodité, durepos, lesoulagement, établissement
+n'importequi: n'importequi, quelqu'un, Quelqu'un, personne, Toutlemonde, toutlemonde, quiconque
+herbe: foins, cannabis, herbe, pelouse, gramme, paille
+ouverture: préliminaire, initiale, Découverte, écart, fente, ouvertement, debonneheure
+juin: 
+poisson: aquarium
+capital: chapitre, fonds, atout
+Sein: coffre,poitrine, lait
+éducation: éduquer, cours, éducatif, alphabétisation, formation, entraînement, cultivé, académique, instruction, enseigner, enseignement
+pointu: brillant, féroce, strict, nettement, épicé, pointu, aigu, vif, croustillant, clairement, éblouissement
+frais: frais, dépense, Coût, édition, sortie, charger, dépenser
+latienne: votre
+million: millionième
+prier: demander, prière, mendier, emprunter
+fatigué: fatigue, fatigant
+tuer: meurtre, meurtre, éliminer
+ombre: ombre
+Masse: qualité, collectif, Quantité, masse, pluriel, lot, bosse, grappe, foule, infraction, pâte, Pâtes
+amisenplace: installer, solide, fermement, stable, création, mettreenplace, titulaire, fonde, établissement, formation, installer
+satisfait: heureux, lasatisfaction, contentement, contentde, satisfaire, satisfaisant, contenu
+vérifier: vérifier, Regarde, regarde, vérification, choix, examiner, inspecter, examen, tester, audit, check-out, intermédiaire, enquête, enquêter, vérifier, réviser, contrôle
+lavertu: lagentillesse, labonté, bienveillance, caractéristiques, attribut, trait
+d'or: blond
+nationale: nation, lanationalité, ethnique, national, nationaliste
+principal: premier, mot-clé, majeur, Principal, chef, depremierplan, agrafe
+vallée: bassin
+Devine: inférence, suspect, présumer, estimation, estimation, laprévision, prédire, prévoir, spéculer, Divin, conjecture, attendu, évaluation, évaluer, évaluer, approximation, prévisible
+spéculatifhumeur: hypothétiquehumeur
+jaune: pâle, ambre, blond
+restes: résidu, résiduel, restant, Restes, durepos
+courbé: courbé, courbe, tendance, tordu, pente, incliner, pliant, laperception, hypothèse
+boîte: valise, tiroir, fonds, trousse, peut, carton, poubelle, lacaissière, carré, tuile, lagrille
+saison: saisonnier, chapitre, station, ère
+lascience: scientifique, morphologie, linguistique
+Apparemment: évidemment, clair, évident, ouvertement, explicitement, soi-disant, clairement, évident
+ennuyer: trou, percer, terne, ennuyeuse, percer, ennuyer, forum, ennuyé, sightsee
+oncle: tante
+liste: indice, catalogue, catalogue, lemenu, Inscription
+août: 
+calme: silencieux, tranquille, paisible, silencieux, lent, détendu, immobilité, doucement
+populaire: prévalence, célèbre, important, populaire, depremierplan, anciencombattant
+inconnu: inconnu
+familier: connaissance, lignée, descendant, utilisé
+familierregistre: 
+enmarchant: marche, bandederoulement, procéder, unerandonnée, promenade, piéton
+deuxfois: double
+intellectuel: dérange, intelligence, mental, intelligent, psychiatrique, penseur, sagesse, spirituel
+prêtre: leclergé
+blessés: blessé, plaie, blesser
+palais: 
+battre: défaite, coupdepoing, gifler, frappe, claquer, lerythme, surmonter, lagrève, bit, lavictoire, gagner, gagnant
+fou: bête, ruse, tromper, Tricher, stupide, insensé, fou, fou, fou, tromper, ignorant, ignorant
+neuf: neuvième, neuf
+lasympathie: lacompassion, empathie, pitié, lamiséricorde, sympathique, compatissant
+éclater: explosion, explosion, exploser, fissuré, boom, convulsion, coup
+habillé: robe, robe, uniforme, vêtements, vêtement
+Littérature: littéraire, Matériel, tenue
+collection: concentration, accumulation, ensemble, groupe, combinaison, tableau, Galerie, suite, forfait, portefeuille, lasynthèse, répertoire, conclusion, conclure, inférence, collecte
+vide: blanc, vacant, tambour, loisir, nul, vide, vide, vain, nu
+tempête: ouragan, diriger
+poche: sac, paquet
+phrase: jugement, jugement, proposition, théorème, suggestion, proposition, Châtiment, conviction, phrase, condamner, dénoncer, peine, punir
+novembre: 
+décembre: 
+arriver: seproduire, occurrence, être, survenir, que, ni, nonplus, arriver
+absence: absent, l'absence, pénurie
+remercier: Reconnaissance, reconnaissant, remerciements, Jevousremercie, admettre, accuserréception, concéder, apprécier, auditeur
+série: chaîne, chaîne, tableau, séquence, ensemble, fairetourner, gamme, rangée
+adresse: trouve
+oiseau: vol, avion, jet, aéronef, avion, Compagnieaérienne, chouette
+manteau: robe, couverture, veste, fourrure
+préparer: prêt, préparé, organiser, préparation, formuler, prévu, prêt, désireux, réticent, craie, équiper, Générer, installer, construire, Créer
+rapidement: rapidement, vite, rapide, rapide
+fumée: fumeur, brûler, remettreàplustard
+janvier: 
+machine: machinerie, moteur, avion
+endéplacement: bougetoi, mobile, bouger, mouvement, mouvement, émigrer, cocher
+dents: dent, équipement, ce, pou
+honte: disgrâce, honteux, timide, embarrassé, embarrassant, embarras, nu, nu, insulter, outrage
+cerveau: cerveau, moelle
+bague: petit, composerunnuméro, boucle, boucle, pneu, pneu
+phrasemarqueur: 
+compréhension: comprendre, compréhension, sens, saisir, empathie, connaissance, apercevoir, perspicacité, laperception, conscience
+fruit: résultat, conséquence
+thé: aspirer, voiture, quadratique
+Explique: explication, illustrer, express, articuler, déclarer, clarifier, interpréter, commentaire, interprétation, décrire, descripteur
+Bienvenue: salutation, réception, divertir, Hey, salut, saluer
+poésie: poème, verset, municipal, heure
+Acheter: achat, acquérir, offrir, marché, boutique, àbonmarché, investir, courses
+fidèle: malhonnête, fidèle, fidèlement, dévoué, Corriger, fiable
+excitation: stimulation, excité, agitation, tension, provoquer, joie, éveil, chassed'eau, enthousiasme, zèle, enthousiaste, urgence, lasensation
+avril: 
+octobre: 
+amer: épreuves, agonie, angoisse, amèrement, souffrance, douloureux, piquer, écrit
+envrac: indépendant, librement, résoudre, résoudre, vacant, enliberté
+envoyerdestextos: formulation
+pire: mal, pire, rugueux, négatif, méchant, dépit, laplupart, leplusélevé, leplusbas, ordures, poubelle, desdéchets
+crédit: hypothéquer, cartedecrédit, dette, prêter, emprunter, prêt, prestige, validité, lacrédibilité
+fonctionnalités: Composants, lesfonctions, aspects, fonctionnalité
+capable: activer, compétent, capable, capacité, capacité, incapable, potentiel, offrir, qualifié, talentueux, compétence, efficacité, compétence, habile, Efficacité, utile
+quinze: 
+cruel: féroce, dure, méchant
+Joindre: participer, assister, impliqué, embarquer, adhérer, participant, participation, unir, brancher, nouveauvenu, intégrer
+lacriminalité: culpabilité, infraction, infraction, criminel
+poussière: barrage, lapoudre, saleté
+pratique: fonctionnel, pragmatique, pratiquement, pratique, pratiquement, pratique, appliqué
+Couleur: Couleur, peindre, colorant, pâle, coloré, coloré, chassed'eau, rue, codage
+détruire: épave, saper, sabotage, dégrader, démolir, écraser, briser, ruiné, confondre, effacer, nier, destruction
+augmentation: procéder, améliorer, leMont, augmenter, ajouter, insérer, croissance, agrandir, unerandonnée, renforcer
+nez: bec
+amicale: adapté, favorable, conforme, gentiment, sincère, allié, relationamicale, aimable
+hier: demain, aujourd'hui
+hesternaltendu: 
+échouer: échec, infructueux, défaite, incapable, confondre, décevoir
+Continue: procéder, continu, persistant, continuation, constamment, persister, allouer, tenir, enavant, brancher, commencer, effectuer
+retirer: débarrasser, sedésister, éliminer, élimination, essuyer, effacer, effacer, abolir, soustraire, dessiner, tirer, expulser, absorber
+porter: porter, porter
+aveugle: 
+Voler: envolant, saut, vol, aviation
+louange: admiration, admirer, réputation, mérite, féliciter, félicitation
+mission: 
+sacrifice: victime, proie, victime, péage
+exercice: fairedesexercices, affectation, entrainetoi, entrainetoi, sport, aptitude, répétition, percer, mouvement, mouvement, campagne, athlétique
+conscience: pronom, conscience
+théorie: principe, théoricien, théorème, théorique
+ministre: 
+haine: méchant, dégoûtant, haine, aversion, préjudice, rancune, ressentiment, dégoûté, répugnance
+Lac: simple
+centre: central, centre, station, quartiergénéral, milieu
+perdreconnaissance: inconscient, désespoir, désespéré, faible, pâle
+rationnellegenre: 
+bref: brièvement, acronyme, court, d'icipeu, carte, compact, aperçu, économique
+culte: rituel
+desbiens: produit, cargaison, article, marchandises, marchandise, destrucs, fret, centrecommercial, fixation
+lapeau: cuir, absorption, écorce, coquille, peler, fourrure, zeste
+toit: terrasse, plafond, couvrant, couverture
+couronne: 
+Château: cage, bloquer, nomdefamille
+trône: 
+attaché: engager, conditionnel, joindre, connecté, dépendant, associer, paire
+mile: tendance, pente, maigre, pente, prêt
+prison: prison
+complètement: Hébien, confortable, correctement, doucement, approfondi, assez, entièrement, toutàfait, complètement, équitablement, totalement, pleinement, absolument, purement, exactement, précisément, avecprécision
+gobelet: agresser
+membre: organe, adhésion, membre, initié
+civil: national, citoyen, civique, civil
+partout: toutaulongde, quelquepart
+seconformer: exécution, exécuter, imposer, correspondre, accompagner, rencontrer, obéit, contenu, satisfaire, adhérer, assujettir, conformité
+tandisque: Pendantque, bienque, toutefois, bienque, Néanmoins, alorsque, toutefois
+levolume: beaucoup, ampleur, montant, relativement, quantitatif, bloque, module, masse, circonférence, couverture, Taille, continent, clause
+coutume: client, optionnel, costume, entrainetoi, habitude, habitué
+arc: cambre, arc, oignon, courbe
+viande: lachair, duboeuf
+végétallegenre: 
+peufréquent: rarement, àpeine, rarement
+cousin: relatif
+pont: qualité, pont, jambe, piscine
+protéger: laprotection, préservation, garde, bouclier, défendre, préserver, maintenir, conserver, garantir, ladéfense, ladéfense
+dusel: exagéré, exagérer, salé, marin
+innocent: nettoyer
+reine: 
+danse: tambour, danser, saut, sauter
+hôtel: hébergement
+remplir: contenu, Contenu
+prisonnier: condamner
+escaliers: escalier, escalier, échelle, tiroir
+gai: homosexuel
+lesable: 
+violent: laviolence, féroce, turbulent, formidable, sévère, fort, intense, vigoureux, sauvagement, intensif
+septembre: 
+seruiner: destruction, subversion, dommage, gâcher, catastrophe, débris, épave, démolir
+bovins: vache
+équipement: appareil, dispositif, papeterie, trousse, équipement, tenue, tacle, établissement, fixation
+perçue: laperception, aucourant, apercevoir, reconnaître, reconnaissance, conscience
+nullepart: quelquepart, partoutoù, nullepart, ailleurs
+cuisine: cuisine, cuisinière
+vendre: vente, semi, levendeur, trahir
+larapidité: vitesse, rythme, élan, nettement, dynamique, mouvement, accélérer
+l'ordinateur: l'informatique
+éternel: toujours, pourtoujours, infini, permanent
+bibliothèque: bibliothécaire, bibliothèque
+confusion: désordre, lechaos, agitation, déroutant, confus, anarchie
+article: essai, article, section, clause, diamètre, ingénieur
+cuire: chef, cuisine, cuire, bouillir
+bande: ceinture, ruban, bande, labrigade, groupe, bande, bande, zone, brin, bouquet, grappe, voie
+désert: désert, déserté
+baiser: 
+delaglace: crèmeglacée, bande, neige
+balle: caoutchouc, sphère, balle, obliger, bébé, pilule, vide, livraison
+bâton: stock, canne, adhérer, bois, bois, chauvesouris, signal, employés, pôle
+argument: logique, bougetoi, controverse, discussion, débat, différend, tract, affirmation, question, lesquestions
+observer: inspecter, examiner, Explorer, enquêter, observation
+bénédictionhumeur: 
+frappant: exceptionnel, étourdissant, lagrève, considérable, important, substantiel, perceptible, impressionnant, surprenant, étonnant, remarquable
+coupable: culpabilité, devoir, offenser, délinquant, condamner, condamner
+pistolet: fusil, arme
+police: imposer, superviser
+cacher: sécréter, déguisement
+expédition: campagne, conduire, voyage, voyage, voyage, tour, croisade
+nuage: cyberespace
+déchets: inutile, inutile, refuser, refus, rejet, desdéchets, ordures, poubelle
+février: 
+maladie: maladie, maladie, coronaire, satisfaisant, satisfaisant, syndrome
+initiativecas: 
+universel: 
+biens: Hébien, plantation, atout, laterre, propriété, lapossession, fortune, richesse
+humble: défaite, modeste
+retard: remettreàplustard, enretard
+différéimpératif: 
+signaléévident: 
+malheureux: malheureusement, malchanceux, coïncidence, malheureux, misérable, inadéquat, incongru, inapproprié
+minuit: lenord
+héros: guerrier, champion
+doigt: doigtdepied, chiffre
+Appuyez: médias, magazine, journal, impression, type, formule, pousser
+récompense: prix, cadeau, prix, prime, compensation, compenser
+fairedesreproches: faute, défaut, défaut, dette, culpabilité, snober, poursuivre, responsabilité, laresponsabilité, accuser, alléguer, condamner, dénoncer
+lamisère: épreuves, souffrance, angoisse, misérable, ennui, souffrir, douleur, ironie
+front: 
+und: publicité, Lapublicité, delapublicité, annonce, annonce, publicité, avis, déclaration, à, pour, déclaration, affirmation, promotion, promouvoir
+l'ange: propriétaires, Fée, dure, rusé, Messager
+célébrité: gloire, réputation, rumeur, rumeur, Lapublicité, publicité, prestige
+singuliernombre: 
+aube: crépuscule
+pardonner: excuse, Pardon, tolérer, exempter, soulager, rejeter, lepardon
+lemouton: agneau, chèvre, montant, positif
+résolution: résoudre, Solution, décision, conclusion, uneanalyse, panne, panne, détermination, sedésintégrer
+lapatience: courage, abstention, patient, Jesuispatient, tolérant, tolérance, retenue
+référentielle: référence, référer, spécifier, directif
+blé: blé, Corne, grain
+clé: liaison, bouton, interrupteur, Principal, vital, important, sensible, majeur, niche, courantdominant, indice, que
+majorité: beaucoup, laplupart
+ignorance: ignorant, ridicule, stupide, ignorant, pouce
+lafaiblesse: incapacité
+leprofit: avantage, Gain, avantage, viable, lavictoire, bénéficiaire
+cloche: alarme, horloge, heure
+atmosphère: Environnement, ciel, aviation, spatial, climat, alentours
+humanité: Humain
+disque: disque, tranche, compteur, cylindre, assiette, enregistrement, plateau
+solitaire: ensolo, solitude, séparément, unique, simplement, silencieux, déserté
+artiste: interprète, peintre, artiste
+charme: charismatique, attraction, lamagie, épeler, esthétique
+esclavage: esclave, liaison
+gouverneur: conservateur, règle
+branche: 
+disposition: arrangement, configuration, tendance, tendance, disposition, disposition, humeur, calendrier, calendrier, résidence, destination
+lachance: fortune, lesort, chanceux, bonheur, chance, chanceux
+dérivé: Obtenez, recevoir, dériver, rapporter, accomplir, récupérer
+inductifhumeur: inférentiellehumeur, déductifhumeur
+Communauté: société, Catégorie, personnes
+huile: graisse, carburant, fossile, moelle, thermique, beurre
+tuyau: tube, robinet, robinet, caca
+impression: édition, pression, impression, axe, moule, impression
+Oh: Ya, tableau
+discourslecontexte: 
+vocatifcas: 
+cabine: chalet, tente, loge, chambre, cellule, compartiment
+nerveux: tendu, confus, déranger, dérangé, embarrassé, inquiétant, harceler, bouleversant, neural, inquiet, nerf, fort, puissant, intensif
+distinction: respectivement, différemment, variations, ladiversité, différer, distinguer, écart, différencier, différence, contraste, variation, variance
+fardeau: apercevoir, charge
+soie: saisir, poignée
+mépris: mépriser, haine, aversion, dégoûter, répugnance, snober, insulter, outrage, négligence
+enfer: 
+séparé: séparé, decôté, àl'écart, distinct, différer, séparément, distant, discret, isolement, ostracisés, délimité, séparation, distinguer, isoler, disjonction
+mixte: mélange, combinaison, composite, mélanger, mixte, lafusion
+enbois: bois, bois
+traiter: traitement, thérapie, guérir, processus, considérer, thérapeute, remédier, traiter, guérir, secomporter, aide, menton, mâchoire
+avertissement: prudence, prévenir, alerte, Mémorial, avis
+admonitionhumeur: 
+ambition: Déçu, déception, luxure, décourager, ambitieux
+rendement: Efficacité, reproduire, Revenu
+enquelquesorte: quelquepeu, quelquechose
+Conseil: consultant, Conseil, conseiller, consultation, Conseil, pointe, avocat, mandataire, avocat
+constitution: charte, constitutionnel, incident, occurrence
+instrument: outil, navire, entité, organe, récipient, utilitaire, dispositif
+stable: stable, stabiliser, ordinaire, defaçonrégulière, fixé, constante, constamment, continu, durable, Standard, statique, réparer, cohérent, permanent, stationnaire, détendu
+éléments: facteurs, élément, composant, ingrédient, Composants, essence, allié, facteur, paramètre
+continuaspect: 
+enligne: 
+marée: vague, casser
+Université: lafaculté, académie, lacitéuniversitaire, université
+queue: queue, sentier
+génération: descendant
+chat: 
+directévident: 
+abandonné: lanégligence, abandonner, déserté, cesserde, abandonner, dissoudre, annuler
+onze: 
+instinct: spontané
+tribu: tronc, tige, charge, l'absence, manque, carence, déficit, pénurie
+inquiethumeur: 
+abri: recours, résidence, règlement, habitat, Résidentiel, laprotection, dortoir, asile, port
+grossier: grossièrement, rugueux, méchant, dur
+équitation: balade, cavalier
+métier: professionnel, carrière, occupation, professionnel, professionnel, Entreprise
+lampe: bougie
+café: café, suffisant, suffisamment, adéquat
+infirmière: lasoeur
+assurer: assurance, mandat, gage, unegarantie, assurer, assurer, vérifier, confirmer, fournir, répondre, biensur, convaincre, affirmer, garantir, palladium
+chaussures: chaussure, sandale
+équipage: employés, troupeau, équipe, bouquet, personnel
+cour: code, page, cour
+vague: ambiguïté, obscur, ambigu, pasclair, mystérieux, incertain, indéfini, vague, vacant, inintelligible
+appartement: appartement, cercle, compartiment, suite, wagon
+activité: transaction, fonction, opérations
+samedi: findesemaine
+titulaire: 
+ensoleillement: solaire, crèmesolaire, briller, lalumièredujour
+veuve: 
+Communication: contact, correspondance, communicatif, communiquer, interaction, interagir, relation, rapporter, relation, corrélation, lapertinence, avis, annonce, transaction, pulvérisation, professionnel, dialogue, interface, dialogue
+réflexion: contemplation, réflexe, imagination
+organisation: tissu, organisation, organiser, tenue, corporation, utilitaire, agence, entité, système, lastructure, texture, disposition, institution, institut, association, raffermir, entreprise, Compagnieaérienne, organisé
+lavedette: 
+client: inconnu, visiteur, extraterrestre, étranger, nouveauvenu, client, client, hôte
+bar: nu, pub, charge, cargaison, fret, café, baryum, bande, bandage, ceinture
+bouteille: pot, maladie
+bénir: bénédiction, saluer
+mélanger: manipuler, mélanger, évoquer, émeute, exciter
+querelle: variance, différend, bataille, litige, Soutenir, désaccord
+interne: dans, àl'intérieur, intérieur, interne, locale, national, intérieur, mental, initié, Principal, majeur
+larésistance: opposition, opposé, protestation, résistant, anti, ressentiment, objection
+creux: plaine, nu, blanc, câble, trou
+Province: provincial, district, comté, graisse
+civilisation: Culture
+Accrocher: superviser
+choc: coup, traumatisme, choquant, choc, impact, étourdir
+exception: partiel, discrimination, stéréotype, exemption, conflit, exceptionnel, exempter, déduction
+fatigue: stress, tension, charge, fatigue, effort, intensité, embrasse, racial, ethnique
+auvolant: conduire, chauffeur, guider, balade
+jurer: assermentation, gage
+trésor: bijou
+graine: sperme, noix, particule, M
+latour: 
+préféré: préféré
+récemment: récent, fraîchement, nouvellement, aujourd'hui, après
+éveillé: conscient, moral, réveiller, alerte, exciter
+meubles: 
+corde: corde, chaîne, sangle, lier
+aventure: entreprise, danger, pari
+royauté: règne
+lebanquet: fête, fête, banquet, jourférié, dîner
+annuel: an, annuellement
+échelle: Cadre, cadre, jauge, rapport, échelle, escalier, escalier, Taille, critère, dimension, niveau, ampleur, proportionnel
+parconséquent: conséquence, donc
+fondation: base, base, basé, fondamental, primaire, élémentaire, noyau, debase, peuprofond, étudiant, terrains, Plate-forme, fondations, fondamentalement, sous-tendre
+cérémonie: rituel, fonction, fête, concert, formule, conscience
+chasse: chasse, victime, proie, chasse, tournage
+libéral: généreux, enliberté
+engrandepartie: substantiellement, significativement, laplupart, principalement, principalement, considérablement, largement, principalement, initialement, essentiellement, fondamentalement, deplusenplus
+Princesse: fille, lamariée
+autel: sanctuaire
+toile: réseau, net, lagrille, tissu, Toile, tricot
+mauve: magenta
+recueillir: collecte, accumuler, rétrécir, composerunnuméro, Restes
+élection: choix, élire, sentier, sondage, baleine, sélection, sélectif
+ivre: alcoolique, ivresse
+verser: renverser, cabanon, répandre, renverser
+ascenseur: ascenseur, élever, soulèvement, augmenter, unerandonnée
+geste: signe, signal, symbole, symbolique, attitude, posture, Conseil, indication
+gérer: lagestion, superviser, manipuler, administration, gouverner, diriger, contrôle, fonctionner, voudrais, organiser, organiser, configurer, effectuer, maintenir
+échange: échanger, réciproque, échange, remplacement, commutative, devise, monétaire, alterner, transplantation
+précisarticle: 
+empereur: monarque
+terminer: fini, fin, fin, plâtre, plusde, décoration, conclusion
+laid: méchant, dégoûtant, gai, agréable, amusant
+véritable: vrai, réal, réel, virtuel, exact, original, originairede, inné, indigène, certain, confiant, colonne, sincère
+pouce: douane, pouce
+barbe: menton
+larme: arracher, érosion
+résister: anti, opposition, contraste, protestation, contraire, s'opposer, couperlaparole, opposé, refuser, rejeter, opposé, objet, supporter, hostilité, contradiction
+marchande: revendeur, hommed'affaires, marchandises
+indépendance: indépendant, liberté, enliberté, liberté, autonomie, libération
+odeur: duparfum, saveur, saveur
+dix-huit: 
+historique: historiquement, histoire, historien, historique
+brut: letotal, agrégat, sale, brut, brut, éveil, macro, désireux, sévère, intense, point, Globalement
+racine: tige, fraîchement, route, original, origine
+boue: sol, vase, argile, saleté, unefleur
+simplicité: facile, humilité
+voile: rideau, voile, voile, écran, membrane
+lethéâtre: lethéâtre
+comparaison: comparer, comparatif, corrélation, rapport, affrontement, comparable
+composition: composant, lastructure, formation, construction, constituer, construction, organiser, configuration, configurer
+rival: adversaire, dissident, compétition, compétitif, rivaliser, concurrent, compteur, contradictoire, anti
+prendreconsciencede: accomplir, reconnaître, reconnaissance, identifier, diagnostiquer, ignorant, exécuter, ressentir, apercevoir, comprendre, saisir, accomplir, mémoriser
+équilibre: équilibre, également, égalité, horizontal, proportionnel, par, budget
+entraîneur: entraîneur, praticien, tuteur, mentor
+humour: humour, humoristique, humeur, comédie, blague
+roman: lafiction, neuf, nouvellement
+vengeance: rancune
+Ressources: atout, lasource, Ressource, veuxdire, lafourniture
+jaloux: jalousie, envie
+laroue: bicyclette, cercle, cycle
+brûlé: brûler
+flash: foudre, lueur, briller, lampedepoche
+suggérer: suggestion, recommandation, proposer, recommander, proposition, désigner, impliquer, retourd'information, indiquer, proposition
+imprecatoryhumeur: 
+sansdéfense: 
+groupes: groupe, pont
+club: chauvesouris
+inonder: submerger
+jouissance: prendreplaisir, plaisir, joie, délice, bonheur, contentde, heureux, Enchanté, acclamation
+indifférence: apathie, négligent, lanégligence, ignorer, négliger
+horizon: 
+présuméhumeur: hypothétiquehumeur
+raide: élévation, perpendiculaire, beaucoup
+harmonie: compromis, régler
+enfance: 
+legenou: tour
+mutuel: l'unetl'autre, réciproque, commun, mixte, interaction, interactif
+logiciel: application, répertoire
+blessure: blesser, nuire, dommage, blesser, plaie, traumatisme, blessé, violation
+lereçu: recevoir, entrée, réception, admission, acceptation, bon
+discipline: assujettir
+glisser: glissant, diapositive, volplané, gaffe
+révolution: révolutionnaire, coup, rotation, révolte, larébellion
+fermier: paysan
+accidentvasculairecérébral: coup, coup, seruer, brouiller
+privilège: privilégié, préférence, quota, franchise, offre, Concession
+élève: élève, savant, étudiant, académique
+lagrotte: 
+tradition: traditionnel, traditionnellement, douane, abandoner
+latragédie: épidémie, tristesse, paradoxe
+auberge: pub
+vierge: Femmedeménage
+adieu: AuRevoir, adieu, aurevoir
+lacritique: critiquer, lacritique, larevue
+coton: lalaine
+hôpital: asile
+location: aller, louer, Impôt, hommage, bail, employer, engager, loué, charte
+gaz: 
+inévitable: inévitablement
+mortel: vital
+feuille: feuille, lame
+publication: publier, édition, impression, proclamer, diffuser, Libération, sortie, ladiffusion, annoncer
+Traduction: Traduire, Traduire, interprétation, épidémie, transfert, version
+plage: brin, côte
+funérailles: enterrement, lecimetière, enterrer
+farine: lapoudre, pâte, exact, exacte, précis, repas
+rugir: dramatique, cri, bruit
+romantique: taille, hanche
+cabane: chalet, loge, cabanon
+mimétique: 
+dollar: 
+seize: soixante
+Assemblée: réunion, conférence, congrès, configuration, rassemblement
+colonie: 
+aile: quartier, suite, membre, ailette, vol, aviation
+Lion: 
+ruse: rusé, ruse, habile, astucieux, diplomatique
+comédiedramatique: fairesemblant, dramatique
+brouillard: brouillard
+hypertexte: lienhypertexte
+médicament: drogue, remédier, pulvérisation, ordonnance
+quatorze: sanspourautant, exclusif, sinus
+acide: acide, acide, Montagne, leMont
+àsavoir: quelconque, c'estàdire.
+utilisateur: bénéficiaire, consommateur
+évêque: 
+Orange: 
+bain: salledebain, douche, baignoire
+dérivé: composé, transcription, dériver
+primitif: debonneheure, initiale, ancien
+panier: poubelle, sac, basket
+unsecrétaire: éditeur
+salut: sécurité, libération, salut, lessecours, larécupération, récupérer
+aujourd'hui: 
+hodiernaltendu: 
+avoirl'intention: prévu, intention, intéressé, vif, motif, réticent, consacrer, consacrer, détermination
+vapeur: 
+poison: toxique, toxique, herbicide, poisson
+Talent: éclat, talentueux, qualification, capacité, répertoire
+efficace: valide, efficacement, efficace, efficacité, influent, utile, actif, disponible, impressionnant
+lavage: lalessive
+confession: accuserréception, credo, reconnaissance, admission, revendication
+absurdité: ordures, déraisonnable, incongru
+charbon: carbone
+vice: associatif, adieu, adjoint
+temporaire: intervalle, durée, temporel, décontractée, accidentel, minuteur, Pendantque, contemporain
+delimitativeaspect: 
+OS: jambe, fracture, squelette
+Lundi: 
+Mardi: troisième
+Mercredi: Quatrième
+fédéral: fédération, central
+souhaitable: séduisant, favorable
+représentant: représenter, nom, déléguer, mandataire, adjoint, porte-parole
+lin: sous-vêtements
+lavabo: noyer, bassin, zinc, synchroniser
+neveu: lanièce, petitfils, petitenfant
+siège: entourer, siège
+estomac: ventre, abdominal, matrice
+sommet: pic, haut, pointe, convention, crête
+exclusiflapersonne: 
+s'emparerde: tacle, confiner, détenir, réservation, arracher, occupé, occuper, mettreenfourrière, saisir, saisir, apercevoir, Obtenez, affirmer, possession
+clôture: haie
+statue: sculpture
+luxe: 
+artillerie: seraser
+arrêter: capture, capture, détenir, fixer, arrêt, conception
+pack: parcelle, paquet, forfait, emballage, empaqueter, fermé, fermer, emballage, conditionnement
+environnant: autour, quartier, voisin, voisin, quartier, périphérique, alentours, adjacent, complet, Environnement, écologique
+strictement: strict, cohérent, avecprécision, serré, sévère, assurément, absolument, certainement,vraiment,définitivement, fermement, dur, biensur, exactement, précisément
+reste: durepos, restant, passé, Restes
+cerf: 
+buisson: 
+chemindefer: chemindefer, rail
+décharge: libération, décharger, Libération, renoncer, expulser, émettre
+héritier: hériter, posséder
+chêne: 
+désagréable: délice, plaisant, inquiet, agacé, bouleversant, méchant, inconfortable
+piano: 
+persuader: convaincre, célébrer, commémorer
+invisible: mystérieux, disparaître
+bienconnu: célèbre, célèbre, important
+cruauté: 
+tentation: tenter
+téliqueaspect: 
+international: mondial, multinational
+interférer: ingérence, intervention, intervenir, déranger, embêter, inquiétant, couperlaparole, ennuyer, irriter, harceler, choc, agaçant, laisser, perturbation
+subtil: micro, ruse, artisanat, délicat, lisse, finement, amende, mince, discret, doux
+philosophe: philosophique
+élégant: àlamode, délicat, formidable, excellent, remarquable, glorieux, incroyable, fantastique, catégorique, phénoménal
+aidesociale: bienveillance, laprospérité, disposition
+fairedelapêche: 
+voler: vol, voler, vol, swipe, plagier, maltraiter
+lèvre: bec, oral, bord
+seretirer: laretraite, retraité, retraité, battreenretraite, durepos, loisir, sedésister, Pension
+économie: économique, économiquement, économie, récession, économie, Ménage, économiste
+étendue: redresser, sedéployer, tract, trait, pièce, passage, fragment, grosmorceau, segment, proportion
+parallèle: auxcôtésde, compatible, associer, affixe, horizontal
+atéliqueaspect: 
+prohibitifhumeur: prohibitifhumeur
+cravate: aigle
+œuf: 
+artificiel: synthétique
+inspiration: motif, motivation, impulsion, inspirer, remue-méninges, encouragement, induction, stimulation, stimulus, motiver
+pendantcetemps: simultanément
+crise: danger, marasme, jugement, jugement, urgence
+poli: courtoisie, cultivé, éthique
+joint: timbre, impression, impression
+déjeuner: déjeuner, dîner, ranch, repas, dîner
+endépit: dépit, bienque, bienque
+paysage: scénario, alentours, Environnement, lecontexte, écologique, campagne, Naturel, vue, lavision, perspective, perspective
+artistique: art, oeuvre
+alliance: union, ligue, coalition, combiner, Partenariat, constellation
+maximum: maximiser, extrême, ultime, laplupart, que, plusde, dépasser
+miracle: merveille
+cuivre: bronze
+pureté: chasteté, précision, précision
+république: ladémocratie
+téléphone: téléphone, mobile
+fouet: sangle
+chemise: T-shirt
+présenter: introduction, présentation, mettreenplace, lancer, rendre, disposition, recommander, renvoi, injecter, livrer, livraison, représenter, représenter, contact, insérer
+canapé: fauteuil
+balayage: essuyer, balayage
+voleur: 
+canal: drain
+réforme: amélioration, correction, évolution, modifier, amendement, affiner, révision, mettreàjour
+lasoif: assoiffé
+menaçant: menace, menacer, effrayant
+paume: 
+encourager: encouragement, inspirer, conduire, pousser, promouvoir, motivation, exhorter, acclamation
+desenceintes: porte-parole, Maîtredeconférences
+auseuil: entrée, admission
+induire: hall, exhorter, cause, prévenir, exciter, pose, tenter, évoquer, tremper, dériver, induction, affixe
+soigné: bienrangé, nettoyer, bien, formidable, chic, magnifiquement, bien
+session: réunion, conférence, semestre
+torture: souffrance, angoisse, laviolence, grille, conseiller
+humide: saleté, humide, moite
+voyageur: visiteur, voyageur, touristique, passager, voyage, Voyage
+moulin: usine, fabrication, plante, robinet, Brasserie, blé
+carte: carte, diagramme, graphique, aller, billet, symbole, icône, leadership
+Fontaine: lasource, cascade, fraction
+collier: entourer, zone
+remplacer: remplacement, déplacer, derechange, alternative, remplacer, substitution, déplacement, modifier, varier, modifier, sous, modifier, interrupteur, soulager, adapter, compenser
+délibérément: intentionnel, délibérer, aucourant, conscient, téléologique, accidentel
+bière: pinte
+envelours: 
+positivement: positif, activement, faveur, faveur, entièrement, totalement
+lagravité: attraction, écraser, sérieusement
+sermon: prêcher, discours, conférence
+partenaire: bonhomme, associer, copine, petitami, paire, camarade, commun, mixte, actionnaire, collègue, époux
+abuserde: erroné, àtort, mince
+troupeau: groupe, troupeau, essaim, magnat
+treize: 30
+justifier: mandat, plaider, avocat, justification, justifiée, légitime, ajuster
+manuscrit: facture, scénario, demandeur
+Vendredi: argent, Vénus
+brosse: peigne
+Télécharger: télécharger
+crème: crèmeglacée
+monstre: géant, monstrueux
+congelé: gel
+pot: lapoêle, vase, pot, récipient, cuisinière, tapoter, navire
+riz: 
+comportement: comportement, comportementale, personnage, habitude, caractéristiques, tendance, conduite
+piècedemonnaie: devise, penny
+revenu: Revenu
+insister: bruyant, poussée, affirmer, souligner, mettreenrelief, persister, insistance, exiger, Accentuation, traction, souligné, Soutenir, alléguer
+saut: 
+pomme: excuses, s'excuser
+discuter: discussion, négocier, Soutenir, hacher, parler
+arrière-plan: 
+transcrire: adapter, récrire, simuler
+Divertissement: récréation, artiste, loisir, divertissant, divertir, amusant, Loisir, relaxation, amuser, hospitalité
+virus: 
+puéril: soprano
+peignoir: vêtement, robe, robe, uniforme, tenue, garde-robe
+réfléchir: contemplation, méditation, méditer, faireapparaître, projection, représenter
+convertir: modifier, transformer, interrupteur, mutation, transition, transformation
+contour: profil, contour, résumé, esquisser, exposer, aperçu, Brouillon
+opéra: 
+coude: support
+attachement: annexe, connexion, pièce, lien, connecteur
+réparation: restauration, amélioration, reconstruire, correction, modifier, amendement
+poing: coupdepoing, poignée
+méfiant: soupçon, suspect
+écriture: Bible, typographie, scénario
+fosse: trou, lesfouilles, piscine, fossé, bore
+trouble: lechaos, anarchie, troubles, perturbation, désordre, bouleversant, ingérence, faute, obstacle
+applaudissements: taper, applaudir, approbation
+binaire: dyadique
+uneabbaye: monastère
+flèche: 
+avoirtendance: assujetti, Engénéral, normalement, orientation, beaucoup, consister, défendre, tendance
+élaborer: détaillé, définir, clarifier, développer, compliqué, rusé, fairedesexercices
+fidélité: dévoué, fidèle, confiance, fidèlement, franchement, méfiance, lacrédibilité, foi, croyance
+trembler: frisson, vibration
+exilé: tirer, àl'étranger, asile
+mécanique: machinerie, mécanicien, mécanique, ingénieur
+avecsuccès: bien, réussir, infructueux, résultat
+piège: poignée, condamner
+gâteau: pâtisserie, tarte, biscuit, pâte
+Monsieur: M, Monsieur, Seigneur, gentilhomme
+hésiter: hésitation, frappe, hanter, lafréquence, flotter
+dix-sept: 
+féminin: féminin, femelle, Dame, délicat
+miel: 
+enjeu: pari, proportion, pile, partager, fraction, contribution, pari, actionnaire
+brique: tuile
+légende: mythe
+récolte: surgir, cultures
+poêle: cuisinière, dalle, four, cheminée
+rebelle: révolte, larébellion, coup
+démodé: ancien
+segonfler: gonfler, gonflé, inflation, gonflement, agrandir
+améliorer: augmenter, améliorer, réparer, remédier, guérir, guérir, amélioration, ajouter, ajouter, circuler
+bol: 
+regard: réparer, regard
+industriel: fabrication, industrialisation, industrie
+pansement: lasauce, bandage
+thème: sujet, motif, assujettir, problème, motif
+ascétique: 
+gérante: intendant, chef, patron, administrateur, directeur, modérateur, guide, exécutif
+traînée: dessiner, tirer, transporter, sedésister, révoquer, lesciseaux, traction, tiroir, drogue
+Chorus: conduire
+rationnel: justifiée, logique, logique, déraisonnable, sensible, raisonnablement, raisonnable, apparent
+Entraitement: modifier, processeur, processus, processus, procédure
+loup: 
+tapis: couverture
+antiquité: ancien, ère
+fertile: fourier
+sifflet: flûte
+dufromage: 
+mordre: côtelette, tailler, piquer, morceau, siroter, nuire, privation
+Cathédrale: 
+errer: promenade, émigrer, unerandonnée, partir, Distorsion
+marine: Marin, flotte
+masque: façade, ver
+crayon: Stylo
+légume: végétarien
+pantalon: pantalon, unpantalon
+lacorruption: scandale, lapollution
+cabinet: placard, placard, garde-robe, toilette
+lepotage: 
+chirurgien: chirurgie, chirurgical, opération, analyste
+allocation: remplacement, remplacer, compensation, apposition, allocation, annexe
+espion: apercevoir
+téméraire: négligent, désordonné, négligence, déraisonnable
+potins: rumeur, rumeur, bavarder
+systèmes: système
+jeton: 
+abstrait: résumé, programme
+accent: prononcer, prononciation, dialecte, Accentuation
+sincèrement: franchement, sérieusement, sincère, fidèlement
+approuver: adopter, autoriser, approuvant, confirmer, affirmer, consentement, approbation, approuver, Acceptez, subvention, favorable, sanction
+architecture: lastructure, construction, texture
+fissure: fente, fissuré, partir, cesserde, fracture
+chaussée: freiner, pas, vase, trottoir, passerelle, conditionnement
+décisif: crucial, vital, déterminer, décider, péremptoire, attribuer, spécifier, final, critique, coup
+négatif: négatif, ledéni, négation, nier
+Festival: concert, Épiphanie, fête
+trahison: 
+chasseur: prédateur
+serpent: reptile
+labatterie: 
+détective: déduction, enquêteur
+baignade: lanatation
+enveloppe: circonstance, adverbe
+cigarette: fumeur, cannabis
+moteur: automobile, moteur, motif, moto, moto
+bénévole: consacrer, volontaire, charité
+réaction: réactif, réponse, répondre, réagir, retourd'information, exposition, réacteur
+bagages: bagage, fret, tronc, valise, lalogistique
+sourd: 
+jus: extrait
+sexuel: sexe, sexualité
+diamant: gemme
+faireécho: 
+identité: identifier, identification, symbolique, connaissance, identifiable, reconnaissance
+ambassadeur: Messager, diplomate, métabolisme
+paresseux: pourri
+momentaneaspect: 
+dérive: opération, déviation, tendance, tendance, écoulement, position,attitude
+imaginaire: chic, imaginer, imagination, lafiction, fantaisie, subjectif
+rayon: faisceau, rayon, rayon, fonds
+escalade: monter, plante, truie, grimper, seglisser
+encre: toner
+mémorable: important
+bruyant: bruit, cri, bruyant, àhautevoix
+sénat: parlement
+transport: lechariot, letransport, transporter, circulation, lanavette, transfert, métaphore, conduction
+cercueil: tract
+avaler: siroter, lot
+gâter: poursuivre, satisfaire, intégrer, Intégrer, déployer
+agricole: agriculture, agriculture, ferme
+balançoire: 
+pré: pâturage, pré, pelouse
+complexe: compliqué, compliquer, sophistiqué, composé, rusé
+démission: démissionner, laretraite, enarrière, battreenretraite, cesserde
+humbleregistre: 
+poivre: 
+poney: 
+candidat: demandeur, éventuel, recruter
+Renard: 
+lacheminée: cheminée, empiler
+juridiction: autorité, jugement, jugement, compétence
+anciendécédé: 
+démocratique: ladémocratie
+couverture: plafond, couverture, couverture, couverture
+cochon: truie
+ivoire: l'éléphant
+plusléger: écrivain
+observateur: superviseur, visiteur, inspecteur
+ongles: clouer, griffe
+abeille: 
+acteur: actrice, interprète, demandeur
+transpiration: point
+polonais: dialecte, briller
+illusion: fraude
+incertitude: incertain, ambiguïté
+secondaire: mineur
+rural: provincial, campagne, villageois
+circulation: boucle, Faireduvélo, cyclique, prévalence, ladiffusion, cercle, cycle, lafréquence, rotation, fairetourner, circulation, sightsee, conduction
+gémissement: 
+ressembler: similaire, similarité, rappeler, correspondant, aimer
+citation: extrait, devis, findecitation, prêter, emprunter, prêt, référence, estimation, citer
+sac: rejeter, congédiement, sac
+ennui: perturbation, ingérence, interruption, épreuves, ennui, embêter, bruit, inquiétant
+aiguille: injection, épingle, aiguille
+contrôlée: contrôle
+barrière: restriction, contrainte, limité, interdire, interdire, obstacle, bloque, interruption, handicap, déranger
+compter: compter, compter, dépendre, confiance, assurance, dépendance, dépendant, dépendance
+poulet: poule
+baril: seau
+habituelaspect: 
+expert: spécialiste, expérimenté, Spécial, spécifique, spécialiser
+impressionner: affecter, impression, attirer, impressionné
+van: soupape
+hocherlatête: sieste
+définition: commentaire, identification, ladescription, détermination, connotation, Justice
+anniversaire: anniversaire
+marteau: 
+parfumé: duparfum
+banal: petit, sansimportance, mince, marginal
+creuser: creuser, percer, lesfouilles
+animaldecompagnie: essence, favoriser
+crâne: 
+corpslégislatif: parlement, législation, législatif
+talon: saut, cheville
+froncerlessourcils: 
+brevet: Licence, Licence
+milliard: 
+chimique: chimie, produitschimiques, chimiste, chimiothérapie
+impulsion: impulsion, poignet, élan, dentelle
+pilote: expérience, expérimental, chauffeur
+nœud: bosse, nœud, tenir, Contrat, conclure, décennie, tricoter, jonction, brut, brut, préjudice
+jupe: Roche
+dépression: récession, marasme, chagrin, douleur, tristesse, déprimé, stress
+technique: technique, latechnologie, techniquement, technologie, Avancée
+véhicule: conduire, voiture, Chariot, veuxdire, automobile
+portée: expansions, domaine, domaine, gamme, portée, ampleur
+végétation: plante
+leverdusoleil: 
+contribuer: contribution, faireundon, Partenariat
+crochet: rapporter, brancher, corrélatif, support
+tigre: 
+manche: bras, venteaudétail
+Autoroute: route
+milice: 
+intégrité: concentration
+transparent: transparence, clair, clairement, évident, évident, évidemment, pasclair, explicite, simple
+dix-neuf: 
+compte: compter, agrégat, calcul, calcul
+qualifié: éligible, qualification, capable, mérite, mériter, qualifier, qualifié, compétent, valide, compétence
+organique: fossile, essentiel
+théologie: 
+flotte: bateau, flotter, flotte
+sorcière: 
+studio: étiquette, atelier, fairedesétudes
+Champagne: 
+bannière: drapeau, affiche, billet
+divorce: divorcé
+boulon: foudre, clouer, torsion, vis
+veine: nerf
+passif: public, désactivée
+gravier: agrégat
+planète: primaire, constellation
+étagère: grille, placard
+ventilateur: 
+tropical: passionné
+phase: photographique, étape, pointfinal, construction, marche
+arbitraire: spontané, optionnel, traité, accord, incontrôlé
+extase: transe, enthousiasme, plaisir, bonheur
+lemercure: température
+suicide: 
+journaliste: journaliste
+priver: privation, révoquer, exclure, soustraire, nier, voler
+balcon: terrasse, grenier
+fourchette: populaire
+employé: ouvrier, ouvrier, travailler, facteur, dépendant, employédebureau, personnel, lamaind'oeuvre, lamaind'oeuvre, employés
+employeur: patron, propriétaire, propriétaire
+largeur: largement, lafourniture, large, semi
+flamboyant: 
+irrité: agacé, excité, irriter, provoquer, stimulation, ennuyé, stimulus, stimuler, motivation, motivation
+classique: classique, optimum
+singe: chimpanzé
+acceptable: Acceptez, acceptation, plausible
+Signature: 
+chanteur: lecteur
+orthodoxe: conservateur, conventionnel, traditionnel
+garderie: plantation
+adoption: employer, adopter, acceptation, hypothèse, approbation, fête, réception, admission, tour, quantum
+réluctance: hésitation, aversion
+importer: introduction, Revenu
+torche: 
+grammaire: grammatical
+dépôt: accumuler
+colonial: immigrant
+yacht: traversier, bateau
+effrayer: effrayer, terrifier, dissuader, alarme, alarmé, hanter
+consécutif: conséquence, épisode, important, considérable, depremierplan, important, considérablement, important, substantiel, significatif, indirect
+disparu: disparu, disparaître, mort
+dôme: 
+épaisseur: 
+têtedemule: péremptoire
+muscle: 
+ordredegrandeur: Taille, masse, amplitude, jauge, Quantité, intensité
+frotter: 
+paingrillé: Goûter
+unesouris: rat
+syllabe: typographie, alphabet
+neutre: neutre, Juste, laïque
+détecter: évaluer, identification, reconnaître, identifier, détection, Localiser, récupérer, trouve
+fleurir: laprospérité, prospérer, boom, bijou, gemme, unefleur
+imposer: obliger, imposer, déterminer
+anonyme: 
+formelregistre: 
+veau: sedépêcher
+Manuel: guider, plan, lignedirectrice, brochure, marque, leadership, cahierdetexte, instruction, guide, superviseur, document, Documentation, opération, fabrication
+anticipation: attendu, éventuel, attendre, attente, anticiper, laprévision, prédire, prévoir, disposition
+fairefondre: évaporer, dégel, lafusion, unir, soluble
+parapluie: parachute, fongus
+botte: chaussure, tronc
+minéral: iode, nutritif, métal, manganèse
+trêve: -feu
+canard: 
+dusavon: 
+poupée: bébé, jouet
+villa: Fée, loge
+couture: point, Coudre
+réconcilier: médiat, unir, unifier, ajuster, ajustement
+bouilloire: 
+lapin: 
+conducteur: échelle, surveillantgénéral, chauffeur, guide
+joueur: interprète
+insecte: ravageurs, ver, punaise
+restaurant: 
+radical: militant, extrémiste, progressive, révolutionnaire, extrême, entier, toutaulongde, tout, absolu, intégrer
+résident: habitant, originairede, national, indigène, locataire, Résidentiel
+dragon: cerf-volant
+auditifévident: 
+traîner: prolongé
+couvercle: couverture, bouchon, pont, soupape
+maire: marché
+Matériel: Matériel
+Créatif: 
+minorité: peu, décimal
+tranchée: fossé, lesfouilles
+orchestre: 
+Bacon: 
+poursuite: poursuivre, cas, costume, litige, poursuite, revendication, demandeur
+désavantage: perte, privation, négatif, défaut, handicap, difficulté
+entissu: tissu, vêtement, serviette, Toile, tissu, lesoulagement, lastructure
+musicien: compositeur, musical
+mentalement: spirituel, mental, moral, mana, subjectif, psychologique, cognitif, psychiatrique
+nonconforme: erroné, inacceptable, imparfait, incongru, attendu, illégal, inadéquat, inapproprié, injuste
+architecte: 
+épouser: 
+citron: 
+latoux: tousser
+lafertilité: reproduction, race, génital
+aléatoire: auhasard, randomiser, accidentel, décontractée, spontané, stochastique
+cuillère: seau
+journal: auquotidien, journal, journal, calendrier
+ballon: 
+inférenceévident: 
+éditeur: éditeur, édition
+cendre: gris, gris
+explétif: assermentation
+relancer: larelance
+sensible: vulnérable, sensible, sensible, émotif, assujetti
+tunnel: métro
+casse-tête: embrouiller, déroutant
+mécanisme: procédure, routine, systématique, machinerie, appareil, approche, politique
+mathématiques: lesmaths, mathématique, infini
+fondu: 
+équilibré: rapport, corrélation, proportion, cohérent, durable
+sublativecas: 
+tremper: seplonger, Intégrer, laisseztomber, chute, incidence, pente, inclinaison, pente, tremper, décliner, marasme, incliner
+unité: unité, entité, module, bec, singulier
+monopole: exclusif
+jeuxd'argent: pari, Jeu, rencontre, autorisation, pari
+sous-marin: 
+indépendamment: 
+séisme: convulsion
+laboratoire: laboratoire
+commentaires: commentaire, remarque, commentaire, répondre
+subir: passer, expérimenté, recevoir
+soicontrôle: 
+ambassade: 
+président: président, Président
+inventer: invention
+déclaratifhumeur: 
+gant: 
+s'agenouiller: 
+géographie: 
+investissement: investir, entreprise
+analogie: égalité, similarité, affinité, parenté, rapport
+faucon: aigle, pirater
+psychologie: physiologique, psychologique
+ferraille: annuler, ordures, desdéchets, fragment, jeter, lancer
+pirate: pirate
+rôle: partager, stock, participant, introduction, personnage, position,attitude
+dose: Quantité, régime, quotient, ration
+saumon: 
+pudding: dessert
+magnétique: séduisant, moimême
+pompe: bombe, vide
+oxygène: 
+lafrange: bord, bord, marginal, lamarge, périphérique, frontière, frontière
+certificat: confirmation
+médaille: 
+rhétorique: 
+échelon: escalier, bandederoulement, marche
+gratter: segratter, pâturer, offenser
+s'identifier: invasion, bûche
+lunetteastronomique: microscope
+Collier: défaite, pâte, chaîne
+orthographe: épeler
+lesurf: 
+whisky: 
+chameau: 
+amateur: 
+adulte: mature, âge, vieilli
+biographie: électricité
+âne: 
+laperspective: perspective
+Pro: professionnel, positif, adaptatif
+mensuel: magazine
+vacances: abandonner, jourférié, durepos
+clic: clique, casser, frappe
+ovale: 
+élastique: caoutchouc, flexible
+dictionnaire: lexical, vocabulaire, pré
+partition: diviser, division, panne, panne, compter, compartiment, section, fragment, composant, Composants
+jambon: cuisse
+arcenciel: 
+organisme: créature, création
+cracher: camarade, langue
+sortie: Sortie, douille, sortie, Départ, poignée, fente
+réservoir: réservoir, récipient, T.V.A
+papillon: 
+graphique: diagramme, graphique, graphique, graphique, schème, catalogue, catalogue
+jumelle: double, double, couple, paire
+insultant: insulter, disgrâce, infraction, offenser, infraction, verbal, offensive
+defaçonautonome: indépendant, enliberté, àl'écart, librement, séparément
+lemarais: 
+cauchemar: rêver
+confiture: gelée, compresse
+auditeur: écouter
+musée: 
+lastabilité: stabiliser
+divulguer: annoncer, faireapparaître, détection, exposer, annuler, publier, découvrir, distinguer, apparent
+agressif: déranger, désordre, occupation, agression, offensive, bombardier
+friction: affrontement
+participation: présence, participer, participation
+jetée: sentier
+Araign?e: pêcheur
+pommedeterre: 
+fabricant: fabricant, producteur, préparation, fabrication, fabrication
+avidité: faim, appétit
+prématuré: debonneheure
+multiplier: frapper, race, multiplication, double
+statistiques: statistique, figure, statistique
+nomination: désigner, rendez-vous, sélection, engagement
+billion: 
+affirmativehumeur: 
+applications: app, processus, appliquer, application
+nominal: pâturer, spécifié, par
+insatisfaction: 
+infection: infecter, infecté, transition, transmission, infectieux
+hausserlesépaules: tic
+aufootball: football, coupdepied, calcium
+pionnier: majeur, avant-garde
+anormal: inhabituel, exceptionnellement, cinglé, extraordinaire, exagéré, phénoménal, idéal, singulier
+omission: défaut, gaffe, carence, négligence, lanégligence, élimination
+écraser: bondé, pousser, pétrir, réduction, poussée, pression, écraser, saisir, poignée
+pourcentage: cent, pourcent
+idiophone: 
+levier: 
+leretrait: retour, régression, battreenretraite, douille, rappel, conclusion, inférence, sortie, implication, sedésister, letotal
+sénateur: 
+fourmi: 
+Enceinte: maternel, concevoir
+touslesjours: auquotidien
+précipité: précipitation, sédiment, vitesse, urgent, accélérer
+variable: varier, lesvariables, mondial, mobile
+bouclé: boucle, lancer, rouleau, hélix
+soufre: soufre, brisé
+continental: continent
+dicter: instruction, commander
+grenouille: 
+excessifcas: 
+moudre: demi, semi
+irréelhumeur: 
+àl'intérieur: intérieur, àl'intérieur, dans
+exploit: utiliser, absorber, exploit, Explorer, vol, absorption
+géologique: souslaterre
+lepasseport: 
+immoral: vicieux, pourri
+biscuit: biscuit
+collaboration: coopérer, Partenariat, l'intégration, aider, contribution
+forger: faire, prononcer, formation, Créer, composer, Générer, falsifier, policedecaractère, reproduire
+atome: atomique, particule, individuel
+lesida: aide, lesoulagement
+délicat: délicat, agaçant
+pyramide: 
+illicite: illégal, non
+latimidité: timide, contraction
+luth: incliner
+astronomie: 
+labyrinthe: ambiguïté
+Boursed'études: parrainage, prix
+fibre: fibre, empaqueter, préjudice
+cricket: 
+Pigeon: 
+adaptation: adapter, fixation, conformité, modification, ajuster, optimisation, adaptatif, hébergement
+désapprobation: désapprouver, désapprobateur, opposition, opposé, protestation, compteur, adversaire, opposé, refuser, trace, rejeter, rejeter, veto, offenser, tuteur, accepter, êtreendésaccord
+opérateur: transporteur
+triangle: 
+trésorier: lacaissière
+hydrogène: 
+imprimante: 
+étranglement: craie
+chronique: résistant, Sérieux, sévère, considérablement, extrême, aigu, intensifier
+chape: rencontre, adapter, affronter, offset, surmonter, tacle, contrastive, traiter, accomplir
+dilemme: confus, déroutant
+symptôme: indication, offre, afficher, exposition, présentation, phénomène, diagnostique, syndrome, caractéristiques
+vélo: bicyclette, Faireduvélo, cycle, balade
+ingénierie: technique, techniquement, mécanique
+spirale: hélix, tourner
+Camera: chambre
+danseur: 
+migration: émigrer, immigration
+tennis: 
+intoxiqué: dépendant, dépendance, dépendance, esclave
+tisser: tresser, tricoter, tricot, tissu, texture
+colonnevertébrale: 
+frire: bouillir
+faciliter: promouvoir, stimulation, accélération, favoriser, facilité, simplifier, établissement, utilitaire, soulager
+coupdecouteau: piquer, percer, saisir, tentative, tentative
+motdepasse: signal, signal, slogan, mon, code
+hémisphère: pointu, pointe
+déprimant: décevant, déprimé, décourager, douleur, provoquer
+stratégie: stratégique, stratégies, politique
+patrouille: périodique, essence
+glacier: 
+àmi-chemin: demi, enpartie, semi
+mémorandum: traité, Contrat, convention, accord, mandat, représentation
+cône: 
+symétrie: 
+défendeur: avocat, opposé
+mosquée: 
+échappement: émission, éjecter
+échecs: 
+noyau: lenucléaire, cellule, essence, noyau, central, embryon, fœtal, noyau, substance
+cerise: 
+trébucher: chute
+uncamion: camion, cargo, Piste
+sansfil: radio
+enchères: vente
+tamis: déboguer
+instable: instable, instabilité, incertain, inquiet, agité
+sucer: absorber, tremper
+hostile: méchant, hostile, négatif, nocif
+recensement: calcul
+lapointedespieds: doigtdepied, prêt, prêt
+relaxer: relaxant, détendu, relaxation, loisir, soulager
+continuité: constamment, continuation, conjonction
+bulle: 
+guitare: etc.
+préjugé: préférence, préjudice, déviation
+brillant: brillant, unm., brillant
+quel: quelconque, peuimporte, laquelle, quiconque, parmi, sousl'eau
+tricoté: tricot, tricoter, tresser
+monterenflèche: unerandonnée, flotter, gorge, vol, célèbre, avion, aéronef, avion, Compagnieaérienne
+pronommarqueur: 
+pimenter: zeste
+caution: liaison, assurance, gage, unegarantie, Commanditaire, bijou, gemme
+taquiner: tenter, ennuyer, irriter, fasciner
+Java: 
+recette: laméthode, stimulus, ordonnance, formule, instruction, consonne
+charrue: résoudre, détourner
+gouttière: drain
+comète: délinquant
+innovation: Découverte, invention
+médiéval: milieu
+décoratif: décoration, décorer, cosmétique
+Plastique: 
+notedebasdepage: 
+laitier: lait, ordinaire, ordinaire
+golf: 
+zéro: nul, vacant
+Zip*:français: compresse
+gâchette: 
+puce: pièce, fragment, tranche, grosmorceau
+opprimer: réprimer, réprimer, déprimer, submerger, maltraiter
+bâillement: évaporer
+inégalité: 
+môle: argile
+poterie: sol, argile
+femmeaufoyer: 
+irrationnel: déraisonnable
+mineur: mineur
+levure: enzyme, pâte, pâtisserie
+intercepter: inhiber, tacle
+prime: prime, prix, prix
+option: alternative, remplacer, alterner, concombre, choix, sélection, unevariante, préfère, préférence, optionnel, substitution, amusé
+diplômé: examen, passer
+faillite: échec
+irrigation: 
+capitaliste: capitalisme
+élasticité: laflexibilité
+géométrie: géométrique
+requin: 
+espacederangement: préserver, conserver, boutique, économie
+avecoptimisme: perspective, attente, optimisme
+leréalisme: 
+ambulance: 
+portefeuille: Bourse, portefeuille
+grimace: agresser, sourire, frétiller
+scientifique: scientifique, savant, chercheur, enquêteur, biologiste
+intestin: intestin
+équanimité: 
+réaliste: réel, vrai, vraiment, actuellement, vraiment, sincère, pragmatique, réal, explicite
+horsdepropos: contradictoire, inapproprié, incongru, sansimportance
+haricot: noix, cacahuète, céréale
+informel: formel, officiellement
+petitefille: petitfils, petitenfant, lanièce, descendant
+bifteck: côtelette
+azote: 
+murmurer: chuchotement
+baie: cueillir, baie
+analyser: analyser, analytique, analyser, uneanalyse
+contrastant: contraste, contrastive, contradictoire, opposé, contraire, distinguer, établirunediscrimination, différencier, distinct, diverse
+desfeuxd'artifice: pari, pari, flamme
+pop: casser, coup
+déshabiller: bande, vêtements
+complément: supplémentaire, équiper, addition, complémentaire
+pegativecas: 
+cancer: 
+pion: hypothéquer, soldat, gage
+fuite: répandre, perte, laisseztomber
+densité: bondé, intensité
+mâcher: 
+complexité: complication
+bavard: communicatif, agile
+acquitter: exempter, libération, débarrasser, soulager, mérite
+polaire: extrême, pôle
+remise: exemption, vente, Concession, hypothèse
+Taxi: taxi
+hiérarchie: leadership, système, récursivité
+gronder: 
+naïf: linéaire, plaine
+présidence: présidentiel
+acheteur: client
+gallon: 
+moustique: 
+déplorer: faireledeuil, condamner, leregret
+déviation: déviation, Distorsion, offset, quelquechose
+mosaïque: diverse
+prisedecourant: connecteur, bon
+grossesse: conception, concevoir, porter, charge
+épicerie: 
+communiste: 
+étonner: surprenant, incroyable, étourdissant, tromper, embrouiller, étourdir, confondre, étonné
+prosecutivecas: 
+dictateur: 
+lapréoccupation: emploi, anxiété, inquiéter, préoccupation
+Satellite: sonde
+approximatif: approximation, approximativement, approximative, presque, pratiquement, environ, grossièrement
+sansemploi: emploi
+mettreenplace: lamiseenoeuvre, imposer, miseenvigueur, exécution, exécuter
+bulbe: oignon, soupape
+supporter: assistant, supporter, support
+lotus: lis
+chlorure: 
+bactéries: fongus, bactérien
+treillis: modèle
+biologique: créature, labiologie
+feindre: fairesemblant, simuler
+octet: 
+sécrétion: sécréter
+ballet: ailette, scrutin
+urine: pisse
+ail: 
+classemoyenne: 
+blanchisserie: lalessive
+caractériser: distinguer, caractérisation
+fraise: 
+cahier: portable
+transcendantal: 
+album: 
+base-ball: 
+lepiratage: 
+buffet: 
+participe: participant, participant
+garage: 
+diagnostic: diagnostique, diagnostiquer, cognitif, reconnaître
+extorquer: chantage, cueillir, contraindre, contraindre
+phosphore: 
+deconstruction: lastructure, configuration, config, institutionnel
+colle: gomme
+thèse: thèse
+artisan: mécanicien, plombier
+banane: tissu
+nervure: équipement
+nickel: 
+actuellement,encemoment: maintenant, présent, actuel, aujourd'hui, queue
+autobus: laisser
+censurer: censure, critique
+missile: fusée
+saucisse: l'Hot-dog
+manipulation: fonctionner, manipuler, opérationnel, ruse, Tricher, manipuler, opération, fraude
+tomate: 
+renforcer: consolider, intensifier, confirmer, fort, renforcer
+convexe: 
+potassium: 
+algèbre: algébrique
+bijoux: 
+optique: visuel
+chômage: boulangerie
+désarmer: bras, arme, armé
+solo: séparé, phénoménal, discret, sol, ensolo
+navigateur: scanner
+historiquetendu: 
+aptitude: Efficacité, potentiellement, capacité, quotient, capacité, compétence, alphabétisation
+spectre: 
+sodium: 
+hystérie: convulsion
+curateur: administrateur, fidèle
+otage: hypothéquer, gage
+athlète: mathématique, athlétique
+ride: défaut, commettre
+comprendre: intégrer, Contenu, constituer, construction, impliqué, engager, impliquer, inclusion, consister, contenir, accomplir, comprendre
+agrafe: agrafe, support, agrafeuse
+priorité: attention, préférence, préfère
+râpé: outrage, dépasser, agression
+moniteur: Piste, superviser, regarde, poursuivre
+circonscriptionélectorale: électeur, électorat, doux
+culturel: Culture
+legenre: calculer, sexe, pénis, espèce, sexualité
+platine: 
+doublenombre: 
+spécialité: professionnel, caractéristiques, trait, particulier, Spécial, compétence, spécialiste, séparé, exclusif, spécialiser
+poumon: 
+super: phénoménal, énormément, incroyablement, superviseur
+chariot: lechariot, Chariot, wagon
+champignon: fongus, moule
+localement: locale
+inciter: exciter, ennuyer
+del'essence: essence
+citrouille: squash, moelle
+lerein: Hauteur, extension
+butin: vol, pillage, proie, gâcher, voler, transporter
+arsenic: 
+escargot: hélix
+infinitésimale: 
+socialiste: parenté
+filtre: 
+élargir: développer, large, ajouter, augmenter, améliorer, sedéployer, largement, expansion
+controversé: controverse, contradiction, ambigu, déroutant, ambiguïté, contradictoire
+laisse: bail, sangle
+jockey: 
+pneumonie: 
+situer: mettre
+intersection: Traversée, jonction, ordinal
+lasolidarité: unir, rassemblement, affinité, unité, similarité, ère
+charnière: détaillé, boucle, axe
+longitudinal: verticale, prolongé, espèce
+dividende: allocation
+obtus: lent
+patin: ski
+accroupissement: courbe
+exposant: indice, exponentiel, fragment
+invalidité: handicap, incapacité, défaut, imparfait, désactivée, défaut
+championnat: champion, gagnant, letournoi
+photographe: photographique
+numérique: figure, numéral, numérique
+chienne: 
+paupière: 
+subconscient: 
+sourcil: 
+éternuement: 
+hilarant: gai, amusant, contentde, amusant, amusé, amusant, divertissant, humoristique, ridicule, plaisant
+réfugié: immigrant
+protéine: blancd'oeuf
+déverser: pile, empiler, bannir, ordures, desdéchets, lancer
+évoluer: évolution, développer
+vomir: 
+gène: génétiquement, génétique
+étudiantdepremièreannée: 
+fusionner: lafusion, unir, unifier, combiner, consolider, l'intégration, converger, brancher
+sociologie: 
+mobilité: mobile, portable, mouvement, mouvement
+régional: comté, région, zone, quartier, sphère, secteur, périphérique, provincial
+mouvementmontée: 
+diluer: mince, doux
+rétrospective: passé, introspection
+inversion: inverser, contraire, réciproque, inverse, catastrophe, conduction
+latélé: télévision, film
+cube: solide
+syntaxe: syntaxique, Pension, disposition
+productivité: performance, sortie
+carotte: 
+moléculaire: molécule, numérateur, substrat, lenucléaire, atomique
+conglomérat: clique, groupe, grappe
+comptable: auditeur
+différenciation: discrimination, établirunediscrimination, distinguer, différencier, panne, différence, contraste, variations, variance
+disponibilité: accès, acquisition, Obtenez, disponible, présence, efficacité
+orgie: 
+solvant: dissoudre
+phosphate: 
+apprêt: appât, connaissance, introduction, Premièrement
+virgule: coma, fête
+prémisse: 
+mouvementunedescente: 
+donneur: présentateur
+psychologue: 
+chlore: chèvre
+clavier: 
+élite: supérieur
+parenthèse: support
+lerugby: 
+ulcère: endolori, plaie, traumatisme, bouillir
+fléchie: 
+grignoter: 
+Avortement: faussecouche
+chandail: veste
+évolutionniste: dudéveloppement, évolution, Développement, progression
+notation: signe, symbole, Note
+rebondir: boom, saut
+dissection: allouer, section, division, diviser
+cachette: cachette
+antimoine: 
+superessivecas: 
+tumeur: tumeur, masse
+alpha: 
+nombril: ventre, pôle
+immunitaire: respiration, résistant
+abréger: limite, confiner, restreindre, résumer, compact
+captiver: capture, fasciner, chasse, attirer
+chaussette: 
+film: film, cinéma, ruban, bande, bande
+cosmos: univers
+polluer: lapollution, infecter
+grégaire: 
+aluminium: aluminium
+oscillation: fluctuation, vibration
+alphabétique: alphabet
+horoscope: 
+tangente: 
+dauphin: 
+tueur: 
+résonance: vibration
+indicateur: posture, indice, lescritères, l'index, jauge
+dioxyde: 
+bureaucratie: bureaucratique
+fausser: tromper, brouiller, détériorer, falsifier, fausser, Distorsion
+galaxie: constellation
+clinique: 
+radium: radio
+réfrigérateur: frigo
+harmonique: musical, conformité
+archéologique: archéologie, archéologie, fossile
+spécification: norme, standardiser, détail
+interpolation: 
+brochure: brochure, bulletin, polycopié, feuille
+incomplétude: imparfait
+anthropologie: 
+délicieux: délicieux
+transitif: excuse
+serecroqueviller: 
+simulation: simuler, badge
+vagin: baie, cellule
+ion: 
+letourisme: touristique, Voyage, pique-nique
+trigonométrie: 
+kidnapper: détourner, conduction, arracher
+chevauchement: interaction, interactif
+chercheur: 
+évincer: déplacer, expulser, éjecter, expulser, bannir
+coiffeur: 
+folklore: blé, populaire
+capillaire: 
+nationalisme: lanationalité
+fesses: hanche
+sublimé: pur, affiner
+tampon: 
+frustration: désespoir, déception, confus, annuler, défaite, Déçu, décevoir, décevant
+cobalt: 
+soustraction: soustraire
+mouvementenamont: 
+coordonnées: ordonnée, coordonner, coordination
+anus: 
+redondance: beaucoup, résiduel, excès, rejeter, congédiement, exemption, surplus
+vidéo: 
+boycotter: comté, ostracisés, lanégligence
+quiz: tentative, examen, questionnaire
+guérilla: 
+magnésium: 
+radar: 
+qualitatif: qualité, caractéristiques
+fiabilité: lacrédibilité
+rectangle: 
+généraliser: généralisation, construire, Créer, composer
+plus: maintenant, denouveau
+couvre-feu: 
+formulation: construire, construction, constructif, formulation, création, formation, formuler, établissement
+réincarnation: Renaissance
+enflammer: 
+uranium: 
+contribuable: Impôt
+intégré: intégral
+opiné: vue, opinion, remarque
+gamma: 
+serveur: 
+mouvementenaval: 
+coefficient: qualité, facteur, module
+bismuth: 
+cartepostale: poster, detroisièmecycle
+faireunedigression: battreenretraite, partir
+morphologique: génétique, morphologie
+évaluation: évaluer, évaluation, évaluer, enquête, enquêter, enquête, sonde, par
+jeans: 
+basededonnées: 
+calculatrice: l'informatique
+investisseur: 
+radiographie: 
+ordredujour: programme, programme, programmed'études
+visa: 
+Infrastructure: fondamental, debase, fondamentalement
+détecteur: 
+épissure: affixe, modifier, joindre, brancher
+brome: 
+silicium: pi
+hoquet: 
+pastel: pâle
+zoo: 
+clinique: 
+yoga: somme
+librairie: bibliothèque, boutique
+détaillant: revendeur, levendeur, boutique, justeàcôté
+décapiter: opportun
+Oui: Oui, Ya, sincère
+jazz: 
+tungstène: 
+terroriste: militant, laterreur, extrémiste
+conceptuel: chic, notion, concept, hypothèse, paradigme, conception, Brouillon
+cartésien: 
+dribble: vase
+pension: 
+programmeur: app
+contribution: 
+maquillage: maquillage, cosmétique, ruse, compenser
+vaccin: commentaire, couverture, injection
+axiomatique: 
+héroïne: 
+dossier: 
+cathode: 
+grippe: fièvre, influence
+idéologie: pensée
+parking: 
+instantané: 
+déception: déception
+sélénium: 
+cortex: écorce, coquille, peler
+équivalence: égalité
+sommet: 
+aéroport: 
+amputer: couperlaparole
+imposteur: 
+chrome: 
+litre: litre
+tableaudebord: panneau, tiret
+hormone: 
+perforer: percer
+animisme: 
+polygone: angle
+féministe: 
+conjuguer: inclinaison, connecté, diriger
+euro: 
+algorithme: 
+laser: 
+pharmacie: 
+millimètre: millimètre
+fléchir: courbe, courbé, flexible, favorable, câble
+anode: 
+nuancer: ombre
+sepelotonner: embrasse
+àtempspartiel: 
+sensibilité: 
+unitécentrale: 
+démonstrateur: apparence, afficher, performance, manifestation, présentation
+hélium: 
+bilingue: 
+gérondif: 
+plasma: 
+chromosome: 
+entier: chiffre, numéral
+kilomètre: kilomètre
+fax: 
+lagénétique: génétique, génétiquement
+rousseur: 
+brocoli: 
+permutation: format, tableau, disposition, apposition
+Spam: 
+vecteur: transporteur
+tactique: dispositif, approche, technique, méthodologie, rapporter
+D'accord: récupérer, correctement, fixer, valide, OK
+vitamine: 
+cadmium: 
+graphique: graphique, graphique
+manuellement: lui-même
+titane: 
+folie: sevanter
+hélicoptère: 
+tellure: scandium, lanthane
+datelimite: terme
+aligner: cohérent, tableau
+analogique: 
+centimètre: centimètre
+molybdène: 
+lithium: 
+multimédia: 
+calorie: 
+robot: 
+devoirs: pair
+logarithme: 
+installer: leMont, installer, lasynthèse
+glyphe: lesoulagement
+écologie: écologique, écologique
+distordre: gâcher
+modèle: moule
+euclidienne: 
+kilogramme: 
+tropmanger: 
+diviseur: 
+freeware: 
+espionner: 
+laCoupedecheveux: 
+iridium: 
+racisme: racial
+bandepassante: largebande
+optimal: haut, optimum, favorable, adapté, ajuster, adapter, compatible, adaptatif, correct, Corriger, sensible
+hypoténuse: accord, incliner
+bureau: 
+siègesocial: quartiergénéral, siège
+égarer: embarrassé, perdre
+cérium: 
+partitifcas: 
+cassette: bande
+supermarché: centrecommercial
+volonté: volition, sera
+dimensionnelle: Taille, forme, dimension, spatial
+horsligne: 
+chiffrement: cryptographie, chiffrer, codage
+synchroniser: synchroniser, intégrer, contemporain
+séminaire: 
+sémantique: sens, connotation, assujettir, objet, Matériel, substance, sens, significatif
+disco: 
+néon: 
+réaltemps: 
+osmium: 
+modedevie: lavie, duréedevie, survie, vivant, carrière
+pare-feu: 
+cosinus: calcul, calcul
+artefact: 
+plutonium: 
+postedetravail: 
+yttrium: 
+augmentatif: 
+Nomd'utilisateur: 
+Ailedroite: 
+argon: 
+socialiser: communiquer, interagir
+mondialisation: 
+sécante: 
+longueurd'ondes: vague
+encoder: code
+recycler: 
+asymptote: 
+décoder: satisfaire, résoudre
+redémarrer: réinitialiser, opérationnel
+hépatite: 
+proton: 
+disquette: disque
+milligramme: 
+pixel: 
+tantale: 
+soluté: 
+génocide: 
+gallium: 
+popenhaut: 
+zirconium: 
+nonlinéaire: 
+pesticide: 
+polynôme: 
+béryllium: 
+neurone: 
+prédicatif: péremptoire
+routeur: 
+factorielle: lafaculté
+unwidget: supplément
+neutron: 
+niobium: 
+germanium: 
+métalloïde: nonmétallique
+prolativecas: 
+biodiversité: 
+industrialiser: industrialisation, industrie
+manette: 
+antibiotique: 
+actinium: 
+astronaute: espace
+décompresser: développer, améliorer
+extrapolation: 
+extra-terrestre: extraterrestre
+octuor: 
+ouvrirlasource: 
+marathon: 
+prisedecourantdans: 
+topologie: 
+gigaoctet: 
+ioniser: 
+siunités: 
+camping: camp
+finiverbe: 
+krypton: 
+gnomiquehumeur: 
+décalageclé: 
+carrés: carré
+vendeur: revendeur, levendeur, employédebureau
+rhénium: 
+portable: téléphoneportable, téléphoneportable, portable, portable, cellule
+decôté: decôté
+modalcas: 
+Camelotecourrier: 
+autorail: 
+agrafeart: 
+signet: 
+hafnium: 
+domicilepage: 
+latifcas: 
+nièmeracine: 
+organigramme: 
+milieuvoix: 
+vieillesse: personneâgée
+arrondissant: arrondie
+rhodiumatome: terbiumatome, thuliumatome, thoriumatome, fluoratome, rubidiumatome, thalliumatome, vanadiumatome, poloniumatome, strontiumatome, ruthéniumatome
+demauvaisehumeur: rugueux
+obliquecas: 
+patientcas: 
+hodiernalpré: 
+chauve: nu, brut
+objectifgâchette: 
+praséodyme: 
+paralysé: 
+plaindre: plainte
+àcas: àcas, auhasard, decas
+radiation: lueur, émission
+indium: 
+acteurrôle: 
+euphorie: enthousiasme, zèle, lasatisfaction, consentement, plaisir, joie, bonheur, délice
+casquettesbloquer: 
+espaceblanc: 
+defaçonspectaculaire: dramatique
+chauvin: 
+siteInternet: siteInternet, site
+planted'appartement: 
+droitscivils: 
+protactinium: 
+projective: 
+binairevaleur: 
+gardiendebut: 
+venteaudétailboutique: 
+statutbar: 
+micro: micro
+corpshumain: 
+jurerde: 
+postier: 
+centralcas: 
+troyencheval: 
+rouleaubar: 
+pointtriple: 
+lireseulement: 
+sarcasme: blague, oral
+impermanence: instable, instabilité
+poète: 
+phonologique: 
+hypnotiser: 
+procèsnombre: 
+récepteur: réceptionniste
+verbe-suffixe: 
+nonHumain: 
+fluxdecourant: 
+cequi-: que, laquelle, qui, àqui
+clause-queue: 
+àl'envers: inverse, inverser
+parexample: 
+ipadresse: 
+enlangue: 
+individuellement: personnellement, individuel, personnel, séparément, séparé, distinct, différer, différemment, spatial
+Prophrase: Prophrase
+épidémiologie: mécanique, dynamique
+légiférer: législation, législatif, organiser, organiser
+rayé: bande, schème, planificateur, plan
+briseurdegrève: 
+astate: 
+surcharge: 
+else-if: 
+angles: angle, pointu
+épuisé: 
+citationforme: 
+ergativecas: 
+banlieue: Hamlet, banlieue, campagne
+communlegenre: 
+superordinateur: 
+directobjet: indirectobjet
+automobiliste: chauffeur
+statistiquement: statistique, numérique
+lutétium: 
+rationalité: conscience, logique
+passifvoix: 
+causal: 
+césium: 
+cherchermoteur: 
+barred'outils: 
+automatiquement: automatique
+californium: 
+mendelevium: 
+agentgâchette: 
+daltonien: 
+Bandedessinée: 
+Terminal: Terminal
+pointmatrice: 
+samarium: 
+court-circuit: 
+compiler: collecte
+agentivecas: 
+accident: crash, victime, accidentel, incident, épave
+fractales: 
+multalnombre: 
+fermer: fermé, fermer, Près, exclure
+large: vaste, extensif, complet, large, largement, ample, largement, répandu, grand, angle
+adessivecas: 
+coopérative: collègue, coopérer, bonhomme, associer
+euler'snuméro: 
+laserimprimante: 
+transnuméral: 
+Blog: blogger
+combinatoires: combinatorics
+pythagoras: 
+abessivecas: 
+locatifcas: 
+piscine: piscine, bassin
+cybercriminalité: dangereux, nocif
+bureaudeposte: poster, Courrier
+malware: 
+inhibition: retenir, freiner, inhiber, interdire, veto, dissuader, interdire
+spyware: 
+enregistrement: enregistrement, inclusion, Inscription, enregistrement, entrée, bûche
+intervieweur: entretien
+agrafeplanche: 
+xénon: 
+tableur: 
+nièmePuissance: 
+cinéma: cinéma
+boîtederéception: 
+pourcent: pourcent, cent
+aérosol: pulvérisation
+distributeur: 
+dynamique: dynamique, mécanique, dynamique
+uneseconde: 
+sous-tendre: sous-tendre
+brownien: 
+étoilelegenre: 
+galaxielegenre: 
+carton: carte, carton
+calculabilité: 
+unautre: unautre, l'unetl'autre, autre
+policeofficier: 
+primaireobjet: 
+animerlegenre: 
+evitativecas: 
+véhiculelegenre: 
+donnéesexploitationminière: 
+possédécas: 
+américium: 
+minérallegenre: 
+domaineprénom: 
+unitéimaginaire-: 
+neptunium: 
+verbalnom: 
+mathématiciens: 
+possessifcas: possessifcas
+lamodélisation: 
+finalparticule: 
+flashconduire: 
+soupledisque: 
+pompier: 
+pointcritique: 
+empathiquejoie: 
+motprocesseur: 
+premierministre: 
+virtuelMémoire: 
+adverbialcas: 
+éthidium: 
+short: 
+duperautour: 
+équations: équation
+subessivecas: 
+bûcheendehors: 
+spammeur: 
+antessivecas: 
+passageclouté: sentier, passerelle
+utilisateurinterface: 
+Fantômeécrivain: 
+virusinformatique: 
+animateur: présentateur, modérateur
+réhabilitation: 
+auxiliaireverbe: 
+premièremain: direct
+cartemère: qu'ellesoit
+patientgâchette: 
+runtime: 
+collectifnom: 
+Coran: journal
+Entrepriselapersonne: hommed'affaires
+transitifverbe: 
+nuagel'informatique: 
+virtuelmachine: 
+absolutivecas: 
+virtuelréalité: 
+passéperfectif: 
+impersonnelverbe: 
+crastinaltendu: 
+réfléchivoix: 
+abstraitlegenre: 
+différentunévénement: 
+exocentriquecas: 
+secondelalangue: 
+artistiquelegenre: 
+soiconfiance: 
+recherchelegenre: 
+indirectparole: 
+localitélegenre: 
+laphysique: physique, physiquement
+universlegenre: 
+fermeture: Près, fermé, fermer, de, cesser, cesserde, arrêt
+superlatifcas: 
+correspondantà: rencontre, vote, scrutin, costume, approprier, accord, correspondre, adapté, adapté, coïncider, Courrier, correspondant, compatible
+ordinateurprogramme: 
+anticorps: 
+àpleintemps: 
+propositivehumeur: 
+associatifcas: 
+inanimélegenre: 
+texteEditeur: 
+planétairelegenre: 
+enfonctionnementsystème: 
+grammaticalecas: 
+électriquecourant: 
+réciproquevoix: 
+couverts: 
+noyaubenefactive: 
+toilehôte: 
+radian: 
+applicativevoix: 
+phonème: 
+successifclause: 
+carnetordinateur: 
+gaz-pédale: 
+antipassifvoix: 
+musiquefolklorique: 
+téraoctet: 
+sociallamiseenréseau: 
+négociation: négocier, parler, conversation, bavarder, interaction, interagir, consultation, communiquer, dialogue
+évasif: appartement, obscur, ambigu
+morphème: 
+linker: lien, conjonction
+néodyme: 
+lemalderayonnement: 
+présentparticipe: 
+necessitativehumeur: 
+existentielclause: 
+excessifdurée: 
+passifparticipe: 
+grammaticale-objet: 
+continuativeaspect: 
+singulativenombre: 
+lumineuxintensité: 
+superlatifdegré: 
+blue-jean: 
+électifquantificateur: 
+fluidesupercritique: 
+épenthétiquemorphème: 
+postpositionnelcas: 
+négatoirequantificateur: 
+conjonctifparticule: 
+nerium: 
+universelquantificateur: 
+arméedel'air: 
+allocutionuneentente: 
+ordinateurlaprogrammation: 
+péremptoirequantificateur: 
+fréquentatifaspect: 
+distributifpronom: 
+alternativequantificateur: 
+phishing: 
+scalaire: 
+contrefactuelleconditionnel: 

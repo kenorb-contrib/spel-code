@@ -1,0 +1,2515 @@
+infinitiv: oändlig, oändlighet, ursprung, källa
+nominativfall: prepositionalfall
+ackusativfall: 
+ämnefall: ämnefall
+förälder: föräldra, större, senior, spenat
+pappa: far
+mamma: mamma, mor, moderlig
+Hallå: bye, Hej, Hallå
+förfader: företrädare, farfar
+farförälder: farfar, mormor
+hungrig: hunger, svälta
+genitiv-fall: possessivfall
+adjektiv: 
+och: belopp, av, en
+mig: jagsjälv, jag, min, vi, slicka
+dig: dem, dig, du, ya
+oss: vi, vår, vår
+Det: han, att, hon, detta, dessa, som
+destinationfall: målfall
+dativfall: 
+Realishumör: 
+deontichumör: 
+villkorlighumör: konjunktivhumör, hypotetiskhumör
+epistemiskhumör: 
+instrumentalfall: 
+interiörsammanhang: 
+personsammanhang: 
+beroendeklausul: 
+perfektivaspekt: 
+dåtidspänd: 
+maskulinkön: kastrerakön
+comitativefall: 
+presenteraspänd: 
+benefactivefall: 
+essivefall: 
+inte: Nej, icke, knappast, oförmögen, tonhöjd, aldrig, inteheller, ingen, snarare, varken, kanej, Fröken
+dess: deras, hans, hennes, HejM, de, hennes, av, vars, oberoende
+ytasammanhang: 
+adpositionalfall: 
+platsfall: 
+utrymmesammanhang: 
+sättfall: 
+frågandehumör: 
+ocheller: 
+exeller-eller: 
+källafall: 
+ablativfall: 
+demonstrativ: fast, väsentlig, betong-, övertygande, direktiv, dramatisk, uttrycka, skenbar, artikulera
+men: än, dock, fast, ävenom, ändå
+alla: alla, alla, total, hel, total, hela, allt, några, alltmer, sammanlagt
+femininkön: 
+de: dem, hon, de, deras, deras, efternamn, dessa, samma, rättvis, liknande, till
+flertalantal: 
+en: enda, en, ini, ensam, en, sväng, dock
+som: någon, vemsomän, som, vars, som, vem, något, vemsomhelst, att, deras, de, sjunga, ya
+framtidaspänd: 
+socialsammanhang: 
+när: närhelst, någonsin
+imperfectiveaspekt: 
+det: existera, torsdag
+mer: över, mest, ytterligare, bortom, uppåt, uppåt, mång, än, snarare, också, dessutom, plus, fortfarande, än, annan, flera, fleraolika, andra, annat, enannan, resten
+ut: utanför, yttre, extern, utomhus-, utomhus, av, utanför, bortom, upp, på, till, vidare, sluta, gårut
+relativfall: relativfall
+SLUT-fall: 
+do: gör, utföra, åta, göra, aktivera, gjorde, begå, sätta, vad, reagera, något, om, vadsomhelst, arbetssätt
+direktivhumör: indikativhumör
+frågaord: 
+copula: kontakt, obligation, knippa, länk
+person: man, personer, enskild, någon, någon, kille, mänsklig, ansikte, personlighet, HejM, dem, personligen, fotgängare, kollega
+manlig: maskulin, nämna, herre, man, mild, kvinnlig
+kunde: Kan, makt, eventuellt, kanske, möjlighet, sannolikhet, Maj, möjlig, kunna
+antal: belopp, belopp, figur, numerisk, siffra, kvantitet, tal
+mycket: mycket, ytterst, väldigt, mycket, för, fruktansvärt, allmänt, ihöggrad, verkligen, dåligt, fantastisk, betydligt, massa, mång, enormt, mest, ganska, ganska, långt, ganska, ok, Okej, okej, extrem, öm, riklig, ovanligt, oerhört, excellent, svag, starkt, skarpt
+tid: medan, ögonblick, under, igodtid, varaktighet, timlig, spänd, tidtabell, period, väder, upprepa, timme, syn
+tidsammanhang: 
+timligfall: 
+handlaom: angående, rörande, nästan, cirka, av, av, än, runt, för, på, nästan, cirka, sak, respektera, kapitel, läkemedel
+bokstavlig: bokstavligen, verklig, original-, absolut, verbal, litterär, exakt, exakt, exakt
+endast: precis, endast, heltenkelt, punkt, ren, rent, begränsad, nättochjämnt, bukt, ensam, bar
+liten: små, mycketliten, lätt, lätt, bit, mindre, ringa, diminutiv, bärbar, ettfåtal, lätt, kort
+sedan: igen, ya, sedan, sedan, sedan, senare, efteråt, ändå, efteråt, senare, senare, efter
+MANANDEhumör: 
+retrospektivaspekt: 
+bra: stor, stor, ädel, allvarlig, omfattande, högt, enorm, jätte, fantastisk, dominerande, bra, bra, betydande, enorm, väsentlig, underbar, excellent, optimal, stor, större, perfekt, anmärkningsvärd, lysande, trunk, makro
+volitivehumör: 
+före: tidigare, pre, sedan, föregå, framtills, till, främre, förr, mot, mot, fram-, förskott, längre, framåt, tidigare, tidigare
+måste: skall, nödvändigtvis, onödig, måste, behov, skall, borde, brist, borde
+två: dubbel, både, isär, par
+se: se, se, syn, fåsynpå, uppfatta, kollapå, blick, hänvisa, träffa
+kännatill: fastställa, medveten, lära, flagga, synlig, förstå
+ner: nedåt, nedåt, under, Nedan, under, under-, mindre, botten, sämre, nedre
+först: debut, första, sedan, framåt, fördetförsta, initialt
+egen: hansjälv, själv, besitter, personligen, hans, sig, själv, personlig
+oförytterligbesittning: 
+omistligbesittning: 
+gammal: Begagnade, gammal, åldrig, äldre, föredetta, ex, ålder, tidigare, företrädare
+deliberativhumör: 
+dag: dagligen, låta, arbetssätt, affär, jobb
+var: vartsomhelst, varigenom, plats
+komma: till, till, nå, ankomst, anlända, bli, inträffa
+sätt: metod, metodik, gångväg, betyder, väg, rutt, tarmkanalen, väg, spår, sätt, väg, gata, socker, spåra, bana, vana, hur, behandla, läge, bekännelse
+arbete: jobb, uppdrag, aktiv, uppgift, arbetskraft, arbetskraft, karriär, fungera, fungera, funktionell, företag, handling, träna, sysselsättning, yrkesmässig, arbetssätt, konstverk
+vokal: känd, liv, överlevnad, rörelse, rörelse, trafik, alfabet, forma
+gå: gå, biljettpris, avvika, avresa, flytta
+perlativefall: 
+progressivaspekt: 
+lång: långvarig, hållbar, lång, längs, period, epok, spänd, bort, porträttera
+säga: talad, berätta, tala, representera, relatera, heter
+även: också, antingen, framtills, till, dessutom, för, likaledes, ytterligare, Dessutom, sig
+tillbaka: Bakom, bak-, bakåt, bakåt, kommatillbaka, återställa, ångra, igen, upprepa, sedan, enligt, dratillbaka, hämtasig, hämta
+här: på
+tror: tänkande, trodde, funderapå, tänka, conceive, meditera, skulle, heter, sinne, känna, verka, ange, hänsyn
+varje: allt, varje, några, som, mot, per, alla, nämnare, hela, genomsnitt
+sista: avsluta, senare, slutlig, slutlig, enannan, annan, senast, nyligen, slut, dåtid, härdaut, envisas, tidigare, sent
+undersammanhang: 
+ta: tillflykt, uppta, hämta, anta, hugg, skaffasig, taemot, plocka, fånga, tatillfånga, avgift, acceptera, tamed, bära, skjuta, tillämpas, tilldela, applicerad
+hittades: hitta, upptäcka, upptäckt, upptäckt, tillgänglig, skaffasig, träffa
+hand: ärm, handled, vapen
+ung: ungdom, junior, tonåring, tonåring, ny
+ge: låna, förse, bjudapå, tillhandahålla, leverera, göra, bildning, sätta, donera, låta, bevilja, tilldela, periodisk, cykel, erkänna, skyldig
+gud: gudomlig
+delativefall: 
+ingenting: något, objekt, ingen, något, ingen, ingen, några, ettfåtal, viss, något
+höger: par, rätta, exakt, rättvis, rättvisa, motiverat, orättvis, berättigad, rätt, lag, korrekt, sann, viss, Säker, berättiga, väl, tvärsöver, pågrundav, rätt, ordentligt, lämplig, lämplig
+engång: omedelbart, omedelbart, metod, mönster, metodik
+semelfactiveaspekt: 
+vänster: bort, lämna, hoppa
+del: avsnitt, delvis, del, delvis, paket, fraktion, segment, del, bit, bit, passage, delmängd, kapitel, avdelning, episod, partiell, division, avdelning, sektor, andel, räkning, delta, kvant
+hus: hem-, lokal, tempel, hus, hushåll
+värld: rike, global, universum
+huvud: titel, huvud, chef, kapitel, ledare, president, ordförande, direktör, chef, penna, huvudvärk, hår
+tre: tredje, nionde, beskatta
+fokus: avsedd, syfte, mål, mål, koncentrera, uppmärksamhet, koncentration, konvergera, vision
+kärlek: tillgivenhet, välgörenhet, tyckaom, krossa
+alltid: evigt, ständigt, någonsin
+natt: kväll, middag, e.m., ikväll
+kung: regera, lord, monark, pamp, prins
+mellan: bland, bland, av, i, ini, inom, mitten, mitten, under
+hjärta: hejapå, uppmuntrande, störta, koronar
+paucalantal: 
+därföratt: pågrundav, sedan, fall, geupphovtill, anledning
+orsaksfall: 
+namn: efternamn, substantiv, hantverk
+rättsubstantiv: 
+land: nation, landa, jord, ange, jord, jord, part, landsbygden
+bad: be, rådfråga, enträgetuppmana, frågor
+synligbevis: 
+bättre: överlägsen, bäst, excellent, idealisk, utestående, ytterligare, längre, bra
+sida: lateral, förmån, förmån, räkning, sväng, sida, aspekt, halv, aspekt, mot, bredvid, åtsidan
+kurs: läroplan, lektion, föreläsning, säkert, säkert, definitivt, hastighet, väg, säker
+tillräckligt: tillräcklig, tillräckligt, tillräcklig, riklig, ganska, massor, otillräcklig, ganska, ganska, betydande, betydligt, väsentlig, signifikant, ihuvudsak, rimlig, sätta, fullt
+snart: inomkort, snabbt, prompt, snabbt, snabb, omedelbar, snabb, skynda, brådskande, så, omedelbart, lätt, närliggande, tidigt, knäppa
+full: fullt, tillräckligt, absolut, komplett, ofullständig, hela, exakt, exakt, uttala, exakt, grundlig, hel, omfattande, storlek, helt, fullständigt, totalt, färdiga, skicklig, utföra, implicit, uppfylla, tillgodose
+rum: kammare, fjärde, sovrum, fred, fack, källare, djup
+vatten: flytande, vätska, vattendelare
+desiderativehumör: 
+ljus: glöd, ljus, ljus, lätt, stil, lätt, påle, klar, dagsljus, exponering
+ord: lexikalisk, ljud, ordförråd, fras, verb, substantiv, lydelse, termin
+dörr: gate, dörröppning, ingång, kapitel, hamn, portal
+användasigav: utnyttja, användande, konsumtion, utgifter, konsument, förlovasig, ansökan, nytta, tillämpas, använda, konsumera
+morgon-: A.M., frukost
+terminativefall: 
+driva: styrka, energi, makt, stark, tvinga, kraftfull, dynamisk, sallad, dominans, myndighet
+demsjälva: osssjälva, själv, hansjälv, jagsjälv, hennesjälv, sig, själv, ego, ensam
+röst: ljud, högt, valsedel, audio, rösta, punkt, rykte, rykte, buller
+vit: tom, klagomål
+pengar: rikedom, silver-, finansiell, kontanter, valuta, finansiera, monetär
+nästa: bredvid, vidsidanav, bredvid, följande, senare, dimensionera, framåt, senare, efter, efteråt, senare, efteråt, vidare, fram-, längre, framåt, Fortsätt
+fattig: ärm, fattigdom, dålig, svag
+död: dödlighet, döende, död
+form: form, forma, formatera, kontur, mönster, odla, formad, morfologi
+inessivefall: 
+medvarandra: samtidigt, längs, gemensam, kollektiv, uppsättning, vidsidanav, samband, kombinera
+materia: fall, affär, sak, fenomen, problem, material, ämne, ämne, problem, fråga, grejer, ämne, intressant
+mångagånger: ofta, ständigt, regelbundet, frekvent, vanligen, ivanligafall, typiskt
+vän: alliera, pojkvän, kollega, para, associera
+beställa: system, arrangemang, ordna, kontrakt, array, kommando, sväng, rad, Kö, sekvens, sekventiell, inbjudan, så, låta, undvika, stava
+nödvändigthumör: 
+runda: avrundad, cirkel, knä, sfär
+hakvar: håll, upprätthålla, lägga, sätta, uppsättning, klistra, behålla, skydda, förlovasig, tyckaom, bevarande, bevarande, bevara, internera, vidhäfta, blikvar, förbli, fast, underhåll
+fru: make, kvinnlig
+tro: förtroende, räkna, förmoda, tro, tro, förtroende, säker, optimism, optimistisk, beroende
+nära: passera, bredvid, nästan, runt, pånärahåll, nästan, intilliggande, istortsett, närliggande, proximala, granne, granne
+offentlig: allmän, publik, gemensam, vanligen
+angesammanhang: 
+son: svärm, pojke
+hundra: hundradel, ansikte, cent, århundrade
+barn: unge, avkomma, barn, barn
+således: därigenom, så, därav, sådan, ja, därför
+hoppas: önskar, utsikt, förutse, optimism, optimistisk, förväntad, förvänta, förväntan
+ovan: upp, över, entrappaupp, hög, högstupp, avancerad, övre, tvärsöver, rörande, via, på, överhuvudet, till, framåt
+kär: älskare, dyr
+läsa: läsning, sjunga, lilja, läsare
+stad: stad, kommunal, grevskap, urban
+redan: redo, beredd, villig, iallafall, pre
+faktum: sanning, verklighet, Sanning, sann, verklig, faktisk, verkligen, verkligen, faktiskt, gjorde
+factivebevis: 
+flicka: hembiträde, dotter, kvinnlig, lady, flickvän, ensam
+höra: lyssna, hörsel, känna
+minst: minimal, minimum, minimera, minus-, mindre, lägst, mest, bäst, högsta, optimal
+kanske: förmodligen, kanske, förmodligen, makt, eventuellt, möjlig, troligt, sannolik, förment
+öppna: klar, enkel, heltklart, bar, tydligen, ledig, explicit, uppenbar, utomhus-, underskott, öppet, översikt, ladda, avslöja
+kropp: kött, kroppsligt, fysisk, fysiskt, corpus, organ, lik
+luft: vind, bris, flyg, väder, flygbolag, flyg
+natur: naturlig, inföding, naturligtvis, ursprung, härkomst, inhemsk, djurliv, karaktär
+hjälp: hjälpa, hjälpsam, hjälpa, bistånd, assistent, lägga, lättnad
+brev: brev, brev, handstil
+fyra: fjärde
+OPTATIVhumör: konjunktivhumör
+brand: varm, flamma, feber, öppenspis, buddha
+fri: frihet, frihet, befria, gratis, fåfäng, fritt, ledig, löst, Släpp
+krig: slåss, kamp, bekämpa, slagfält, brottas
+andra: andra, både, enligt, enannan, fördetandra
+förenad: singularis, enhet, inclusive, union, allierad, alliera, unik, enhällig, gemensam, sammansatt, koalition, federation
+ringupp: utmaning, oxidera, överklagande, på, förbindelse, kombination, gemensam, fusion, inbjudan, livstid, konversation, telefon
+varför: liknande, liknande
+förlorat: förlust, förlora, saknas, försvinna
+tusen: tusendel, kläder, trasa
+familj: hushåll, efterlevande
+själ: anda, spöke, mastermind
+brydig: bekymrad, oro, uppmärksamhet, meditation, service, sponsorskap, skydda, säkerhet, skydd, säkerhet, försvar, bevarande, bevarande, rapportering, försvar, försiktighet, bota, behandling, vårdnad, oroa, orolig, oroande
+betyda: medföra, känsla, menande, meningsfull, beteckna, mitten, ombud, medium, genomsnitt, måttlig, väsentligen, förstå
+olik: distinkt, skiljasig, olika, varierande, fleraolika, skillnad, separat, variation, separat, variabilitet, differentiell, tillskillnadfrån, variant, variera, olika, andra, annan, enannan, flera, annorlunda, mängd
+potentialhumör: 
+allativefall: 
+antropiskakön: 
+fem: femte, år, för
+bo: liv, överleva, betesig, levande, bo, distrikt, grannskap, grannskap, Levande, livlig, rå, rakt, enkel, invånare, direkt
+olikämne: 
+svar: norr, svar, svar, lösning, motsvarar, svara, norra, replikation
+hav: hav, marin-, skaldjur
+rädsla: fruktan, rädd, skräck, vördnad, rädd, panik, ångest, ångest, fasa, skrämma, skrämd, fobi
+hård: svår, styv, komplicerad, hård, högt, våldsamt, våldsam, tuff, sträng, utmanande, knepig, fast, stram
+villkor: termin, terminologi, problem, baserad, grunder, grund, väsentligen, fundamentalt, igrundochbotten, fastegendom
+tvivel: misstanke, misstro, tvekan, misstänka, leverantör
+tvivelaktighumör: 
+svart: blockera
+vacker: bra, fin, härlig, vackert, fint, ganska, lust, Häftigt, söt
+mörk: dysterhet, mörker
+sortera: klassificering, klassificera, klassificerare, snäll, arter, mängd, punkt
+tio: årtionde, tionde, rättvis
+show: visa, utföra, prestanda, demonstration, presentation, ange, beteckna, händelse, utsprång, utställning, konst, bild, skiss, skärmdump
+berättelse: myt, historia, berättelse, fiktion, tomt, berättelse, prata, ämne
+boka: rulla, boka, pund, lärobok
+elektronisk: elektronik, elektron, blixt-, elektrisk, elektricitet, elektrisk, elektriker, e-post, föredetta
+konto: anledning, geupphovtill, beräkna, beräkning, calculus, fakturera, beräkning, räkna, räkna, aritmetisk
+markera: markör, spår, spår, göra, logotyp, markera, bock, märka, skylt, signal, indikation, cue, stämpla, karaktär, märka, intryck, symbolisk, varna, symbol, ikon
+intressera: blomma, intresserad, oro
+skriva: komponera, handstil, typ, skriven, stationär
+säng: 
+nödvändig: grundläggande, viktig, användbar, kritisk, avgörande, signifikant, oviktig, väsentlig, avgörande, viktigt, behov, nödvändigtvis, intransitiv, intransitiv, intransitiv, brådskande, klibbig, nödvändighet, nödvändig, behöva
+aning: trodde, hänsyn, åsikt, begrepp, brain, tänkande, tänka, fantasi
+Vialisfall: 
+bror: syskon, syster, öppenspis, kollega
+ibland: sällan, ibland, nångång
+linje: tråd, gänga, rad, körfält, ledning, rusa, rand, beskatta, manus, rader, rubrik
+tabell: skrivbord, schema, katalog, katalog
+flod: kudde, dämpa, flöde
+öga: utnämna, runt, snö
+information: meddelande, förklaring, beskrivning, bulletin, kunskap, data, rang, informera
+plötsligt: plötslig, oväntad
+konstig: underligt, förvånande, underligt, udda, undra, underbar, anmärkningsvärd, utöverdetvanliga, otrolig, fantastiskt, bisarr, rolig, främling, exotisk, besvärlig, ovanlig, konstig, mystisk, nyfiken
+djup: djupt, djup, omfattande, grund, grundlig, detaljerad, omfattande, kritiskt, djupgående, inom, innei, inomhus-, mask
+ändra: modifiering, variation, omvandling, omvandla, mutation, flytta, ändra, ändra, övergång, konvergens, variationer, variation, variabilitet
+känsla: känna, känsla, uppfattning, intryck, känsla, humör, imponerad, emotionell, sensorisk, känsla, känsla, passion, medveten, medvetande, impuls, begrepp, uppfattning, begrepp
+syfte: objekt, syfte, mål, mål, destination, avsikt, avsedd, motiv, mål, fördel, dranytta
+lycklig: gladlynt, roat, nöje, glad, glädje, lycka, glädje, förtjust, gyckel, lyckligt, tur-, nöjd, uttryckssymbol, ofta, njutav, föredra, olycklig
+blod: blöda, blodig, blodsutgjutelse
+restesig: rosa
+söder: sydlig, middag, middagstid
+kall: vinter-, Häftigt, kallt
+placera: plats, situation, status, chans, möjlighet, utrymme, ställning, hållning, plats, posta, punkt, orientering, lägga, belägen, ställe
+stå: station, vertikal, attityd, ställning, sluta, hållning, pose, bås, vara, blikvar, förbli, existera, mot
+anta: antagande, hypotes, utgåifrån, anta, förmoda, hypothesize, lägga, hushåll, förment
+mina: min
+skära: brist, saknas, minskning, brist, minska, brist, Fröken, skärande, avbryta, hugga, snedstreck, beskära, bruten, kränka, konspiration
+kopiera: reproducera, replikation, replikera, transkription, fotokopia, klona, version, recept, plan, rikedom
+man: man, make
+sex: sex
+låg: mindre, kort, billig, billigt, missfall, minimal, botten, grund, tråkig, brist, lätthet, minska, minska, minimera
+komihåg: Notera, återkallande, påminna, memorera
+effekt: inflytande, påverka, intryck, inverkan, dominans, effektiv, effektivt, effektivitet, följd, resultat, exponering, resultat, inblandning
+falla: höst, fall, belägen, krascha, tumla, brytaner, fallaihop, släppa, nedgång, minska
+bortsettfrån: såvidainte, utanför, Förutom, Förutom, utanför, isär, exklusive, Förutom, utan
+upphovsrätt: 
+armén: soldater, trupp, värd, soldat
+springa: fly, dränera, spring, utföra, fungera, kör, redskap, operationer, operativ, försvara
+häst: hästsko, på, anmärkning, yttrande
+framtida: senare, efteråt, efteråt, vinter-
+väster: västra
+betala: lön, lön, lön, sticka, betalning, ersätta, avgift, kosta, låta
+röd: minskning
+guld-: 
+önskan: vilja, ivrig, aptit, önskar, längta, enträgetuppmana, lusta
+spela: dans-, spela, spel, kind, leksak, rulla, snurra, rotera
+bemästra: lord, primär, huvud, professor, dominera, styra, herr, herre, ledande, mister, ägare, mastermind, kontrollera
+kontor: byrå, skrivbord, departement
+regering: ange, rad
+kyrka: 
+längd: höjd, höjdöverhavet, spänna, längs, varaktighet, lång
+företag: fast, företag, samhälle, företag, företags-, enhet, institution, byrå, inleda, våga, företag
+papper: ark, kort, charter, tidning
+sannolikhet: möjlighet, sannolikhet, troligt, eventuellt, osannolik, utsikt, chans, sannolik, variabler, odds
+isynnerhet: särskild, speciellt, speciellt, särskilt, särskild, exakt, huvudsakligen, fördetmesta, förstochfrämst, specifik, viktigt, typiskt
+björn: bära, härdaut, tålamod, tolerans, ha, besitter, bildning, tolerera
+fönster: 
+avtal: protokoll, lösning, kompromiss, samstämmighet, fördrag, enas, handla, bevilja, anbud, ackord, kontrakt, konvent, arrangemang, förhandla
+skönhet: vackert, briljans, estetisk
+tull: ansvar, ansvar, skyldighet, ansvarig, tull, uppgift, uppdrag, skuld, skyldig, måste, använda, öde
+skicka: överföra, underkastelse, posta, utsända, e-post, överföring, skall, leverera, Skicka
+avstånd: avlägsnande, räckvidd, separation, gata, gap
+tystnad: stillhet, tyst, tyst, ensamhet, fred
+fot: ben, stanna, lår, tå, fjärdedel, tass, spring, ordentligt, steg
+vild: vilt, olaglig, våldsam, djurliv, djungel
+dö: död, döende, av, stänga
+spara: sparande, bevarande, hämtasig, bevara, bevarande, memorera, lagra, lösain, rädda, spelain, skydd, bevara, befria
+grön: rå, rå
+problem: besvärasig, problem, problem, strapats, svårighet, knåda, lidande, problematisk, hinder, besvära, förlägenhet
+leende: flin
+fel: misstag, fel, felaktig, dåligt, BEHANDLAILLA, falsk, fel, fel, fel, felaktigt, tabbe
+sova: sovande, dröm, nap
+quotativefall: 
+början: börja, start, åta, repa, början, tidigt, första, initiering, debut, princip, gåombord, inleda
+handling: uppgift, punkt, steg, etapp, handling, procedur, aktiv, drift, operativ, aktivera, aktivist, flytta, öva, öva, fungera, stock, utförande, utföra, uppträdande
+besök: fåtillgångtill, intervju, tillgänglig, resa, färd, resa, tur, filosofi, klandra, möte, gåva
+Följ: överensstämmelse, vidhäfta, följande, utöva, spåra, följa, lyda, senare, envisas
+Prova: försök, försök, ansträngning, initiativ, experimentera, testa, prov, flit, rättegång, undersökning, examen
+närvaro: existens, existera, enhet, tillgång, förekomst, syn, närvaro
+tung: upprepning, kraftigt, svår, svår, vikt, allvarligt, enorm, lever, enorm, massiv
+ljuv: dessert, godis, mild, mild, söt
+mun: oral, mugg, smutta, ansikte
+rik: massor, riklig, rik, klä, generös
+fiendens: fientlig, motståndare, mot
+fartyg: båt, segla, flotta, segling, fartyg, kryssning, färja, mage, styra
+skick: satsning, vadhållning, ange, situation, omständighet, status, förmögenhet, etapp, nivå, kondition, krav
+inklusive: innehålla, omfatta, engagera, tillhöra, bestå, exklusive
+inclusiveperson: 
+synas: utseende, uppstå, uppstå, uppkomst, synlig, verka, se, förfölja
+hemlighet: mystisk, mysterium, stift, underground-
+snälladu: vänligt, be, nåd
+BEDJANDEhumör: 
+artigregistrera: 
+ondska: skada, otäck, ond, dålig, dåligt, förfärlig, sjuk, värre
+Mars: parad, protest, demonstration, mars
+långsamt: gradvis, långsam, försiktigt, mjukt, sent, gradvis
+istället: iställetför, snarare, Förutom, ersättning, utbyte, alternativt, räkning
+blå: cyan
+omöjlig: 
+skola: campus, stege
+tillfälle: möjlighet, händelse, förekomst, chans, aveny, förhandla, Klockan
+gift: äktenskap, giftasig, bröllop
+mat: måltid, diet, maträtt, foder, ätamiddag
+tjugo: 
+lätt: troligt, lätt, ansvarig, enkel, bekvämlighet, lätt, lätt, lätt, bekväm, enkel, kort
+blivandeaspekt: 
+språk: språklig, tunga, bas
+uttryck: uttrycka, påstående, fras, artikulera, exponering, yttrande, ekvation, representation
+vecka: söndag, varjevecka
+hall: teater, hall, utrymme, kammare, salong, vardagsrum, gång, löpare, lobby, hål, dra
+fara: farlig, risk, fara, respektera
+vanliga: allmänt, allmän, gemensam, rutin-, generisk, vanligtvis, vanlig, ovanlig, vanligen, blygsam, vanligt, oregelbunden, konventionell, typisk, tillfällig, ivanligafall, typiskt, vanliga, regelbunden, vanlig, enkel, ungefär, enkel, måttlig
+född: födelse, återfödelse, medfödd
+domstol: rättslig, maträtt, forum, rättstvist
+gnomicaspekt: 
+värde: förtjäna, värde, värde-, giltighet, merit, kosta, pris
+träd: plantera, trä, axel, timmer
+vägg: 
+himmel: sky
+inchoativeaspekt: 
+jussivehumör: 
+tona: tonhöjd, melodi, ton, ton, skugga, tonfisk, ljud
+betrakta: respektera, utgåifrån, förmoda, uppmärksamhet, hänsyn, funderapå, relation, förening, relation, anmärkning, rapportering, relationer, relatera, associerad, släkt, bekymrad, tillhöra, angående, motsvarande, motsvarar, relevant
+månad: måne
+attuppleva: empirisk, erfarenhets, erfaren, expertis, krydda, experimentera
+omständigheter: scenario, omständighet, situation, löst
+färsk: nyligen, ren, rena, rengöringsmedel, ny, nybörjare, senast
+hertig: linjal, prins, jämlikar
+täckt: beläggning, rapportering, av, stängd, inomhus-, täcka, styra
+bunden: utsträckning, begränsning, begränsa, gräns, begränsning, begränsad, ansluten, bero, binda, gräns, begränsa
+öster: östra, sedan, tidigare, tidigare, pre, orientera
+sten: marmor-, sten, pärla
+riktning: orientering, dimensionera, trend, aspekt, instruktion
+stol: sittplats, fåtölj, pall, vardagsrum
+stöd: sustain, stödja, bistånd, hjälpa, konsol, hjälpa, grund, krycka
+datum: historia, råkautför
+by: litenby, landsbygden
+fält: sfär, rike, område, territorium, område, zon, sektor, domän, arena, stadion, utrymme, marginal, landsbygden, läger, odla
+vänta: förvänta, håll, blikvar
+tillstånd: tillåta, öra, tillåta, spel, lämna, licens, licens, samtycke, utgåva, besittning, godkännande
+toleranthumör: 
+framgång: framgångsrik, lyckas, välstånd, prestation, seger, vinna, slogtill, vinnande, vinnare, blomstra
+kulle: berg, montera, vulkan
+musik-: musikalisk, klassisk
+distalademonstrativ: 
+eftermiddag: e.m., middag, middagstid, kväll
+gråta: sörja, skrika, skrika
+ära: ära, respektera, värdighet, respektabel, hedrande, honorific, artighet, härlighet, hastighet, pris
+sju: 
+privat: personlig, själv, personligen, särskild, privatliv, specifik, exklusiv
+sitta: blikvar, bosättasig
+nyheter: meddelande
+scen: plats, syn, sammanhang, visa, visuell, etapp, se, utsikt, tält, utseende
+trädgård: trädgårdsmästare, parkera
+lopp: ras-, racing, spring, tävling, turnering, anbud, ras, match, nation, förvränga, spets
+distributivfall: 
+lärdig: läsapå, lära, avsiktlig
+politisk: politik, politiskt, politiker, politik
+tal: föreläsning, prata, konversation, samtala, talad
+lögn: falsk, lura, fuska, manipulera
+kasta: kasta, kasta, kasta, kasta, formatera, forma, lansera, skjul, sluta
+äta: måltid, foder, maträtt, ätamiddag, konsumtion
+golv: matta, jord, botten, jord, gå, hög, lång, destination
+sommar: värme, varm, uppvärmning
+religion: religiös, skuld, bekännelse, främja
+bild: porträtt, målning, bild, fotografera, fotografisk, fotografi, bild, fotokopia, ritning, knäppa, filma, illustration, skildring, fikon, figur
+fly: fly
+författare: författare, lärare, redaktör
+brun: grå, grå, solbränna, brons, choklad, vete
+bestämd: bestämning, besluta, bestämma, bestämd, bestämd, designer, specificerade, fastställa, stabil, viss, beslut, bestämmare, fast
+smärta: ont, ångest, smärtsam, sorg, öm, vånda
+vår: fjäder, vår, vår
+mjuk: förmånliga, jämna, fint, anbud, försiktigt, mjukt, mild, mild, mild, delikat, medfödd
+hörn: vinkel, bred
+: , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , de, en, en, Skicka, stärka, kollaupp, regnkappa, eldsläckare, receptionist, solskyddsmedel, presentatör, projektor, skateboard, elektriker, toalett, centimeter, handväska, tvekan, bekräftelse, taxi, frakt, vanlig, tillfällig, fara, skräddarsy, fiol, trädgårdsmästare, snickare, vas, gummi, periodisk, trottoar, orkan, scarf, picknick, vanilj, emblem, dessert, båge, blivande, lager~~POS=HEADCOMP, kassör, vaddera, bakverk, bibliotekarie, gymnasium, kran, kock, generisk, rengöringsmedel, servitris, rådgivare, brevpapper, massage, bageri, sedan, mikrovågsugn, rörmokare, grill, aktiemäklare, häfte, hamburgare, värmare, kosmetisk, utegrill, popcorn, reflexiv, logotyp, tonfisk, aptitretare, timer, apotekare, pendlare, kartong, plan, portfölj, rulltrappa, livräddare, brev, diskmaskin, ryggsäck, skaldjur, rullstol, gångväg, volleyboll, balsam, häftapparat, bastu, checkaut, toner, industri, skaka
+producera: produktion, generera, produktiv, tillverka, tillverkning, tillverkning, beskära, gröda, produkt, skapelse, bildning
+skratta: skoj, skratt
+glömma: förbise, förneka, uppmärksam
+europa: 
+åtta: åttonde
+godkänd: av, genom-, passera, via, förflutit, passage, korsning, flytta, övergång, gång
+fruktansvärd: förfärlig, fruktansvärd, fruktansvärt, skrämmande, fantastisk, tragisk, oroväckande, skrämma, monstruös, väldigt
+skull: motiv, förmån, förmån
+andetag: respiratorisk, andas, andas, andasut, ego, flämtning, suck, viska, andasin, Sniff
+klok: rimlig, förnuftig, diskret, omtänksam, duktig, smart, intelligent, mogna, lysande
+possessivmarkör: 
+trevlig: behaglig, trevlig, gynnsam, bekväm, bekvämt, intressant, fin, fint, snäll, vackert, gyckel
+perfekt: helt, fullt, fullständigt, totalt, aktivt, perfekt, verkligt, sammanlagt, ganska, exakt, absolut, absolut
+minne: memorera, hänvisatill, minnesmärke, spår
+grav: allvarlig, svår, kraftigt, kyrkogård, kritisk
+modern: samtida, sofistikerad, modernisera, modern, nyligen, samtala, senare, avancerad, numera
+fläck: punkt, punkt, Klockan, plats, fläck, lappa, plats, ingenstans, lokal, ställe, plats, lokal, lokalisera, skylt, kolon
+gåsönder: inbrott, broms, tillflykt, vardagsrum, avbrott, intervall, gap, smash, splittra,krossa, sluta, paus, avbryta, rastlös
+ö: 
+Rör: kontakta, knacka
+lika: ekvivalent, samma, liknande, medrätta, ok, okej, lika, grad, par, identisk
+stötta: säkerhetskopiering, rand, kust
+löfte: begå, engagemang, löfte, utnämning, försäkran
+commissivehumör: 
+planera: schema, handla, programmera, program, initiativ, planerare, plan, förslag, projekt, tomt, skiss, utsprång, layout, platt, ritning, design, förslag, planering, begrundande
+överraskning: förvånande, oväntad, tillfällig, förvånande, undra, förvånande, överraskad
+minut: 
+skott: skjuta, skytte, kula, ammunition, fotografera, bild, blåsa, smäll, kupp, kasta, ram, sparka
+bly: ledarskap, ledande, styra, kula, kör, guide, tamed, lutasig
+glas: spegel, kristall-, burk, glasögon, sida, exportera
+styrelse: platta, råd, upp, stiga, rida, grupp, utskott, panel, råd, kant, provision, tablett, utgåva
+exempel: exempel, illustration, modell-, mönster, liknelse, prototyp, som, representera, prov, fall, prejudikat, prov, paradigm, illustrera, ja
+säker: säkra, säkerhet, säkerhet, säkert, säker, försäkring, Säker, ofarlig, avlägsnande
+läkare: läkare, terapeut, praktiker, medicinsk, tandläkare
+klass: snäll, bana, klassrum, kvalitet, separation, lager, kategori, rang, distrikt
+completiveaspekt: 
+upprepad: ofta, regelbunden, konstant, ständigt, ibland, frekvent, regelbundet, periodisk, upprepning, upprepa, upprepa, revision, iteration
+militär-: grevskap
+värma: varm, värme, värme, temperatur, uppvärmning, gram, kvav
+dryck: dryck, fylleri
+ilska: arg, rasa, skandal, irritera, trots, harmasöver, irriterad
+direkt: rakt, direkt, indirekt, automatisk, enkel, omedelbar, rätaut, omedelbart, verbal
+hatt: lock, hjälm
+hund: 
+tjänare: steward, servitör, servitris, hembiträde, slav, inhemsk
+stolthet: arrogant, stolt, stolt, hybris
+skara: rusa, fulltmedfolk, folkhop, belopp, kvantitet, befolkning, värd, lugg, mycket, många, talrik, allvarligt, riklig, bulk, besättning
+tåg: transport, bil, vagn, vagn, järnväg, järnväg, utbilda
+moralisk: moral, moraliskt, etisk, etik, moral, andlig
+grekisk: 
+fåplats: kostym, lämplig, lämpad, kompatibel, rätt, bekväm, lämplig, motsvarar, berättigad, relevant, bevilja, anpassasig, exakt, exakt, sammanfaller
+ange: logga, inträde, ange, ange, förain, omfatta, registrera, registrering
+regel: administrering, herravälde, regim, dom, dom, dom, referens, styra, lag, lagstiftning, norm, ange, reglera, regera, reglering, recept
+svärd: blad, kniv
+gesigpå: invasion, invadera, aggression, anfall, överfall, anfall, strejk, början, offensiv, räd
+hälsa: friska, hälsa
+stycke: vers, klausul, bit, punkt, attityd, ställning, par
+social: samhälle, socialt
+återbetalning: svar, svara
+förlåt: ångra, pol, förlåta, ursäkt, ursäkt, medlidande, sorg, lida, lidande, sorg, ångest, sorg-, sorg, sörja, strapats
+mod: plocka, djärv, säker, nerv, mod, våga, modig, fartyg
+officiell: formell, formellt, officiellt, officer, kontorist, byråkratisk, godkänna
+underförutsättning: förse, bjudapå, tillhandahålla, introduktion, tillgängliga, förse, bestämmelse, tillgodose, om
+begäran: bön, efterfrågan, krav, behöva, krav, förfrågan, förfrågan, prompt, bud, ansökan, önskar
+blick: glimt, se, attityd, uppfattning, syn, syn, se, märkbar, blick, lysaskarpt
+spridning: detalj, förlänga, förlängning, expansion, byggaut, utbredd, utbredning, diffusion, spridaut, penetrera, amplitud, cirkulera
+motsatt: främre, motsatt, motsats, motsatt, mot, tvärsöver, disk, tillskillnadfrån, motsäga, invertera, flip, mot, opposition, anti, omvänd
+tolv: dussin
+engagerade: engagemang, upptagen, involverade, delta, ockuperade, förlovasig, vikaihop, pragmatisk, omvänd
+vin: alkohol, alkoholhaltig
+smak: smak, smak, utsökt, bete, krydda
+järn-: stål, metall-
+distribuera: överföra, distribuera, publicera, publishing, diffusion, cirkulera, distribution, fördela, del, delain, split, attdela, klassificera, distributiv, distributioner
+handel: handel, företag, handel, handelsvaror, internet, förhandla, transaktion, marknadsföring, kommersiell
+bedöma: dom, dom, referens, jury
+angelägen: nödsituation, brådskandekaraktär, bekymrad, orolig, orolig, ångest, oro, oroa, omtänksam, obekväm, oroande, rädd, angelägen, störande, oroväckande, entusiastisk, ivrig, rastlös, illatillmods, nyfikenhet, oro, ångest
+kapten: 
+upphörandeaspekt: 
+utländsk: utomlands, främmande, utlänning, exotisk, främling, extern, utomlands
+intensifierings: intensifiera
+betydelse: nödvändighet, relevans, menande, betydelse, avgörande, betoning
+slutligen: isistahand, såsmåningom, ändlig, slutlig, slutlig, terminal, fint, avsluta, störta
+bevisa: bevis, bekräfta, bekräfta, demonstrera, vittna, förstå, axiom
+förhindra: upphöra, förbjuda, internera, förtränga, begränsa, hämma, blockera, hållatillbaka, avskräcka, förbjuda, undvika, dämpa, uppskjuta, stanna
+hals: hals, punkt
+intressant: gyckel, rolig, underhållande, intressant, attraktiv, dratillsig, imponerande, dra, överklagande, dratillbaka, spännande, nyfiken
+rättslig: rättslig, lag, legitim, ram, satser
+torr: stam, pulver
+tjäna: service, tjäna, tillgodose, bjudapå
+bevis: bevis, bevis, guide, ledtråd, katalog, visa, bevittna, uppenbar, vittna
+bevisfall: 
+avlägsen: bort, långt, av, isär, bärbardator, avlägsen, påavstånd, längst, förvisa
+framsteg: kliva, progression, utveckling, progressiv, utvecklings, förskott, Fortsätt, förbättring, lyfta, tillväxt, främjande, sätt, behandla
+smal: tunn, stram, kort, begränsa, irriterande, minimera, begränsad
+byggnad: bygga, strukturera, konstruera, konstruktion, lokal, skelett
+Sök: hitta, upptäcka, upptäckt, sökande, upptäckt, sökande, strävaefter, forskning, undersökning, förföljande, förfrågan, undersökning, förfrågan, utforskning, uppfinning
+ledsen: deprimerad, sorgligtnog, eländig, upprörande, upprörd, ånger, olycklig
+synd: skuld, sorgligtnog, begå
+sjuk: sjuk, öm, sjukdom, patient, sjukdom
+ärlig: uppriktig, lojal, ärligt, frank, rakt, oärlig
+bank: bänk, tenn
+skog: djungel, skogsbruk
+mäta: mätare, mått, väga, meter, meter
+strömma: flöde, klausul, nuvarande, elektricitet, flöde, jet
+försiktigt: nära, försiktig, försiktig
+bröd: baka, sugga, smörgås, munsbit, panorera
+ytterligare: extra, skona, dessutom, överskott, överskott, ytterligare, tillägg, kompletterande, Läggtill, bilaga, tillägg, lateral, bonus
+välja: val, urval, Välj, selektiv, plocka, välja, ringa, rösta, undersökning, preferens, utnämna
+djur-: varelse, kastrera
+Zoickön: 
+eventivehumör: 
+multiplikativfall: 
+erhålla: få, förvärva, förvärv, taemot, skaffasig, hitta, säkra, bevara, sustain, härleda, hämta, ha, utföra, uppnå, giftasig
+korsa: tvärsöver, korsning, passera, överstiga, penetrera
+tjock: fet, tjockt, tät, fett
+växa: odla, stiga, tillväxt
+regn: våt, regn, dusch, utfällning, icke, kvast
+tyst: 
+yta: ansikte, nivå, plan, område, substrat
+helig: helig, härlig
+juli: 
+mode: modern, sätt, metod, närmasig, procedur
+rapportera: bestämning, påstående, förhållande, relation, relation, rättvis, utställning, uppsats, exponering
+fil: dokumentera, lodge, profil, arkiv
+axel: axel, axel, skildring, kamma, ärm
+kunglig: kejserlig, monarki, rike, imperium, verklig, faktisk
+låt: ställain, spåra, sång, dikt, sjunga
+bekvämlighet: lätthet, avslappnad, avkopplande, uppmuntran, bekvämlighet, resten, lättnad, anläggning
+någon: vemsomhelst, någon, någon, ingen, alla, alla, vemsomän
+gräs: hö, ogräs, ört, gräsmatta, gram, halm-
+öppning: preliminära, första, upptäckt, gap, spår, öppet, tidigt
+juni: 
+fisk: akvarium
+huvudstaden: kapitel, fond, tillgång
+bröst: bröst, mjölk
+utbildning: utbilda, lektion, lärorikt, läskunnighet, bildning, utbildning, utbildad, akademisk, instruktion, lära, undervisning
+skarp: ljus, våldsam, sträng, skarpt, kryddad, spetsig, akut, angelägen, knaprig, heltklart, lysaskarpt
+bekostnad: avgift, utgifter, kosta, utgåva, produktion, avgift, spendera
+din: din
+miljon: miljonte
+be: be, bön, tigga, låna
+trött: trötthet, tröttsam
+döda: mörda, dödande, eliminera
+skugga: skugga
+massa: kvalitet, kollektiv, kvantitet, bulk, flertal, massa, klump, klunga, folkhop, anfall, deg, pasta
+etablerad: installera, fast, fast, stabil, skapelse, slåfast, sittande, grundlägger, etablering, bildning, inrätta
+nöjd: nöjd, tillfredsställelse, belåtenhet, glad, uppfylla, tillfredsställande, innehåll
+kollaupp: kollaupp, se, kollapå, kollaupp, val, undersöka, inspektera, undersökning, testa, granska, checkaut, mellanliggande, undersökning, undersöka, fastställa, revidera, kontrollera
+dygd: vänlighet, godhet, välvilja, karakteristisk, attribut, drag
+gyllene: blond
+nationell: nation, nationalitet, etnisk, inhemsk, nationalist
+rektor: främsta, nyckelord, större, huvud, chef, ledande, häftklammer
+dal: handfat
+gissning: slutledning, misstänka, förmoda, uppskatta, uppskattning, förutsägelse, förutspå, prognos, spekulera, gudomlig, gissa, förväntad, värdering, bedöma, utvärdera, approximation, förutsägbar
+spekulativhumör: hypotetiskhumör
+gul: påle, bärnsten, blond
+liggerkvar: återstod, resterande, återstående, matrester, resten
+böjd: böjd, böja, trend, vriden, sluttning, luta, hopfällbar, uppfattning, antagande
+låda: resväska, låda, fond, utrustning, Kan, kartong, bin, kassör, fyrkant, bricka, rutnät
+säsong: säsong-, kapitel, station, epok
+vetenskap: vetenskaplig, morfologi, lingvistik
+tydligen: tydligen, klar, uppenbar, öppet, uttryckligen, förment, heltklart, uppenbar
+borra: hål, borra, tråkig, tråkig, pierce, förarga, forum, uttråkad, sightsee
+farbror: moster
+lista: index, katalog, katalog, meny, registrera
+augusti: 
+lugna: tyst, lugn, fredlig, tyst, långsam, avslappnad, stillhet, mjukt
+populär: utbredning, känd, framträdande, folk, ledande, veteran-
+okänd: främling
+bekant: bekantskap, härstamning, ättling, Begagnade
+bekantregistrera: 
+gående: gå, trampa, Fortsätt, vandra, promenad, fotgängare
+dubbelt: dubbel
+intellektuell: sinne, intelligens, mental, intelligent, psykiatrisk, tänkare, visdom, andlig
+präst: präster
+sårad: skadade, sår, ont
+palats: 
+slå: besegra, stansa, slag, slå, slam, rytm, betagen, strejk, bit, seger, vinna, vinnande
+lura: dumbom, lura, lura, fuska, dum, dåraktig, galen, galen, sinnessjuk, vilse, okunnig, okunnig
+nio: nionde, ny
+sympati: medlidande, empati, medlidande, barmhärtighet, sympatisk, medlidsam
+brista: spränga, explosion, explodera, knäckt, bom, konvulsion, smäll
+klädd: klä, klänning, enhetlig, kläder, kläder
+litteratur: litterär, material, utrusta
+samling: koncentration, ackumulation, uppsättning, grupp, kombination, array, galleri, svit, paket, portfölj, syntes, repertoar, slutsats, sluta, slutledning, samla
+tömma: tom, ledig, trumma, fritid, null, tomhet, vakuum, fåfäng, bar
+storm: orkan, styra
+ficka: väska, paket
+mening: dom, dom, förslag, sats, förslag, förslag, bestraffning, övertygelse, fras, fördöma, fördöma, straff, straffa
+november: 
+december: 
+hända: inträffa, förekomst, vara, uppstå, vad, inteheller, varken, anlända
+frånvaro: frånvarande, brist, brist
+tacka: tacksamhet, tacksam, tack, tack, erkänna, erkänna, medge, uppskatta, revisor
+serie: kedja, sträng, array, sekvens, uppsättning, sväng, räckvidd, rad
+adress: hitta
+fågel: flyg, plan, jet, flygplan, flygplan, flygbolag, uggla
+täcka: klänning, täcka, jacka, päls
+förbereda: redo, beredd, organisera, förberedelse, formulera, avsedd, villig, ivrig, ovillig, krita, utrusta, generera, inrätta, bygga, skapa
+snabbt: snabbt, snabb, snabbt, snabb
+rök: rökning, bränna, skjutaupp
+januari: 
+maskin: maskiner, motor, plan
+rörpåsig: flytta, mobil, rörasigurfläcken, rörelse, rörelse, flytta, bock
+tänder: tand, redskap, detta, lus
+skam: skam, skamsen, blyg, generad, pinsam, förlägenhet, bar, naken, förolämpning, skandal
+hjärna: mastermind, märg
+ringa: ringa, ringa, ringla, slinga, trötta, trötta
+frasmarkör: 
+förståelse: förstå, förståelse, känsla, grepp, empati, kunskap, uppfatta, insikt, uppfattning, medvetenhet
+frukt: resultat, följd
+te: längta, bil, kvadratisk
+förklara: förklaring, illustrera, uttrycka, artikulera, förklara, klargöra, tolka, kommentar, tolkning, beskriva, deskriptor
+välkomna: hälsning, reception, underhålla, Hallå, Hej, hälsa
+poesi: dikt, vers, kommunal, Klockan
+köpa: inköp, förvärva, bildning, marknadsföra, handla, billigt, investera, handla
+trogen: oärlig, lojal, troget, hängiven, rätta, pålitlig
+spänning: stimulering, upphetsad, väsen, spänning, provocera, glädje, upphetsning, spola, entusiasm, iver, entusiastisk, brådskandekaraktär, känsla
+april: 
+oktober: 
+bitter: strapats, vånda, ångest, bittert, lidande, smärtsam, sting, skriven
+lösa: oberoende, löst, lösa, lösa, ledig, fritt
+text: lydelse
+värst: dålig, värre, grov, ogynnsam, otäck, trots, mest, högsta, lägst, skräp, skräp, skräp
+kreditera: inteckning, kreditkort, skuld, låna, låna, lån, prestige, giltighet, trovärdighet
+funktioner: komponenter, funktioner, aspekter, särdrag
+kapabel: gördetmöjligt, behörig, kunna, kapacitet, förmåga, oförmögen, potential, bildning, skicklig, begåvad, skicklighet, effektivitet, kompetens, skicklig, effektivitet, användbar
+femton: 
+grym: våldsam, tuff, ovänlig
+anslutasig: delta, deltai, involverade, gåombord, vidhäfta, deltagare, engagemang, förena, ansluta, nykomling, integrera
+brottslighet: skuld, anfall, anfall, kriminell
+damm: damm, pulver, smuts
+praktisk: funktionell, pragmatisk, praktiskttaget, bekväm, istortsett, praktisk, applicerad
+färg: färg, måla, färga, påle, färgad, färgrik, spola, gata, kodning
+förstöra: förstöra, underminera, sabotage, degradera, förstöra, krossa, smash, förstörd, förbrylla, radera, förneka, förstörelse
+öka: Fortsätt, öka, montera, höja, Läggtill, förain, tillväxt, förstora, vandra, lyft
+näsa: näbb
+vänlig: lämpad, gynnsam, kongruent, vänligt, uppriktig, alliera, vänskap, snäll
+igår: imorgon, numera
+hesternalspänd: 
+misslyckas: fel, misslyckad, besegra, oförmögen, förbrylla, svika
+Fortsätt: Fortsätt, kontinuerlig, beständig, fortsättning, ständigt, envisas, fördela, håll, framåt, ansluta, börja, utföra
+avlägsna: befria, dratillbaka, eliminera, eliminering, torka, radera, radera, avskaffa, subtrahera, dra, dra, drivaut, absorbera
+Bär: bära, porter
+blind: 
+flyga: flygande, hoppa, flyg, flyg
+beröm: beundran, beundra, rykte, merit, gratulera, lyckönskan
+uppdrag: 
+offra: offer, byte, olycka, vägtull
+träning: träna, uppdrag, öva, öva, sport, kondition, repetition, borra, rörelse, rörelse, kampanj, idrotts-
+samvete: pronomen, medvetande
+teori: princip, teoretiker, sats, teoretisk
+minister: 
+hat: otäck, äcklig, hat, tyckerillaom, fördom, agg, harmasöver, äcklad, avsky
+sjö: ren
+centrum: central, centrum, station, huvudkontor, mitten
+svag: medvetslös, förtvivlan, desperat, svag, påle
+rationellkön: 
+kort: kort, akronym, kort, inomkort, kort, kompakt, översikt, ekonomisk
+dyrkan: ritual
+gods: produkt, frakt, punkt, handelsvaror, råvara, grejer, frakt, köpcenter, fixtur
+hud: läder-, absorption, bark, skal, skal, päls, krydda
+tak: terrass, tak, beläggning, rapportering
+krona: 
+slott: bur, låsa, efternamn
+tron: 
+bifogad: förlovasig, villkorlig, bifoga, ansluten, beroende, associera, par
+mile: tendens, sluttning, lutasig, lutning, villig
+fängelse: fängelse
+noggrant: väl, bekväm, ordentligt, mjukt, grundlig, ganska, helt, sammanlagt, fullständigt, ganska, totalt, fullt, absolut, rent, exakt, exakt, exakt
+kopp: mugg
+medlem: organ, medlemskap, lem, insider
+civil: inhemsk, medborgare, medborgerlig, civil
+överallt: genomhela, någonstans
+följa: utförande, utföra, hävda, motsvarar, följa, träffa, lyda, innehåll, uppfylla, vidhäfta, ämne, överensstämmelse
+medan: medan, fast, dock, ävenom, ändå, medan, ändå
+volym: mycket, utsträckning, belopp, relativt, kvantitativ, blockera, modul, bulk, omkrets, rapportering, storlek, kontinent, klausul
+beställnings-: klient, frivillig, kostym, öva, vana, brukade
+rosett: båge, båge, lök, kurva
+kött: kött, nötkött
+vegetalkön: 
+sällsynt: isällsyntafall, knappast, sällan
+kusin: relativ
+bro: kvalitet, däck, ben, slåsamman
+skydda: skydd, bevarande, skydda, skydda, försvara, bevara, upprätthålla, bevara, säkra, försvar, försvar
+salt-: överdriven, överdriva, salt, sjöman
+oskyldig: rena
+drottning: 
+dansa: trumma, dans-, hoppa, hoppa
+hotell: logi
+fylla: innehåll, innehåll
+fånge: fälla
+trappa: trappa, trappsteg, stege, låda
+gay: homosexuell
+sand: 
+våldsam: våld, våldsam, turbulent, underbar, svår, stark, intensiv, kraftfull, vilt, intensiv
+september: 
+ruin: förstörelse, omstörtning, skada, skämmabort, katastrof, haveri, förstöra, förstöra
+nötkreatur: ko
+utrustning: anordning, anordning, brevpapper, utrustning, redskap, utrusta, tackla, anläggning, fixtur
+uppfattas: uppfattning, medveten, uppfatta, erkänna, erkännande, medvetenhet
+någonstans: någonstans, vartsomhelst, ingenstans, någonannanstans
+kök: matlagning, spis
+sälja: försäljning, semi, säljare, förråda
+fart: hastighet, takt, drivkraft, skarpt, dynamik, rörelse, accelerera
+dator: datoranvändning
+evig: någonsin, evigt, oändlig, permanent
+bibliotek: bibliotekarie, bokhylla
+förvirring: röra, kaos, väsen, förvirrande, förvirrad, anarki
+artikel: uppsats, punkt, avsnitt, klausul, diameter, ingenjör
+kock: kock, matlagning, baka, kokaupp
+band: bälte, band, tejpa, trupp, grupp, remsa, rand, zon, strand, knippa, klunga, körfält
+öken-: vildmark, folktom
+kyss: 
+is: glass, tejpa, snö
+boll: gummi-, sfär, kula, tvinga, spädbarn, piller, tomhet, leverans
+pinne: stock, sockerrör, vidhäfta, trä, timmer, slagträ, cue, personal, pol
+argument: logik, flytta, kontrovers, diskussion, debatt, tvist, tarmkanalen, påstående, fråga, frågor
+observera: inspektera, undersöka, utforska, undersöka, observation
+välsignelsehumör: 
+slående: utestående, fantastisk, strejk, betydande, signifikant, väsentlig, märkbar, imponerande, förvånande, förvånande, anmärkningsvärd
+skyldig: skuld, skyldig, förolämpa, lagbrytare, fälla, fördöma
+pistol: gevär, vapen
+polis: hävda, övervaka
+dölja: utsöndra, dölja
+expedition: kampanj, kör, färd, resa, resa, tur, korståg
+moln: cyberspace
+avfall: onyttig, onödig, vägra, vägran, avslag, skräp, skräp, skräp
+februari: 
+sjukdom: sjukdom, sjukdom, koronar, tillfredsställande, tillfredsställande, syndrom
+initiativfall: 
+universell: 
+egendom: väl, plantage, tillgång, landa, fastegendom, äganderätt, förmögenhet, rikedom
+ödmjuk: besegra, blygsam
+dröjsmål: skjutaupp, sent
+försenadnödvändigt: 
+rapporteradbevis: 
+olycklig: tyvärr, olycklig, tillfällighet, olycklig, eländig, otillräcklig, motsägelsefull, olämplig
+midnatt: norr
+hjälte: krigare, mästare
+finger: tå, siffra
+Tryck: media, tidskrift, tidning, utskrift, typ, formel, skjutapå
+belöning: pris-, gåva, tilldela, bonus, ersättning, kompensera
+skyllapå: fel, defekt, fel, skuld, skuld, nonchalera, åtala, ansvar, ansvar, anklaga, påstå, fördöma, fördöma
+elände: strapats, lidande, ångest, eländig, leda, lida, sorg, ironi
+panna: 
+a.d: annons, reklam-, annonsera, annons, meddelande, publicitet, fåsynpå, förklaring, till, för, påstående, påstående, främjande, främja
+ängel: jordägare, fe-, tuff, knepig, budbärare
+berömmelse: härlighet, rykte, rykte, rykte, reklam-, publicitet, prestige
+singularisantal: 
+gryning: skymning
+förlåta: ursäkt, förlåta, tolerera, befria, lindra, avfärda, förlåtelse
+får: lamm, get, belopp, positiv
+upplösning: lösa, lösning, beslut, slutsats, analys, brytaner, brytaner, bestämning, förfall
+tålamod: mod, tålamod, patient, otålig, tolerant, tolerans, återhållsamhet
+referential: hänvisatill, hänvisa, specificera, direktiv
+majs: vete, horn, spannmål
+nyckel-: obligation, knapp, växla, huvud, avgörande, framträdande, känslig, större, nisch, vanliga, ledtråd, att
+majoritet: många, mest
+okunnighet: okunnig, löjlig, dum, okunnig, tumme
+svaghet: oförmåga
+vinst: fördel, få, dranytta, livskraftig, seger, förmånstagare
+klocka: larm, klocka, timme
+atmosfär: miljö, sky, flyg, rumslig, klimat, miljö
+humanitet: mänsklig
+disk: skiva, skiva, disk, cylinder, tallrik, spelain, bricka
+ensam: ensam, ensamhet, separat, enda, endast, tyst, folktom
+konstnär: aktör, målare, underhållare
+charm: karismatiska, attraktion, magi, stava, estetisk
+slaveri: slav, obligation
+guvernör: konservativ, linjal
+gren: 
+disposition: arrangemang, konfiguration, tendens, trend, bestämmelse, layout, humör, schema, tidtabell, bostad, destination
+lycka: förmögenhet, öde, tur-, lycka, chans, lyckligtlottad
+härledd: skaffasig, taemot, härleda, hämta, uppnå, hämta
+induktivhumör: inferentialhumör, deduktiv-humör
+gemenskap: samhälle, kategori, personer
+olja: fett, bränsle, fossil, märg, termisk, smör
+rör: rör, knacka, kran, bajs
+skrivaut: utgåva, tryck, utskrift, axel, forma, intryck
+åh: ya, array
+samtalasammanhang: 
+vokativfall: 
+stuga: stuga, tält, lodge, kammare, cell, fack
+nervös: spänd, förvirrad, störa, upprörd, generad, störande, plåga, upprörande, neurala, orolig, nerv, stark, kraftfull, intensiv
+åtskillnad: respektive, annorlunda, variationer, mångfald, skiljasig, skilja, gap, skilja, skillnad, kontrast, variation, variation
+börda: uppfatta, ladda
+silke: grepp, grepp
+förakt: förakta, hat, tyckerillaom, avsky, avsky, nonchalera, förolämpning, skandal, oaktsamhet
+Helvete: 
+separerat: separat, åtsidan, isär, distinkt, skiljasig, separat, påavstånd, separat, isolering, ostracized, avgränsas, separation, skilja, isolera, åtskiljande
+blandad: blandning, kombination, sammansatt, blanda, gemensam, fusion
+trä-: trä, timmer
+behandla: behandling, terapi, bota, behandla, funderapå, terapeut, avhjälpa, handla, läka, betesig, hjälpa, haka, käke
+varning: försiktighet, varna, varna, minnesmärke, fåsynpå
+förmaninghumör: 
+ambition: besviken, besvikelse, lusta, avskräcka, ambitiös
+avkastning: effektivitet, reproducera, inkomst
+pånågotsätt: något, något
+råd: konsult, antydan, råda, samråd, råd, dricks, advokat, advokat, förespråkare
+konstitution: charter, konstitutionell, incident, förekomst
+instrument: verktyg, fartyg, enhet, organ, behållare, nytta, anordning
+stadig: stabil, stabilisera, regelbunden, regelbundet, fast, konstant, ständigt, kontinuerlig, hållbar, standard-, statisk, fixera, konsekvent, permanent, stationär, avslappnad
+element: faktorer, element, komponent, ingrediens, komponenter, väsen, alliera, faktor, parameter
+kontinuerligaspekt: 
+uppkopplad: 
+tidvatten: våg, knäppa
+college: fakultet, akademi, campus, universitet
+svans: Kö, spår
+generation: ättling
+katt: 
+direktbevis: 
+övergiven: försummelse, lämna, folktom, sluta, överge, lösaupp, annullera
+elva: 
+instinkt: spontan
+stam: trunk, stam, ladda, brist, saknas, brist, underskott, brist
+orolighumör: 
+skydd: tillflykt, bostad, lösning, habitat, bostads-, skydd, dorm, asyl, hamn
+ohyfsad: plumpt, grov, ovänlig, hård
+ridning: rida, ryttare
+yrke: yrkesmässig, karriär, ockupation, professionell, yrkesmässig, företag
+lampa: ljus
+kaffe: kafé, tillräcklig, tillräckligt, tillräcklig
+sjuksköterska: syster
+försäkra: försäkran, motivera, löfte, garanti, försäkra, försäkra, fastställa, bekräfta, förse, tillgodose, Säker, övertyga, bekräfta, säkra, palladium
+skor: sko, sandal
+besättning: personal, besättning, team, knippa, personal
+gård: koda, sida, uppvaktning
+vag: tvetydighet, skymma, tvetydig, oklar, mystisk, osäker, obestämd, våg, ledig, obegriplig
+lägenhet: platt, cirkel, fack, svit, vagn
+aktivitet: transaktion, fungera, operationer
+lördag: helgen
+hållare: 
+solsken: sol-, solskyddsmedel, glans, dagsljus
+änka: 
+kommunikation: kontakta, korrespondens, kommunikativ, kommunicera, interaktion, påverkavarandra, relation, relatera, relation, jämförelse, relevans, fåsynpå, meddelande, transaktion, spray, yrkesmässig, dialog, gränssnitt, dialog
+reflexion: begrundande, reflex-, fantasi
+organisation: vävnad, organisation, organisera, utrusta, företag, nytta, byrå, enhet, system, strukturera, konsistens, layout, institution, inleda, förening, fast, företag, flygbolag, organiserad
+stjärna: 
+gäst: främling, besökare, främmande, utlänning, nykomling, klient, kund, värd
+bar: bar, pub, ladda, frakt, frakt, kafé, barium, remsa, bandage, bälte
+flaska: burk, sjukdom
+välsigna: välsignelse, hälsa
+uppståndelse: manipulera, blanda, framkalla, upplopp, excitera
+gräl: variation, tvist, bekämpa, rättstvist, argumentera, oenighet
+inre: inom, innei, interiör, inre, lokal, inhemsk, inomhus-, mental, insider, huvud, större
+motstånd: opposition, motsatt, protest, resistent, anti, harmasöver, invändning
+ihålig: enkel, bar, tom, kabel-, hål
+provins: provinsiell, distrikt, grevskap, fett
+civilisation: kultur
+hänga: övervaka
+chock: blåsa, trauma, upprörande, kollidera, inverkan, bedöva
+undantag: partiell, diskriminering, stereotyp, befrielse, konflikt, utestående, befria, avdrag
+anstränga: stress, spänning, ladda, trötthet, ansträngning, intensitet, omfamning, ras-, etnisk
+körning: kör, förare, guide, rida
+svära: svära, löfte
+skatt: juvel
+utsäde: sperma, mutter, partikel, herr
+torn: 
+favorit: favorit-
+nyligen: nyligen, nyligen, nytt, numera, efteråt
+vaken: medveten, moral, vakna, varna, excitera
+Möbler: 
+rep: sladd, sträng, rem, binda
+äventyr: våga, fara, spela
+royalty: regera
+fest: part, firande, bankett, semester, middag
+årlig: år, årligen
+skala: ram, ramverk, mätare, förhållande, stege, trappa, trappsteg, storlek, kriterium, dimensionera, nivå, utsträckning, proportionell
+följaktligen: följd, därför
+grund: bas, grund, baserad, grundläggande, primär, elementär, kärna, grundläggande, grund, grund, grunder, plattform, fundament, fundamentalt, liggabakom
+ceremoni: ritual, fungera, firande, konsert, formel, medvetande
+jakt: jaga, offer, byte, jaga, skytte
+liberal: generös, fritt
+istoradrag: ihuvudsak, signifikant, mest, huvudsakligen, fördetmesta, mycket, allmänt, övervägande, ursprungligen, väsentligen, igrundochbotten, alltmer
+prinsessa: dotter, brud
+altare: fristad
+web: nätverk, netto, rutnät, vävnad, duk, stickning
+lila: magenta
+samla: samla, ackumulera, krympa, ringa, matrester
+val: val, välja, spår, röstning, val, urval, selektiv
+berusad: alkoholhaltig, fylleri
+Hälli: störta, skjul, spill, störta
+hiss: hiss, upphöja, lyfta, höja, vandra
+gest: skylt, signal, symbol, symbolisk, attityd, hållning, antydan, indikation
+hantera: förvaltning, övervaka, hantera, administrering, styra, styra, kontrollera, fungera, skulle, ordna, organisera, konfigurera, utföra, upprätthålla
+utbyta: byta, ömsesidig, BYTE, ersättning, kommutativ, valuta, monetär, alternativ, transplantation
+bestämdartikel: 
+kejsare: monark
+avsluta: färdiga, slut, avsluta, plåster, över, dekoration, slutsats
+ful: otäck, äcklig, gladlynt, trevlig, rolig
+äkta: sann, verklig, faktisk, virtuell, exakt, original-, inföding, medfödd, inhemsk, viss, säker, kolumn, uppriktig
+tum: tull, tumme
+skägg: haka
+riva: ryck, erosion
+motstå: anti, opposition, kontrast, protest, motsats, motsätta, avbryta, motsatt, vägra, avvisa, motsatt, objekt, härdaut, fientlighet, motsägelse
+köpman: -handlare, affärsperson, handelsvaror
+oberoende: oberoende, frihet, fritt, frihet, autonomi, befrielse
+lukt: parfym, smak, smak
+arton: 
+historisk: historiskt, historia, historiker, historisk
+brutto: total, aggregat, smutsig, rå, rå, upphetsning, makro, ivrig, svår, intensiv, punkt, total
+rot: stam, nyligen, rutt, original-, ursprung
+lera: jord, slem, lera, smuts, blomma
+enkelhet: enkel, ödmjukhet
+slöja: gardin, segla, segling, skärm, membran
+teater: teater
+jämförelse: jämföra, jämförande, jämförelse, förhållande, konfrontation, jämförbar
+sammansättning: komponent, strukturera, bildning, konstruktion, utgör, konstruera, organisera, konfiguration, konfigurera
+rival: motståndare, dissident, konkurrens, konkurrenskraftig, konkurrera, konkurrent, disk, motsägande, anti
+inse: uppnå, erkänna, erkännande, identifiera, diagnostisera, omedveten, utföra, känna, uppfatta, förstå, grepp, utföra, memorera
+balansera: jämvikt, lika, jämlikhet, horisontell, proportionell, par, budget
+tränare: tränare, praktiker, handledare, mentor
+humör: humör, humoristisk, humör, komedi, skämt
+roman: fiktion, ny, nytt
+hämnd: agg
+medel: tillgång, källa, resurs, betyder, förse
+svartsjuk: svartsjuka, avundas
+hjul: cykel, cirkel, cykel
+bränd: bränna
+flash: blixt-, glöd, glans, ficklampa
+föreslå: förslag, rekommendation, föreslå, rekommendera, förslag, nominera, medföra, feed-back, ange, förslag
+FÖRBANNANDEhumör: 
+hjälplös: 
+grupper: grupp, däck
+klubb: slagträ
+översvämning: överösa
+njutning: njutav, nöje, glädje, glädje, lycka, glad, nöjd, förtjust, hejapå
+likgiltighet: apati, slarvig, försummelse, bortsefrån, förbise
+horisont: 
+assumptivehumör: hypotetiskhumör
+brant: elevation, vinkelrät, mycket
+harmoni: kompromiss, ställain
+barndom: 
+knä: knä
+ömsesidig: varandra, ömsesidig, gemensam, gemensam, interaktion, interaktiv
+programvara: ansökan, repertoar
+skada: ont, skada, skada, skada, sår, trauma, skadade, överträdelse
+mottagande: taemot, ingång, reception, tillträde, godkännande, kupong
+disciplin: ämne
+glida: hal, glida, glida, tabbe
+rotation: revolutionerande, kupp, rotation, revolt, uppror
+jordbrukare: bonde
+stroke: blåsa, kupp, rusa, förvränga
+privilegium: privilegierad, preferens, kvot, franchise, bjudapå, koncession
+student: elev, forskare, grund, akademisk
+grotta: 
+tradition: traditionell, traditionellt, tull, överlämna
+tragedi: epidemi, sorg, paradox
+värdshus: pub
+oskuld: hembiträde
+farväl: adjö, bye, hejdå
+kritik: klandra, kritik, recension
+bomull: ull-
+sjukhus: asyl
+hyra: biljettpris, hyra, beskatta, hyllning, hyra, använda, förlovasig, hyrs, charter
+gas: 
+oundviklig: oundvikligen
+dödligt: avgörande
+blad: ark, blad
+offentliggörande: publicera, publishing, utskrift, förkunna, utsända, Släpp, produktion, diffusion, meddela
+översättning: översätta, översätta, tolkning, epidemi, överföra, version
+strand: strand, kust
+begravning: begravning, kyrkogård, begrava
+mjöl: pulver, deg, exakt, exakt, exakt, måltid
+ryta: dramatisk, skrika, buller
+romantisk: midja, höft
+hydda: stuga, lodge, skjul
+mimetiska: 
+dollar: 
+sexton: sextio
+montering: möte, konferens, kongress, konfiguration, rally
+koloni: 
+vinge: avdelning, svit, lem, fena, flyg, flyg
+lejon: 
+listig: knepig, lura, skicklig, duktig, diplomatisk
+drama: låtsas, dramatisk
+dimma: dimma
+hypertext: hyperlänk
+medicin: läkemedel, avhjälpa, spray, recept
+fjorton: utan, exklusiv, sinus
+syra: sur, surt, berg, montera
+nämligen: några, d.v.s.
+användare: förmånstagare, konsument
+biskop: 
+orange: 
+bad: badrum, dusch, badkar
+derivat: förening, transkription, härleda
+primitiv: tidigt, första, gammal
+korg: bin, väska, basketboll
+sekreterare: redaktör
+frälsning: säkerhet, befrielse, Hej, rädda, återhämtning, hämta
+idag: 
+hodiernalspänd: 
+avsikt: avsedd, avsikt, intresserad, angelägen, motiv, ovillig, ägna, ägna, bestämning
+ånga: 
+förgifta: giftig, toxisk, herbicid, poisson
+talang: briljans, begåvad, kompetens, förmåga, repertoar
+effektiv: giltig, effektivt, effektiv, effektivitet, inflytelserik, användbar, aktiv, tillgängliga, imponerande
+tvätta: tvättning
+bekännelse: erkänna, bekännelse, erkännande, tillträde, krav
+dumheter: skräp, orimlig, motsägelsefull
+kol: kol
+vice: associativ, bye, vice
+tillfällig: intervall, varaktighet, timlig, tillfällig, tillfällig, timer, medan, samtida
+delimitativeaspekt: 
+ben: ben, fraktur, skelett
+måndag: 
+tisdag: tredje
+onsdag: fjärde
+federal: federation, central
+önskvärd: attraktiv, gynnsam
+representant: representera, räkning, delegera, advokat, vice, talesman
+linne-: underkläder
+sjunka: drunkna, handfat, zink, synkronisera
+brorson: niece, barnbarn, barnbarn
+belägring: omge, sittplats
+mage: mage, abdominal, matris
+toppmöte: topp, högstupp, dricks, konvent, ås
+exklusivperson: 
+tavarapå: tackla, begränsa, internera, bokning, ryck, ockuperade, uppta, beslagta, hugg, grepp, uppfatta, skaffasig, hävda, besittning
+staket: häck
+staty: skulptur
+lyx: 
+artilleri: rakning
+arrestera: fånga, tatillfånga, internera, fästa, stanna, uppfattning
+packa: paket, paket, paket, slåin, bunt, stängd, stänga, omslag, förpackning
+omgivande: runt, grannskap, granne, granne, grannskap, kringutrustning, miljö, intilliggande, omfattande, miljö, miljö-
+strikt: sträng, sammanhängande, exakt, stram, svår, säkert, absolut, definitivt, tätt, hård, Säker, exakt, exakt
+återstoden: resten, återstående, förflutit, matrester
+rådjur: 
+buske: 
+järnväg: järnväg, järnväg
+ansvarsfrihet: befrielse, lastaav, Släpp, avstå, drivaut, avge
+arvinge: ärva, besitter
+ek: 
+obehaglig: glädje, behaglig, illatillmods, irriterad, upprörande, otäck, obekväm
+piano: 
+övertyga,övertala: övertyga, fira, fira
+osynlig: mystisk, försvinna
+välkänd: känd, ökänd, framträdande
+grymhet: 
+frestelse: fresta
+Telicaspekt: 
+internationell: global, multinationell
+blandasigi: interferens, intervention, ingripa, störa, besvärasig, störande, avbryta, förarga, irritera, plåga, kollidera, irriterande, låta, störning
+subtil: mikro, lura, hantverk, delikat, jämna, fint, bra, tunn, diskret, mild
+filosof: filosofiska
+elegant: modern, delikat, underbar, excellent, anmärkningsvärd, härlig, otrolig, fantastisk, eftertrycklig, fenomenal
+välfärd: välvilja, välstånd, bestämmelse
+fiske: 
+stjäla: stöld, råna, rån, hårtslag, plagiera, BEHANDLAILLA
+läpp: näbb, oral, rand
+gåipension: pensionering, pensionerad, retiree, reträtt, resten, fritid, dratillbaka, pension
+ekonomi: ekonomisk, ekonomiskt, ekonomi, lågkonjunktur, sparande, hushåll, ekonom
+sträcka: rätaut, förlänga, tarmkanalen, drag, bit, passage, fragment, bit, segment, andel
+parallell: vidsidanav, kompatibel, associera, affix, horisontell
+atelicaspekt: 
+hindrandehumör: hindrandehumör
+slips: örn
+ägg: 
+artificiell: syntetisk
+inspiration: motiv, motivering, impuls, inspirera, brain, uppmuntran, induktion, stimulering, stimulans, motivera
+undertiden: samtidigt
+kris: fara, svacka, dom, dom, nödsituation
+artig: artighet, utbildad, etisk
+täta: stämpel, utskrift, intryck
+lunch: frukost, middag, ranch, måltid, ätamiddag
+trots: trots, fast, ävenom
+landskap: scenario, miljö, miljö, sammanhang, miljö-, landsbygden, naturlig, se, vision, utsikt, syn
+konstnärlig: konst, konstverk
+allians: union, liga, koalition, kombinera, partnerskap, konstellation
+maximal: maximera, extrem, slutlig, mest, än, över, överstiga
+mirakel: undra
+koppar: brons
+renhet: kyskhet, noggrannhet, precision
+republik: demokrati
+telefon: telefon, mobil
+piska: rem
+skjorta: t-shirt
+införa: introduktion, presentation, slåfast, inleda, göra, bestämmelse, rekommendera, remiss, injicera, leverera, leverans, skildra, porträttera, kontakta, förain
+soffa: fåtölj
+sopa: torka, avsöka
+tjuv: 
+kanalisera: dränera
+reformera: förbättring, korrektion, evolution, ändra, ändring, förfina, revision, uppdatera
+törst: törstig
+hotfull: hot, hota, skrämmande
+palm: 
+uppmuntra: uppmuntran, inspirera, kör, skjutapå, främja, incitament, enträgetuppmana, hejapå
+högtalare: talesman, föreläsare
+tröskel: ingång, tillträde
+inducera: lobby, enträgetuppmana, geupphovtill, varna, excitera, pose, fresta, framkalla, blöta, härleda, induktion, affix
+propert: städa, rena, bra, underbar, lust, vackert, fint
+session: möte, konferens, termin
+tortyr: lidande, ångest, våld, kuggstång, rådgivare
+fuktig: smuts, våt, kvav
+resande: besökare, resande, turist, passagerare, resa, resa
+kvarn: fabrik, tillverkning, plantera, kran, bryggeri, vete
+Karta: kort, diagram, graf, biljettpris, biljett, symbol, ikon, ledarskap
+fontän: källa, vattenfall, fraktion
+krage: omge, zon
+bytaut: ersättning, förflytta, skona, alternativ, ersättning, utbyte, förflyttning, ändra, variera, ändra, sub, ändra, växla, lindra, anpassa, kompensera
+avsiktligt: avsiktlig, överväga, medveten, medveten, målmedveten, tillfällig
+öl: halvliter
+sammet: 
+positivt: positiv, aktivt, förmån, förmån, helt, totalt
+allvar: attraktion, krossa, allvarligt
+predikan: predika, samtala, föreläsning
+partner: kollega, associera, flickvän, pojkvän, par, para, gemensam, gemensam, aktieägare, kollega, make
+missbruk: felaktig, felaktigt, jäkla
+flock: grupp, besättning, svärm, pamp
+tretton: trettio
+rättfärdiga: motivera, åberopa, förespråkare, berättigande, motiverat, legitim, anpassasig
+manuskript: fakturera, manus, kärande
+fredag: silver-, venus
+borsta: kamma
+laddaner: laddaupp
+grädde: glass
+monster: jätte, monstruös
+frusen: frysa
+pott: panorera, vas, burk, behållare, spis, klappa, fartyg
+ris: 
+beteende: beteende, beteende, karaktär, vana, karakteristisk, tendens, uppträdande
+mynt: valuta, penny
+inkomst: inkomst
+insistera: högt, sticka, hävda, Understrykning, betona, envisas, krav, behöva, betoning, dragning, betonade, argumentera, påstå
+hoppa: 
+äpple: ursäkt, beomursäkt
+diskutera: diskussion, förhandla, argumentera, hash, prata
+bakgrund: 
+transkribera: anpassa, skrivaom, simulera
+underhållning: rekreation, underhållare, fritid, underhållande, underhålla, gyckel, hobby, avkoppling, roa, gästfrihet
+virus: 
+barnslig: sopran-
+robe: plagg, klä, klänning, enhetlig, utrusta, garderob
+reflektera: begrundande, meditation, meditera, avslöja, utsprång, skildra
+konvertera: ändra, omvandla, växla, mutation, övergång, omvandling
+översikt: profil, kontur, sammanfattning, skiss, översikt, översikt, förslag
+opera: 
+armbåge: konsol
+fastsättning: bilaga, förbindelse, lappa, länk, kontakt
+reparera: restaurering, förbättring, rekonstruera, korrektion, ändra, ändring
+knytnäve: stansa, grepp
+misstänksam: misstanke, misstänka
+skriften: bibel, typsnitt, manus
+grop: hål, utgrävning, slåsamman, dike, bor
+oordning: kaos, anarki, oro, störning, röra, upprörande, interferens, fel, hinder
+applåder: klappa, applådera, godkännande
+binär: dyadisk
+kloster: kloster
+pil: 
+tendera: ansvarig, vanligtvis, ivanligafall, orientering, massor, bestå, försvara, trend
+utveckla: detaljerad, definiera, klargöra, utveckla, komplicerad, knepig, träna
+lojalitet: hängiven, lojal, förtroende, troget, ärligt, misstro, trovärdighet, tro, tro
+darra: darrning, vibration
+exil: skjuta, utomlands, asyl
+mekanisk: maskiner, mekaniker, mekanik, ingenjör
+framgångsrikt: fint, lyckas, misslyckad, resultat
+fälla: grepp, fälla
+tårta: bakverk, paj, kaka, deg
+sir: herr, mister, lord, herre
+tveka: tvekan, slå, förfölja, frekvens, sväva
+sjutton: 
+feminin: feminin, kvinnlig, lady, delikat
+honung: 
+insats: satsning, andel, lugg, del, fraktion, bidrag, spela, aktieägare
+tegel: bricka
+legend: myt
+skörda: beskära, gröda
+spis: spis, platta, ugn, öppenspis
+rebell: revolt, uppror, kupp
+gammaldags: gammal
+svälla: blåsaupp, svullen, inflation, svullnad, förstora
+förbättra: höja, öka, fixera, avhjälpa, bota, läka, förbättring, Läggtill, Läggtill, cirkulera
+skål: 
+stirra: fixera, blick
+industriell: tillverkning, industrialisering, industri
+kläpåsig: sås, bandage
+tema: ämne, motiv, ämne, problem, motiv
+asket: 
+chef: steward, chef, chef, administratör, direktör, moderator, ledare, verkställande
+dra: dra, dra, dra, dratillbaka, återkalla, sax, dragning, låda, läkemedel
+kör: kör
+rationell: motiverat, logik, logisk, orimlig, förnuftig, rimligen, rimlig, skenbar
+bearbetning: redigera, processor, behandla, processer, procedur
+varg: 
+matta: matta
+antiken: gammal, epok
+bördig: fourier
+vissla: flöjt
+ost: 
+bita: hugga, tälja, sting, munsbit, smutta, skada, berövande
+katedral: 
+vandra: promenad, flytta, vandra, avvika, förvrängning
+marin: marin-, flotta
+mask: fasad, mask
+penna: penna
+vegetabilisk: vegetarian
+byxor: trouser, byxor
+korruption: skandal, förorening
+skåp: skåp, garderob, garderob, toalett
+soppa: 
+kirurg: kirurgi, kirurgisk, drift, analytiker
+ersättning: ersättning, ersättning, ersättning, apposition, tilldelning, bilaga
+spionera: uppfatta
+hänsynslös: slarvig, ovårdad, oaktsamhet, orimlig
+skvaller: rykte, rykte, chat
+system: system
+tecken: 
+abstrakt: sammanfattning, kursplan
+accent: uttala, uttal, dialekt, betoning
+vänligahälsningar: ärligt, allvarligt, uppriktig, troget
+godkänna: anta, godkänna, godkännande, bekräfta, bekräfta, samtycke, godkännande, stödja, acceptera, bevilja, gynnsam, sanktion
+arkitektur: strukturera, konstruktion, konsistens
+spricka: skreva, knäckt, avvika, sluta, fraktur
+trottoar: trottoarkant, tonhöjd, slem, trottoar, gångväg, förpackning
+avgörande: avgörande, avgörande, bestämma, besluta, bestämd, tilldela, specificera, slutlig, kritisk, kupp
+negativ: ogynnsam, avslag, negation, förneka
+festival: konsert, uppenbarelse, firande
+förräderi: 
+jägare: rovdjur
+orm: reptil
+batteri: 
+detektiv-: avdrag, forskare
+simma: simning
+kuvert: omständighet, adverb
+cigarett: rökning, ogräs
+motor-: bil, motor, motiv, motorcykel, motorcykel
+volontär-: ägna, frivillig, välgörenhet
+reaktion: reaktiv, svar, svara, reagera, feed-back, exponering, reaktor
+bagage: bagage, frakt, trunk, resväska, logistisk
+döv: 
+juice: extrahera
+sexuell: sex, sexualitet
+diamant-: pärla
+eko: 
+identitet: identifiera, Identifiering, symbolisk, bekantskap, identifierbar, erkännande
+ambassadör: budbärare, diplomat, metabolism
+lat: rutten
+momentaneaspekt: 
+drift: drift, böjning, tendens, trend, flöde, ställning
+imaginär: lust, tänka, fantasi, fiktion, fantasi, subjektiv
+stråle: balk, gång, radie, fond
+klättrande: stiga, plantera, sugga, klättra, krypa
+bläck: toner
+minnesvärd: framträdande
+bullrig: buller, skrika, högt, högt
+senat: parlament
+transport: transport, transport, dra, trafik, transfer, överföra, liknelse, ledning
+kista: tarmkanalen
+svälja: smutta, massa
+unnasig: utöva, uppfylla, införliva, bäddain, distribuera
+jordbruks-: lantbruk, jordbruk, odla
+svänga: 
+äng: bete, pre, gräsmatta
+komplex: komplicerad, komplicera, sofistikerad, förening, knepig
+resignation: avgå, pensionering, bakåt, reträtt, sluta
+ödmjukregistrera: 
+peppar: 
+ponny: 
+kandidat: sökande, blivande, rekrytera
+räv: 
+skorsten: öppenspis, stack
+jurisdiktion: myndighet, dom, dom, kompetens
+föredettadenavlidne: 
+demokratisk: demokrati
+filt: tak, täcka, matta, rapportering
+gris: sugga
+elfenben: elefant
+ljusare: författare
+observatör: handledare, besökare, inspektör
+naglar: spika, klo
+bi: 
+skådespelare: skådespelerska, aktör, kärande
+svettas: sy
+polska: dialekt, glans
+illusion: bedrägeri
+osäkerhet: osäker, tvetydighet
+sekundär: mindre
+lantlig: provinsiell, landsbygden, bybo
+omlopp: slinga, cykling, cyklisk, utbredning, diffusion, cirkel, cykel, frekvens, rotation, rotera, trafik, sightsee, ledning
+stöna: 
+likna: liknande, likhet, påminna, motsvarande, tyckaom
+citationstecken: extrahera, citat, unquote, låna, låna, lån, hänvisatill, uppskatta, citera
+säck: avfärda, uppsägning, väska
+irritation: störning, interferens, avbrott, strapats, leda, besvärasig, buller, störande
+nål: injektion, stift, pekare
+kontrollerade: kontrollera
+barriär: begränsning, tvång, begränsad, förbjuda, förbjuda, hinder, blockera, avbrott, handikapp, störa
+lita: räkna, räkna, bero, förtroende, försäkran, beroende, beroende, beroende
+kyckling: höna
+fat: hink
+vanligaspekt: 
+expert-: specialist, erfaren, särskild, specifik, specialisera
+imponerapå: påverka, intryck, dratillsig, imponerad
+skåpbil: ventil
+nicka: nap
+definition: kommentar, Identifiering, beskrivning, bestämning, konnotation, rättvisa
+födelsedag: årsdag
+hammare: 
+doftande: parfym
+trivial: ringa, oviktig, lätt, marginell
+gräva: gräva, borra, utgrävning
+sällskapsdjur: väsen, främja
+kranium: 
+lagstiftandeförsamling: parlament, lagstiftning, lagstiftande
+häl: hoppa, vrist
+rynkapannan: 
+patent: licens, licens
+miljard: 
+kemisk: kemi, kemikalier, kemist, kemoterapi
+puls: impuls, handled, drivkraft, spets
+pilot: experimentera, experimentell, förare
+knut: klump, nod, håll, kontrakt, sluta, årtionde, sticka, korsning, rå, rå, fördom
+kjol: sten
+depression: lågkonjunktur, svacka, sorg, sorg, sorg, deprimerad, stress
+teknisk: teknik, teknologi, tekniskt, tech, avancerad
+fordon: kör, bil, vagn, betyder, bil
+omfattning: expansioner, domän, rike, räckvidd, nå, utsträckning
+vegetation: plantera
+soluppgång: 
+bidra: bidrag, donera, partnerskap
+krok: relatera, ansluta, korrelat, konsol
+tiger: 
+ärm: ärm, detaljhandeln
+motorväg: väg
+milis: 
+integritet: koncentration
+transparent: genomskinlighet, klar, heltklart, uppenbar, uppenbar, tydligen, oklar, explicit, enkel
+nitton: 
+räkning: räkna, aggregat, beräkning, beräkning
+kvalificerad: berättigad, kompetens, kunna, merit, förtjäna, kvalificera, skicklig, behörig, giltig, kompetens
+organisk: fossil, grundläggande
+teologi: 
+flyta: båt, sväva, flotta
+häxa: 
+studio: märka, verkstad, läsapå
+champagne: 
+baner: flagga, affisch, biljett
+äktenskapsskillnad: skild
+bult: blixt-, spika, vrida, skruva
+ven: nerv
+passiv: publik, inaktiverad
+grus: aggregat
+planet: primär, konstellation
+hylla: kuggstång, skåp
+Fan: 
+tropisk: brinnerför
+fas: fotografisk, etapp, period, konstruera, steg
+godtycklig: spontan, frivillig, fördrag, bevilja, okontrollerad
+extas: trance, entusiasm, nöje, lycka
+kvicksilver: temperatur
+självmord: 
+reporter: journalist
+beröva: berövande, återkalla, utesluta, subtrahera, förneka, råna
+balkong: terrass, vind
+gaffel: folk
+anställd: arbetstagare, arbetare, arbetssätt, faktor, beroende, kontorist, personal, arbetskraft, arbetskraft, personal
+arbetsgivare: chef, hyresvärd, ägare
+bredd: brett, förse, bred, semi
+flammande: 
+irriterad: irriterad, upphetsad, irritera, provocera, stimulering, uttråkad, stimulans, stimulera, incitament, motivering
+klassisk: klassisk, optimal
+apa: schimpans
+godtagbar: acceptera, godkännande, rimlig
+signatur: 
+sångare: läsare
+ortodox: konservativ, konventionell, traditionell
+barnkammare: plantage
+adoption: använda, anta, godkännande, antagande, godkännande, part, reception, tillträde, knä, kvant
+motvillighet: tvekan, tyckerillaom
+importera: introduktion, inkomst
+fackla: 
+grammatik: grammatisk
+deposition: ackumulera
+kolonial: invandrare
+yacht: färja, båt
+skrämma: skrämma, skrämma, avskräcka, larm, orolig, förfölja
+följd: följd, episod, viktig, betydande, ledande, framträdande, betydligt, signifikant, väsentlig, meningsfull, indirekt
+utdöd: saknas, försvinna, död
+kupol: 
+tjocklek: 
+envis: bestämd
+muskel: 
+magnitud: storlek, bulk, amplitud, mätare, kvantitet, intensitet
+gnugga: 
+rostatbröd: mellanmål
+mus: råtta
+stavelse: typsnitt, alfabet
+neutral: kastrera, rättvis, sekulär
+kännaav: bedöma, Identifiering, erkänna, identifiera, upptäckt, lokalisera, hämta, hitta
+frodas: välstånd, blomstra, bom, juvel, pärla, blomma
+förelägga: tvinga, hävda, bestämma
+anonym: 
+formellregistrera: 
+kalv: skynda
+manuell: guide, plan, riktlinje, häfte, stämpla, ledarskap, lärobok, instruktion, ledare, handledare, dokumentera, dokumentation, drift, tillverkning
+förväntan: förväntad, blivande, förvänta, förväntan, förutse, förutsägelse, förutspå, prognos, bestämmelse
+smälta: avdunsta, tina, fusion, förena, löslig
+paraply: fallskärm, svamp
+känga: sko, trunk
+mineral-: jod, näringsämne, metall-, mangan
+stillestånd: eldupphör
+anka: 
+tvål: 
+docka: barn, leksak
+villa: fe-, lodge
+sömnad: sy, sy
+förena: medla, förena, förena, anpassasig, justering
+vattenkokare: 
+kanin: 
+dirigent: stege, föreståndare, förare, ledare
+spelare: aktör
+insekt: skadedjur, mask, insekt
+restaurang: 
+radikal: militant, extremist, progressiv, revolutionerande, extrem, hela, genomhela, hel, absolut, integrera
+bosatt: invånare, inföding, inhemsk, inhemsk, hyresgäst, bostads-
+drake: drake
+auditivbevis: 
+dröjakvar: långvarig
+lock: täcka, lock, däck, ventil
+borgmästare: marknadsföra
+hårdvara: material
+kreativ: 
+minoritet: ettfåtal, decimal-
+dike: dike, utgrävning
+orkester: 
+bacon: 
+åtal: åtala, fall, kostym, rättstvist, förföljande, krav, kärande
+nackdel: förlust, berövande, ogynnsam, fel, handikapp, svårighet
+tyg: trasa, kläder, handduk, duk, vävnad, lättnad, strukturera
+musiker: kompositör, musikalisk
+mentalt: andlig, mental, moral, mana, subjektiv, psykologisk, kognitiv, psykiatrisk
+felaktig: felaktig, oacceptabel, bristfällig, motsägelsefull, förväntad, olaglig, otillräcklig, olämplig, orättvis
+arkitekt: 
+wed: 
+citron-: 
+hosta: hosta
+fertilitet: fortplantning, ras, genital
+slumpmässig: slumpvis, randomisera, tillfällig, tillfällig, spontan, stokastisk
+sked: hink
+dagbok: dagligen, tidning, tidning, kalender
+ballong: 
+inferentialbevis: 
+utgivare: redaktör, publishing
+aska: grå, grå
+svordom: svära
+återuppliva: väckelse
+mottaglig: sårbar, känslig, förnuftig, emotionell, ansvarig
+tunnel: tunnelbana
+pussel: blandaihop, förvirrande
+mekanism: procedur, rutin-, systematisk, maskiner, anordning, närmasig, politik
+matematik: matematik, matematisk, oändlighet
+blekna: 
+balanserad: förhållande, jämförelse, andel, konsekvent, hållbar
+sublativefall: 
+doppa: dyka, bäddain, släppa, tumla, frekvens, sluttning, lutning, lutning, blöta, nedgång, svacka, luta
+enhet: enhet, enhet, modul, näbb, singularis
+monopol: exklusiv
+spelande: spela, spel, match, spel, vadhållning
+u-båt: 
+oavsett: 
+jordbävning: konvulsion
+laboratorium: labb
+kommentarer: kommentar, anmärkning, kommentar, svar
+genomgå: passera, erfaren, taemot
+självkontrollera: 
+ambassad: 
+ordförande: ordförande, president
+uppfinna: uppfinning
+deklarativhumör: 
+handske: 
+knäböja: 
+geografi: 
+investering: investera, våga
+analogi: jämlikhet, likhet, affinitet, släktskap, förhållande
+hök: örn, hacka
+psykologi: fysiologisk, psykologisk
+skrot: annullera, skräp, skräp, fragment, kasta, kasta
+pirat: hacker
+roll: del, stock, deltagare, introduktion, karaktär, ställning
+dos: kvantitet, diet, kvot, ransonera
+lax: 
+pudding: dessert
+magnetisk: attraktiv, jagsjälv
+pump: bomba, vakuum
+syre: 
+frans: kant, rand, marginell, marginal, kringutrustning, gräns, gräns
+certifikat: bekräftelse
+medalj: 
+retorik: 
+ringt: trappsteg, trampa, steg
+skrapa: repa, beta, förolämpa
+loggain: invasion, logga
+teleskop: mikroskop
+halsband: besegra, klistra, kedja
+stavning: stava
+surfa: 
+whisky: 
+kamel: 
+amatör-: 
+vuxen: mogna, ålder, åldrig
+biografi: elektricitet
+åsna: 
+perspektiv: syn
+proffs: professionell, positiv, adaptiv
+engångimånaden: tidskrift
+semester: lämna, semester, resten
+klick: klick, knäppa, slå
+oval: 
+elastisk: gummi-, flexibel
+lexikon: lexikalisk, ordförråd, pre
+dela: delain, division, brytaner, brytaner, räkna, fack, avsnitt, fragment, komponent, komponenter
+skinka: lår
+regnbåge: 
+organism: varelse, skapelse
+spotta: para, tunga
+utlopp: gårut, uttag, produktion, avresa, grepp, spår
+tank: reservoar, behållare, moms
+fjäril: 
+Diagram: diagram, graf, grafisk, grafik, schema, katalog, katalog
+tvilling-: dubbel, dubbel, par, par
+förolämpande: förolämpning, skam, anfall, förolämpa, anfall, verbal, offensiv
+oberoendeav: oberoende, fritt, isär, löst, separat
+kärr: 
+mardröm: dröm
+sylt: gelé, komprimera
+lyssnare: lyssna
+museum: 
+stabilitet: stabilisera
+avslöja: meddela, avslöja, upptäckt, översikt, ångra, publicera, upptäcka, skilja, skenbar
+aggressiv: störa, röra, ockupation, aggression, offensiv, bombplan
+friktion: konfrontation
+deltagande: närvaro, delta, engagemang
+pir: väg
+spindel: fiskare
+potatis: 
+tillverkare: tillverkare, producent, förberedelse, tillverkning, tillverkning
+girighet: hunger, aptit
+förtidig: tidigt
+multiplicera: slogtill, ras, multiplikation, dubbel
+statistik: statistisk, figur, statistisk
+utnämning: nominera, utnämning, urval, engagemang
+biljon: 
+jakandehumör: 
+tillämpningar: app, processer, tillämpas, ansökan
+nominell: beta, specificerade, par
+missnöje: 
+infektion: infektera, smittad, övergång, överföring, infektiös
+ryckapåaxlarna: ryckatill
+fotboll: fotboll, sparka, kalcium
+pionjär: större, avantgarde-
+onormal: ovanlig, ovanligt, crackpot, utöverdetvanliga, överdriven, fenomenal, idealisk, singularis
+underlåtenhet: standard, tabbe, brist, oaktsamhet, försummelse, eliminering
+pressa: fulltmedfolk, skjutapå, knåda, minskning, sticka, tryck, krossa, grepp, grepp
+procentsats: cent, procent
+idiofoner: 
+spak: 
+uttag: kommatillbaka, regression, reträtt, uttag, återkallande, slutsats, slutledning, produktion, inblandning, dratillbaka, total
+senator: 
+myra: 
+gravid: moderlig, conceive
+varjedag: dagligen
+fällning: utfällning, sediment, hastighet, brådskande, accelerera
+variabel: variera, variabler, global, mobil
+lockig: ringla, kasta, rulla, helix
+svavel: svavel, bruten
+kontinental: kontinent
+diktera: instruktion, kommando
+groda: 
+överdrivenfall: 
+slipa: halv, semi
+irrealishumör: 
+inomhus: inomhus-, innei, inom
+utnyttja: utnyttja, absorbera, prestation, utforska, rån, absorption
+geologisk: underground-
+pass: 
+omoralisk: ond, rutten
+kex: kaka
+samarbete: samarbeta, partnerskap, integration, hjälpa, bidrag
+smedja: gör, uttala, bildning, skapa, komponera, generera, förfalska, font, replikera
+atom: atom-, partikel, enskild
+aids: hjälpa, lättnad
+kräsen: delikat, irriterande
+pyramid: 
+olaglig: olaglig, icke
+blyghet: blyg, kontraktion
+luta: luta
+astronomi: 
+labyrint: tvetydighet
+stipendium: sponsorskap, tilldela
+fiber: fiber, bunt, fördom
+syrsa: 
+duva: 
+anpassning: anpassa, fixtur, överensstämmelse, modifiering, anpassasig, optimering, adaptiv, logi
+ogillande: ogilla, ogillande, opposition, motsatt, protest, disk, motståndare, motsatt, vägra, spår, avvisa, avfärda, veto, förolämpa, handledare, enas, instämmerintealls
+operatör: bärare
+triangel: 
+skattmästare: kassör
+väte: 
+skrivare: 
+sättaihalsen: krita
+kronisk: resistent, allvarlig, svår, mycket, extrem, akut, intensifiera
+klara: råkautför, anpassa, konfrontera, offset, betagen, tackla, kontrastiv, handla, utföra
+dilemma: förvirrad, förvirrande
+symptom: indikation, bjudapå, visa, utställning, presentation, fenomen, diagnostisk, syndrom, karakteristisk
+cykel: cykel, cykling, cykel, rida
+teknik: teknik, tekniskt, mekanik
+spiral-: helix, snurra
+kamera: kammare
+dansare: 
+migration: flytta, invandring
+tennis: 
+beroende: beroende, beroende, beroende, slav
+väva: fläta, sticka, stickning, vävnad, konsistens
+ryggrad: 
+steka: kokaupp
+främja: främja, stimulering, acceleration, främja, lätthet, förenkla, anläggning, nytta, lindra
+hugg: sting, pierce, hugg, försök, försök
+lösenord: signal, cue, slogan, min, koda
+hemisfär: spetsig, dricks
+deprimerande: besvikelse, deprimerad, avskräcka, sorg, provocera
+strategi: strategisk, strategier, politik
+patrullera: periodisk, bensin
+glaciär: 
+halvvägs: halv, delvis, semi
+promemoria: fördrag, kontrakt, konvent, bevilja, motivera, representation
+kon: 
+symmetri: 
+svarande: förespråkare, motsatt
+moské: 
+uttömma: utsläpp, mataut
+schack: 
+nucleus: nukleär, cell, väsen, kärna, central, embryo, foster-, kärna, ämne
+körsbär: 
+snubbla: tumla
+lastbil: lastbil, fraktfartyg, spåra
+trådlös: radio
+auktion: försäljning
+sikt: debug
+ostadig: instabil, instabilitet, osäker, illatillmods, rastlös
+suga: absorbera, blöta
+ovänlig: ovänlig, fientlig, ogynnsam, skadlig
+folkräkning: beräkning
+tå: tå, redo, villig
+kopplaav: avkopplande, avslappnad, avkoppling, fritid, lindra
+kontinuitet: ständigt, fortsättning, samband
+bubbla: 
+gitarr: etc.
+partiskhet: preferens, fördom, böjning
+glänsande: ljus, A.M., lysande
+beroendepåvadsom: några, vadsomhelst, som, vemsomän, bland, undervattnet
+stickad: stickning, sticka, fläta
+sväva: vandra, sväva, hals, flyg, känd, plan, flygplan, flygplan, flygbolag
+pronomenmarkör: 
+krydda: krydda
+borgen: obligation, försäkran, löfte, garanti, sponsor, juvel, pärla
+reta: fresta, förarga, irritera, fascinera
+java: 
+recept: metod, stimulans, recept, formel, instruktion, konsonant
+plog: lösa, kapa
+ränna: dränera
+komet: lagbrytare
+innovation: upptäckt, uppfinning
+medeltida: mitten
+dekorativ: dekoration, dekorera, kosmetisk
+plast: 
+fotnot: 
+mejeri: mjölk, vanlig, regelbunden
+golf: 
+noll-: null, ledig
+blixtlås: komprimera
+avtryckare: 
+chips: bit, fragment, skiva, bit
+förtrycka: dämpa, förtränga, sänka, överösa, BEHANDLAILLA
+gäspa: avdunsta
+olikhet: 
+mol: lera
+krukmakeri: jord, lera
+hemmafru: 
+irrationell: orimlig
+gruvarbetare: mindre
+jäst: enzym, deg, bakverk
+snappaupp: hämma, tackla
+premie: bonus, pris-, tilldela
+alternativ: alternativ, ersättning, alternativ, gurka, val, urval, variant, föredra, preferens, frivillig, utbyte, roat
+examen: examen, passera
+konkurs: fel
+bevattning: 
+kapitalist: kapitalism
+elasticitet: flexibilitet
+geometri: geometrisk
+haj: 
+lagring: bevara, bevara, lagra, sparande
+förhoppningsvis: utsikt, förväntan, optimism
+realism: 
+ambulans: 
+plånbok: handväska, portfölj
+grimas: mugg, flin, slingrasig
+forskare: vetenskaplig, forskare, forskare, forskare, biolog
+gut: tarm
+jämnmod: 
+realistisk: faktisk, sann, verkligen, faktiskt, verkligt, uppriktig, pragmatisk, verklig, explicit
+irrelevant: motsägande, olämplig, motsägelsefull, oviktig
+böna: mutter, jordnöt, sädesslag
+informell: formell, formellt
+sondotter: barnbarn, barnbarn, niece, ättling
+stek: hugga
+kväve: 
+mumla: viska
+bär: plocka, bukt
+analysera: parse, analytisk, analysera, analys
+kontrasterande: kontrast, kontrastiv, motsägande, motsatt, motsats, skilja, diskriminera, skilja, distinkt, olika
+fyrverkeri: satsning, vadhållning, flamma
+pop-: knäppa, smäll
+kläavsig: remsa, kläder
+komplement: kompletterande, utrusta, tillägg, komplementär
+pegativefall: 
+cancer: 
+pantsätta: inteckning, soldat, löfte
+läcka: spill, förlust, släppa
+densitet: fulltmedfolk, intensitet
+tugga: 
+komplexitet: komplikation
+pratsam: kommunikativ, vig
+frikänna: befria, befrielse, befria, lindra, merit
+polär: extrem, pol
+rabatt: befrielse, försäljning, koncession, antagande
+taxi: taxi
+hierarki: ledarskap, system, rekursion
+morra: 
+naiv: linjär, enkel
+ordförandeskap: president-
+köpare: kund
+gallon: 
+mygga: 
+djuptbeklaga: sörja, fördöma, ångra
+avvikelse: böjning, förvrängning, offset, något
+mosaik-: olika
+plugg: kontakt, kupong
+graviditet: uppfattning, conceive, bära, ladda
+matvaror: 
+kommunist: 
+förvåna: förvånande, fantastiskt, fantastisk, vilse, blandaihop, bedöva, förbrylla, förvånad
+prosecutivefall: 
+diktator: 
+upptagenhet: sysselsättning, ångest, oroa, oro
+satellit: sond
+ungefärlig: approximation, cirka, approximativ, nästan, praktiskttaget, cirka, ungefär
+arbetslös: sysselsättning
+genomföra: genomförande, hävda, tillämpning, utförande, utföra
+glödlampa: lök, ventil
+anhängare: assistent, härdaut, konsol
+lotus: lilja
+klorid: 
+bakterier: svamp, bakteriell
+gitter: mönster
+biologisk: varelse, biologi
+hyckla: låtsas, simulera
+bitgrupp: 
+utsöndring: utsöndra
+balett: fena, valsedel
+urin: piss
+vitlök: 
+medelklass: 
+tvätt: tvättning
+karakterisera: skilja, karakterisering
+jordgubbe: 
+Anteckningsblock: bärbardator
+transcenden: 
+album: 
+baseball: 
+piratkopiering: 
+buffé: 
+particip: deltagare, deltagare
+garage: 
+diagnos: diagnostisk, diagnostisera, kognitiv, erkänna
+pressaut: utpressning, plocka, begränsa, tvinga
+fosfor: 
+strukturell: strukturera, konfiguration, config, institutionell
+lim: gummi
+avhandling: avhandling
+hantverkare: mekaniker, rörmokare
+banan: vävnad
+revben: redskap
+nickel: 
+förnärvarande: nu, presentera, nuvarande, numera, Kö
+buss: låta
+censurera: censur, kritiker
+missil: raket
+korv: varmkorv
+manipulation: fungera, manipulera, operativ, lura, fuska, hantera, drift, bedrägeri
+tomat: 
+förstärka: konsolidera, intensifiera, bekräfta, stark, stärka
+konvex: 
+kalium: 
+algebra: algebraisk
+smycke: 
+optisk: visuell
+arbetslöshet: bageri
+avväpna: vapen, vapen, väpnad
+solo-: separat, fenomenal, separat, jord, ensam
+webbläsare: scanner
+historiskspänd: 
+förmåga: effektivitet, potentiellt, kapacitet, kvot, förmåga, kompetens, läskunnighet
+spektrum: 
+natrium: 
+hysteri: konvulsion
+förvaltare: administratör, lojal
+gisslan: inteckning, löfte
+idrottsman: matematisk, idrotts-
+skrynkla: defekt, begå
+innehålla: införliva, innehåll, utgör, konstruera, involverade, förlovasig, engagera, integration, bestå, innehålla, uppnå, omfatta
+klämma: häftklammer, konsol, häftapparat
+prioritet: uppmärksamhet, preferens, föredra
+våldta: skandal, överstiga, aggression
+övervaka: spåra, övervaka, kollapå, utöva
+valkrets: väljare, väljarkår, mild
+kulturell: kultur
+kön: beräkna, sex, penis, arter, sexualitet
+platina: 
+dubbelantal: 
+specialitet: yrkesmässig, karakteristisk, drag, särskild, särskild, expertis, specialist, separat, exklusiv, specialisera
+lunga: 
+super: fenomenal, enormt, oerhört, handledare
+vagn: transport, vagn, vagn
+svamp-: svamp, forma
+lokalt: lokal
+hetsa: excitera, förarga
+bensin: bensin
+pumpa: squash, märg
+njure: höjd, förlängning
+plundra: rån, plundring, byte, skämmabort, råna, dra
+arsenik: 
+snigel: helix
+oändligtliten: 
+socialistisk: släktskap
+filtrera: 
+bredda: byggaut, bred, Läggtill, höja, öka, förlänga, brett, expansion
+kontroversiell: kontrovers, motsägelse, tvetydig, förvirrande, tvetydighet, motsägande
+koppel: hyra, rem
+jockey: 
+lunginflammation: 
+placera: sätta
+skärning: korsning, korsning, ordningstal
+solidaritet: förena, rally, affinitet, enhet, likhet, epok
+gångjärn: detaljerad, slinga, axel
+longitudinell: vertikal, långvarig, arter
+utdelning: tilldelning
+trubbig: långsam
+skridsko: åkaskidor
+huka: böja
+exponent: index, exponentiell, fragment
+handikapp: handikapp, oförmåga, defekt, ofullständig, inaktiverad, fel
+mästerskap: mästare, vinnare, turnering
+fotograf: fotografisk
+digital: figur, siffra, numerisk
+tik: 
+ögonlock: 
+undermedvetna: 
+ögonbryn: 
+nysa: 
+munter: gladlynt, gyckel, glad, rolig, roat, rolig, underhållande, humoristisk, löjlig, behaglig
+flykting: invandrare
+protein: äggvita
+dumpa: lugg, stack, förvisa, skräp, skräp, kasta
+utvecklas: evolution, utveckla
+kräkas: 
+gen: genetiskt, genetisk
+förstaårselev: 
+sammanfoga: fusion, förena, förena, kombinera, konsolidera, integration, konvergera, ansluta
+sociologi: 
+rörlighet: mobil, bärbar, rörelse, rörelse
+regional: grevskap, område, zon, avdelning, sfär, sektor, kringutrustning, provinsiell
+rörelseuppför: 
+utspädd: tunn, mild
+retrospektiv: dåtid, introspektion
+inversion: invertera, motsats, ömsesidig, omvänd, katastrof, ledning
+tv: tv, filma
+kub: fast
+syntax: syntaktisk, pension, layout
+produktivitet: prestanda, produktion
+morot: 
+molekyl-: molekyl, täljare, substrat, nukleär, atom-
+konglomerat: klick, grupp, klunga
+revisor: revisor
+differentiering: diskriminering, diskriminera, skilja, skilja, brytaner, skillnad, kontrast, variationer, variation
+tillgänglighet: fåtillgångtill, förvärv, skaffasig, tillgängliga, närvaro, effektivitet
+orgie: 
+lösningsmedel: lösaupp
+fosfat: 
+primer: bete, bekantskap, introduktion, fördetförsta
+kommatecken: koma, part
+premiss: 
+rörelseutför: 
+givare: presentatör
+psykolog: 
+klor: get
+tangentbord: 
+elit: överlägsen
+parentes: konsol
+rugby: 
+ulcus: öm, sår, trauma, kokaupp
+varieradlutning: 
+knapra: 
+abort: missfall
+Tröja: jacka
+evolutionära: utvecklings, evolution, utveckling, progression
+notation: skylt, symbol, Notera
+studsa: bom, hoppa
+dissektion: fördela, avsnitt, division, delain
+cache: lurar
+antimon: 
+superessivefall: 
+tumör: tumör, bulk
+alfa: 
+navel: mage, pol
+immun: andas, resistent
+förkorta: begränsa, begränsa, begränsa, sammanfatta, kompakt
+fängsla: tatillfånga, fascinera, jaga, dratillsig
+socka: 
+film: filma, bio, band, tejpa, rand
+kosmos: universum
+förorena: förorening, infektera
+sällskaplig: 
+aluminium: aluminium
+svängning: fluktuation, vibration
+alfabetisk: alfabet
+horoskop: 
+tangent: 
+delfin: 
+mördare: 
+resonans: vibration
+indikator: hållning, index, kriterier, pekfinger, mätare
+dioxid: 
+byråkrati: byråkratisk
+förvränga: vilse, förvränga, försämras, förfalska, skev, förvrängning
+galax: konstellation
+klinisk: 
+radium: radio
+kylskåp: kylskåp
+harmonisk: musikalisk, överensstämmelse
+arkeologisk: arkeologi, arkeologi, fossil
+specifikation: norm, standardisera, detalj
+interpolation: 
+folder: häfte, bulletin, handout, ark
+ofullständighet: ofullständig
+antropologi: 
+välsmakande: utsökt
+transitiv: ursäkt
+krypaihop: 
+simulering: simulera, emblem
+vagina: bukt, cell
+Jon: 
+turism: turist, resa, picknick
+trigonometri: 
+kidnappa: kapa, ledning, ryck
+överlappning: interaktion, interaktiv
+upphittare: 
+kastaut: förflytta, drivaut, mataut, deportera, förvisa
+frisör: 
+folklore: vete, folk
+kapillär: 
+nationalism: nationalitet
+rumpa: höft
+sublimera: ren, förfina
+buffert: 
+frustration: förtvivlan, besvikelse, förvirrad, annullera, besegra, besviken, svika, besvikelse
+kobolt: 
+subtraktion: subtrahera
+rörelseuppförfloden: 
+koordinater: ordinatan, samordna, samordning
+anus: 
+redundans: massor, resterande, överskott, avfärda, uppsägning, befrielse, överskott
+video-: 
+bojkotta: grevskap, ostracized, försummelse
+frågesport: försök, examen, frågeformulär
+gerilla-: 
+magnesium: 
+radar: 
+kvalitativ: kvalitet, karakteristisk
+pålitlighet: trovärdighet
+rektangel: 
+generalisera: generalisering, bygga, skapa, komponera
+anymore: nu, igen
+utegångsförbud: 
+formulering: bygga, konstruera, konstruktiv, lydelse, skapelse, bildning, formulera, etablering
+reinkarnation: återfödelse
+antända: 
+uran: 
+skattebetalaren: beskatta
+integrerad: väsentlig
+menade: se, åsikt, anmärkning
+gamma: 
+server: 
+rörelsenedströms: 
+koefficient: kvalitet, faktor, modul
+vismut: 
+vykort: posta, doktorand
+avvika: reträtt, avvika
+morfologiska: genetisk, morfologi
+utvärdering: bedöma, värdering, utvärdera, förfrågan, undersöka, förfrågan, sond, par
+jeans: 
+databas: 
+kalkylator: datoranvändning
+investerare: 
+röntgen: 
+dagordning: programmera, program, läroplan
+visum: 
+infrastruktur: grundläggande, grundläggande, fundamentalt
+detektor: 
+splitsa: affix, ändra, bifoga, ansluta
+brom: 
+kisel: pi
+hicka: 
+pastell: påle
+Zoo: 
+klinik: 
+yoga: belopp
+bokhandel: bokhylla, handla
+återförsäljare: -handlare, säljare, handla, närliggande
+halshugga: igodtid
+ja: ja, ya, uppriktig
+jazz: 
+volfram: 
+terrorist: militant, skräck, extremist
+konceptuell: lust, begrepp, begrepp, antagande, paradigm, uppfattning, förslag
+kartesiansk: 
+dribbla: slem
+underhållsbidrag: 
+programmerare: app
+input: 
+smink: smink, kosmetisk, lura, kompensera
+vaccin: kommentar, rapportering, injektion
+axiomatisk: 
+heroin: 
+mapp: 
+katod: 
+influensa: feber, inflytande
+ideologi: trodde
+parkering: 
+snapshot: 
+anticlimax: besvikelse
+selen: 
+bark: bark, skal, skal
+likvärdighet: jämlikhet
+vertex: 
+flygplats: 
+amputera: avbryta
+bedragare: 
+krom: 
+liter: liter
+instrumentbräda: panel, rusa
+hormon: 
+perforera: pierce
+animism: 
+polygon: vinkel
+feminist: 
+konjugat: lutning, ansluten, styra
+euro: 
+algoritm: 
+laser: 
+apotek: 
+millimeter: millimeter
+böja: böja, böjd, flexibel, gynnsam, kabel-
+anod: 
+nyans: skugga
+gosa: omfamning
+deltid: 
+känslighet: 
+stordator: 
+demonstrant: utseende, visa, prestanda, demonstration, presentation
+helium: 
+tvåspråkig: 
+gerundium: 
+plasma: 
+kromosom: 
+heltal: siffra, siffra
+kilometer: kilometer
+fax: 
+genetik: genetisk, genetiskt
+fräkne: 
+broccoli: 
+permutation: formatera, array, layout, apposition
+skräppost: 
+vektor: bärare
+taktik: anordning, närmasig, teknik, metodik, hämta
+OK: hämtasig, korrekt, fästa, giltig, Okej
+vitamin: 
+kadmium: 
+grafiska: grafisk, grafik
+manuellt: sig
+titan: 
+splurge: skryta
+helikopter: 
+tellur: skandium, lantan
+deadline: termin
+rikta: konsekvent, array
+analog: 
+centimeter: centimeter
+molybden: 
+litium: 
+multimedia: 
+kalori: 
+robot: 
+läxor: jämlikar
+logaritm: 
+installera: montera, installera, syntes
+glyph: lättnad
+ekologi: ekologisk, miljö-
+sophisticate: skämmabort
+mall: forma
+euklidisk: 
+kilogram: 
+ätaförmycket: 
+divisor: 
+gratisprogram: 
+tjuvlyssna: 
+frisyr: 
+iridium: 
+rasism: ras-
+bandbredd: bredband
+optimal: högstupp, optimal, gynnsam, lämpad, anpassasig, anpassa, kompatibel, adaptiv, rätt, rätta, förnuftig
+hypotenusa: ackord, luta
+stationärdator: 
+huvudkontor: huvudkontor, sittplats
+felplacera: generad, förlora
+cerium: 
+partitivfall: 
+kassett: tejpa
+stormarknad: köpcenter
+viljestyrka: vilja, vilja
+dimensionell: storlek, form, dimensionera, rumslig
+off-line: 
+kryptering: kryptografi, kryptera, kodning
+synkronisera: synkronisera, integrera, samtida
+seminarium: 
+semantisk: menande, konnotation, ämne, objekt, material, ämne, känsla, meningsfull
+disko: 
+neon: 
+verkligtid: 
+osmium: 
+livsstil: liv, livstid, överlevnad, levande, karriär
+brandvägg: 
+cosinus: beräkning, beräkning
+artefakt: 
+plutonium: 
+arbetsstation: 
+yttrium: 
+augmentative: 
+användarnamn: 
+högravingen: 
+argon: 
+socialisera: kommunicera, påverkavarandra
+globaliseringen: 
+sekant: 
+våglängd: våg
+koda: koda
+återvinna: 
+asymptot: 
+avkoda: uppfylla, lösa
+omstart: omstart, operativ
+hepatit: 
+proton: 
+diskett: skiva
+milligram: 
+pixel: 
+tantal: 
+löstämne: 
+folkmord: 
+gallium: 
+pop-upp: 
+zirkonium: 
+icke-linjär: 
+pesticid: 
+polynom: 
+beryllium: 
+neuron: 
+predicative: bestämd
+router: 
+faktoriell: fakultet
+widget: tillägg
+neutron: 
+niob: 
+germanium: 
+metalloid: ickemetall
+prolativefall: 
+biologiskmångfald: 
+industrialisera: industrialisering, industri
+joystick: 
+antibiotikum: 
+aktinium: 
+astronaut: utrymme
+dekomprimera: byggaut, öka
+extrapolering: 
+utomjordisk: främmande
+oktett: 
+öppenkälla: 
+maraton-: 
+pluggi: 
+topologi: 
+gigabyte: 
+jonisera: 
+sienheter: 
+camping: läger
+ändligverb: 
+krypton: 
+gnomichumör: 
+flyttanyckel-: 
+kvadrater: fyrkant
+försäljare: -handlare, säljare, kontorist
+renium: 
+mobiltelefon: mobiltelefon, mobiltelefon, bärbar, bärbardator, cell
+sidled: åtsidan
+modalfall: 
+skräppost: 
+rälsbuss: 
+klämmakonst: 
+bokmärke: 
+hafnium: 
+hem-sida: 
+mulativafall: 
+n:te-root: 
+flödesschema: 
+mittenröst: 
+gammalålder: äldre
+avrundning: avrundad
+rodiumatom: terbiumatom, tuliumatom, toriumatom, fluoratom, rubidiumatom, talliumatom, vanadinatom, poloniumatom, strontiumatom, ruteniumatom
+PÅDÅLIGTHUMÖR: grov
+snedfall: 
+patientfall: 
+prehodiernal: 
+skallig: bar, rå
+målavtryckare: 
+praseodym: 
+lam: 
+klaga: klagomål
+tillfall: påfall, slumpvis, frånfall
+strålning: glöd, utsläpp
+indium: 
+skådespelareroll: 
+eufori: entusiasm, iver, tillfredsställelse, samtycke, nöje, glädje, lycka, glädje
+capslåsa: 
+blank: 
+dramatiskt: dramatisk
+chauvinist: 
+webbplats: webbplats, plats
+krukväxt: 
+medborgerligarättigheter: 
+protaktinium: 
+projektiva: 
+binary-värde: 
+målvakt: 
+detaljhandelnlagra: 
+statusbar: 
+mikrofon: mikro
+människokropp: 
+svär-in: 
+brevbärare: 
+centreradfall: 
+trojanhäst: 
+skrollabar: 
+trippelpunkt: 
+läsaendast: 
+wisecrack: skämt, oral
+obeständighet: instabil, instabilitet
+poet: 
+fonologiska: 
+hypnotisera: 
+rättegångantal: 
+receptor: receptionist
+verb-suffix: 
+ickemänsklig: 
+flödesström: 
+detsom: att, som, vem, vars
+klausul-tail: 
+uppochner: omvänd, omvänd
+tillexempel: 
+ipadress: 
+i-språk: 
+individuellt: personligen, enskild, personlig, separat, separat, distinkt, skiljasig, annorlunda, rumslig
+promening: profras
+epidemiologi: mekanik, dynamik
+lagstifta: lagstiftning, lagstiftande, ordna, organisera
+randig: rand, schema, planerare, plan
+strejkbrytare: 
+astat: 
+överpris: 
+Else-om: 
+vinklar: vinkel, spetsig
+slitaut: 
+citatform: 
+ergativefall: 
+förort: litenby, pendlare, landsbygden
+gemensamkön: 
+superdator: 
+direktobjekt: indirektobjekt
+bilist: förare
+statistiskt: statistisk, numerisk
+lutetium: 
+rationalitet: medvetande, logik
+passivröst: 
+orsakande: 
+cesium: 
+Sökmotor: 
+verktygsfält: 
+automatiskt: automatisk
+californium: 
+mendelevium: 
+ombudavtryckare: 
+färgblind: 
+tecknadserie: 
+terminal: terminal
+punktmatris: 
+samarium: 
+kortslutning: 
+sammanställa: samla
+agentivefall: 
+olycka: krascha, olycka, tillfällig, incident, förstöra
+fraktaler: 
+multalantal: 
+attstänga: stängd, stänga, pånärahåll, utesluta
+bred: omfattande, omfattande, omfattande, bred, brett, riklig, allmänt, utbredd, stor, vinkel
+adessivefall: 
+kooperativ: kollega, samarbeta, kollega, associera
+euler's-nummer: 
+laserskrivare: 
+transsiffra: 
+blogg: blogger
+kombinatorisk: kombinatorik
+pythagoras: 
+abessivefall: 
+locativefall: 
+simbassäng: slåsamman, handfat
+IT-brott: farlig, skadlig
+postkontor: posta, brev
+malware: 
+hämning: hållatillbaka, trottoarkant, hämma, förbjuda, veto, avskräcka, förbjuda
+spionprogram: 
+inspelning: spelain, integration, registrera, registrering, inträde, logga
+intervjuare: intervju
+klämmastyrelse: 
+xenon: 
+kalkylark: 
+n:tekraft: 
+biograf: bio
+inkorg: 
+procent: procent, cent
+aerosol: spray
+distributör: 
+dynamisk: dynamik, mekanik, dynamisk
+en-sekund: 
+subtend: liggabakom
+Brownsk: 
+stjärnakön: 
+galaxkön: 
+kartong: kort, kartong
+beräkningsbarhet: 
+varandra: enannan, varandra, annan
+polisofficer: 
+primärobjekt: 
+animerakön: 
+evitativefall: 
+fordonkön: 
+databrytning: 
+besattfall: 
+americium: 
+mineral-kön: 
+domännamn: 
+imaginär-enhet: 
+neptunium: 
+verbalsubstantiv: 
+matematiker: 
+possessivfall: possessivfall
+modellering: 
+slutligpartikel: 
+blixtkör: 
+diskettdisk: 
+brandman: 
+kritiskpunkt: 
+empatheticglädje: 
+ordprocessor: 
+premiärminister: 
+virtuellminne: 
+adverbialfall: 
+etidium: 
+shorts: 
+larvasig: 
+ekvationer: ekvation
+subessivefall: 
+loggaut: 
+spammer: 
+antessivefall: 
+övergångsställe: väg, gångväg
+användaregränssnitt: 
+spökskrivare: 
+datorvirus: 
+facilitator: presentatör, moderator
+rehabilitering: 
+extraverb: 
+förstahand: direkt
+moderkort: om
+patientavtryckare: 
+körning: 
+kollektivsubstantiv: 
+koran: tidning
+företagperson: affärsperson
+transitivverb: 
+molndatoranvändning: 
+virtuellmaskin: 
+absolutivefall: 
+virtuellverklighet: 
+dåtidperfektiv: 
+opersonligverb: 
+crastinalspänd: 
+reflexivröst: 
+abstraktkön: 
+olikhändelse: 
+exocentricfall: 
+andraspråk: 
+konstnärligkön: 
+självförtroende: 
+forskningkön: 
+indirekttal: 
+lokalitetkön: 
+fysik: fysisk, fysiskt
+universumkön: 
+stängning: pånärahåll, stängd, stänga, av, upphöra, sluta, stanna
+superlativfall: 
+motsvarande: match, rösta, valsedel, kostym, lämplig, bevilja, motsvarar, lämplig, lämpad, sammanfaller, brev, motsvarande, kompatibel
+datorprogram: 
+antikropp: 
+heltid: 
+propositivehumör: 
+associativfall: 
+livlöskön: 
+textredaktör: 
+planetkön: 
+rörelsesystemet: 
+grammatiskfall: 
+elektrisknuvarande: 
+ömsesidigröst: 
+bestick: 
+kärnabenefactive: 
+webbvärd: 
+radian: 
+applikativröst: 
+fonem: 
+påvarandraföljandeklausul: 
+anteckningsbokdator: 
+gas-pedal: 
+antipassiveröst: 
+folkmusik: 
+terabyte: 
+socialnätverk: 
+förhandling: förhandla, prata, konversation, chat, interaktion, påverkavarandra, samråd, kommunicera, dialog
+noncommittal: platt, skymma, tvetydig
+morfem: 
+linker: länk, samband
+neodym: 
+strålningssjuka: 
+presenteraparticip: 
+necessitativehumör: 
+existentiellklausul: 
+överdrivenvaraktighet: 
+passivparticip: 
+grammatisk-objekt: 
+continuativeaspekt: 
+singulativeantal: 
+lysandeintensitet: 
+superlativgrad: 
+blå-jean: 
+valfrikvantifierare: 
+kritiskfluid: 
+epentheticmorfem: 
+postpositionalfall: 
+Negatorykvantifierare: 
+connectivepartikel: 
+Nerium: 
+universellkvantifierare: 
+flygvapen: 
+allocutionavtal: 
+datorprogrammering: 
+bestämdkvantifierare: 
+frequentativeaspekt: 
+distributivpronomen: 
+alternativkvantifierare: 
+phishing: 
+skalär: 
+kontravillkorlig: 

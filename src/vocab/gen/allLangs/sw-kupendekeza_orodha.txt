@@ -1,0 +1,4772 @@
+bye: hodi, kuaga, makamu
+the: 
+ya: katiya, kuhusu, wake
+kwa: kuja, tangazo, wao
+katika: katiya
+:firstperson: 
+i: mimi
+:thirdperson: 
+kuwa: ni, kuwa-ambayo, ambao, ufunguo
+yake: wake, mwenyewe
+yeye: ni
+kwa: 
+kwa: tano, kuhusu, tangazo
+kama: ambao, mfano
+:secondperson: 
+kuwa: kutokea, kusimama
+yake: wake
+juuya: wito, kuhusu
+katika: farasi, hapa
+na: kupita, na, kuhusu
+ambayo: ambao, kuwa-ambayo, kila, kwanamnayoyote, ni
+kuwa: kupata, kubeba
+au: 
+kutoka: 
+huu: ni, meno
+naye: wake, mtu
+yeye: wao, ni
+yangu: yangu, mimi, nywila
+yao: wake, wao, ambao
+hivyo: hivyo, haraka, ili
+an: , moja, na
+nao: wao, wewe, mtu
+sisi: sisi, mimi
+ingekuwa: kufikiri, kusimamia
+mapenzi: willpower
+hakuna: si
+kama: zinazotolewa
+up: juu, bodi, nje
+katika: moja, katiya
+yoyote: kwanamnayoyote, yaani, kila, zote
+yako: lenu
+nini: kutokea, kufanya
+dalilimood: agizomood
+mtu: mtu, mume, kiume
+wengine: pili, tofauti, zaidi
+kuliko: zaidi, kuhusu, upeo
+yetu: spring, sisi
+baadhi: kitu
+juuya: juu, nje
+may: naweza
+sasa: sasa, tena
+kama: upendo, kuweka, kufananana
+Unaweza: naweza, sanduku
+lazima: lazima, kutuma
+alifanya: kufanya, ukweli
+kama: hivyo
+a: moja, 
+hizi: wao, ni
+zaidi: juu, zaidi, kumaliza, upeo
+kiasi: sana, kiasi, umati, mwinuko
+baadaya: ijayo, kisha
+Bwana: sir, bwana, mbegu
+nzuri: nzuri, kubwa, nadhifu, bora
+kamwe: si
+zaidi: zaidi, kwakiasikikubwa, wengi, sana, upeo, mbaya, angalau
+ataona: lazima
+wale: wao, wake, ambao
+mwenyewe: mwenyewe, wenyewe
+maisha: kuishi, maisha, vowel
+bila: isipokuwa, kuminanne
+kufanya: yazua, kufanya
+vizuri: vizuri, isiyohamishika, haki
+mjadalamarker: 
+kupitia: kupita
+nguvu: nguvu, labda, naweza
+jinsi: njia
+pia: sana, hata
+tena: kisha, nyuma, tena
+wengi: wengi, umati
+watu: mtu, jamii
+sawa: sawa, wao
+wazo: itikadi, wazo, kufikiri
+mbali: mbali, kushoto, mudamrefu
+chiniya: chini
+bado: zaidi
+mahali: doa, nafasi, ambapo
+wakati: wakati, muda, wakati
+tu: tu
+pia: hata, zaidi
+lakini: lakini, zaidi
+ingawa: lichaya, lakini, wakati
+dhidiya: kabla, kinyume
+kupata: kupata, kuchukua, upatikanaji, kupatikana, inayotokana, kumtia
+milele: milele, daima, lini
+mbali: mbali, nje, kufunikwa, kufungwa, kufa
+uso: uso, mia, mtu, kinywa
+mwingine: mmojamwingine, mwisho, tofauti, pili, zaidi
+mpya: riwaya, safi, tisa, vijana
+mamboleo: 
+mrs: 
+kuweka: kuweka, kutoa, kufanya, situate, kutosha
+kila: kila
+kuwaambia: kusema
+akili: akili, kufikiri
+chache: kidogo, kitu, wachache
+jambo: jambo, kuhusu
+ambaye: ambao, kuwa-ambayo
+mbali: mbali, sana
+aitwaye: kufikiri, kusema
+zima: kamili, zote, kila, radical
+kuweka: kuweka, mkusanyiko, pamoja, mfululizo
+wote: pili, mbili
+kupata: kupatikana, search, kupata, anuani, kuchunguza
+kuangalia: ona, kuangalia, mtazamo, itaonekana
+basi: basi, kutoa, siku, ili, kuingiliakati, kulipa
+hortative: 
+bwana: bwana, sir, mfalme
+nyumbani: nyumba
+kitu: kitu, kupotoka, namnafulani
+wakati: wakati
+baba: baba
+miongonimwa: katiya, kwanamnayoyote
+kike: kike, msichana, mke, kiume
+wanawake: 
+mama: mama
+mwisho: mwisho, kumaliza, hatimaye
+karibu: karibu, kuhusu, takriban
+ndogo: kidogo
+nawe: wewe
+hawawezi: si
+wanataka: lazima
+Hatahivyo: lakini, wakati, moja
+kabisa: vizuri, sana, kikamilifu, kutosha
+wala: kutokea, si
+ambao: ambao, kuwa-ambayo, wake
+bora: bora, angalau
+mimimwenyewe: mimi, wenyewe, magnetic
+mpaka: hata, kabla
+tangu: kisha, kwanza, kwasababu
+kutumika: umriwa, ukoo
+badala: badala, zaidi, si
+sasa: sasa
+chini: Asili, chini, angalau
+ndaniya: ndani, kina, ndaniyanyumba, katiya
+mpaka: hata, kuja, kabla
+kubwa: kubwa
+aina: tabakala, aina, kirafiki, mazuri
+baadhi: kuamua, haki, halisi, kitu
+yeyemwenyewe: wenyewe
+mwaka: mwaka, tano
+nusu: halfway, grind, upande
+kweli: halisi, kweli, ukweli, haki
+chochote: kitu, ambao, kufanya
+njia: njia, gari, rasilimali
+hali: hali, kuingia, nchi, serikali, utawala
+pekeyake: upweke, solo, moja, msichana, wenyewe, tu
+kesi: jambo, kuanguka, mfano, upandewamashtaka, kwasababu
+nawe: wewe
+juu: juu, sakafu
+uhakika: kuwahakikishia, haki, salama, madhubuti
+hakika: ukweli
+yenyewe: wenyewe, mwenyewe, hata, manually
+pamoja: pamoja, mudamrefu, urefu
+nchi: nchi, isiyohamishika
+kurudi: uondoaji, nyuma
+kuondoka: likizo, kutelekezwa, kushoto, ruhusa
+ama: hata
+sheria: haki, kisheria, utawala
+kuweka: kuweka, kusaidia, kudhani, nafasi
+hatua: doa, hatua, tu, aya
+mtoto: watoto
+napenda: matumaini, hamu, ombi
+kusema: kusema
+Kwahiyo: hivyo, hivyo
+saa: kengele, wakati
+wakati: wakati, katiya
+kadhaa: zaidi, tofauti
+biashara: biashara, kampuni, kazi, taaluma
+iwapo: Motherboard, kufanya
+namna: njia, mtindo, maendeleo
+sababu: akaunti, kwasababu
+ujumla: kawaida, umma
+nyuma: nyuma
+kuwa: kuja
+wafu: kufa, kifo, haiko
+nchi: nchi
+mvulana: mwana
+nje: nje, ijayo
+kuhisi: hisia, kutambua, kusikia, kufikiri
+roho: nafsi
+swali: jambo, hoja
+ukweli: ukweli
+ardhi: sakafu, nchi
+kweli: kweli, sana, ukweli
+wengine: faraja, kustaafu, mabaki, likizo, salio, zaidi
+inawezekana: labda, naweza
+kuelekea: kila, upande
+binadamu: mtu, ubinadamu
+short: Asili, kifupi, nyembamba, kidogo
+mji: mji
+zifuatazo: ijayo, kufuata
+haja: muhimu, lazima
+sababu: akaunti, kushawishi, kwasababu
+jioni: usiku, alasiri
+nguvu: nguvu, vurugu, kuimarisha, neva
+uwezo: waliohitimu, uwezo, naweza
+mwanamke: kike, msichana
+somo: nidhamu, mandhari, semantic, jambo, kuzingatia
+sawasomomarker: 
+kuelewa: uelewa, kutambua, kujua, maana, kuthibitisha
+karibu: jirani, karibu, kuhusu, jicho
+kuuliza: omba, tafadhali, aliuliza
+silaha: silaha, mkono
+upande: upande, mfululizo, ili, moja
+maana: uelewa, maana, hisia, semantic
+kuleta: kusababisha, kuchukua
+karibu: kufungwa, karibu, to-karibu
+kushikilia: kuweka, fundo, kusubiri, kuendelea
+tabia: tabia, alama, asili, jukumu
+mbele: eneolatukio, ona, mtazamo, uwepo, wakati
+chama: sikukuu, comma, kupitishwa, nchi
+faini: kubwa, hila
+tayari: kuandaa, tayari, njongwanjongwa
+kawaida: kawaida, mpenzi, kuheshimiana, umma
+majadiliano: majadiliano, hotuba, hadithi, kujadili
+imeandikwa: kuandika, uchungu
+umri: watuwazima, umriwa
+kingine: mwisho, tofauti, mmojamwingine, zaidi
+nguvu: nguvu, kulazimisha, mpira
+sanaa: kisanii, show
+hela: kuvuka, juu, kinyume, haki
+mapema: mapema, mwanzo, primitive, haraka, ufunguzi
+mnapaswa: lazima
+jua: 
+baadaye: baadaye, kisha, ijayo
+kilakitu: kila, zote
+sikuzanyuma: retrospective, mwisho
+kitendo: hatua, kazi
+kukutana: kuzingatia, kupatikana, ona
+zaidi: zaidi, ziada, hata, bora
+kuonekana: itaonekana, kufikiri
+zaidi: zaidi, nje
+wala: kutokea, si
+mbele: kabla, ijayo
+mtazamo: alitoamaoniyake, mtazamo, ona, mazingira, eneolatukio
+sauti: sauti, neno, tone
+hakuna: kitu, si
+wazi: wazi, uwazi, inaonekana, mwanga
+barabara: barabara, njia
+marehemu: polepole, mwisho, kuchelewa
+binti: msichana, princess
+halisi: halisi, ukweli, kifalme, halisi, kweli
+karibu: karibu, kuhusu
+maarifa: uelewa, maelezo
+kuelekea: 
+mbaya: mbaya, mabaya, maskini
+hai: kuishi, maisha
+amani: chumba, ukimya
+kaskazini: jibu, usikuwamanane
+asili: asili, mazingira
+pretty: nzuri, sana, kutosha
+haki: haki, ripotihiyo, kumi, upandewowote, wao
+huduma: kutumikia, huduma
+chini: chini
+nywele: kichwa
+kupita: kupita, karibu, Hitimu, kuvuka, watapitia
+furaha: furaha, starehe, ecstasy, euphoria
+historia: hadithi, tarehe, kihistoria
+kumbuka: kumbuka, notation
+ingawa: lichaya, lakini, wakati
+mbele: kinyume, kabla
+kubwa: kubwa, pana
+hakika: madhubuti, Bilashaka
+upepo: hewa
+kupokea: kupata, kupokea, kuchukua, inayotokana, watapitia
+kipaumbele: huduma, kipaumbele, lengo, kujali
+nguvu: nguvu
+pengine: labda
+furaha: furaha, hilarious, kuridhika, starehe
+muhimu: muhimu, consequential
+mwenyewe: mwenyewe, wenyewe
+wenzake: mpenzi, rafiki, mtu, vyamavyaushirika
+maoni: alitoamaoniyake, wazo
+imani: kuamini, uaminifu
+iliyopita: mashariki, kisha, kabla, nyuma
+malipo: gharama, kuchukua
+mkono: mkono, maskini, sleeve, bega
+mwisho: mwisho, kisasa
+kitu: madhumuni, kitu, semantic, kupinga
+muungwana: kiume, sir, bwana
+mbalimbali: tofauti
+hasa: hasa, specialty
+vigumu: si, nadra
+mkuu: meneja, kichwa, mkuu
+nafasi: nafasi, tukio, bahati, uwezekano
+mpango: mpango, makubaliano, kutibu, kukabiliana
+kufikiri: kufikiri, wazo
+wazi: wazi, mashimo, kawaida, wasiojua
+maramoja: maramoja, haraka, mojakwamoja
+hofu: hofu, wasiwasi
+single: moja, upweke
+furaha: furaha, msisimko, starehe, euphoria
+iliyovunjika: kiberiti, kukata
+isipokuwa: isipokuwa
+kubeba: kubeba, kuvaa, mimba, kuchukua
+ushawishi: athari, mafua
+nje: nje, isipokuwa
+kuonekana: itaonekana, demonstrator, eneolatukio
+chochote: kwanamnayoyote, kufanya
+kukaa: kukaa, kusubiri, kusimama, kuweka
+kipindi: awamu, wakati, mudamrefu
+dada: kaka, muuguzi
+vita: vita
+zamani: umriwa, umeme
+vijana: vijana
+tu: tu, upweke
+kufikia: kuja, wigo
+mfumo: ili, uongozi, shirika, mifumo
+chakulachajioni: usiku, chakulachamchana, sikukuu
+utulivu: shwari, ukimya, upweke
+baadaye: baadaye, kisha, ijayo
+kutembea: kutembea, kwenda, sakafu
+mali: isiyohamishika, suala
+ajabu: miujiza, ajabu, mshangao
+takwimu: digital, takwimu, idadi, picha
+ujumla: kawaida
+kale: umriwa, mtindowazamaniwa, mamboyakale, primitive
+heshima: kujali, heshima, hatari, kuhusu
+tatu: tatu, Jumanne
+rahisi: unyenyekevu, kawaida
+kubaki: kusimama, kuweka
+jamii: kijamii, jamii, kampuni
+mapambano: ugomvi, vita
+matokeoyake: athari, matunda
+amri: ili, kuandikisha
+inatarajiwa: kutarajia, matumaini, yasiyofaa, nadhani
+mere: tu, ziwa
+kando: karibu, ijayo, upande
+kimya: shwari, ukimya
+kamilifu: kikamilifu, kubwa
+mitaani: njia, rangi, umbali
+kuandika: kuandika, barua
+kabisa: kikamilifu, vizuri, kamili, vyema
+kuni: mbao, mti, fimbo
+haraka: haraka, haraka
+ilani: ona, tangazo, mawasiliano, onyo
+mkali: mkali, mwanga, shiny
+mashua: meli, kuelea, yacht
+vyeo: kubwa
+kiasifulani: namnafulani, kitu
+ghafla: ghafla
+thamani: thamani
+kutokana: kwasababu, haki
+kusoma: kusoma
+kukubaliana: makubaliano, kukasirika
+mistari: mstari
+kipande: chip, sehemu, kunyoosha
+ex: umriwa
+mazungumzo: majadiliano, hotuba, wito
+sahihi: fit, mojawapo, haki
+nafasi: tukio, nafasi
+gharama: gharama, kulipa, thamani
+makubwa: kubwa, consequential, fora, kutosha
+juu: mojawapo, juu, mkutanowakilele
+ndoa: ndoa
+hatua: hatua, awamu, rung, mguu
+kuanza: mwanzo, kuendelea
+per: kila
+mtubinafsi: mtu, mmojammoja, chembe
+ngumu: ngumu, nzito
+bit: sehemu, kidogo, kuwapiga
+mamlaka: mamlaka, nguvu
+mgonjwa: wagonjwa, mabaya
+awali: halisi, halisi, mzizi
+furaha: furaha, bahati, ecstasy, starehe, euphoria
+kutoa: zinazotolewa, kutoa, kuwahakikishia
+utafiti: kujifunza, studio
+binafsi: binafsi, mmojammoja, mwenyewe
+kuangalia: kuangalia, kufuatilia, ona
+radhi: kuridhika, furaha, starehe
+moto: joto, moto, majira
+juhudi: kujaribu, mzigo
+tayari: kuandaa, tayari
+jaribio: kujaribu, jaribio, kumchoma
+haraka: haraka, haraka
+chiniya: chini
+karne: mia
+lengo: nia, lengo, madhumuni, kuandaa
+mojakwamoja: mojakwamoja, kuishi, waaminifu
+uwezekano: urahisi, uwezekano, labda
+haki: haki, ufafanuzi
+tu: tu
+uaminifu: kuamini, uaminifu, kutegemea
+kifungu: sehemu, kupita, kunyoosha
+kufungwa: kufungwa, to-karibu, kufunikwa, pakiti
+wenyewe: wenyewe
+mavazi: vazi, wamevaa, tajiri
+required: muhimu
+kati: maana
+milki: ruhusa, kumtia
+kawaida: kawaida, huwa
+fasta: steady, kuweka, kuamua
+askari: jeshi
+kupanda: kupanda, bodi, kukua
+hamsini: 
+mkutano: kikao, mkutano, ziara
+kambi: kambi, uwanja
+taifa: nchi, kitaifa, mbio
+kuwepo: uwepo
+kujibu: jibu, refund, comments
+anga: anga, mbinguni
+bahati: bahati, hali, isiyohamishika
+uwanja: uwanja, wigo
+hali: nafasi, hali, mazingira
+shahada: sawa
+katikati: maana, kituocha, katiya
+baridi: baridi, baadaye
+kuruhusu: ruhusa
+rangi: njano, rangi, kukatatamaa, Pastel, mwanga
+mwenendo: tabia, hatua
+mbio: mbio, kukimbia, mguu
+kidini: dini
+hoja: kusonga, hoja, hatua
+kuacha: mapumziko, kusimama
+mbaya: mbaya, mabaya
+amesema: kusema, hotuba
+bure: bure, tupu
+hasara: hasara, waliopotea, leak
+kutoa: zinazotolewa, kutoa, dalili, kutumikia, upendeleo
+kamili: kamili
+upatikanaji: ziara, upatikanaji
+giza: giza
+shauku: hisia
+kimwili: fizikia, mwili
+mfano: mfano
+maswali: hoja, aliuliza
+mwanzo: mwanzo
+licha: lichaya, mbaya, hasira
+kubwa: kaburi, kubwa, sugu
+fedha: fedha, Ijumaa
+kutosha: kutosha, kahawa
+kuu: kichwa, bwana, ufunguo, ndani, mkuu
+ajabu: ajabu, vurugu, kubwa, kifahari, nadhifu
+kuhusishwa: kujali
+njia: njia, Bilashaka
+maana: semantic, maana, umuhimu
+mengi: wingi, sana, kumeza
+kiti: kiti, kuzingirwa, Makaomakuu
+mchezo: kamari, kucheza
+kauli: kujieleza, ripotihiyo, tangazo
+neema: tafadhali
+ndoto: ndoto, usingizi
+mwamba: skirt, jiwe
+maalum: hasa, binafsi, specialty, mtaalam
+harakati: uhamaji, kusonga, vowel, zoezi
+ada: gharama, kulipa
+kushiriki: sehemu, wadau, jukumu, kusambaza
+kutarajia: kutarajia, kusubiri, matumaini
+utukufu: umaarufu, heshima
+nafasi: nafasi, ukumbi, uwanja, astronaut
+kawaida: kawaida, maziwa
+kufikiria: kufikiri, kutibu, kujali
+sana: sana, kwakiasikikubwa, sugu
+faida: faida, madhumuni
+afisa: rasmi
+kiwangocha: heshima, Bilashaka
+nguo: undress, elfu, wamevaa
+ishara: notation, ishara, alama, doa
+asili: asili, halisi, mkazi
+tofauti: tofauti, upambanuzi, tofauti
+kufanyakazi: mfanyakazi, kazi, kufanya, siku
+kuoa: ndoa, kupata
+kumaliza: kumaliza, kamili
+kiasi: amefungwa, kiasi, wigo, wadogo
+curious: kuvutia, ajabu
+badala: badala, isipokuwa
+njia: njia, kichocheo, maramoja, mtindo
+bora: bora, kubwa, kifahari, sana
+kujiamini: kuamini
+hasa: hasa, kamili, kikamilifu, vizuri, madhubuti
+muswada: muswada, akaunti
+kubwa: pana, kubwa
+dhana: dhana, nzuri, imaginary, nadhifu
+haraka: haraka, haraka
+ndiyo: yeah, hivyo, mfano
+uhuru: bure, uhuru
+kando: kutengwa, sideways, upande
+safi: safi, sublimate
+habariza: juu, kuhusu
+kupoteza: misplace, waliopotea
+evidential: ushahidi
+sawa: kufananana, sawa, kwanini, wao
+kabisa: vizuri, kikamilifu, zote
+ukurasa: upande, yadi, kioo
+hasa: hasa
+mlima: kilima, acid
+fahari: kiburi
+wazi: wazi, uwazi, inaonekana, mkali
+bei: heshima, thamani
+thelathini: kuminatatu
+kufunga: kufungwa, to-karibu, pakiti, kufa
+hatma: bahati, wajibu
+hukumu: hukumu, utawala, hakimu, mamlaka, mgogoro
+kukubali: kukubalika, kupitisha, kuchukua
+aina: aina, jinsia, longitudinal
+kutafuta: search
+juu: mbaya, angalau
+vinginevyo: zaidi
+heshima: heshima
+sikio: ruhusa
+chini: chini, sakafu, Asili
+misaada: misaada, kusaidia, msaada, kutibu
+sawatukiomarker: 
+kikamilifu: kamili, kikamilifu, vizuri, kutosha
+furaha: furaha, unpleasant, starehe, euphoria
+kiasi: kiasi, umati, idadi, kondoo
+kodi: kodi, mstari, walipakodi, tatu
+mgeni: mgeni, ajabu, kigeni, haijulikani
+kuthubutu: ujasiri
+kiumbe: viumbe, kibaiolojia, wanyama
+uongo: uongo, vibaya
+tall: mudamrefu, sakafu, urefu
+lango: mlango
+uhuru: uhuru, bure, kiliberali, kujitegemea, huru
+pigo: mshtuko, kiharusi, risasi
+pwani: beach, pwani
+siku: siku, diary, kilasiku
+kushangaa: mshangao
+usambazaji: kusambaza
+utajiri: fedha, isiyohamishika, nakala
+uhuru: bure, uhuru
+kuendeleza: maendeleo, kabla
+mpole: laini, tamu, hila, kiume
+hakika: Bilashaka
+kupata: salama, kupata, kulinda, kuwahakikishia
+ulichukua: kumtia, wanaohusika
+kuteka: Drag, kuvutia, kuondoa
+hatua: hatua, awamu, hali, eneolatukio
+sehemu: sehemu
+ulimi: lugha, mate
+hasira: hasira
+inasimamia: usafiri, treni, kitoroli
+haliyahewa: hewa, wakati
+theluji: barafu, jicho
+umuhimu: umuhimu, muhimu
+mazoezi: zoezi, hatua, desturi
+madai: ombi, upandewamashtaka, kukiri
+mkuu: duke, mfalme
+kundi: conglomerate, kundi, mkusanyiko, band, bodi, makundi
+katika: kilamahali, radical
+huruma: huruma, pole
+kuongeza: kuongeza, ziada, Ongeza, kuboresha
+kuongoza: kusababisha, consequential, bwana, maarufu, mkuu
+uzito: nzito
+gray: brown, ash
+jasiri: ujasiri
+nyembamba: kuondokana, nyembamba, hila
+mbalimbali: umati
+marakwamara: maranyingi, marakwamara, furaha
+maarufu: maarufu, vizuriinayojulikana, vowel, kuongezeka
+nguvu: nguvu, neva
+hai: kuishi
+dhaifu: kukatatamaa, maskini, sana
+Mungu: nadhani, mungu
+vifaa: vifaa, semantic, jambo, fasihi
+frank: waaminifu
+joto: majira, joto
+walinzi: kulinda, kuweka, huduma
+usawa: usawa, sawa
+asili: asili
+ajabu: ajabu, kubwa, kifahari, fora
+moon: mwezi
+kidogo: kidogo, urahisi, mwanga, yasiyonamaana
+style: mwanga
+ncha: ncha, mkali, pembe
+kanuni: nadharia, mwanzo
+haraka: haraka, mojakwamoja
+tayari: tayari, njongwanjongwa, maili, kuandaa
+matokeo: consequential, athari, matunda, hivyo
+zabuni: laini, makubaliano, mbio
+nia: nia, maslahi
+robo: mguu
+juu: juu, kiufundi, kisasa
+kazi: kazi, hatua, ufanisi
+ufahamu: makusudi, kujua, alijua
+hatari: hatari, it-brottslighet
+takatifu: takatifu
+Utawala: kifalme
+nzima: zote, kamili, radical
+nzuri: nzuri, mazuri
+tabia: tabia, njia, desturi
+msomaji: muimbaji, kusoma
+mojakwamoja: mojakwamoja, kwanzamkono, kuishi
+kweli: kweli, ukweli
+mbinu: mbinu, mtindo, utaratibu
+kusikia: kusikia
+kutupa: kutupwa, risasi
+hekima: akili
+kweli: kweli, kikamilifu
+idadi: idadi
+huzuni: huzuni, pole
+gari: kuendeshagari, gari, chorus, msafara, kuhamasisha, kusababisha, kukimbia
+kosa: lawama, vibaya, machafuko
+jambo: jambo, siku
+mawasiliano: mawasiliano, kugusa, kuanzisha
+kituocha: kusimama, kituocha, msimu
+e: 
+eh?: 
+kusikiliza: kusikia, msikilizaji
+kuumiza: kuumia, maumivu, waliojeruhiwa
+kueleza: kujieleza, kueleza, demonstrative
+neema: upande, vyema, ajili
+urefu: urefu, figo
+ukubwa: dimensional, ukubwa, kamili, kiasi, wadogo
+makali: pindo, bodi
+kazi: hatua, kazi, wajibu
+kuteseka: taabu, pole
+kelele: kelele, kishindo, kero, sauti
+mbalizaidi: kabla, bora, ijayo
+chombo: chombo, meli, ujasiri, sufuria
+upendo: upendo
+mateso: mateso, taabu, uchungu, shida, pole
+mwili: nyama, mwili
+ushauri: bodi, shauri
+grand: kubwa
+baada: ofisiyaPosta, kutuma, nafasi, Postcard
+cheo: tabakala, maelezo
+kufikiria: imaginary, kufikiri, wazo
+kuwasili: kuja
+mawazo: imaginary, tafakari, wazo
+kubwa: kusisitiza, kubwa, kelele, ngumu
+lovely: nzuri
+ajabu: ajabu, usiokuwawakawaida
+kifunguakinywa: asubuhi, chakulachamchana
+idadiyawatu: umati
+misaada: misaada, faraja, glyph, kitambaa, kusaidia
+mmiliki: bwana, mwajiri
+hisia: athari, hisia, kumvutia, magazeti, alama, muhuri
+kuridhika: kuridhika, euphoria
+mahusiano: kujali
+sura: dimensional, fomu
+kuzaliwa: aliyezaliwa
+yaliyomo: kuzingatia, kuridhika, kujaza
+maanani: wazo, kujali, kufikiri
+marakwamara: steady, marakwamara, kawaida, maziwa
+busy: wanaohusika
+ubora: wingi, ubora
+bay: berry, uke, tu
+kugundua: kupatikana, search, kufichua
+ndaniya: ndani, kina, ndaniyanyumba
+udongo: matope, sakafu, solo, nchi, ufinyanzi
+kabisa: kikamilifu, vizuri, kamili
+ujumbe: maelezo, habari
+maneno: kujieleza, hukumu, neno
+kutaja: kiume
+mraba: viwanja, sanduku
+jozi: haki, mpenzi, masharti, pacha
+kichwa: kichwa
+Jumapili: wiki
+wazimu: kumdanganya
+kabisa: madhubuti, vizuri, kikamilifu
+polepole: polepole, shwari, butu
+huruma: huruma
+vyenye: Ikiwanipamojana, wanaunda
+huzuni: huzuni, depressing, maumivu, taabu, pole
+askari: jeshi, pawn
+uliopita: mashariki, mwisho, kabla
+maelezo: kueleza, maelezo
+maombi: ombi, omba
+imani: kuamini, uaminifu
+marakwamara: marakwamara, steady
+mwisho: mwisho, hatimaye, maamuzi
+safari: wanaoendesha, bodi, kuendeshagari, baiskeli
+sera: kisiasa, utaratibu, mkakati
+kuchora: picha, mpango
+kufa: kifo, kufa
+mahitaji: ombi
+juu: juu
+Jumla: na, yoga, idadi
+mwendo: uhamaji, kusonga, vowel, zoezi, kasi
+msaada: msaada, kusaidia
+arobaini: 
+kindly: tafadhali, kirafiki
+heshima: heshima
+kukamata: kuwakamata, kuchukua
+miongonimwa: katiya
+sasa: sasa, mkondo
+uwezekano: uwezekano, labda, naweza
+mtumwa: utumwa, mtumishi, addicted
+tofauti: kutengwa, tofauti, solo, mmojammoja, specialty
+hofu: hofu, kigaidi
+kudhibiti: kudhibitiwa, kuangalia, kusimamia, bwana
+kampuni: kampuni, shirika
+bora: bora, wasomi
+kiroho: kiakili, maadili, akili
+ushahidi: kuthibitisha, ushahidi
+mchakato: kutibu, maendeleo, njia, usindikaji
+uhusiano: mawasiliano, ripotihiyo, kujali
+wasiwasi: huduma, wasiwasi, kujali
+undani: kina
+kuimba: kusoma, ambao, wimbo
+mlango: mlango, kupokea, kizingiti
+kukubali: kuwashukuru, kutoa
+usambazaji: upana, zinazotolewa, rasilimali
+safi: safi, nadhifu, wasionahatia
+muhimu: muhimu, ufanisi, uwezo
+delicate: hila, fastidious, kifahari, laini, kike
+uchaguzi: kuchagua, uchaguzi, kuangalia, chaguo
+mkubwa: kubwa, nzito
+hawawezi: si, kushindwa
+cover: mfuniko, kanzu, blanketi, kufunikwa
+marambili: pacha, marambili, kuzidisha
+ushindi: mafanikio, faida, kuwapiga
+kadhaa: kuminambili
+marakwamara: maranyingi, marakwamara, daima, mwendelezo, steady, kuendelea
+kiwangocha: hali, uso, wadogo
+kutolewa: kutokwa, uchapishaji, bure
+mbaya: mbaya, --tukuta, rude
+mbele: juu, kabla, ijayo
+kushikamana: amefungwa, masharti, conjugate
+faida: kupata, faida
+Aidha: ziada, inayosaidia
+chumba: chumba, ukumbi, kamera, cabin
+hatuakwahatua: polepole
+marafiki: ukoo, primer, utambulisho
+makosa: vibaya
+msingi: msingi, suala
+gari: treni, gari, chai
+hakuna: mtuyeyote, kitu
+karibu: makini
+nishati: nguvu
+wazi: wazi, bar, aibu, mashimo, bald, tupu, tu
+sehemu: halfway, sehemu
+rangi: rangi
+usalama: salama, wokovu, huduma
+maelezo: maelezo, ufafanuzi
+amelala: usingizi
+makini: makini
+kufurahia: starehe, furaha
+kushuka: kuzamisha, kuanguka, leak
+kipaji: shiny, kubwa, busara
+tale: hadithi
+gray: brown, ash
+yenye: sana
+msisimko: msisimko, irritated
+kukatatamaa: kuchanganyikiwa, kukatatamaa
+kupunguza: faraja, kuwezesha, Asili
+jumla: patola, zote, uondoaji
+wema: wema
+mzunguko: mzunguko, ghorofa, pandezote, gurudumu
+wepesi: kuzaa, Asili
+uliokithiri: upeo, polar, sana, radical, sugu
+nia: nia, madhumuni
+mrefu: suala, Tareheyamwisho, neno
+kuomba: matumizi, maombi, kuchukua
+kazi: kazi, mfanyakazi
+akili: akili
+mgomo: mashambulizi, fora, kuwapiga
+uungwana: vizuri, kutosha, sana
+tukio: tukio, show
+upole: laini, polepole
+uhusiano: attachment, wito
+ulinzi: kulinda, makazi, huduma, kuokoa
+fahamu: ari, makusudi, hisia
+toleo: gharama, magazeti, ruhusa, bodi
+ndege: ndege, kuruka, kuongezeka, hewa, mrengo
+dhahiri: uwazi, ushahidi, inaonekana
+wanandoa: pacha, mbili
+aina: aina, tofauti
+mbali: kutengwa, mbali, isipokuwa, kujitegemea, mbili
+kutisha: kutisha, mabaya
+kilamtu: zote, mtuyeyote, kila
+kazi: kazi, mfanyakazi
+lover: wapenzi
+suti: fit, vinavyolingana, upandewamashtaka
+kuimba: wimbo
+hamu: hamu, wasiwasi, kuandaa, patola
+zinahitaji: ombi, kusisitiza, muhimu
+wakatiwowote: lini
+maziwa: maziwa, matiti
+mafanikio: mafanikio
+maono: mazingira, lengo
+kuongeza: kuboresha, kuongeza, kuinua, Ongeza
+maendeleo: maendeleo, evolutionary
+baridi: baridi, nzuri
+kesi: kujaribu
+njeyanchi: kigeni, uhamishoni
+kujitoa: uaminifu, mwaminifu
+fasihi: fasihi, halisi
+mwandishi: mwandishi, nyepesi
+hisa: fimbo, jukumu, hatua
+ainaya: kuandika, vyombovyahabari
+mengi: tajiri, redundancy, kutosha, huwa
+kuepuka: kuzuia, ili
+neema: upande, vyema, ajili
+akili: akili, kiakili, ndani
+mtazamo: mtazamo, kusimama, ishara, aya
+Pongezi: sifa
+wasiwasi: wasiwasi, hofu, preoccupation
+kufundisha: kujua, kujifunza, elimu
+kuhesabu: kuhesabu, kutegemea, akaunti, kuhesabu
+udadisi: wasiwasi
+inayoonekana: itaonekana, kujua
+kuongoza: mwongozo, ushahidi, kuendeshagari, kusababisha
+halisi: kweli, halisi, ukweli, kifalme
+duni: kusikitisha, bahatimbaya, taabu
+madhara: mabaya, kuumia, kuuma
+duka: Bookstore, kununua, muuzaji
+msamaha: kusamehe, pole
+naomba: omba
+marachache: wakatimwingine, nadra
+rekodi: kurekodi, disk, kuokoa
+mafuta: mafuta, nene, jimbo
+gorofa: ghorofa, noncommittal, mpango
+kuondoka: outlet, kwenda
+zawadi: zawadi, ziara
+ujuzi: uwezo
+nyumba: nyumba
+leseni: ruhusa, patent
+ridhaa: kupitisha, euphoria, ruhusa
+kutosha: kamili, kutosha, kahawa
+jeraha: kuumia, waliojeruhiwa, kidonda
+kicheko: kicheko
+ujasiri: ujasiri
+shahidi: ushahidi
+wajinga: kumdanganya
+mtuyeyote: mtuyeyote, ambao
+binafsi: binafsi, wenyewe, mwenyewe
+sana: sana
+matibabu: kutibu, huduma
+koo: shingo, kuongezeka
+mgonjwa: wagonjwa, uvumilivu
+ukuaji: Ongeza, maendeleo, kukua
+wingi: wingi, umati, dozi, idadi, ukubwa
+hitimisho: uondoaji, azimio, mkusanyiko, kumaliza
+kali: kaburi, nzito, madhubuti, vurugu, sugu, patola
+kisingizio: kusamehe, elekezi, pole
+asili: asili, nauni, mzizi
+watazamaji: watazamaji, umma
+mdogo: nyembamba
+iliyobaki: mabaki, salio
+msingi: msingi, lugha
+ushindi: mafanikio, kuwapiga
+msichana: msichana, mtumishi, bikira
+softly: laini, polepole, shwari
+ukweli: ukweli
+tukufu: kifahari, takatifu
+vivyohivyo: hata
+tovuti: eneolatukio, tovuti, doa
+meli: meli, pazia
+kutishika: hofu
+ole: bahatimbaya, furaha, kusikitisha
+duka: kuhifadhi, kuokoa
+remark: alitoamaoniyake, kujali, comments, farasi
+pause: mapumziko
+thamani: thamani
+hivyo: hivyo
+kupanda: kupanda, mti, kinu, uotowaasili
+kabisa: kamili, halisi, kikamilifu, radical
+urahisi: urahisi, haraka
+mkali: mkali, vurugu, ngumu, kikatili, porini
+hasira: hasira
+ugunduzi: kupatikana, search, ufunguzi, innovation
+kuhusianana: kujali
+adhabu: hukumu
+kidogo: kidogo, urahisi
+siri: siri, hazieleweki, asiyeonekana, ajabu
+kivuli: kivuli, tone, nuance
+mauaji: kuua
+hisia: hisia
+uharibifu: uharibifu, kuharibu
+horror: hofu
+ndani: ndaniyanchi, ndani, doa
+wajinga: ujinga, kumdanganya
+ukarimu: kiliberali, tajiri
+mbalimbali: umbali, mfululizo, wigo
+jeshi: jeshi, mgeni, umati
+mvua: mvua, uchafu
+siri: siri
+wamiliki: mwenyewe, kubeba, mrithi
+fahamu: rationality, hisia, dhamiri, sherehe
+zamani: kabla
+kutumia: gharama
+uzalishaji: kuzalisha
+chanzo: kisima, rasilimali, nauni
+staha: daraja, mfuniko, makundi
+shangazi: mjomba
+kutawala: mfalme, mrahaba, utawala
+kufuata: kufuata, kukabiliananahali, harmonic, kuzingatia
+kwake: wake
+ua: maslahi, matope, kustawi
+yametimia: kamili
+shukrani: kuwashukuru
+falsafa: ziara
+mali: Ikiwanipamojana, kujali
+vizuri: vizuri, mazuri
+soko: kununua, Meya
+cap: kofia, mfuniko
+mahalifulani: mahalipopote, kilamahali
+furaha: furaha, starehe
+kaya: familia, nyumba, uchumi, kudhani
+meli: meli, Navy, kuelea
+mtoto: watoto, doll
+mkoa: uwanja
+: 
+halisi: halisi, unga, kamili, fit, halisi
+picha: picha, show
+tuhuma: shaka, tuhuma
+kukataa: kupinga, kukasirika, taka
+wafanyakazi: wafanyakazi, fimbo, mfanyakazi
+dhima: wajibu, lawama
+kutazama: mtazamo, ona, staré
+aibu: aibu
+mlo: chakula, kula, unga, chakulachamchana
+hadhi: nafasi, hali
+zinaonyesha: kuingia, show, kufikiri, kupendekeza
+shairi: mashairi, wimbo
+kutokea: itaonekana, kutokea
+safari: msafara, msafiri
+kuhudhuria: kujiunga
+kumudu: uwezo, kununua, kutoa, kubeba
+kuchangia: kuchangia, kutoa
+kazi: kazi, siku
+kuendelea: kuendelea, Ongeza, maendeleo, kutembea, ijayo
+majuto: pole, juta
+hatari: hatari
+haraka: haraka, haraka
+tofauti: tofauti, kutengwa, mmojammoja, zinazokinzana
+vizuri: vizuri, mguu, haki
+umoja: umoja, kitengo, usiokuwawakawaida
+makosa: vibaya
+sifa: sifa, umaarufu
+rufaa: kuvutia, wito
+nguvu: sana
+ukosefu: kukata, kukosekana, kabila
+vurugu: vurugu, mateso
+atatoa: kufanya, kuanzisha, kutoa
+kazi: taaluma, kazi, maisha
+kubuni: mpango
+kibiashara: biashara
+pendekezo: kupendekeza, hukumu
+yazua: yazua, kamili
+vipuri: ziada, kuchukuanafasiya
+ndani: kiraia, ndani, mkazi, kitaifa, mtumishi
+shamba: kilimo, fomu, uwanja
+kumbukumbu: rejea, kumbukumbu, kunukuu
+kuwepo: uwepo, kusimama, kuna
+: 
+suala: suala, shida, mandhari, jambo
+kutoa: zinazotolewa, kutoa
+moto: moto, fireworks
+marakwamara: wakatimwingine, marakwamara
+kuruka: kuruka
+nguo: kitambaa, elfu
+nne: nne, Jumatano, chumba
+faida: faida, madhumuni
+: 
+sura: mlango, sehemu, kichwa, msimu, mjimkuu, kuhusu
+shimo: kuzaa, shimo, ukumbi, mashimo
+busara: busara, mantiki, kutosha
+sukari: njia
+badala: kuchukuanafasiya, badala, posho, kubadilishana
+sigh: pumzi
+kutia: kusisitiza, kulipa, itapunguza
+sura: wadogo, kisheria, risasi
+upinzani: kupinga, upinzani, kukasirika, kinyume
+Dutu: semantic, jambo, kiini
+email: kutuma, umeme
+mgawanyiko: kuhesabu, sehemu, dissection
+aya: mashairi, aya
+uamuzi: azimio, kuamua
+kinachowezekana: labda, uwezekano
+chungu: uchungu, maumivu
+milele: daima, milele
+bahari: bahari
+nyuma: nyuma
+kiongozi: kichwa, meneja, kondakta, mwongozo
+nia: nia, wasiwasi, mkali
+shauku: euphoria, ecstasy, msisimko
+dhahiri: demonstrative, mantiki, kufichua
+haraka: haraka, ndama
+mpango: mpango, striped, chati
+hainamaana: taka
+hatahivyo: lakini, wakati
+laini: laini, hila
+imara: demonstrative, imara, ngumu, cube
+lazima: lazima, muhimu
+kujenga: jengo, uundaji, kujumlisha, kuandaa
+ilijaribu: kujaribu, kumchoma
+sawa: sawa
+hivikaribuni: hivikaribuni, kisasa, mwisho
+kusafiri: ziara, utalii, msafiri
+saasitamchana: alasiri, kusini
+iko: kuanguka, nafasi
+tangazo: tangazo, mawasiliano
+kusitisha: kuzuia, kufungwa
+hali: hali, bahasha, mazingira
+hema: cabin, eneolatukio
+marakwamara: marakwamara, maranyingi
+kengele: kengele, kuitisha
+sauti: sauti, kelele
+huru: uhuru, huru, kujitegemea, wake
+muhimu: muhimu, kikaboni
+uchunguzi: kuchunguza
+kudumu: steady, milele
+shukrani: kuwashukuru
+kuhifadhi: kuhifadhi, kupata, kulinda, kuweka, kuokoa
+kipengele: upande
+kisu: upanga
+hofu: hofu
+wajanja: busara, ujanja
+: 
+wilaya: kuishi, tabakala, jimbo
+kushindwa: kushindwa, vibaya, kufilisika
+cent: per-cent, mia, asilimia
+kutokuwa: hisia
+wakala: maana
+kukatatamaa: kukatatamaa
+muungano: muungano, umoja
+ruzuku: kupitisha, kutoa
+umakini: dhati, nzito, mvuto, umati
+kugonga: kuzidisha, mafanikio
+kubwa: kubwa, nzito
+: 
+kutiwahatiani: hukumu
+kupendelea: chaguo, furaha, kipaumbele
+homa: moto, mafua
+msukumo: msukumo, mapigo, hisia
+zetu: spring, sisi
+potofu: vibaya, matumizimabaya, yasiyofaa
+bora: bora, usiokuwawakawaida
+kukimbilia: umati, kiharusi
+kukataa: kusahau
+sahihi: haki, mwaminifu, mojawapo
+kufanya: show, kufanya, kusimamia, kuendelea
+: 
+dhana: dhana, wazo, hisia
+mjadala: kujadili, hoja
+imara: imara
+himaya: kifalme
+kalamu: kalamu, kichwa
+kibalicha: ruhusa
+kudumisha: kuweka, kulinda, kusimamia
+msongamano: itapunguza, umati, msongamano
+kiwangochajuu: amefungwa
+kutisha: kutisha
+bandari: mlango
+uzoefu: uzoefu, mtaalam, watapitia
+kinyume: kinyume, kukasirika, zinazokinzana, kupinga
+mkataba: mkataba, makubaliano, holela
+yaliyomo: wanaunda, kujaza
+mode: njia
+kutokea: kutokea, kuja
+kutafuta: search
+kivitendo: vitendo, takriban
+kuwaeleza: alama, kukasirika, kumbukumbu
+tabia: specialty, tabia, ubora, wema, dalili
+kwamoyomkunjufu: furaha, hilarious, ugly
+mpangilio: ili, disposition, makubaliano
+magharibi: magharibi
+shinikizo: magazeti, itapunguza
+siasa: kisiasa
+kisayansi: sayansi, mwanasayansi
+kuitingisha: 
+sekta: viwanda, industrialize, 
+sifa: sifa, waliohitimu, thamani, acquit
+mahojiano: ziara, INTERVIEWER
+wilaya: uwanja
+ngono: ngono, sita, jinsia
+viumbe: viumbe, uundaji, imara, kuzalisha
+uchaguzi: alama, uchaguzi, njia, mkia
+matarajio: matumaini, uwezekano, mazingira, eneolatukio, hopefully
+kutii: kuzingatia, kufuata
+operesheni: drift, hatua, upasuaji, kudanganywa, mwongozo
+kaskazini: jibu
+kushangaza: kina
+mechi: vinavyolingana, kamari, mbio
+mlolongo: mfululizo, mkufu
+sare: vazi, wamevaa
+madeni: lawama, dini, wajibu, mikopo
+mafundisho: elimu
+mradi: adventure, uwekezaji, kampuni
+utekelezaji: kuzingatia, hatua, kutekeleza
+hisia: hisia, ucheshi, disposition
+naona: ona, kutambua, mzigo, uelewa, kumtia, kupeleleza, alijua
+kutangaza: kueleza
+toleola: nakala, tafsiri
+isiyoyakawaida: ajabu
+kushukuru: kuwashukuru
+usio: milele, nauni
+mahalipengine: mahalipopote
+usalama: salama, huduma
+busara: busara, mantiki, wanahusika, mojawapo
+Cottage: kibanda, cabin
+uwezo: uwezo, uwezo
+kukaa: kukaa
+wanaohusika: wanaohusika, kujiunga, wanaunda
+baraza: bodi
+uchunguzi: kuangalia, kuchagua, kujaribu
+chuma: chuma
+mtihani: kuangalia, kujaribu
+upendo: upendo, kujitolea
+kipengele: mambo
+kumwaga: kumwaga, kutupwa, kibanda
+mtu: ambao, mtu, mtuyeyote
+tukiohilo: ajali, katiba
+mstari: mstari, mfululizo, serikali, ili
+umaskini: maskini
+makali: vurugu, patola
+inapatikana: zinazotolewa, upatikanaji, ufanisi
+kurekebisha: kuboresha, steady, staré
+kawaida: usiokuwawakawaida, kawaida, ajabu
+unatokana: kupata, derivative, inayotokana, kushawishi
+faragha: kutelekezwa, jangwa, upweke
+uanzishwaji: uundaji, imara
+kura: vinavyolingana, kuchagua, sauti
+kuvumilia: kubeba, msaidizi, mwisho, kupinga
+kufanikiwa: mafanikio, mafanikio
+mguu: mguu, mfupa, daraja
+jitihada: ombi
+mamboyandani: ndani
+lightly: urahisi, mwanga, kidogo
+kuonyesha: show, dalili, eneolatukio, ushahidi, demonstrator
+wamefungwa: tu
+lengo: madhumuni, lengo
+muhimu: muhimu, maamuzi, kaburi
+kiwangocha: steady
+mfuko: mfukoni, gunia, kikapu
+kurudia: nyuma, marakwamara
+kufuatilia: kufuatilia, wimbo, njia, kufuata, lori
+kuondoa: kuondoa, acquit, kuokoa
+makazi: makazi, disposition
+: 
+furaha: kuvutia, furaha, hilarious, burudani, mazuri
+biashara: kampuni, shirika
+kutetea: kulinda, huwa, kukimbia
+akishiriki: kaburi, nzito
+mambo: bidhaa, jambo
+kifungucha: sehemu, kuhesabu, dissection, makala
+makazi: makubaliano, makazi
+sahani: disk
+kuondokanana: kukabiliana, kuwapiga
+viwanjavya: msingi, suala
+jiwe: jiwe
+hivikaribunisikuzanyumauliopo: 
+uwezo: uwezo, vipaji, uwezo
+wimbi: tide, hazieleweki, wavelength
+watu: maarufu, uma, ngano
+uwezekano: uwezekano, naweza
+siagi: mafuta
+chuki: dharau, chuki
+kutekelezaazma: upandewamashtaka, search
+kuvuta: Drag, kuondoa
+ishara: ishara, alama, nywila
+salama: salama
+kuchoma: kuteketezwa, moshi
+kuelezea: kueleza
+somo: elimu, Bilashaka
+kadi: kadi, ramani, kifupi, karatasi
+maombi: matumizi, programu, ombi, maombi
+akili: akili, busara
+kata: kususia, kikanda, mji, jimbo, kijeshi
+format: fomu, kutupwa, permutation
+katiyake: mkondo, drift
+sitini: kuminasita
+uharibifu: uharibifu, kuumia
+zaidiyahayo: ziada, hata, zaidi
+commerce: biashara
+kusini: kusini
+nje: nje
+wastani: maana, kila
+uchi: aibu
+dhahiri: uwazi, inaonekana, wazi
+wasiwasi: huduma, wasiwasi, maslahi, preoccupation
+uchawi: charm
+kampeni: msafara, zoezi
+whisper: kunong'ona, pumzi
+kawaida: kawaida, maranyingi, umma
+kuwinda: uwindaji, captivate
+mwalimu: mwandishi
+Mwanasheria: shauri
+shughuli: shughuli, kukimbia
+undani: kuenea, vipimo
+mudamfupi: haraka, kifupi
+baraka: awabariki
+vidogo: kidogo
+kasi: kasi, mkali, sana
+kifua: matiti
+kina: kina, chumba
+utendaji: show, tija, demonstrator
+mafanikio: kustawi, mafanikio, ustawi
+mimba: mimba, dhana, kuwakamata, hisia
+karani: salesperson, mfanyakazi, rasmi
+kuamua: kuamua, maamuzi
+muathirika: uwindaji, sadaka
+nia: msukumo, nia, motor, madhumuni, mandhari, ajili
+uhakika: kuamua
+tabia: tabia, maili, disposition, drift
+kijijini: mbali
+bendera: bendera, kujua
+utawala: utawala, kusimamia
+marachache: nadra
+awali: kabla
+wapole: salama
+mafunzo: elimu
+vibaya: vibaya, sana, mabaya
+kulisha: kula, chakula
+kati: kituocha, kiini, shirikisho
+Tofauti: zinazokinzana, kupinga, upambanuzi, tofauti
+muundo: jengo, kimuundo, shirika, utungaji, usanifu, kitambaa
+malipo: kulipa
+kasi: kasi
+uchunguzi: ombi, search, tathmini
+roll: kucheza
+popote: ambapo, mahalipopote
+deni: hatia, wajibu, kutoa
+kushughulikia: kusimamia, kudanganywa
+safari: ziara, msafara
+risasi: risasi, uhamishoni, kuchukua
+bahati: bahati
+gazeti: diary, karatasi, kurani
+ajira: ajira, preoccupation, kazi
+kukata: kukata
+kuamua: kuamua, maamuzi, kulazimisha
+tume: bodi
+ilhali: wakati
+kuvuka: makutano, kuvuka, kupita
+kusisimua: kuishi
+breeze: hewa
+jamaa: binamu
+hivyo: hivyo
+utoaji: kuanzisha, zinazotolewa, ustawi, disposition, kutarajia
+kuhusu: kuhusu, kujali
+pick: kuchagua, kuchukua
+kuharibiwa: kuharibu
+kutoa: kutoa, kuanzisha, kutuma
+isiyotarajiwa: mshangao, ghafla
+dawati: meza, ofisi
+mstari: mstari, band
+kuwakilisha: mwakilishi, mfano, kusema
+heshima: heshima
+bibi: princess
+wajibu: wajibu, lawama
+tamaa: tamaa, kuchanganyikiwa
+mzuri: fit, vinavyolingana, haki
+wanategemea: amefungwa, kutegemea
+kubwa: kubwa, monster
+kufahamu: uelewa, itapunguza, kutambua, kumtia, hariri
+kuwasili: kuja, kutokea
+vuli: kuanguka
+watoro: kukosekana
+viza: giza
+mtuhumiwa: nadhani, shaka, tuhuma
+uamuzi: kuamua, ripotihiyo, ufafanuzi, azimio, nia
+msingi: msingi, suala, msaada
+kuchunguza: kuchunguza, kuangalia
+tuzo: zawadi, premium
+kununua: kununua
+mtu: mtu, mtuyeyote
+kushindwa: kuwapiga, mkufu, kushindwa, kuchanganyikiwa, wanyenyekevu
+jinai: uhalifu
+silly: kumdanganya
+wanakumbuka: kumbuka, uondoaji
+uvamizi: taaluma, fujo
+mjadala: kisasa, hotuba, mahubiri
+kusaidia: kusaidia, msaada, ushirikiano
+kuuza: mnada, kuuza, discount
+mwaliko: wito
+simulizi: hadithi
+duni: chini
+kutambua: kutambua, utambuzi, kuchunguza, alijua
+portrait: picha
+kujenga: yazua, kujumlisha, kuandaa
+migogoro: ubaguzi
+tamaa: kuchanganyikiwa, tamaa, anticlimax
+ujenzi: jengo, usanifu, utungaji
+bidii: euphoria, msisimko
+wajibu: wajibu
+chanya: vyema, pro, kondoo
+tiba: kutibu, huduma, kuboresha
+pamojana: Ikiwanipamojana, kuingia, wanaunda
+kukidhi: kuridhika, kuzingatia, kujiingiza, Decode
+uchungu: uchungu, maumivu
+kijinga: ujinga, kumdanganya
+nafaka: mahindi
+just: kamili, vizuri, madhubuti
+kudhani: kudhani, kujali
+makisio: nadhani, kunukuu
+njia: njia, mzizi
+mgeni: msafiri, mgeni, waangalizi
+zisizo: si, kinyumechasheria, mvua
+waya: mstari
+wengiwaowakiwa: hasa, kwakiasikikubwa
+fahamu: kukatatamaa
+nje: nje, kigeni
+ulimwengu: cosmos, dunia
+saa: kengele
+maelekezo: kichocheo, mwelekeo, mwongozo, kuandikisha, elimu
+kidonda: kidonda, wagonjwa, maumivu, sana
+kuwawezesha: uwezo
+kuanzishwa: kuanzisha, zinazotolewa, primer, kuagiza, jukumu
+protasis: 
+nyika: jangwa
+kuchanganyikiwa: neva, kuchanganyikiwa, mkanganyiko, mtanziko
+harusi: ndoa
+: 
+niaba: mwakilishi, upande, sehemu, badala
+hesabu: kuamini, kutegemea, akaunti
+uhakika: kutokuwanauhakika, unsteady, hazieleweki
+ushiriki: wanaohusika, uteuzi
+chafu: patola
+jukwaa: msingi
+mjumbe: balozi, angel
+daktari: daktari
+iliyoandaliwa: shirika
+kufunika: kufunikwa, paa
+: 
+kweli: waaminifu, kweli, dhati, kirafiki, yeah, halisi
+hisia: hisia, msisimko
+kuwasilisha: , kutuma
+maalum: hasa, binafsi, mtaalam
+ngumu: ngumu
+kuongozana: kuzingatia, kufuata
+alama: alama
+njaa: njaa, uchoyo
+favorite: favorite
+mila: mila, inch, wajibu
+hisia: hisia, kumvutia
+nyara: uwindaji, kupora, sadaka
+kimuziki: muziki, mwanamuziki, harmonic
+kuridhisha: ugonjwa
+ujinga: ujinga, hilarious
+karatasi: karatasi, jani, kipeperushi
+aibu: aibu, matusi
+awali: kwakiasikikubwa
+mshahara: kulipa
+kina: pana, kina
+burudani: burudani, tupu, kustaafu, kupumzika
+kidevu: ndevu, kutibu
+mwanga: mwanga, mionzi, flash
+wivu: wivu
+uhasama: pabaya, adui
+reli: reli, treni
+pound: kitabu
+mashariki: mashariki
+raia: kiraia
+kipengele: vipengele
+mawasiliano: mawasiliano
+hifadhi: kitabu
+strangely: ajabu
+kupendekeza: kupendekeza
+maganda: cortex, ngozi
+mapokezi: kuwakaribisha, kupokea, kupitishwa
+kupendeza: mazuri, unpleasant, hilarious
+kuamka: ari
+utafiti: search
+Mfalme: Kaizari, mfalme
+mavazi: kitambaa, wamevaa
+ugonjwa: ugonjwa, wagonjwa
+mchana: mwanga, mwangawajua
+mzaha: kicheko
+maoni: kueleza, comments
+chuma: chuma, madini
+ufumbuzi: azimio, jibu
+chombo: chombo, kitengo, uwepo, shirika, kampuni
+aondoke: digress, ufa, kwenda, tanga
+kwauchungu: uchungu
+amani: shwari
+wasiwasi: wasiwasi, kuitisha
+: 
+utamaduni: utamaduni, ustaarabu
+hila: hila, kumdanganya, kudanganywa, ujanja, babies
+safu: halisi
+fedha: fedha
+maandalizi: kuandaa, maker
+utani: wisecrack, ucheshi
+ganda: cortex, ngozi
+: 
+kiota: kuishi
+mimba: mimba, kufikiri, wajawazito
+uteuzi: uteuzi, ahadi
+kuchota: kuchukua, kupata, inayotokana, mbinu
+mshumaa: mwanga, taa
+kosa: matusi, mashambulizi, uhalifu, wingi
+mchanganyiko: mchanganyiko
+mfano: mfano
+kasoro: lawama, kasoro, ulemavu
+hint: shauri, ishara
+pingamizi: upinzani
+hila: hila, jina
+kutelekezwa: kutelekezwa, upungufu, kususia, kutojali
+data: maelezo
+silaha: silaha, gun
+pink: kufufuka
+babu: babu, grandparent
+obviative: 
+mapato: mapato, kuagiza, mavuno
+kraftfulla: vurugu
+umeme: umeme, bolt, flash
+michezo: zoezi
+unga: unga, vumbi, kavu
+uchoraji: picha
+kelele: kelele, kishindo, kilio
+kutojali: reckless, kutojali
+mlango: mlango
+rahisi: vitendo, urahisi, fit
+baruapepe: ofisiyaPosta, barua, vinavyolingana
+rangi: rangi
+kujisalimisha: mila
+kuanzisha: kuanzisha, imara
+kali: laini, jimbolauchaguzi, kuondokana
+maramoja: maramoja
+idaraya: sehemu
+stahili: thamani, waliohitimu
+kujiondoa: kutelekezwa, ufa, kutupwa, kufungwa, nje, kujiuzulu
+uhakika: kuwahakikishia, dhamana, kutegemea, ahadi
+kioo: kioo
+njama: mpango, hadithi
+zaidi: zaidi
+chakusikitisha: kusikitisha, dhambi
+kawaida: kawaida, wanyenyekevu
+sahani: mahakama, chakula, kula
+majani: nyasi
+wavu: mtandao
+papara: uvumilivu
+joto: joto
+anahangaika: wasiwasi, unsteady, mapumziko
+: 
+majaribio: majaribio, uzoefu, kujaribu
+kubwa: kutisha, kubwa, sana
+uboreshaji: mageuzi, kukarabati, maendeleo, kuboresha
+mzozo: ugomvi, hoja
+pendekezo: hukumu, mpango, kupendekeza
+labda: labda, naweza
+bunduki: gun
+ngao: kulinda
+kuajiri: kupitishwa, kodi, matumizi, wajibu
+haliyahewa: anga
+tofautina: tofauti, kinyume
+kuokoa: kuokoa, alright, nyuma
+mate: mate, mpenzi, rafiki
+kupanga: ili, kutungasheria, kusimamia
+kamati: bodi
+wenyeumriwamiaka: umriwa, watuwazima
+roho: nafsi
+kutofautisha: upambanuzi, tabia, tofauti, zinazokinzana, kutengwa, kufichua
+kutambua: kutambua, kukiri, utambulisho, alijua
+udongo: matope, mole, ufinyanzi
+shina: kabila, mizigo, Boot, kubwa
+usimamizi: kusimamia
+kurejesha: nyuma
+maandamano: kupinga, maandamano, kukasirika, upinzani
+rundo: dampo, wadau, umati
+wastani: maana, kawaida
+uchawi: charm, herufi, ili
+eneo: uwanja, kikanda, uso
+rasmi: rasmi, isiyorasmi
+mhariri: mwandishi, mchapishaji, katibu
+kukiri: kukiri, kuwashukuru
+dawa: dawa, kuboresha, kutibu
+kujiingiza: kujiingiza, kufuatilia, kufuata
+pole: pole, polar, kitovu, fimbo
+muhimu: muhimu, maamuzi, ufunguo, mauti
+rais: kichwa, mwenyekiti
+wodi: mrengo, kikanda, sehemu
+ms: 
+moyo: moyo, kuhamasisha, starehe
+umwagajidamu: damu
+haki: mantiki, haki, kuhalalisha
+admire: sifa
+hadharani: inaonekana, wazi, ufunguzi
+: 
+muundo: mabadiliko, kukabiliananahali
+kishindo: kishindo, mchezowakuigiza, demonstrative, kasi
+ghorofani: juu
+mbalimbali: tofauti
+asili: asili
+wivu: wivu
+mzigo: mzigo, mimba, bar, kabila, mzigo, wazi
+kujifanya: jipa, mchezowakuigiza
+ndani: ndani
+pazia: pazia
+afya: afya
+Obscure: hazieleweki, noncommittal
+tano: tano
+kituocha: kituocha
+nafuu: Asili
+mashindano: mbio
+kubadilisha: kubadilisha, mabadiliko, kuchukuanafasiya
+glimpse: mtazamo
+mkataba: mkataba, ili, fundo, makubaliano
+kuokoa: kuokoa, kuhifadhi, uchumi
+kamba: kamba, mfululizo
+mchanganyiko: mchanganyiko, mkusanyiko, wito
+joto: joto, zebaki
+mkali: madhubuti, mkali, ngumu
+mtaalamu: taaluma, pro
+kujeruhiwa: waliojeruhiwa, kuumia
+jirani: jirani, kuishi
+sigara: moshi, sigara
+matibabu: daktari
+kuwajulisha: maelezo
+maarufu: maarufu, kukumbukwa, consequential, ufunguo, vizuriinayojulikana
+taasisi: kampuni, shirika
+kukumbatia: snuggle, mzigo
+uchungu: uchungu, taabu, maumivu, mateso, pole
+wazi: wazi, inaonekana, uwazi
+kukamata: captivate, kuwakamata, kuchukua
+: 
+kutosha: kutosha, pana, umati
+chumbachakulala: chumba
+rena: tu, vizuri
+pamoja: pamoja, mpenzi, mchanganyiko, wito, kuheshimiana, umoja
+rejea: rejea, ona
+kutambua: utambulisho, kutambua, kuchunguza
+benchi: benki
+kuwaokoa: kuokoa, wokovu
+kikomo: amefungwa, abridge
+matarajio: kutarajia, hopefully, matumaini
+: 
+mpango: mpango, agenda
+uvumbuzi: mzulia, innovation, search
+mfukowafedha: mkoba, 
+umeme: umeme
+muda: muda, mapumziko
+baada: uwindaji
+kuchukua: kuchukua, kumtia
+kanzu: kanzu, wamevaa, vazi
+kufuli: ngome
+chini: mbaya, angalau
+kusita: kubisha, kusita, shaka, 
+pendekezo: kupendekeza, hukumu, mpango
+furaha: furaha
+baadae: ijayo, kisha, kufuata
+uneasy: unsteady, unpleasant, wasiwasi
+uangaze: flash, mwangawajua, polish
+mashine: mitambo, mashine, utaratibu
+kuvutia: kuvutia, magnetic, kuhitajika
+bidhaa: bidhaa, kuzalisha
+kiuchumi: uchumi, kifupi
+ugonjwa: ugonjwa, wagonjwa, chupa
+injini: motor, mashine
+yao: wao
+ngozi: ngozi
+mteremko: maili, kuzamisha, bent
+wasiwasi: wasiwasi, preoccupation, huduma
+ukali: ngumu
+: 
+maalum: kuamua, majina
+mbao: mbao, fimbo, mti
+mahesabuya: akaunti
+mauaji: kuua
+funny: ajabu, hilarious
+tusi: matusi, dharau, aibu
+uwakilishi: kujieleza, mkataba
+uwezo: uwezo
+nitakula: kula, chakula, chakulachamchana
+nyeti: wanahusika, ufunguo
+hamu: hamu, uchoyo
+hisani: polite, heshima
+nyanja: uwanja, mpira, kikanda, pandezote
+honorific: heshima
+hatia: hatia, uhalifu, lawama, dhambi
+ladha: kitamu, ladha
+watotowachanga: mpira
+ngano: ngano, mahindi, brown, kinu
+ucheshi: ucheshi
+kukutana: kukabiliana, tarehe
+jioni: alfajiri
+Hifadhi: bustani
+zinazoongoza: kusimamia, utawala, bwana, kufunikwa
+malezi: elimu, yazua, uundaji, utungaji, imara, kuzalisha
+nyumbayasanaa: mkusanyiko
+konda: maili, kusababisha
+bara: bara, kiasi
+kubisha: kubisha, kuwapiga, click
+umoja: umoja, kitengo, mshikamano
+kuu: waanzilishi, ufunguo, mzazi, kubwa, mkuu, ndani
+awali: ufunguzi
+kiini: kiini, simuyamkononi, uke, cabin
+mpaka: amefungwa, pindo
+kupumua: pumzi
+msamaha: bure, acquit, kusamehe, ubaguzi
+tajiri: tajiri
+kilamtu: zote, mtuyeyote
+tele: tajiri, sana
+mchoraji: msanii
+glasi: kioo
+risasi: risasi, uwindaji
+wagon: treni, kitoroli, ghorofa
+kuwakopesha: kutoa, mikopo, kunukuu
+kufanya: mwanzo, kufanya
+viongoziwadini: kuhani
+mlima: instal, Ongeza, kilima, acid
+safu: mkusanyiko, mfululizo, ili, permutation, kujipanga, oh
+magazine: vyombovyahabari, kilamwezi
+: 
+kali: ngumu, madhubuti, rude
+kushinikiza: itapunguza, kuhamasisha, vyombovyahabari
+tight: nyembamba, madhubuti, ngumu
+: 
+kuachanana: kutelekezwa
+hasa: hasa, kwakiasikikubwa
+waaminifu: uaminifu, waaminifu, mwaminifu, mdhamini
+inafaa: kirafiki, fit, vinavyolingana, mojawapo
+kushauri: shauri
+kiuno: kimapenzi
+imara: steady, imara, kuamua
+kutenda: ahadi, kufanya, kasoro, dhambi
+kuathiri: athari, kumvutia
+umuhimu: umuhimu
+mkulima: mkulima
+mno: sana, consequential, kutosha
+kupanua: kuenea, kuongeza, kunyoosha
+binafsi: mmojammoja, binafsi, mwenyewe, mtu
+maadili: maadili
+uasi: waasi, mapinduzi
+thread: mstari
+baharia: chumvi
+majibu: majibu, jibu
+kifalme: kifalme
+tupu: tupu, mashimo, nyeupe
+madogo: sekondari, kidogo, miner
+: 
+mapatano: biashara, tukio, makubaliano
+uchovu: uchovu, mzigo
+chuki: dharau, chuki, kusita
+kawaida: kawaida
+mchoro: muhtasari, mpango, show
+anyway: tayari
+dereva: motorist, kuendeshagari, kondakta, majaribio
+kurejesha: kuweka
+tamko: tangazo
+utu: mtu
+ziada: ziada, redundancy
+kujitenga: tabakala, umbali, kutengwa
+unyarafu: dharau
+kukamilisha: kutambua, kupata, kukabiliana, kamili
+sawa: sawa
+kundilawatu: umati, wingi
+lazima: taka, lazima
+fur: ngozi, kanzu
+kodi: kodi
+kupunguza: acquit, kusamehe, kuwezesha, kuchukuanafasiya, kupumzika
+sheria: kutungasheria, utawala, bunge
+mradi: mpango
+sambamba: kufananana, vinavyolingana, kujali
+Fairy: angel, villa
+kuhitimisha: fundo, mkusanyiko
+bahati: bahati, furaha
+Lap: goti, pandezote, kupitishwa
+ridge: mkutanowakilele
+nyara: kupora, uharibifu, sophisticate
+kutozwa: urahisi, huwa, wanahusika
+wasiwasi: wasiwasi, busara
+mazuri: kirafiki, mazuri, flex, kuhitajika, mojawapo, kupitisha
+bati: benki
+tegemezi: addicted, masharti, mfanyakazi, kutegemea
+kibali: kuwahakikishia, kuhalalisha, mkataba
+malalamiko: kulalamika, nyeupe
+mkataba: mkataba, makubaliano, mkutanowakilele
+angle: kona, poligoni, pembe, pana
+sana: sana, kwakiasikikubwa, pana
+ng'ombe: ng'ombe
+chuki: chuki, upendeleo, fiber, fundo
+inashangaza: ajabu, amaze, mshangao, fora
+sahihi: vinavyolingana, fit, haki
+ujasiri: ujasiri, salama, kuamini, halisi, Bilashaka
+chombo: chombo, mwanachama, mwili
+uteuzi: kuchagua, uteuzi, chaguo, uchaguzi
+hofu: hofu
+: 
+kulinganisha: kulinganisha
+yanahusiana: ndoano, mawasiliano, kujali, kusema
+presume: kuamini, nadhani, kudhani, kujali
+kukosa: haiko, waliopotea
+mtindo: mtindo, kisasa, kifahari
+fujo: neva, fujo, kuingiliakati, kizuizi
+chama: kujali, shirika
+mpwa: mpwa, mjukuu
+mwili: mwili
+Kitivo: chuo, factorial
+meli: meli, pazia
+smart: busara
+ndogondogo: pete, yasiyonamaana, kidogo
+tahadhari: onyo, huduma
+shujaa: shujaa
+maji: maji
+dhana: dhana, hisia
+hasa: hasa
+kuruka: kuruka, ngoma, kisigino, bounce
+nia: nia, kuandaa
+ziada: ziada
+lami: lami, tone, si
+Awkward: ajabu
+kufahamu: kuwashukuru
+jury: hakimu
+kuishi: kuishi
+literally: halisi
+kwaufupi: kifupi, urahisi
+guy: mtu
+senti: sarafu
+kupitisha: kupitishwa, kupitisha, kudhani, kuchukua
+marakwamara: maranyingi, steady, marakwamara
+uchunguzi: search
+kikatiba: katiba
+karibuni: mwisho, safi
+mwanafunzi: mwanafunzi
+kabisa: kikamilifu, vizuri, kamili, vyema
+inaendelea: bent
+: 
+tofauti: tofauti, kutengwa, tofauti, mmojammoja
+maafa: uharibifu, inversion
+bet: wadau, hali, fireworks
+upimaji: kutoa
+mbichi: kuishi, patola, kijani, fundo, bald
+kuingia: kuingia, kurekodi, Ingia
+ukarimu: burudani
+gari: treni, gari, kitoroli
+: 
+kushirikisha: masharti, matumizi, kodi, kuweka, wanaunda, wanaohusika
+kundi: kundi, wafanyakazi, umati
+: 
+kukusanya: kukusanya, kukusanya, mkusanyiko
+sufuria: sufuria, mkate
+shambulio: mashambulizi
+kudanganya: kumdanganya, uongo
+maombolezo: pole
+: 
+idhini: kupitisha, kupitishwa, applause, ruhusa
+kuondoa: kuondoa, Drag, kuvutia, kustaafu, uondoaji, nyuma
+tune: wimbo, maelewano
+huruma: huruma
+kumsaliti: kuuza
+kujificha: kujificha
+transcription: nakala, derivative
+hati: faili, mwongozo
+jirani: jirani, karibu
+kuwaadhibu: hukumu
+kuzuia: kuzuia, kiasi, kizuizi, nyeusi
+wajibu: wajibu
+kushuka: kuanguka, kuzamisha
+kabambe: tamaa
+likizo: likizo, sikukuu
+tai: kipanga, tai
+heshima: heshima
+muhimu: muhimu, consequential, fora
+kazi: vipengele
+mnene: nene
+fiction: riwaya, imaginary, hadithi
+kupendekeza: kupendekeza, kuanzisha
+sabini: 
+elimu: elimu
+zaidi: zaidi
+pembe: mahindi
+mfuko: sanduku, mjimkuu, ray
+nyumbayakulalawageni: kibanda, faili, cabin, villa
+Costume: desturi
+nauli: kodi, kwenda, ramani
+kuwakumbusha: kumbuka, kufananana
+mto: mto
+mahalipa: doa, mahalipopote
+: 
+maiti: mwili
+kiini: kiini, mambo, pet
+mwinuko: mwinuko
+ulimwengu: uwanja, dunia, wigo
+staircase: ngazi, wadogo
+mkataba: mkataba, vinavyolingana, makubaliano, fit, holela
+lace: mbio, mapigo
+msomi: mwanafunzi, mwanasayansi
+mtawala: duke, gavana
+mambo: kumdanganya
+kuwakaribisha: kuwakaribisha, burudani
+salamu: kuwakaribisha
+monstrous: monster, kutisha
+vigumu: tu
+kituo: vifaavya, kuwezesha, faraja
+kuwaibia: kuiba, kupora, kuwanyima
+ngazi: ngazi, kondakta, wadogo, shule
+kuishia: kumaliza, mwisho
+: 
+mgawanyiko: kuhesabu, kusambaza, dissection
+kutembea: kutembea, rung
+ulinzi: huduma, kulinda
+ajabu: ajabu, kifahari
+upinde: upinde
+wateule: uchaguzi, kuchagua
+aibu: shyness, aibu
+mkuu: mkuu
+themanini: 
+kwabahatimbaya: bahatimbaya
+ukungu: ukungu
+rangi: rangi
+kushauriana: aliuliza
+kuwaonya: onyo, kushawishi
+kina: kina, msingi, Asili
+faraja: kuhamasisha, faraja, msukumo
+kawaida: kawaida
+kukuza: maendeleo, tangazo
+uaminifu: uaminifu, mwaminifu, dhati
+: 
+uhamisho: tafsiri, usafiri
+msingi: msingi, miundombinu
+kifungu: pakiti, fiber
+kutisha: kutisha
+mapitio: kukosolewa
+sana: kutisha, sana
+kupikia: mpishi, jikoni
+uasi: waasi, mapinduzi
+ikaanguka: kuharibu, ajali, uharibifu
+kuwashawishi: kuwashawishi, kuwahakikishia
+mfano: mfano, picha
+ujasiri: mshipa, ujasiri, neva
+kujua: kujua, kuwahakikishia, kuamua, kuangalia
+ahadi: kuwahakikishia, ahadi, mateka, dhamana, pawn, kuapa
+kulipwa: kutumikia
+hatimaye: kisha, ijayo
+teua: kuchagua
+tafsiri: tafsiri, kueleza
+changamoto: wito
+kukataza: kuzuia, kolinesterasi
+uandikishaji: kupokea, kupitishwa, kukiri, kizingiti
+pool: Bwawalakuogelea, shimo, daraja
+mkutano: kikao, mkutano
+usawa: mlinganisho, usawa, yanayolinagana
+wapya: hivikaribuni, riwaya
+mazingira: mazingira, jirani, anga
+uvamizi: mashambulizi, Ingia
+mfano: mfano, maramoja, fomu, kimiani
+yatangaza: kufichua, kutafakari, wazi
+kutatua: azimio, huru
+kuhubiri: mahubiri
+bibi: grandparent
+pamba: pamba
+kuwasiliana: mawasiliano, utakusanyika, majadiliano
+: 
+kimsingi: suala, kwakiasikikubwa, maana
+kupinga: kupinga
+specimen: mfano
+mazao: mavuno, kukata, kuzalisha
+sahihi: unga, halisi
+mapumziko: kuchukua, makazi, mapumziko
+kukataa: taka
+dhamana: ufunguo, dhamana, copula, utumwa
+huruma: huruma
+mshahara: kulipa
+kuendelea: kuendelea, steady
+Excite: kushawishi, kuchocheana, koroga, ari
+wildly: porini, vurugu
+huzuni: huzuni, janga, pole
+washirika: umoja
+dari: blanketi, paa
+uthibitisho: cheti, 
+lengo: lengo, madhumuni
+fedha: fedha
+wazi: wazi, bure, tupu, huru, hazieleweki, sifuri
+kumdharau: dharau
+lawn: nyasi, meadow
+Uturuki: 
+jirani: jirani, karibu
+mwisho: mwisho, upeo, hatimaye
+kuwasilisha: kutuma
+kuingia: kuingia, kurekodi
+: 
+kina: kina, vizuri, kamili
+kusisimua: kuvutia
+kushinda: mafanikio, kuwapiga
+kihafidhina: orthodox, gavana
+shauku: wasiwasi, msisimko
+downstairs: chini
+kukaribisha: ili
+jipu: mpishi, kidonda, kaanga
+uzuri: uzuri, nzuri, mazuri, nadhifu
+kesho: jana
+: 
+wasiwasi: wasiwasi, unpleasant
+bandari: makazi
+vifaavya: vifaavya, utaratibu
+kudai: kusisitiza, kumtia
+kutamka: kujieleza, farasi
+reli: reli, treni
+mazao: mavuno, kuzalisha
+kamili: kamili, ulemavu, incompleteness
+: 
+kupata: kupata, kununua
+kukera: mashambulizi, matusi, fujo
+coldly: baridi
+hotuba: hotuba, Bilashaka, mahubiri
+ambapo: ambapo
+mtazamo: hisia, mtazamo, bent, alijua, uelewa
+kuendeleza: kufafanua, kufuka
+kazi: sherehe, kazi, shughuli
+risasi: risasi, kusababisha, mpira
+: 
+kumfunga: amefungwa, kamba
+kufanana: sawa
+kikubwa: demonstrative, kubwa, consequential, fora, kutosha
+wingi: wingi, ukubwa, kiasi, tumor, umati
+mudamrefu: mudamrefu, msiweke, longitudinal
+annoyed: irritated, unpleasant, hasira
+kasirika: neva, kusikitisha
+teksi: teksi, 
+rundo: copula, wafanyakazi, band
+maonyesho: dalili, show
+nyasi: nyasi
+mjadala: hoja
+mapumzikonautulivu: ukimya, shwari
+ubaguzi: ubaguzi, sehemu
+nyama: nyama
+kurudia: wakati, marakwamara
+: 
+kuunganisha: mshikamano, kuunganisha, kupatanisha, kujiunga, kuyeyuka
+blade: jani, upanga
+kiwanda: kinu
+logophoric: 
+mahudhurio: ushiriki, upatikanaji, uwepo
+jarida: vyombovyahabari, diary
+uaminifu: dhati, uaminifu, waaminifu
+halali: kisheria, kuhalalisha
+Alhamisi: kuna
+ligi: muungano
+: 
+trafiki: mzunguko, usafiri, vowel
+kiungo: mwanachama, mrengo
+: 
+wakili: meneja, mtumishi
+fantastic: kifahari
+mageuzi: mageuzi, evolutionary, kufuka
+kubadili: Juuchini, kinyume
+utafiti: kuangalia, search
+amuse: burudani
+kisasa: kisasa, synchronize, muda
+kashfa: rushwa
+makusudi: makusudi
+ishara: notation, ishara, ramani, alama
+ahueni: wokovu
+kuosha: osha, kufulia
+: 
+sahihi: unga, fit, halisi
+tukio: kutokea, tukio, uwepo, katiba
+shimoni: bega, mti
+: 
+shina: kavu, kabila, mzizi
+shirika: kampuni, shirika
+upendeleo: upendeleo, kuchagua, upendeleo, chaguo, kipaumbele
+kuwaomba: kushawishi, hamu, kuhamasisha, aliuliza
+kupunguza: Asili
+kuondolewa: umbali, salama
+madai: hoja, tangazo
+kupatikana: ziara, kupatikana
+comedy: ucheshi
+flush: rangi, msisimko
+kificho: yadi, encode, nywila
+kutosha: kutosha, kahawa
+mgawanyiko: kusambaza
+: 
+historia: kihistoria
+kiwango: msongamano, mzigo, ukubwa
+demokrasia: jamhuri, kidemokrasia
+imani: kukiri, dini, njia
+kivutio: charm, mvuto
+tamasha: tamasha, sherehe
+kushuka: chini
+uchambuzi: azimio, kuchambua
+haraka: haraka, ombi
+: 
+mkazo: lafudhi, kusisitiza, umuhimu
+shaba: shaba, brown
+vazi: vazi
+majuto: kusikitisha
+: 
+kipekee: ukiritimba, binafsi, kuminanne, specialty
+mbebamizigo: kuvaa
+dash: mstari, dashibodi
+strip: band, bar, undress
+hatimaye: hatimaye
+timu: wafanyakazi
+yeyote: ambao, kwanamnayoyote, mtuyeyote
+ghali: wapenzi
+makaomakuu: Makaomakuu, kituocha
+papohapo: mkali, sugu
+aibu: neva, aibu, misplace
+watoto: watoto
+mtandao: mtandao
+ndege: ndege, uso, mashine, kuongezeka
+sehemu: sehemu
+kujigamba: kiburi
+mtaro: balcony, paa
+mtego: mtego, ngumi, itapunguza, outlet, hariri
+unyenyekevu: unyenyekevu
+mlipuko: kupasuka
+wizara: ofisi
+mduara: makala
+askari: jeshi
+kukazwa: madhubuti
+adhabu: hukumu
+mbadala: chaguo, kubadilishana
+kujizuia: uvumilivu
+screen: pazia
+uchafu: uchafu, matope, vumbi
+era: msimu, mamboyakale, mudamrefu, mshikamano
+kuzaliana: kuzidisha, mbio, uzazi
+kuingiliwa: kuingiliakati, kero, machafuko
+wajumbe: wanaunda, Ikiwanipamojana, huwa
+kukubalika: kukubalika, kupitishwa, kupokea
+mhandisi: mitambo, makala
+mguu: mguu, kuwakamata, kufungwa, kuzuia
+mbadala: chaguo, kuchukuanafasiya
+muhuri: muhuri
+Compact: kifupi, abridge
+kutoweka: haiko, asiyeonekana, waliopotea
+counter: disk, kukasirika, kinyume, mpinzani
+venus: Ijumaa
+kuvutia: kuvutia, kumvutia, captivate
+kushangaza: mshangao, fora
+ushindani: mpinzani
+kioo: kioo
+kuoga: umwagaji, mvua
+: 
+mkubwa: nzito
+pishi: chumba
+falsafa: mwanafalsafa
+kifaa: vifaavya, mbinu, chombo
+glare: mtazamo, mkali
+hatimaye: hatimaye
+msamaha: kusamehe
+awfully: sana, kutisha
+kutafakari: kutafakari, tafakari, mpango
+utengenezaji: kuzalisha, maker
+raha: mazuri
+maonyesho: ripotihiyo
+jitihada: search
+ugani: kuenea, figo
+yanachukua: wanaunda, utungaji
+utata: utata, hoja
+: 
+takribani: kawaida, takriban
+Rudia: juu
+: 
+njama: kukata
+kuzuia: kolinesterasi, kuzuia
+utunzaji: kuokoa, huduma, kuweka
+baa: bar, nyumbayawageni
+bonde: bonde, Bwawalakuogelea, kuzama
+melody: tone
+: 
+kuajiri: kodi
+wasiwasi: wasiwasi, neva, huduma
+wazee: Uzee, umriwa
+chuokikuu: chuo
+: 
+kurekebisha: kuchukuanafasiya
+: 
+tahadhari: makini
+misingi: msingi
+kabla: mashariki, kabla, umriwa
+ngumu: tata, ngumu, kufafanua
+kuombamsamaha: pole, apple
+hofu: hofu
+mbadala: chaguo, posho, kuchukuanafasiya
+matumizi: matumizi
+marejesho: kukarabati
+ua: uzio
+msingi: bwana, msingi, sayari
+boriti: ray
+ziara: ziara, msafara
+chumvi: chumvi, usiokuwawakawaida
+uwezo: uwezo, waliohitimu
+kilimo: kilimo
+haraka: haraka, precipitate, muhimu
+usahihi: usafi
+tahadhari: onyo, ari, alama
+umbo: fomu
+tanuri: jiko
+rounded: pandezote, rounding
+kawaida: kawaida, orthodox
+kuwasihi: kuhalalisha
+kamba: kamba
+classical: classic, muziki
+sambamba: sambamba, ijayo, pamoja
+dondoo: kunukuu, juisi
+painti: bia
+tube: bomba
+avenue: tukio
+tembo: pembezandovu
+kuzika: mazishi
+ufanisi: ufanisi, athari
+kuchanganya: mchanganyiko, koroga
+usumbufu: machafuko, kero, kuingiliakati
+mtendaji: meneja
+kumi: kumi
+kulinganisha: kulinganisha
+lokaltidi: asubuhi, shiny
+ngome: ngome
+shehena: bidhaa, bar, 
+jela: gerezani
+ustadi: ujanja, uwezo
+kupigakelele: kilio
+maelewano: makubaliano, maelewano
+risasi: risasi
+msaidizi: msaidizi, kusaidia
+miwa: fimbo
+mara: wanaohusika
+mpaka: amefungwa, pindo
+michakato: maombi, usindikaji
+wanasema: kujadili, ugomvi, kusisitiza
+mantiki: hoja, mantiki, rationality
+hofu: hofu
+msongo: mzigo, huzuni
+matumizi: matumizi, kula
+kuendeleza: msaada, kupata
+ajali: ajali, kuanguka
+anakosa: kukata, kabila
+taratibu: polepole
+kuponda: kuharibu, mvuto, itapunguza, upendo
+jambo: jambo, dalili
+kutekeleza: kuzingatia, kukimbia, kutambua, hatua, kutekeleza
+kusalimiana: afya, kuwakaribisha, awabariki
+kifalme: kifalme
+kuishi: kuishi, kutibu
+Curve: upinde
+urahisi: urahisi, faraja
+kondoo: kondoo
+mantiki: mantiki
+mlo: chakula, dozi
+mahakama: mahakama, kisheria
+thabiti: uwiano, steady, kujipanga
+uaminifu: shaka, uaminifu
+feather: spring
+habitual: kawaida, 
+hiari: kujitolea
+: 
+koti: kanzu, sweta
+kuogelea: kuogelea
+kuvutia: kuvutia, fora, ufanisi
+chini: chini
+mkoa: vijijini, jimbo, kikanda
+: 
+: 
+fidia: posho, zawadi
+dhana: nadhani
+waiter: mtumishi
+kukuza: kuwezesha, kuhamasisha, tangazo
+kujishughulisha: nia
+uadui: kupinga
+kikwazo: kizuizi, machafuko, shida
+: 
+mashamba: isiyohamishika, kitalu
+wakambo: kuwezesha, dini, pet
+kuwafichua: muhtasari, kufichua, wazi
+kiraka: doa, attachment
+usumbufu: mapumziko, kero, kizuizi
+: 
+thumb: inch, ujinga
+mapinduzi: mapinduzi, radical
+: 
+: 
+marudio: nzito, marakwamara
+ajabu: ajabu, amaze
+ncha: ncha, mkutanowakilele, shauri
+kick: soka, risasi
+tishio: kutishia
+jungle: msitu, porini
+kawaida: kawaida
+: 
+mafuta: mafuta
+tranquil: shwari
+marudio: madhumuni, sakafu, disposition
+siri: siri, sindano
+mars: maandamano
+mshirika: mpenzi, sambamba, masharti, rafiki, vyamavyaushirika
+matata: kinyumechamaadili, mabaya
+karamu: sikukuu
+kina: kufafanua, kina, pata
+chumbani: barazalamawaziri
+wabunge: kutungasheria, bunge
+margin: uwanja, pindo
+bingwa: shujaa, michuano
+matengenezo: kuweka
+: 
+tofauti: tofauti, mmojammoja, tofauti
+kukimbia: kukimbia, kutoroka
+kifungu: mkondo, aya, makala, kiasi
+: 
+kiwanja: derivative, tata
+uhusiano: mawasiliano, ripotihiyo, kujali
+wakala: shirika, kampuni, ofisi
+grin: tabasamu, grimace
+isiyoyakawaida: usiokuwawakawaida, sana
+: 
+maandamano: show, maandamano, demonstrator
+kilawiki: wiki
+kukopa: mikopo, kunukuu, omba
+uvimbe: jazwa
+mada: mandhari, jambo, hadithi
+: 
+kuimarisha: , kuimarisha
+: 
+maisha: maisha, wito
+uamuzi: utawala
+sifa: wema
+kupenya: kuvuka, kuenea
+kitambulisho: utambulisho, ufafanuzi, kuchunguza
+: 
+: 
+picha: picha, risasi
+mshirika: rafiki, kirafiki, umoja, mambo
+shimoni: mfereji, shimo
+njia: njia, kunyoosha, hoja, jeneza
+Ribbon: band, movie
+plus: zaidi
+perfume: harufu, harufunzuri
+kujisumbua: shida, kuingiliakati, kero
+insha: makala, ripotihiyo
+: 
+mpanda: wanaoendesha
+upweke: upweke, ukimya
+mkono: mkono, mapigo
+laini: laini, hila, hatimaye
+li: 
+ufanisi: uwezo, mavuno, uwezo
+kulaani: hukumu, juta, hatia, lawama
+taya: kutibu
+kipekee: umoja
+inevitably: kuepukika
+ngoma: ngoma, tupu
+adhabu: kupitisha
+bin: sanduku, kikapu
+: 
+muda: muda, wakati, urefu
+kupima: kupima
+utawa: Abbey
+kuchapisha: uchapishaji, kusambaza, kufichua
+ufahamu: uelewa
+dhahiri: madhubuti, Bilashaka
+: 
+mabadiliko: mabadiliko, kupita
+usikuwaleo: usiku
+sababu: mfanyakazi, mgawo, mambo
+fujo: fujo, machafuko, mkanganyiko
+mazoezi: zoezi, hatua
+patakatifu: madhabahuni
+kawaida: kawaida, muda, random, 
+kihistoria: kihistoria
+kuchoka: kuzaa, irritated
+kuogopa: kukusanya
+matumizi: gharama, matumizi
+moyo: moyo
+kidiplomasia: ujanja
+yatokanayo: kujieleza, ripotihiyo, athari, mwanga, majibu
+ghafi: patola, kijani, fundo
+kisichozidi: ubakaji, kuvuka, upeo
+kuhamasisha: kuhamasisha, msukumo
+tiketi: bendera, ramani
+nyuma: nyuma, kujiuzulu
+kiatu: viatu, Boot
+udanganyifu: udanganyifu, kudanganywa
+mlipuko: kupasuka
+fireplace: chimney, kaka, moto, jiko
+jar: kioo, chupa, sufuria
+mchuzi: dressing
+bovu: wavivu, kinyumechamaadili
+tabia: tabia
+sikuhizi: jana, sasa, hivikaribuni, kisasa
+: 
+mkopo: mikopo, kunukuu
+mantiki: mantiki, yasiyonamsingi, irrational, reckless
+tamaa: tamaa, hamu
+mwaka: mwaka
+: 
+maji: maji
+mtoto: watoto
+mwendawazimu: kumdanganya
+kuangushwa: kumwaga, hatimaye
+mafanikio: mafanikio, kunyonya
+dhana: kudhani, dhana, kupitishwa, bent, discount
+humorous: ucheshi, hilarious
+kustaafu: kustaafu, kujiuzulu
+kutamka: lafudhi
+: 
+: 
+bunge: bunge, seneti
+huenda: kupanda
+dharura: wasiwasi, mgogoro
+sehemu: pakiti, sehemu
+droo: sanduku, ngazi, Drag
+mchango: kuchangia, wadau, ushirikiano
+kiungo: linker, attachment, copula
+kukwanyua: ujasiri, berry, kujipatia
+uchapishaji: uchapishaji, magazeti, muhuri, vyombovyahabari
+wakili: kuhalalisha, mshtakiwa, shauri
+mazingira: anga, mazingira, jirani
+kuthibitisha: kuthibitisha, kuwahakikishia, kupitisha, kuimarisha
+wenyeujuzi: uwezo, waliohitimu
+kutangaza: kufichua, uchapishaji
+kujiuzulu: kujiuzulu
+kukataa: kupinga, kukasirika
+mgumu: ngumu, kikatili, angel
+fragment: chip, chakavu, kunyoosha, kuhesabu, exponent
+kutafakari: huduma, kutafakari
+doa: doa
+mazishi: mazishi
+hypothesis: kudhani
+hypotheticalmood: mapemamnomood, assumptivemood, mashartimood
+shughuli: shughuli, biashara, mawasiliano
+hasira: ubakaji, hasira, dharau, aibu
+kutofautiana: kutofautiana, tofauti, kuchukuanafasiya
+wakili: mwakilishi, shauri
+kumkosea: matusi, hatia, kukasirika, scrape
+pakiti: pakiti, mfukoni
+ranchi: chakulachamchana
+kuwashitaki: lawama
+tabiambaya: uwezekano
+pie: keki
+pensheni: syntax, kustaafu
+kitendo: neno
+usahihi: haki, madhubuti, vizuri
+hatari: adventure, mgogoro, hatari, 
+: 
+fling: kutupwa, chakavu
+baharini: Navy, bahari
+: 
+umeme: umeme, mkondo, wasifu
+mgeni: kigeni, mgeni, extraterrestrial
+kupasuka: kupasuka, ufa
+huzuni: kusikitisha, huzuni, depressing
+kejeli: taabu
+thickly: nene
+sababu: mantiki
+cable: mashimo, flex
+kuonyesha: kueleza, mfano
+sifambaya: vizuriinayojulikana
+kuwadhuru: kuumia
+usahihi: haki, alright
+malisho: meadow
+: 
+mdudu: mask, kina, wadudu
+kukadiria: nadhani
+hariri: usindikaji
+outfit: shirika, vifaavya, vazi, fasihi
+unlucky: bahatimbaya
+nane: nane
+walishirikiana: faraja, kupumzika, shwari, steady
+karibu: karibu, jirani
+: 
+masuala: vipengele
+mwandamizi: mzazi
+mkufunzi: kocha, kukasirika
+wizi: kupora, kuiba, kunyonya
+biashara: biashara
+: 
+donge: fundo, wingi
+ajali: ajali, random, muda, mshangao, makusudi
+majengo: nyumba, doa, jengo
+utoaji: kuanzisha, mpira
+: 
+ikiwa: bent, flex
+uzalishaji: kuzalisha
+tofauti: tofauti, upambanuzi, mabadiliko
+kuvimba: jazwa
+kulima: kukua
+tofauti: mabadiliko, tofauti, tofauti
+mpinzani: mpinzani, kukasirika, adui
+mjukuu: mjukuu, mpwa
+msumari: misumari, bolt
+ukarimu: ustawi, wema
+usahihi: usafi
+dalili: dalili, alama, ishara
+: 
+kupunguza: kukata, itapunguza, nyekundu
+pat: sufuria
+mazungumzo: majadiliano, mawasiliano
+tumbo: tumbo, kitovu, meli
+bidii: kujaribu
+kuchukizwa: chuki
+kutunga: kuandika, yazua, kujumlisha
+: 
+: 
+utata: utata, kupinga
+: 
+abiria: msafiri
+kuumwa: kumchoma, uchungu, kuuma
+wakatihuohuo: pamoja, wakatihuohuo
+episode: consequential, sehemu
+kufikia: kutambua, inayotokana, kupata, wanaunda
+kuendelea: kuendelea
+njaa: njaa
+kushauriana: majadiliano, shauri
+mbuzi: kondoo, chlorine
+tailor: 
+sour: acid
+kusisitiza: kusisitiza
+gwaride: maandamano
+kofia: kofia
+kutangaza: uchapishaji
+malazi: hoteli, kukabiliananahali
+dawa: dawa, mawasiliano, erosoli
+rasmi: rasmi, isiyorasmi
+: 
+disturbing: neva, kuingiliakati, wasiwasi, kero
+daraja: daraja, tabakala, mgawo
+kinyesi: kiti
+uhalali: kuhalalisha
+mgeni: kigeni, mgeni
+kufuta: kuondoa
+usafiri: usafiri
+ufahamu: uelewa
+mipango: mpango
+weird: ajabu
+mkurugenzi: meneja, kichwa
+muda: muda, wakati
+nicely: nzuri, mazuri, mafanikio, nadhifu
+kutekeleza: kuzingatia, kulazimisha, polisi, kutekeleza
+mifupa: mfupa, jengo
+kina: pana, kina, kamili, jirani
+kutishia: kutishia
+maendeleo: maendeleo, radical
+rasilimali: rasilimali
+kuunda: kumtia, abridge, nyembamba, amefungwa
+kumpongeza: sifa
+bima: salama
+kuteua: jicho, kuchagua
+kupinga: kupinga, kukata, kuingiliakati, butua, mapumziko
+kukandamiza: kuonea, kuzuia
+: 
+safu: tabakala
+fununu: ushahidi, ufunguo
+jino: meno
+kukomaa: watuwazima, busara
+utegemezi: addicted, kutegemea, kuamini
+kuhakikisha: kuwahakikishia, dhamana
+utaratibu: utaratibu, hatua, mtindo, usindikaji
+mapendekezo: kupendekeza
+pengo: mapumziko, ufunguzi, tofauti, umbali
+: 
+kuashiria: maana, kupendekeza
+ambatisha: masharti, ganga
+mkao: ishara, kiashiria, nafasi, kusimama
+owl: ndege
+suite: mrengo, mkusanyiko, ghorofa
+kito: hazina, kustawi, dhamana
+: 
+pili: pili
+violin: 
+: 
+hisia: hisia, wanahusika
+thabiti: demonstrative
+kuchanganya: muungano, kuunganisha, pamoja
+mtiririko: tofauti
+kilele: mkutanowakilele
+fedha: fedha, sarafu, kubadilishana
+lengo: madhumuni, lengo
+kumbukumbu: kumbukumbu, onyo
+: 
+: 
+tofauti: kutengwa, tofauti, mmojammoja, upweke, kujitegemea
+tray: disk
+usawa: usawa, sambamba
+kiu: kiu
+katiba: katiba, karatasi, kodi
+bidhaa: bidhaa, makala, sauti, aina, nafasi, shingo
+: 
+hesabu: akaunti, sensa, kosini, kuhesabu
+upanuzi: kuenea, kuongeza
+twist: bolt
+jadi: mila, orthodox
+kuhusisha: Ikiwanipamojana, wanaunda
+utaratibu: kawaida, utaratibu
+kutatua: jembe, huru, Decode
+asije: tease, kushawishi, majaribu
+aliyeshindwa: kushindwa, mafanikio
+mwanasiasa: kisiasa
+: 
+udhibiti: utawala
+ukiukaji: kuumia
+makutano: makutano, fundo
+bosi: meneja, mwajiri, kichwa
+rika: kaziyanyumbani, duke
+matokeo: mafanikio, athari
+strand: beach, band
+: 
+ukingoni: pindo, mdomo, pwani
+bidhaa: biashara, bidhaa, mfanyabiashara
+aloof: kutengwa, mbali
+upatikanaji: kupata, upatikanaji
+hifadhi: hospitali, makazi, uhamishoni
+kuthibitisha: kuthibitisha, kupitisha, kuwahakikishia
+bustani: bustani, 
+ratiba: meza, disposition
+manispaa: mji, mashairi
+kutulizaghasia: koroga
+mkongwe: maarufu
+: 
+kushuhudia: kuthibitisha, ushahidi
+wajawazito: wajawazito, mama
+uchongaji: sanamu
+: 
+ladha: ladha, harufu
+brand: mwongozo, alama
+: 
+mizigo: mizigo
+takataka: yasiyonamsingi, chakavu, dampo, taka, mbaya
+chombo: chombo
+machafuko: machafuko, mkanganyiko
+uliopo: neva, wakati, mudamrefu
+: 
+kuku: kuku
+busara: busara, hila
+kuomboleza: kilio, juta, pole
+dialect: lafudhi, polish
+msingi: msingi
+mizigo: mizigo, bar, bidhaa
+kuifuta: sweep, kuondoa
+kunyimwa: hasi
+chiniyaardhi: siri, kijiolojia
+: 
+kushirikiana: mwendelezo, linker, pamoja
+kati: kuangalia
+formula: kichocheo, vyombovyahabari, sherehe
+kudanganya: kumdanganya, kudanganywa, uongo
+duni: bahatimbaya, yasiyofaa
+haunt: kubisha, kuitisha, itaonekana
+kusajili: orodha, kurekodi, kuingia
+mudausiojulikana: hazieleweki
+ziada: ziada, redundancy
+shiver: hutetemeka
+tishu: shirika, mtandao, kitambaa, weave, banana
+rasimu: muhtasari, dhana
+toy: doll, kucheza
+stair: ngazi, rung, wadogo
+mpito: maambukizi, mabadiliko, kupita, kubadilisha
+button: ufunguo
+maumivuyakichwa: kichwa
+mpangaji: mkazi
+unkind: pabaya, rude, kikatili
+mpango: mpango, agenda
+viwanda: viwanda, kinu, kuzalisha, maker, mwongozo
+zone: uwanja, kikanda, band, collar
+tisa: tisa, tatu
+pombe: mvinyo
+kupona: kuboresha, kutibu
+: 
+tisini: 
+: 
+seremala: 
+Bad: kusababisha, kusimamia, dhoruba, conjugate, meli
+ushawishimkubwa: ufanisi
+surround: collar, kuzingirwa
+kuzama: kuzama
+slide: kuingizwa
+kupanda: kupanda, mkate, nguruwe
+kubwa: kubwa
+uongozi: kusababisha, uongozi, mwongozo, ramani
+kusherehekea: kuwashawishi
+chaki: kuandaa, hulisonga
+fuss: msisimko, mkanganyiko
+naibu: mwakilishi, makamu
+magari: motor, gari
+: 
+marekebisho: mageuzi, kukarabati
+wima: kusimama, longitudinal
+hayatoshi: kutosha
+damn: matumizimabaya
+inference: nadhani, uondoaji, mkusanyiko
+inferentialmood: kufatamood
+matangazo: tangazo
+wizi: kuiba
+hiari: Instinct, holela, random
+shirika: shirika, matumizi, chombo, kuwezesha
+kuungana: ndoano, ganga, kuunganisha, kujiunga, kuendelea
+kwendachini: chini
+kuingilia: kuingiliakati
+uamsho: kufufua
+: 
+biashara: biashara
+kimwili: fizikia, mwili
+dot: doa, patola
+kushtua: mshtuko
+juukwajuu: rude
+ripoti: exponent, orodha, kiashiria
+ini: nzito
+kusambaza: kutuma, kusambaza
+: 
+kwenye: juu, nje
+kuzungumza: majadiliano, uvumi
+amber: njano
+tani: tone
+perpendicular: mwinuko
+vizuri: vizuri
+mvutano: mzigo, msisimko
+nyangumi: uchaguzi
+sumu: sumu
+: 
+mawaidha: upendeleo, discount
+mfanyakazi: mfanyakazi
+elekea: kuzamisha, conjugate
+choo: barazalamawaziri
+buddha: moto
+kosa: matusi, mashambulizi, uhalifu
+chuki: chuki, kisasi
+ujasiri: uvumilivu, ujasiri
+wanatarajia: matumaini, kutarajia
+dansi: kuwapiga
+panya: panya
+kuunganishwa: weave, knitted, fundo
+yanahusiana: kuzingatia, vinavyolingana, fit, jibu, kujali
+kizuizini: kuzuia, kumtia, kuwakamata, kuweka
+kutafsiri: kueleza
+saluni: ukumbi
+kazi: kudanganywa, kazi, kukimbia, hatua, kusimamia
+kukimbia: gutter, kukimbia, channel
+mshahara: kulipa
+nasty: chuki, mabaya, unpleasant, mbaya, ugly
+makaburi: mazishi, kaburi
+plasta: kumaliza
+bomba: bomba, kugusa
+kumfukuza: gunia, kukasirika, redundancy, kusamehe
+kumfanya: msisimko, irritated, depressing
+mapambo: mapambo, kumaliza
+toe: njongwanjongwa, mguu, kidole
+kukosauwezo: ulemavu, udhaifu
+farthest: mbali
+kufafanua: kufafanua
+vikwazo: amefungwa, kizuizi
+kabati: barazalamawaziri, rafu
+kichocheo: kichocheo, irritated, msukumo
+rack: rafu, mateso
+Mrakibu: kondakta
+kuwasilisha: kuanzisha, show, dalili, demonstrator
+mpira: mpira, elastic
+kuwatenga: kuwanyima, to-karibu
+chocolate: brown
+upendeleo: upendeleo
+bahatimbaya: bahatimbaya
+mwanzo: scrape, mwanzo
+screw: bolt
+kuchunguza: kuchunguza, kunyonya
+kuhakikisha: kuwahakikishia
+silinda: disk
+muhtasari: muhtasari, abstract
+uwezekano: uwezekano
+swarm: kundi, mwana
+utaratibu: utaratibu
+karibu: karibu, vitendo
+mteja: desturi, mgeni
+catalog: orodha, meza, chati
+: 
+matusi: matusi, halisi, mojakwamoja
+kemia: kemikali
+: 
+kidunia: upandewowote
+bake: mkate, mpishi
+kutoboa: kumchoma, kuzaa, toboa
+kuwatoa: machozi, kumtia, kidnap
+uzinduzi: kutupwa
+kusimamia: utawala
+kilimo: kilimo
+fasten: kuwakamata, alright
+mwigizaji: muigizaji
+ukumbi: ukumbiwamichezo, ukumbi
+madawayakulevya: dawa, Drag, kuhusu
+mbaya: mbaya, hasara, hasi, pabaya
+pipi: tamu
+kuweka: kuweka, mkufu
+hatiani: mtego, hatia, mfungwa
+kuchunguza: kuchunguza, kuangalia, tathmini
+mfuko: pakiti, mkusanyiko
+snap: pop, click, picha, tide, haraka
+tairi: pete
+liko: fora, mtazamo
+msingi: msingi, kiini
+mtangulizi: babu, umriwa
+vilevile: kwanini
+bwawa: vumbi
+slippery: kuingizwa
+mabadiliko: mabadiliko, kubadilisha
+: 
+eneo: nafasi, doa
+nguzo: conglomerate, wingi, band
+quotation: kunukuu
+chiniyaulinzi: huduma
+plausible: kukubalika
+toss: kutupwa
+mkusanyiko: mkusanyiko, lengo, uadilifu
+Handy: vitendo
+chambo: ladha, primer
+mbalimbali: tofauti, mosaic, zinazokinzana
+kipande: chip, disk
+: 
+drill: kuzaa, kuchimba, zoezi
+kujibu: majibu, refund, jibu
+: 
+vifo: kifo
+kupalilia: nyasi, sigara
+kiasi: kiasi
+hisabati: hisabati, mwanamichezo
+kimaadili: maadili
+gasp: pumzi
+racing: mbio
+exit: outlet, nje
+kutengwa: kutengwa
+wakatimwingine: wakatimwingine
+ugumuwamaisha: uchungu, taabu, shida, kero, pole
+uvumi: uvumi, sauti, umaarufu
+kupuuza: kutojali
+junior: vijana
+kisaikolojia: saikolojia, kiakili
+knitting: weave, knitted, mtandao
+mojakwamoja: mojakwamoja, consequential
+historia: mfano
+aisle: ray, ukumbi, kupita
+kinyumena: kinyume
+kuwakomboa: kuokoa
+njia: njia, crosswalk, gati
+gia: vifaavya, meno, ubavu, kukimbia
+maadhimisho: sikukuu, sherehe, tamasha
+kuchapisha: uchapishaji, kusambaza, mchapishaji
+mteja: mgeni, mnunuzi
+sakafu: carpet, sakafu, blanketi
+: 
+mtazamo: mtazamo, mazingira, mtazamo
+aesthetic: uzuri, charm
+hutumia: matumizi
+atapewa: chuki, upinzani, hasira
+pose: kushawishi, kusimama
+ridhaa: kuridhika
+meguka: hazieleweki
+mkazo: kifahari
+mambo: mambo
+: 
+majirayamchana: alasiri, kusini
+lily: kusoma, lotus
+noun: jina, neno
+folding: bent
+kusaidia: kusaidia
+yanaendelea: kusisitiza, kuendelea, mwisho, kufuata
+kurithi: mrithi
+kasi: kasi, precipitate
+mwenzake: vyamavyaushirika, mpenzi, kaka
+upungufu: kukata, upungufu, Asili, kabila
+kuhakikisha: kuwahakikishia
+haki: haki, yasiyofaa
+ndogo: kuchukuanafasiya
+ndoo: pipa, kijiko
+shirika: shirika
+muuzaji: muuzaji, salesperson, mfanyabiashara
+kimsingi: hasa
+ibada: sherehe, ibada
+mguu: ham, mguu
+: 
+mkusanyiko: mkusanyiko
+mkaguzi: waangalizi
+WARDROBE: barazalamawaziri, vazi
+texture: shirika, weave, usanifu
+marekebisho: kupatanisha
+misukosuko: vurugu
+hawajui: kutambua
+chombohicho: sufuria, 
+awali: ufunguzi, mwanzo, kwanza, primitive
+kiwangochachini: angalau
+marekebisho: mageuzi, kukarabati
+tonge: mkate, kuuma
+waache: kusahau, kutojali
+usiojulikana: umoja
+carbon: makaayamawe
+: 
+crisp: mkali
+msamiati: kamusi, neno
+stroll: tanga, kutembea
+: 
+fitness: zoezi, hali
+utaifa: utaifa, kitaifa
+ladha: ladha, harufu
+: 
+muhimu: muhimu, yasiyonamaana, lisilo
+alfabeti: kialfabeti, vowel, silabi
+kuwatawanya: kuenea
+ngumi: ngumi, kuwapiga
+: 
+stride: maendeleo
+mduara: kiasi
+mhimili: bega, magazeti, pata
+gum: gundi, 
+kuridhisha: ugonjwa, kuridhika
+kuaminika: mwaminifu
+disgusting: chuki, ugly
+kimaadili: maadili, polite
+kuangukakwa: kuanguka
+mto: mto
+kuwashangaza: kuharibu, amaze, kushindwa
+hadithi: hadithi, legend
+umiliki: isiyohamishika
+scare: kuitisha, kutisha, hofu
+kuvunja: mapumziko
+mbeguzamafuta: maharage, mbegu
+kupanua: jazwa, Ongeza
+nishatiyajua: mwangawajua
+uvamizi: mashambulizi
+mdomo: mdomo, kitengo, pua
+kukodisha: leash, kodi
+: 
+uwiano: uwiano, kulinganisha, wadogo, ripotihiyo, mlinganisho
+comb: brush, bega
+kutafsiri: tafsiri
+burudani: burudani
+sampuli: mfano, kujaribu
+wingi: wingi
+mpango: mpango, kujaribu
+jelly: jam
+: 
+machafuko: machafuko, mkanganyiko
+marekebisho: mageuzi, marakwamara
+profile: muhtasari, faili
+fedha: fedha
+marakwamara: marakwamara, doria, 
+msingi: msingi, miundombinu
+kukomesha: dampo, mbali, oust
+umeme: umeme
+mimea: nyasi
+kufanikiwa: kustawi, mafanikio
+kufanana: mlinganisho, kufananana, mshikamano
+: 
+faragha: binafsi
+uwanja: uwanja
+spin: ond, kucheza
+msafiri: msafiri
+: 
+: 
+chembe: chembe, mbegu
+innate: halisi, laini, aliyezaliwa
+mwenyeji: mkazi, kuishi
+kalenda: diary
+filimbi: filimbi
+uzazi: uzazi
+span: urefu
+saladi: nguvu
+Attic: balcony
+: 
+rangi: rangi
+kuonyesha: kuthibitisha
+hesabu: akaunti
+: 
+maadili: maadili
+rasmi: rasmi
+waudhi: kuingiliakati, tease, kuchocheana, kuzaa
+glide: kuingizwa
+bainishi: specialty, kunyoosha, wema
+mtunzi: mwanamuziki
+ushirikiano: ushirikiano, muungano, kuchangia
+muendelezo: kuendelea, mwendelezo
+mlolongo: mfululizo, ili
+riadha: mwanamichezo, zoezi
+ulevi: mlevi, kunywa
+hawawajui: maamuzi, kuchukua
+kukabilianana: kumtia, kukabiliana, vifaavya, kukatiza
+taksi: kolinesterasi, lami
+: 
+matangazo: tangazo, umaarufu
+mikopo: mateka, mikopo, pawn
+uvumilivu: uvumilivu, kubeba
+kukandamiza: kuzuia, kuonea
+mke: mke, mume, mpenzi
+halali: ufanisi, waliohitimu, alright
+valve: van, bulb, mfuniko
+: 
+mdudu: wadudu
+kujenga: jengo, uundaji, awamu, wanaunda, utungaji
+bat: fimbo, klabu
+kupingana: lisilo, zinazokinzana, utata, mpinzani
+mojakwamoja: mojakwamoja, mojakwamoja
+wazi: wazi, uwazi, kweli
+ufanisi: ufanisi, athari
+utegemezi: addicted, kutegemea
+kukagua: kuchunguza, kuangalia
+kifundochamguu: kisigino
+uainishaji: aina
+oddly: ajabu
+haul: usafiri, Drag, kupora, ukumbi
+aibu: aibu
+walemavu: ulemavu, watazamaji
+kiburi: kiburi
+curl: curly, pete
+gem: jiwe, kustawi, diamond, dhamana
+maadhimishoyamiaka: sikuyakuzaliwa
+wrap: pakiti
+utofauti: tofauti
+ufahari: mikopo, umaarufu
+uzembe: upungufu, dharau, reckless
+ubaguzi: upambanuzi, ubaguzi
+Lengo: madhumuni
+duka: kusimama
+sidewalk: lami, 
+kuwekeza: uwekezaji, kununua
+cruise: meli
+mkutanowahadhara: mshikamano, mkutano
+uvumi: uvumi, sauti, umaarufu
+kikamilifu: kikamilifu, vyema
+kuangalia: kuangalia
+kuibuka: itaonekana
+hurricane: dhoruba, 
+: 
+compartment: kuhesabu, ghorofa, cabin, chumba
+hasa: hasa
+mfumo: wadogo
+annoying: fastidious, nyembamba, kuingiliakati
+bang: pop, kupasuka, risasi
+: 
+jumlayamabao: patola, kuhesabu, changarawe
+sehemu: sehemu, wadau, kisima
+haramu: kinyumechasheria, porini, yasiyofaa
+kufuta: kutengenezea, kutelekezwa
+volkano: kilima
+msawazo: usawa
+skafu: 
+picnic: utalii, 
+: 
+utafutaji: search
+: 
+stationary: steady, kuandika
+kitunguu: upinde, bulb
+mshikamano: mlinganisho, mshikamano
+mwaminifu: mwaminifu, waaminifu
+kuongeza: widget, ziada
+clash: mshtuko, kuingiliakati
+armchair: kiti, sofa
+unga: unga, wingi, chachu, keki
+panda: kujiunga, mwanzo
+maono: ecstasy
+kukataliwa: taka
+ugomvi: ugomvi, upambanuzi, mabadiliko, tofauti
+ngozi: ngozi, kunyonya
+: 
+: 
+: 
+: 
+pamoja: wingi, pamoja
+wakati: wakati, behead
+kuvamia: mashambulizi
+kufukuzwa: gunia, redundancy
+kwakiasikikubwa: kwakiasikikubwa, kutosha
+majaribio: majaribio
+filamu: movie, filamu, picha
+: 
+kibao: bodi
+utangazaji: tangazo, umaarufu
+relaxation: kupumzika, burudani
+kupanua: kuongeza, kuenea, decompress
+kuporomoka: mashaka, kuanguka, kuzamisha
+mafuta: mafuta, archaeological, kikaboni
+kikwazo: kizuizi
+mechanics: mitambo, uhandisi, dynamical, magonjwa
+vanilla: 
+zest: spice, uzoefu, ladha, ngozi
+mzunguko: mzunguko, baiskeli, gurudumu, kutoa
+nap: usingizi, nod
+kitongoji: kitongoji, kijiji
+makucha: mguu
+boom: kustawi, bounce, kupasuka
+kuzaliana: nakala, mavuno
+mkutano: mkutano
+warsha: studio
+kupunguza: kukata, kuanguka, Asili
+ufagio: mvua
+: 
+matamshi: lafudhi
+hukumu: hukumu, utawala, hakimu, mamlaka, mgogoro
+makini: lengo
+tengua: kufichua, nyuma
+kivuko: yacht, meli
+jopo: dashibodi, bodi
+mojakwamoja: mojakwamoja, urahisi, uwazi, kuishi
+: 
+: 
+urefu: urefu
+mshauri: mateso
+: 
+kuashiria: show, maana
+kuuzanje: kioo
+mkosaji: Comet, hatia
+par: sawa, usawa, aya, majina, tathmini
+kukomesha: kuondoa
+kurekebisha: kukabiliananahali, mojawapo, fit, kupatanisha, kuhalalisha
+taarifa: mwanachama
+kupima: kupima, wadogo, ukubwa, kiashiria
+kuvumilia: kusamehe, kubeba
+beji: simulation, 
+hip: matako, kimapenzi
+kuambatana: kufuata, kujiunga, fimbo, kuweka, kuzingatia
+kuchochea: irritated
+machafuko: machafuko, wasiwasi
+usafiwamoyo: usafi
+contraction: shyness
+mwandishiwahabari: mwandishiwa
+ufafanuzi: chanjo, ufafanuzi, comments
+maambukizi: maambukizi, kutuma
+: 
+kuombamsamaha: apple
+: 
+: 
+kura: vinavyolingana, sauti, ballet
+lick: mimi
+uwezo: uwezo
+haki: waliohitimu, haki, fit
+kitanzi: mzunguko, pata, pete
+mfanyakazi: mfanyakazi
+mashitaka: upandewamashtaka, lawama
+leseni: ruhusa, patent
+kuachia: kutokwa
+ego: wenyewe, pumzi
+ndege: ndege, mkondo
+kukiuka: kukata
+: 
+maisha: maisha, vowel
+kufungia: waliohifadhiwa
+madarakani: imara
+kutojali: kutojali
+: 
+kuandaa: shirika, kuandaa, kutungasheria, kusimamia, utungaji
+labda: labda
+: 
+: 
+chord: hypotenuse, makubaliano
+damu: damu
+dessert: tamu, pudding, 
+arc: upinde, 
+kugundua: kupatikana, search, kufichua, kuchunguza
+smash: kuharibu, mapumziko
+mzunguko: mzunguko, kubisha
+kushona: kushona, jasho
+directory: ushahidi
+kuwakata: kuuma, kukata, steak
+joto: joto, majira
+mapinduzi: mapinduzi, risasi, kiharusi, waasi, maamuzi
+: 
+huruma: huruma
+thinker: akili
+bajeti: usawa
+kiraia: kiraia
+portal: mlango
+: 
+kuingiza: kuingia, Ongeza, kuanzisha
+kutafakari: kutafakari, kufikiri
+mkasi: Drag
+rahisi: flex, elastic
+slab: bodi, jiko
+kufuzu: waliohitimu, vipaji
+kubadili: kubadilisha, ufunguo, kuchukuanafasiya
+kinadharia: nadharia
+kitambaa: kitambaa
+muongo: kumi, fundo
+nyingi: tofauti, zaidi
+: 
+bandage: dressing, bar
+tidy: nadhifu
+hack: kipanga
+kupigamakofi: applause
+utupu: tupu, mpira
+mafuta: mafuta, ubongo, pumpkin
+kunyonya: kunyonya, Suck, kuondoa
+utabiri: kutarajia, nadhani
+kuelimisha: elimu, treni
+uchunguzi: ombi, search, tathmini
+utawala: utawala
+wazazi: mzazi
+kushiriki: kujiunga, wanaohusika, ushiriki, sehemu
+: 
+lifti: kuinua
+watengenezaji: maker
+lateral: upande, ziada
+kuahirisha: kuchelewa, moshi
+uchukivu: dharau, chuki
+toll: sadaka
+mfano: mfano, usafiri
+kuenea: kuenea, pana
+: 
+diminutive: kidogo
+: 
+asilimia: per-cent, asilimia
+bomu: pampu
+kina: kina
+reservation: kumtia
+kushona: kushona
+dukaladawa: kemikali
+mapumziko: mapumziko, ukumbi, kiti
+: 
+mwanzo: mwanzo, mashambulizi
+: 
+kupigambizi: kuzamisha
+: 
+kukemea: hukumu, lawama
+utando: pazia
+kuahirisha: kuzuia
+kofi: kuwapiga
+uchumba: yadi
+bidhaa: bidhaa
+: 
+kubadilishana: kubadilishana, kuheshimiana, inversion
+kunyoa: artillery
+dawa: dawa, kichocheo, nakala, utawala
+kutumia: kunyonya, matumizi
+mudamrefu: mudamrefu
+ukoo: ukoo
+: 
+zinc: kuzama
+finite: hatimaye
+wanaotazamiwa: kutarajia, mgombea, 
+kinyang'anyiro: kupotosha, kiharusi, mbio
+kitaaluma: elimu, mwanafunzi
+tairi: pete
+matumizi: matumizi, user
+uhalali: thamani, mikopo
+takriban: takriban, kuhusu
+darubini: darubini
+raia: kiraia
+kamba: leash, kamba, mjeledi
+ishara: ishara, utambulisho, alama
+kukabiliana: kukabiliananahali, kukabiliana, nukulu, mojawapo, kuchukuanafasiya
+uwezekano: uwezekano, naweza
+subjective: kiakili, imaginary
+pronoun: dhamiri
+kimakosa: vibaya, matumizimabaya
+: 
+tamaa: tamaa, depressing
+kikuu: kipandecha, mkuu
+mgeni: mgeni, kujiunga
+infinity: nauni, hisabati
+graphic: chati, graphical
+mitini: picha
+niche: ufunguo
+disappoint: kushindwa, kuchanganyikiwa
+carrier: vector, operator
+: 
+makadirio: mpango, show, kutafakari
+ukombozi: kutokwa, wokovu, acquit, uhuru
+vibration: resonance, hutetemeka, oscillation
+: 
+franchise: upendeleo
+incongruous: yasiyonamsingi, lisilo, bahatimbaya, yasiyofaa
+mzunguko: mzunguko, mapinduzi
+kisaikolojia: saikolojia
+mita: kupima
+kizuizi: amefungwa, kizuizi
+jamii: jamii, tabakala
+ubaguziwarangi: mbio, ubaguziwarangi, mzigo
+badala: badala, kuchukuanafasiya, chaguo
+kukabiliana: kukabiliana
+marufuku: kizuizi
+kushawishi: kushawishi, ukumbi
+hurl: kutupwa, curly, chakavu, dampo
+fidia: babies, kuchukuanafasiya, zawadi
+kitabu: kitabu, curly
+fundi: mitambo, fundi
+uchokozi: mashambulizi, fujo, ubakaji
+hey: hodi, kuwakaribisha
+kipimo: kupima
+kushindana: mpinzani
+obiti: tabakala
+ghala: 
+: 
+chuocha: chuo
+: 
+novice: safi
+talaka: talaka
+hifadhi: tank
+ununuzi: kununua
+: 
+thabiti: kamili
+kimkakati: mkakati
+mold: fomu, magazeti, kutupwa, uyoga, vowel, template
+rehearsal: zoezi
+kutimiza: kamili
+msisitizo: kusisitiza
+: 
+kutanguliza: kabla
+katikati: medieval, katiya
+: 
+: 
+utalii: msafiri, utalii
+kinywaji: kunywa
+kukumbuka: kusahau
+kueleza: kueleza, kujieleza, demonstrative
+wavumilivu: uvumilivu
+marekebisho: mabadiliko, kuchukuanafasiya, ganga, mageuzi, kukarabati
+kiinitete: kiini
+mchoro: chati, ramani
+punguzo: upelelezi, ubaguzi
+deductivemood: kufatamood
+overwhelm: kuonea, mafuriko
+simu: kusonga, simu, uhamaji, kutofautiana
+kuinua: kuinua
+zaidiyahapo: hata
+Kitendawili: janga
+kupongeza: applause
+chumvi: chumvi
+blonde: njano, dhahabu
+cue: alama, nywila, fimbo
+mwanariadha: ukumbi
+kujadili: majadiliano, kujadili
+utawala: utawala
+kuvumiliana: kubeba, uvumilivu
+kampeni: msafara
+janga: janga, tafsiri
+mbinu: kiufundi, mbinu, uhandisi
+terminal: hatimaye, terminal
+pato: gharama, uondoaji, uchapishaji, outlet, tija
+html: 
+Machapisho: doa, kuchunguza
+chaguo-msingi: upungufu
+mazingira: mazingira, eneolatukio
+recruit: mgombea
+takataka: mbaya, taka
+cashier: mwekahazina, sanduku, 
+: 
+muungano: muungano, umoja
+: 
+flaw: lawama, vibaya, ulemavu, hasara
+: 
+concede: kuwashukuru
+matangazo: uchapishaji, kutuma
+piga: kuchagua, pete, kukusanya
+kiwangochamaambukizi: maarufu, mzunguko, kuenea
+inazidi: zote, kwakiasikikubwa
+kubadilisha: mabadiliko, kubadilisha
+kite: joka
+utata: hazieleweki, utata, noncommittal
+cafe: kahawa, bar
+tuzo: zawadi, premium, kutoa, udhamini
+kulinganishwa: kulinganisha
+studio: studio, alama
+kuidhinisha: kupitisha
+ujamaa: mlinganisho, ujamaa
+mtambaazi: nyoka
+nje: nje, wazi
+radio: radium, wireless
+kisiasa: kisiasa
+wanaelezea: kunukuu
+mabaki: mabaki
+: 
+mkanda: mkanda, band, barafu, movie
+bland: laini, tamu
+: 
+mdomo: mdomo, kinywa, wisecrack
+kutokubaliana: ugomvi
+kubashiri: nadhani
+: 
+kufukuza: oust, kutokwa, kuondoa
+: 
+ruka: ngoma, kushoto
+mug: kikombe, grimace, kinywa
+msamaha: discount, ubaguzi, redundancy
+portable: uhamaji, kidogo, simuyamkononi
+wrapping: pakiti
+uzuri: vipaji, uzuri
+fin: ballet, mrengo
+uhamiaji: uhamiaji
+: 
+: 
+: 
+upasuaji: upasuaji
+propaganda: 
+sine: kuminanne
+kujilimbikiza: amana, kukusanya
+kinyesi: bomba
+Kidokezo: uondoaji, athari
+motisha: kuhamasisha, irritated
+: 
+madhara: it-brottslighet, pabaya
+mashambani: mazingira, vijijini, kitongoji, uwanja, kijiji, nchi
+kuharibu: kuharibu
+: 
+asili: asili, halisi, mkazi
+stack: dampo, chimney
+mhadhiri: msemaji
+: 
+disc: disk, diskette
+kuhitimu: waliohitimu
+mwenendo: mwelekeo, bent, disposition, drift, huwa
+introduktionsutbildning: msukumo, kushawishi
+ushirika: kampuni
+Rejareja: sleeve
+msimamo: unsteady, impermanence
+sambamba: sambamba, fit, mojawapo, vinavyolingana
+simu: simu, wito
+: 
+utupu: tupu, pampu
+: 
+kunyakua: kumchoma, kuchukua, kumtia
+tetemeko: tetemeko, kupasuka, hysteria
+: 
+boring: kuzaa
+kwingineko: mkusanyiko, mkoba
+mwanya: ufa
+matatizo: utata
+kuingiliakati: kuingiliakati
+: 
+mjumbe: mwakilishi
+: 
+hiari: willpower, hamu
+kutabiri: kutarajia, nadhani
+matumaini: matumaini, kuamini, hopefully
+peel: ngozi, cortex
+kuchonga: kuuma
+: 
+hover: kuelea, kuongezeka, kubisha
+sekta: uwanja, kikanda, sehemu
+jina: jina, wao, ngome
+taasisi: kampuni, shirika
+uharaka: wasiwasi, msisimko
+kuzidisha: kuzidisha
+kufurahisha: mazuri, ugly
+pedi: 
+maporomokoyamaji: kisima
+kuwakatishatamaa: depressing, kuchanganyikiwa
+kuzuia: kuzuia, kuitisha, kolinesterasi
+kukanusha: hasi
+mshindi: mafanikio, michuano
+Composite: mchanganyiko, umoja
+Veto: kukasirika, kolinesterasi
+athari: athari, mshtuko
+fiber: fiber
+sip: kinywa, kumeza, kuuma
+Visual: macho, eneolatukio
+claw: misumari
+keki: keki, chachu, 
+: 
+mdai: muigizaji, muswada, upandewamashtaka
+kupotosha: kupotosha, amaze, kumdanganya
+kuzuia: kolinesterasi, kuzuia, kizuizi
+Performer: muigizaji, msanii, mchezaji
+: 
+mashindano: mbio, michuano
+kushindana: vita
+mahitaji: ombi, hali
+bala: angalau
+: 
+untidy: reckless
+kuambukiza: maambukizi
+: 
+kusisitiza: kusisitiza
+suruali: suruali
+kuwavurugia: puzzle, amaze
+kujitolea: kujitolea, nia
+upasuaji: upasuaji
+ukweli: ukweli
+: 
+tarakimu: integer, kidole
+: 
+mia: mia
+karibu: karibu, haraka, muuzaji
+constellation: galaxy, muungano, sayari
+kawaida: kawaida, maranyingi, huwa
+utata: utata, puzzle, mkanganyiko, mtanziko
+sawia: usawa, wadogo
+consonant: kichocheo
+hawakubaliani: kukasirika
+font: yazua
+: 
+kuiudhi: hasira, kuingiliakati, tease, irritated
+bora: bora, fora, ubaguzi
+uanzishwaji: mwanzo
+hapanapale: precipitate, mvua
+kuwatisha: kuitisha
+hobby: burudani
+kisarufi: sarufi
+namba: idadi, digital, kitakwimu
+kigezo: wadogo
+utabiri: nadhani, kutarajia
+kuyakataa: kukasirika
+kigeni: kigeni, ajabu
+kuongeza: kuboresha, kuongeza, Ongeza, decompress
+fusion: kuunganisha, kuyeyuka, wito, mchanganyiko
+uchaguzi: uchaguzi
+vipaji: vipaji, uwezo
+thaw: kuyeyuka
+nata: muhimu
+sehemu: utungaji, mambo, kuhesabu
+kernel: kiini
+kunyoosha: kunyoosha, mojakwamoja
+kupamba: mapambo
+waziwazi: inaonekana
+rais: urais
+sanjari: vinavyolingana, fit
+pongezi: sifa
+: 
+Scan: sweep
+kustahili: haki
+betting: hali, fireworks, kamari
+kitaalam: kiufundi, uhandisi
+ilipita: kupita, salio
+uchumi: uchumi
+empirical: uzoefu
+kutawala: bwana
+kutangaza: tangazo
+maktaba: maktaba, 
+utbredningen: mzunguko, kusambaza, kuenea, uchapishaji
+kufuga: scrape, majina
+agile: talkative
+kit: vifaavya, sanduku
+daktari: daktari, kocha
+loweka: Suck, kuzamisha, kushawishi
+mshindani: mpinzani
+uhifadhi: kulinda, kuokoa, huduma, kuweka
+lami: matope, lami, pigachenga
+Reflex: tafakari
+changamoto: ngumu
+mijini: mji
+embarrass: shida
+: 
+uchafuzi: kuchafua, rushwa
+kemikali: kemikali
+vuta: pumzi
+mama: mama
+mkongojo: msaada
+usajili: kurekodi, kuingia
+mumunyifu: kuyeyuka
+kutisha: kutisha, kutishia
+mtaalamu: mtaalam, specialty
+wanatamani: hamu, chai
+bafuni: umwagaji
+kamari: kamari, kucheza, adventure, wadau
+muhimu: muhimu, jumuishi
+kuondoa: kuondoa, kuua
+appendix: attachment, ziada, posho
+gymnasium: 
+wafanyakazi: mfanyakazi, wafanyakazi
+: 
+kusambaa: kusambaza, kuboresha, kuenea
+crane: 
+: 
+: 
+: 
+umoja: umoja
+: 
+muuzaji: salesperson, muuzaji, kuuza
+kumnyanyasa: neva, kuingiliakati
+: 
+: 
+kulipuka: kupasuka
+kumwagika: leak, kumwaga
+bure: bure
+kingo: mambo
+nakisi: wazi, kabila
+upsetting: neva, unpleasant, kusikitisha, machafuko
+nyumba: nyumba
+: 
+picha: awamu, picha, mpigapicha
+axiom: kuthibitisha
+: 
+wadudu: wadudu
+kidonge: mpira
+vyombovyahabari: vyombovyahabari
+wreckage: uharibifu
+corpus: mwili
+orodha: orodha
+fracture: ufa, mfupa
+pi: silicon
+: 
+jukwaa: kuzaa, mahakama
+: 
+kasi: kasi, mapigo
+slant: kinanda, bent, hypotenuse, kuzamisha
+tile: matofali, sanduku
+hacker: pirate
+bookcase: maktaba, Bookstore
+hesabu: akaunti, kosini, kuhesabu
+uzalishaji: maker
+fedha: fedha, kubadilishana
+depict: kuanzisha, kutafakari
+mfumukowabei: jazwa
+pembezoni: pindo, yasiyonamaana
+Ndoto: imaginary
+: 
+chef: mpishi, 
+: 
+kudhoofisha: kuharibu
+tundu: uondoaji, outlet
+madhubuti: madhubuti
+: 
+kimsingi: suala, miundombinu, msingi
+retrieve: wokovu, inayotokana, nyuma, kuchunguza
+kukusudia: makusudi, kujifunza
+virtual: halisi
+survivor: familia
+flux: mto, mkondo
+generic: kawaida, 
+ushindani: mpinzani
+daktariwameno: daktari
+Budge: kusonga
+biolojia: kibaiolojia
+: 
+pombe: mlevi, mvinyo
+: 
+kubagua: upambanuzi, zinazokinzana
+wapiganaji: radical, kigaidi
+muhimu: muhimu, maamuzi, umuhimu
+zoezi: kazi, zoezi, wajibu
+upendeleo: upendeleo
+excavation: shimo, kuchimba, mfereji
+calcium: soka
+kuadhimisha: kuwashawishi
+kihistoria: kihistoria
+kijijinisikuzanyumauliopo: 
+nyuklia: kiini, Masi
+dhidi: kinyume, kabla, adui, kusimama
+hi: hodi, kuwakaribisha, wokovu
+kuondoa: kuondoa, upungufu
+kufurahi: kupumzika, faraja
+: 
+: 
+ufanisi: ufanisi, athari, uwezo, upatikanaji
+: 
+mazingiramagumu: wanahusika
+stripe: striped, mstari, band, movie
+uwazi: uwazi
+facade: mask
+: 
+mfano: mfano
+kukabiliana: kukabiliana, kupotoka
+ya: kisha, oh, yeah, wewe, ambao
+: 
+kuzuia: kuzuia, abridge
+Jibu: alama, kusonga
+pedestrian: kutembea, mtu
+VAT: tank
+wanadai: lawama, kusisitiza
+: 
+ulafi: holela
+null: sifuri, tupu
+masharti: masharti
+teknolojia: kiufundi
+masoko: biashara
+probe: tathmini, satellite
+: 
+kiuchumi: uchumi
+msimamizi: meneja, mdhamini
+safi: safi, 
+kuonyesha: kuanzisha, mudamrefu
+mjukuu: mjukuu, mpwa
+mbili: mbili, pacha
+: 
+awali: instal, mkusanyiko
+ajabu: ajabu
+: 
+mwombaji: mgombea
+lugha: lugha
+tag: alama
+: 
+: 
+: 
+kuinua: kuinua, maendeleo
+: 
+phenomenal: solo, super, kifahari, usiokuwawakawaida
+tathmini: tathmini, nadhani
+nguvu: nguvu, dynamical
+kurekebisha: kuangalia
+kuvunja: kuhesabu, kuanguka, azimio
+chovu: uchovu
+chuo: chuo, shule
+: 
+dissertation: Thesis
+takwimu: takwimu, kitakwimu
+kuunda: kuandaa, uundaji
+sandwich: mkate
+pluractional: 
+kusisimua: kuwezesha, msisimko, irritated, msukumo
+udhibiti: censor
+kuvipa: inayosaidia, kuandaa
+kuteua: uteuzi, kupendekeza
+equation: equations, kujieleza
+sehemu: sehemu, kunyoosha
+kufuta: chakavu, kuchanganyikiwa, kutelekezwa
+mita: kupima
+hisiaevidentialmood: 
+: 
+depress: kuonea
+mister: sir, bwana
+upya: kukarabati
+atomic: chembe, Masi
+kisasa: tata, kisasa
+emit: kutokwa
+papatika: shrug
+muafaka: lisilo, bahatimbaya, yasiyofaa
+mashapo: precipitate
+ofarlig: dharau, lawama
+lahaja: tofauti, chaguo
+kutaja: rejea, maamuzi
+kukosoa: kukosolewa, ziara
+: 
+boredom: kero, taabu
+kushirikiana: ushirikiano, vyamavyaushirika
+njeyanchi: kigeni
+kuchambua: kuchambua
+: 
+mvua: mvua
+ndege: ndege, kuongezeka
+spicy: mkali
+: 
+kubadilika: elasticity
+: 
+roketi: kombora
+kielezi: bahasha
+: 
+kuyumba: unsteady, impermanence
+kunyimwa: kuwanyima, hasara, kuuma
+kuzalisha: kuzalisha, yazua, kuandaa
+makadirio: takriban, nadhani
+: 
+ari: ari, maadili, kiakili
+matumaini: matumaini, kuamini
+kuainisha: aina, kusambaza
+mtaala: Bilashaka, agenda
+nje: nje
+kuguswa: majibu, kufanya
+Muswada: muswada, mstari, maandiko
+usaliti: kujipatia
+: 
+bonus: zawadi, premium, ziada
+pointer: sindano
+mali: isiyohamishika, uwepo, mjimkuu, rasilimali
+: 
+tofauti: tofauti, mabadiliko
+delta: 
+: 
+utata: hazieleweki, utata, kutokuwanauhakika, maze
+trans: 
+neuter: upandewowote, wanyama
+ulemavu: ulemavu, hasara, kizuizi
+picha: picha
+uhaba: kukata, kukosekana, kabila
+makaziyao: kuchukuanafasiya
+: 
+: 
+Kuvu: vimelea, uyoga, mwavuli
+maneno: uundaji, Nakala, neno
+kuhamisha: usafiri
+: 
+kuboresha: mageuzi, sublimate
+mwanadiplomasia: balozi
+kuanzisha: kuanzisha, mwanzo
+: 
+kuwavunja: mapumziko
+: 
+: 
+Vuta: pumzi
+kuingiza: wanaunda, kujiingiza
+boga: pumpkin
+wapigakura: jimbolauchaguzi
+shirikishola: shirikisho, umoja
+mvuvi: buibui
+kupakua: kutokwa
+makazi: makazi
+evoke: koroga, kushawishi
+kwaheri: kuaga
+kubomoa: kuharibu, uharibifu
+: 
+hash: kujadili
+farasi: farasi
+kuvuruga: kupotoka, tanga, kupotosha
+: 
+slam: kuwapiga
+husika: fit, kujali
+kazi: vitendo, kazi
+: 
+hubadilisha: oust, kuchukuanafasiya
+uhuru: uhuru
+tango: chaguo
+shahadayakwanza: msingi, mwanafunzi
+graph: chati, ramani
+sihiri: captivate, tease
+cute: nzuri, tamu
+tumbo: tumbo
+: 
+: 
+elimu: elimu, uwezo
+waitress: mtumishi, 
+yalijengwa: bandia
+mkufunzi: kocha
+kuhifadhi: kuhifadhi, kuokoa, kulinda
+takataka: chakavu, dampo, taka, mbaya
+: 
+picha: picha, risasi
+vitabuvyakiada: mwongozo, kitabu
+: 
+kuimarisha: kuimarisha, kuunganisha
+kuwalazimisha: kujipatia
+mchumi: uchumi
+wriggle: grimace
+madini: madini
+kuwaambukiza: maambukizi, kuchafua
+kuharibikakwamimba: utoajimimba, Asili
+designer: kuamua
+kwanza: kwanza, primer
+secrete: secretion, kujificha
+unix: 
+manganese: madini
+mchicha: mzazi
+intensive: vurugu, neva
+cogent: demonstrative
+programu: maombi, programu
+kwanza: kwanza, mwanzo
+elfu: elfu
+ndani: ndani, kina, ndaniyanyumba, kufunikwa
+kutengua: Drag, kuwanyima
+: 
+amplitude: ukubwa, kuenea
+: 
+mwelekeo: mwelekeo, dimensional, ijayo, wadogo
+Biblia: maandiko
+quantum: kupitishwa, sehemu
+bango: bendera
+kuharakisha: precipitate, kasi
+kuimarisha: kuimarisha, intensifier, sugu
+kawaida: kawaida, maranyingi, hasa
+dhamira: ahadi
+foleni: mkia, ili, sasa
+bracket: kipandecha, elbow, ndoano, msaidizi, msaada, mabano
+: 
+: 
+inverse: Juuchini, inversion, wanaohusika
+kuyeyuka: kuyeyuka, yawn
+anga: anga, hewa, kuruka, mrengo
+uwiano: uwiano, kulinganisha, mawasiliano
+compute: jinsia
+kikabila: kitaifa, mzigo
+linear: wasiojua
+kubana: zip, jam
+kufyeka: kukata
+mmomonyoko: machozi
+gumu: ujanja, kufafanua, tata, ngumu, angel
+Tabia: tabia
+bandika: ganga, sambamba, kushawishi
+molekuli: Masi
+Configuration: disposition, kimuundo, mkutano, utungaji
+mwingiliano: majadiliano, mwingiliano, mawasiliano, kuheshimiana
+kiasi: kiasi
+kujichunguza: retrospective
+kuelekeza: mashariki
+mbegu: mbegu
+kampuniyabia: kinu
+kurahisisha: kuwezesha
+kuidhinisha: msaada, kupitisha
+: 
+uaminifu: uaminifu, kuegemea, mikopo
+: 
+subversion: uharibifu
+kujitenga: kutengwa
+deflection: drift, kupotoka, upendeleo
+sindano: sindano, chanjo
+kuilazimisha: kujipatia
+viatu: viatu
+chunk: chip, aya, kunyoosha
+televisheni: filamu
+nafaka: maharage
+chombo: chombo, tank, sufuria
+: 
+kuhamia: uhamiaji, tanga, kusonga, kwenda
+istilahi: suala
+vipengele: vipengele, mambo, kuhesabu
+wapigakura: jimbolauchaguzi
+uume: jinsia
+kufuta: kuondoa, kuharibu
+kupatanisha: kupatanisha
+ubepari: ubepari
+misitu: msitu
+ski: skate
+kibali: kamari, ruhusa
+mshauri: 
+: 
+kuwachagua: kuchagua, uchaguzi
+tuli: steady
+hukutana: kuunganisha, lengo
+kimataifa: kimataifa, dunia, kutofautiana
+sua: oust, kutoleanje
+: 
+majeruhi: ajali, sadaka
+sawa: sawa, sana
+pragmatic: vitendo, kweli, wanaohusika
+mwamuzi: utawala, hakimu
+ushirikishwaji: kurekodi, wanaunda
+walengwa: user, faida
+tofauti: tofauti
+exhale: pumzi
+maji: maji
+fixture: kukabiliananahali, vifaavya, bidhaa
+: 
+kufunga: instal, imara
+jadi: mila
+darasani: tabakala
+vifaavya: vifaavya, 
+uwezekano: uwezo
+itifaki: makubaliano
+calculus: akaunti
+colon: doa
+gramu: joto, nyasi
+petroli: petroli, doria
+: 
+adolescent: vijana
+decimal: wachache
+kanda: itapunguza, shida
+nyongeza: inayosaidia
+ndege: ndege, kuongezeka
+circa: kuhusu, takriban
+mdhamini: dhamana
+tochi: flash
+sanduku: sanduku, mizigo
+wabadilishane: kubadilishana
+: 
+hiari: desturi, holela, chaguo
+iteration: marakwamara
+tumbo: tumbo
+portrayal: bega, picha
+kabla: mashariki, kabla, meadow, tayari, kamusi
+tangazo: tangazo
+haikubaliki: yasiyofaa
+massage: 
+stun: amaze, mshtuko
+matukio: kuzamisha
+kuipindua: kumwaga, moyo
+hisia: hisia
+makubaliano: makubaliano
+kusimamia: kusimamia, kufuatilia, polisi, hutegemea
+zinasababisha: subtend, msingi
+: 
+kupandikiza: kubadilishana
+alumini: alumini
+: 
+bakery: ukosefuwaajira, 
+fluctuation: oscillation
+kuiga: simulation, jipa, nukulu
+: 
+magumu: tata
+mshauri: kocha
+sedan: kisha, 
+yanayopangwa: ufunguzi, outlet
+uchambuzi: kuchambua
+kuendesha: kudanganywa, koroga, uongo
+: 
+mboga: mboga
+sualalakawaida: vipimo, utawala
+chawa: meno
+Subway: handaki
+kupumua: pumzi
+mutation: mabadiliko, kubadilisha
+chupi: sanda
+modem: 
+kuongezakasi: kuwezesha
+kutofautisha: upambanuzi, tofauti, zinazokinzana
+kadhibisha: yazua, kupotosha
+msimu: msimu
+: 
+chafu: kutoleanje, mionzi
+mwanakijiji: vijijini
+kukosafahamu: comma
+: 
+Geuza: inversion, kinyume
+: 
+: 
+: 
+: 
+msimamizi: waangalizi, mwongozo, super
+microwave: 
+ukaguzi: kuangalia
+: 
+: 
+kuongezeka: kuongezeka, tanga, kuinua, kutembea, Ongeza
+fundi: fundi, 
+locus: doa, nafasi
+kuzaliwaupya: aliyezaliwa, reincarnation
+uchumi: huzuni, uchumi
+: 
+uporaji: kupora
+motif: mandhari
+kaulimbiu: nywila
+ushirikiano: ushirikiano, kuunganisha
+: 
+magenta: zambarau
+kupunguza: angalau, nyembamba, Asili
+: 
+makazi: makazi, mkazi
+numeral: digital, idadi, integer
+chumvi: chumvi
+: 
+cd: 
+nadharia: nadharia
+aquarium: samaki
+Grill: 
+traction: Drag, kusisitiza
+parachute: mwavuli
+muhimu: muhimu, hasa
+ujumla: zote, patola
+kuzorota: kupotosha
+mirative: 
+mienendo: dynamical, kasi, magonjwa
+kujamiiana: ngono, jinsia
+unategemea: kwakiasikikubwa
+hisabroker: 
+flip: kinyume
+: 
+bowel: gut
+: 
+akiolojia: archaeological
+karanga: maharage
+apposition: posho, permutation
+jikola: jiko, jikoni, sufuria
+trouser: suruali
+vigezo: kiashiria
+: 
+geometric: jiometri
+maelezoyajumla: muhtasari, kifupi
+ufahamu: uelewa, alijua
+: 
+chimpanzee: tumbili
+: 
+kijitabu: kipeperushi, mwongozo, 
+maumbile: maumbile, genetics, jeni
+mshiriki: kujiunga, jukumu, Mmoja
+: 
+Répertoire: vipaji, mkusanyiko, programu
+: 
+: 
+: 
+mzunguko: mzunguko, kucheza
+: 
+mpangilio: shirika, mpango, disposition, permutation, syntax
+mashoga: mashoga
+: 
+vocha: kuziba, kupokea
+hamburger: 
+scenario: mazingira, mazingira
+theorem: hukumu, nadharia
+kuongeza: Ongeza
+: 
+: 
+kutathmini: tathmini, kuchunguza, nadhani
+utambuzi: utambuzi, kiakili
+kuratibu: kuratibu
+kufafanua: kufafanua, kueleza
+sumu: sumu
+alisisitiza: kusisitiza
+kushuka: huzuni, mgogoro, kuzamisha
+kuhudumia: kutumikia, zinazotolewa, kuwahakikishia, kamili
+safari: 
+kimahesabu: algebra
+sugu: sugu, upinzani, kinga
+Snack: toast
+sinema: movie, movie-ukumbi
+: 
+bomba: bomba, kinu
+marker: alama
+heater: 
+pembeni: jirani, kikanda, pindo
+assertive: kuamua, predicative, maamuzi, ukaidi
+node: fundo
+kichwachahabari: mstari
+feta: nene
+Ondoa: kuondoa, kuwanyima, kutoa
+mchambuzi: upasuaji
+intransitive: muhimu
+mall: madukamakubwa, bidhaa
+: 
+muunganiko: mabadiliko
+mbia: mpenzi, wadau
+muhtasari: abridge
+sehemuzasiri: uzazi
+helix: ond, konokono, curly
+: 
+cookie: biskuti, keki
+beta: 
+kupandisha: jazwa
+umeme: umeme
+rewrite: nukulu
+maabara: maabara
+taalumaya: taaluma, kazi, mawasiliano
+: 
+gradient: maili, kuzamisha
+: 
+rangi: rangi
+chanjo: kufunikwa, chanjo, huduma, blanketi, paa, kujali, kiasi
+ushiriki: kujiunga, ushiriki
+: 
+mtandao: wingu
+: 
+: 
+: 
+Mwelekeo: mwelekeo, huwa, nafasi
+Hazrat: kuchambua
+quotient: uwezo, dozi
+ihakikishe: kuzalisha
+mafuta: mafuta
+ubaguzi: ubaguzi
+mazingira: mazingira, ikolojia, jirani
+tech: kiufundi
+sigma: 
+mabaki: mabaki, redundancy
+disjunction: kutengwa
+lori: lori
+: 
+: 
+uwanja: uwanja
+: 
+uratibu: kuratibu
+bakteria: vimelea
+: 
+utekelezaji: kutekeleza
+adaptive: mojawapo, kukabiliananahali, pro
+biologist: mwanasayansi
+: 
+interface: mawasiliano
+palladium: kuwahakikishia
+mapambo: mapambo, babies, 
+kukariri: kumbukumbu, kuokoa, kumbuka, kutambua
+mshauri: shauri
+uchunguzi: utambuzi, dalili
+barbeque: 
+: 
+popcorn: 
+: 
+: 
+connotation: semantic, ufafanuzi
+: 
+mtaala: abstract
+: 
+: 
+upitishaji: mstari, kidnap, usafiri, mzunguko, inversion
+milioni: milioni
+tiba: kutibu
+mzalendo: kitaifa
+barium: bar
+tawala: kawaida, ufunguo
+maana: maana, consequential, semantic
+matatizo: shida
+: 
+: 
+redio: sauti
+: 
+: 
+: 
+: 
+kimetaboliki: balozi
+gridiyataifa: mtandao, sanduku
+: 
+anga: anga, dimensional, mmojammoja
+utaalam: mtaalam, specialty
+: 
+reflexive: 
+mwishonimwawiki: Jumamosi
+mtihani: Hitimu, jaribio, kujaribu
+Diskret: kutengwa, solo
+kuzuia: kolinesterasi, kuzuia, kukatiza
+nyaraka: mwongozo
+pikipiki: motor
+mantra: 
+mbalimbali: zaidi, sana
+muhula: kikao
+muggy: uchafu, joto
+morphology: maumbile, sayansi, fomu
+: 
+kutambua: utambuzi, kutambua
+Scanner: kisakuzi
+graphics: chati, graphical
+ugonjwa: ugonjwa, moyo
+archive: faili
+theta: 
+mapambano: kulinganisha, msuguano
+freighter: lori
+optimum: mojawapo, kubwa, classic, angalau
+kimsingi: suala, kwakiasikikubwa
+baiskeli: mzunguko, baiskeli
+motisha: msukumo, irritated
+kiberiti: kiberiti
+uendeshaji: kudanganywa, hatua, Anzishatena, kukimbia
+trajectory: njia
+umuhimu: umuhimu, mawasiliano
+sasaumuhimumarker: 
+baiskeli: baiskeli, gurudumu
+agizo: demonstrative, rejea
+ndege: ndege, hewa, shirika, kuongezeka
+: 
+lita: lita
+mpirawakikapu: kikapu
+: 
+kuunganisha: kuunganisha, kupatanisha
+hatahivyo: kisha, wakati
+msimamo: kusimama, nafasi, aya, drift, jukumu
+ndogo: angalau, Asili
+cyclic: mzunguko
+substrate: Masi, uso
+: 
+: 
+: 
+chiniyamaji: kwanamnayoyote
+: 
+kiujanja: yasiyofaa
+utaalamu: uzoefu, specialty
+: 
+alama: alama, 
+icon: ramani, alama
+ord: 
+Electron: umeme
+mwingiliano: mwingiliano, kuheshimiana
+awali: kwanza
+hujuma: kuharibu
+kuingiliana: majadiliano, mawasiliano, utakusanyika
+hisabati: hisabati
+fetal: kiini
+kisasa: kisasa
+msimamomkali: radical, kigaidi
+associative: makamu
+piss: mkojo
+: 
+: 
+okay: sana, alright
+tuna: tone, 
+: 
+swipe: kuiba
+purposive: makusudi
+nusu: halfway, kuuza, grind, upana
+kifupi: kifupi
+initialism: 
+: 
+makutano: makutano
+neural: neva
+kupambanana: kupinga, upinzani, mpinzani, kinyume
+: 
+kuunganisha: synchronize, kujiunga, radical
+kupakana: karibu
+: 
+appetizer: 
+madini: madini
+Haieleweki: hazieleweki, uwazi
+: 
+kiwewe: mshtuko, kuumia, kidonda
+: 
+: 
+Swop: kubadilishana
+: 
+kutathmini: tathmini, nadhani
+mana: kiakili
+preterite: 
+kuratibu: kuratibu
+skew: kupotosha
+: 
+Clone: nakala
+timer: muda, 
+: 
+faida: faida
+: 
+: 
+Backup: pwani
+: 
+mshambuliaji: fujo
+: 
+replication: nakala, jibu
+: 
+lambda: 
+tendaji: majibu
+: 
+mpenzi: mpenzi, msichana
+ratiba: wakati, disposition
+kisintaksia: syntax
+: 
+: 
+utulivu: steady, utulivu
+mpinzani: mpinzani
+maoni: majibu, kupendekeza
+: 
+uelewa: huruma, uelewa
+: 
+boroni: shimo
+dodoso: jaribio
+oxidize: wito
+millimeter: millimeter
+update: mageuzi
+: 
+kadiri: Masi
+anzisha: kuandaa, imara
+mfamasia: 
+akili: akili, kiakili
+abiria: kitongoji, 
+syndrome: ugonjwa, dalili
+: 
+dhana: dhana, mfano
+: 
+: 
+: 
+: 
+amino: 
+aorist: 
+kuamsha: kufanya, hatua
+micro: hila, kipazasauti
+: 
+nasibu: random, kwakesi
+: 
+kutengwa: kutengwa, kususia
+: 
+kutabirika: nadhani
+statistic: takwimu
+subset: sehemu
+mbinu: njia, mbinu, maramoja
+mchoro: kazi, kisanii
+pizza: 
+utaratibuwakudumu: ili
+isimu: sayansi
+impound: kumtia
+: 
+viwanda: industrialize, viwanda
+kilometa: kilometa
+kimataifa: kimataifa
+mpangaji: striped, mpango
+dialog: mawasiliano
+kielelezo: exponent
+shareware: 
+carton: kadi, sanduku, 
+congruent: kirafiki
+kupakia: download
+mtafiti: mwanasayansi
+kutenga: kusambaza, dissection, kuendelea
+mwongozo: mwongozo, striped, mpango, nakala, 
+-ish: 
+modulus: mgawo
+: 
+: 
+soka: soka
+haki: haki
+leftovers: mabaki, salio, kukusanya
+: 
+parameter: mambo
+jumla: kubwa, patola
+quadratic: chai
+endelevu: steady, uwiano
+unaofanyika: kubadilishana
+maximo: upeo
+: 
+uzoefu: uzoefu
+: 
+: 
+: 
+: 
+url: 
+: 
+Go: ndani, mwanachama
+tani: tone
+: 
+: 
+: 
+cryptography: encryption
+moduli: kitengo, kiasi
+enzyme: chachu
+Epifania: tamasha
+pasta: wingi
+: 
+plagiarize: kuiba
+briefcase: 
+Dorm: makazi
+: 
+kijana: vijana
+kuwahamasisha: msukumo
+kuonyesha: alama
+yanatofautiana: kuharibu, kuwanyima, hasi
+mpenzi: mpenzi, rafiki
+mtambohuo: majibu
+: 
+kitabia: tabia
+hubris: kiburi
+: 
+: 
+www: 
+escalator: 
+Asante: kuwashukuru
+lifeguard: 
+mastermind: ubongo, nafsi, bwana
+: 
+kimazingira: ikolojia
+wahamiaji: wakimbizi, ukoloni
+mbali: mbali, simuyamkononi, daftari
+Uzamili: Postcard
+kupachika: kuzamisha, kujiingiza
+nakala: nakala, picha
+kujirudia: uongozi
+letterhead: barua, 
+: 
+phobia: hofu
+: 
+mwanaharakati: hatua
+Dishwasher: 
+fulana: shati
+mtaalamu: daktari, kutibu
+backpack: 
+emoticon: furaha
+dagaa: bahari, 
+: 
+: 
+Tycoon: mfalme, kundi
+arousal: msisimko, patola
+kusawazisha: synchronize, kuzama
+typeface: maandiko, silabi
+acidic: acid
+: 
+: 
+kidini: kemikali
+lexical: kamusi, neno
+modulo: 
+: 
+vunja: mapumziko
+wheelchair: 
+: 
+kinjia: njia, lami, crosswalk, 
+xml: 
+classifier: aina
+predator: wawindaji
+: 
+avant-garde: waanzilishi
+mwenyekiti: kichwa, mwenyekiti
+: 
+kitini: kipeperushi
+charismatic: charm
+determiner: kuamua
+: 
+scandium: tellurium
+configure: kusimamia, utungaji
+mwongozo: mwongozo
+hypothesize: kudhani
+mpirawawavu: 
+Debug: ungo
+friji: jokofu
+reboot: Anzishatena
+: 
+broadband: Bandwidth
+: 
+wachangie: msukumo, wazo
+: 
+kuiga: nakala, yazua
+: 
+MamawavutiKitabuCha: 
+Angst: hofu, wasiwasi
+kusitishamapigano: truce
+encrypt: encryption
+firmware: 
+gaffe: upungufu, vibaya, kuingizwa
+ndugu: kaka
+conditioner: 
+msemaji: msemaji, mwakilishi
+stapler: kipandecha, 
+Sauna: 
+Angalia: kuangalia, 
+crackpot: usiokuwawakawaida
+hijack: kidnap, jembe
+zisizochuma: metalloid
+: 
+ytterbium: 
+: 
+Radoni: 
+kukosoa: kukosolewa
+: 
+ukanda: band, bar
+amused: furaha, hilarious, chaguo
+: 
+: 
+venitive: 
+mudita: 
+mindstream: 
+mikopokadi: mikopo
+bohrium: 
+inafanyika: amaze
+exclamative: 
+exhortative: 
+kumfukuzanchini: oust
+converb: 
+qwerty: 
+: 
+WINN: 
+: 
+kitalii: mzunguko, kuzaa
+kuambukizwa: maambukizi
+: 
+yaor: 
+nyuma: nyuma
+barabarayaukumbi: ukumbi
+kontakt: copula, kuziba, attachment
+meitnerium: 
+p.m.: alasiri, usiku
+kike: kike
+: 
+kuangaliajuu: kuangalia, 
+seaborgium: 
+: 
+lawrencium: 
+itakuwa: 
+: 
+wajinga: ujinga, kumdanganya
+: 
+readme: 
+correlate: ndoano
+recurse: 
+msimamizi: mwezeshaji, meneja
+: 
+motombwa: sausage
+wema: wema
+usitative: 
+regression: uondoaji
+bathtub: umwagaji
+uwiano: uwiano, wadau, sehemu, kunyoosha
+MasomoyaHesabu: 
+samsara: 
+hyperlink: HyperText
+wiki: 
+deixis: 
+bulletin: kipeperushi, maelezo
+madai: upandewamashtaka, ugomvi, mahakama
+kuvunja: kuhesabu, upambanuzi, azimio
+veridical: 
+holmium: 
+rahisi: urahisi
+: 
+stunning: amaze, fora
+remunerate: kulipa
+braid: weave, knitted
+kutisha: kutisha, wasiwasi
+emote: 
+mgao: mgao, posho
+kulinganana: pili, nyuma
+kuhodhi: athari, nguvu
+podcast: 
+karibuna: ijayo
+kilammoja: mmojamwingine, kuheshimiana
+andative: 
+kitengo-ya-habari: 
+catalog: orodha, meza, chati
+zinazotambulika: utambulisho
+kuibuka: itaonekana
+kwaheri: kuaga
+: 
+kukodi: kodi
+kutokakesi: kwakesi
+nk: guitar
+patientive: 
+concessive: laini
+: 
+distributive: kusambaza
+akiolojia: archaeological
+: 
+dubnium: 
+: 
+kando-kutoka: isipokuwa
+: 
+: 
+: 
+exabyte: 
+: 
+fermium: 
+: 
+terbiumchembe: rhodiumchembe
+kuingiza: kuanzisha
+turubai: kitambaa, mtandao
+bitmap: 
+eti: inaonekana, labda, kudhani
+dysprosium: 
+: 
+Avogadroya: 
+pikipiki: motor
+: 
+thuliumchembe: rhodiumchembe
+badalaya: badala
+mstaafu: kustaafu
+gadolinium: 
+mikakati: mkakati
+intransitive: muhimu
+dvd: 
+robb: 
+radius: ray
+profesa: bwana
+stochastic: random
+loosely: huru, bure, kujitegemea, mazingira
+: 
+kompyuta: kompyuta, calculator
+: 
+kwabeinafuu: Asili, kununua
+amusing: kuvutia, hilarious, ugly
+optimization: kukabiliananahali
+urasimu: urasimu, rasmi
+intransitive: muhimu
+: 
+Riemannian: 
+thoriumchembe: rhodiumchembe
+disapproving: kukasirika
+kushangaza: mshangao
+coding: encryption, rangi
+ration: dozi
+: 
+mwenyenyumba: mwajiri
+mbalina: isipokuwa
+: 
+urafiki: kirafiki
+sumu: sumu
+affine: 
+: 
+kikosi: band
+shavu: kucheza
+: 
+: 
+: 
+burudani: kuvutia, burudani, hilarious
+: 
+: 
+screenshot: show
+: 
+mapambano: vita
+: 
+kuidhinisha: kupitisha, rasmi
+raincoat: 
+kinyume: kupinga, kinyume, inversion, zinazokinzana
+nobelium: 
+mpelelezi: mwanasayansi, upelelezi
+: 
+kujenga: uundaji
+nje-ya: nje, isipokuwa
+Kizima: 
+receptionist: receptor, 
+jua: mwangawajua, 
+uozo: azimio
+somokesi: madakesi
+: 
+: 
+kidolechakati: kiashiria
+: 
+: 
+masculine: kiume
+facet: mwelekeo, upande
+expansions: wigo
+mwenyenyumba: angel
+francium: 
+saa: doa, tukio, mashairi
+to-kupasuliwa: kusambaza
+arctan: 
+: 
+critic: censor
+nakuendelea: kwanza, ijayo, kuendelea
+tovuti: tovuti
+: 
+silaha: silaha
+ukoo: ukoo, mjukuu, kizazi
+descriptor: kueleza
+Simuyarununu: simuyamkononi
+kufanya-up: babies
+importe: 
+: 
+vibaya: vibaya, kuonea, kuiba
+: 
+verbalizer: 
+: 
+: 
+nafasimarker: 
+Bila: isipokuwa, Ikiwanipamojana
+halimarker: 
+: 
+kijamii: kijamii
+curium: 
+delimited: kutengwa
+: 
+standardize: vipimo
+unquote: kunukuu
+udhamini: udhamini, huduma
+uwanjawavita: vita
+kitaasisi: kimuundo
+florinichembe: rhodiumchembe
+mkaguzi: mhasibu, kuwashukuru
+tumor: tumor
+wanyamapori: asili, porini
+inaanzisha: imara
+: 
+: 
+inatumikakwa: desturi
+kikubwa: kwakiasikikubwa, kutosha
+mawasiliano: mawasiliano, talkative
+Fibonacci: 
+rubidiumchembe: rhodiumchembe
+Fanyamazoezi: zoezi, kazi, kufafanua
+Fourier: rutuba
+walioelimika: elimu, polite
+einsteinium: 
+: 
+lazimauwe: lazima, wajibu
+maendeleo: maendeleo, evolutionary
+simuyamkononi: simuyamkononi
+katikakesi: kwakesi
+: 
+enormously: sana, super
+approximative: takriban
+vifaa: mizigo
+mshiriki: Mmoja
+belongingness: 
+europium: 
+topos: 
+toner: wino, 
+anticausative: 
+: 
+: 
+relativizer: 
+: 
+kutumiwa: vitendo, kuchukua
+kuongeza: kuboresha
+passionate: kitropiki
+tatizo: shida, jambo
+thalliamuchembe: rhodiumchembe
+Goldbach: 
+vanadiumchembe: rhodiumchembe
+aibu: aibu, shida
+Fermat: 
+poloniumchembe: rhodiumchembe
+: 
+nyongeza: inayosaidia, ziada
+ufungaji: pakiti, lami
+umahiri: uwezo, mamlaka, waliohitimu, uwezo
+combinatorics: combinatorial
+kupitia: kupita, juu
+kucheza: kucheza, ngoma
+kuvutia: kuvutia, mazuri, jambo
+maendeleo: evolutionary, maendeleo
+circumfix: 
+ugumu: shida, hasara
+: 
+: 
+muuzaji: shaka
+mgawanyo: kusambaza
+: 
+suntan: brown
+usimango: 
+lurking: cache
+: 
+: 
+: 
+: 
+matumizimengine: badala
+jirani: jirani, kuishi
+rutherfordium: 
+kiasimarker: 
+cyan: bluu
+factorisation: 
+kijamiimarker: 
+neuterjinsia: masculinejinsia
+vinasaba: jeni, genetics
+: 
+promaneno: prohukumu
+kasi-ya-mwanga: 
+generalization: kujumlisha
+mtangazaji: mwezeshaji, wafadhili, 
+Strontiumchembe: rhodiumchembe
+processor: usindikaji
+bend: bent, flex, ota
+complementizer: 
+mtuwabiashara: biasharamtu, mfanyabiashara
+: 
+: 
+kitoto: kitoto
+incredibly: super, sana
+berkelium: 
+: 
+jamaakesi: jamaakesi
+: 
+rutheniumchembe: rhodiumchembe
+kinga: kinga, pumzi
+mnapaswa-to: lazima
+randomize: random
+k.v.: yaani
+utekelezaji: kutekeleza
+kupinga: kupinga, kinyume, kukasirika, upinzani, mshtakiwa
+wasiwasi: wasiwasi, huduma
+: 
+nominalization: 
+duniapanamtandao: 
+lengokesi: marudiokesi
+: 
+ulinzi: huduma, kulinda
+poisson: sumu
+: 
+kupeleka: kusambaza, kujiingiza
+denominator: kila
+accompanier: 
+: 
+kutafsiri: tafsiri
+contour: muhtasari, fomu
+kamata: 
+hakunamtu: kitu
+: 
+safari: ziara, msafara
+trinary: 
+: 
+miss: kukata, si
+excavate: kuchimba
+: 
+blogger: blog
+: 
+kukohoa: kikohozi
+: 
+vigezo: kutofautiana, uwezekano
+upana: upana, pana, kuongeza
+yai-nyeupe: protini
+: 
+kikwazomood: kikwazomood
+keyword: mkuu
+dyadic: binary
+: 
+mabadilikoyatukio: 
+projector: 
+mojakwamojakitu: mojakwamojakitu
+kutochukuakesi: genitivekesi, kutochukuakesi
+attenuative: 
+resultative: 
+: 
+hassium: 
+: 
+umwagajidamu: damu
+mafungo: digress, uondoaji, kustaafu, kujiuzulu
+: 
+baadaye: baadaye, kisha, hivikaribuni, ijayo
+theorems: kisheria
+subjunctivemood: mashartimood, optativemood
+rufaa: kuanzisha
+retiree: kustaafu
+skateboard: 
+: 
+umeme: umeme, 
+: 
+clique: conglomerate, click
+kusomatukumbukumbu: 
+: 
+ice-cream: barafu, cream
+: 
+mburudishaji: burudani, msanii
+ufundi: specialty, taaluma
+freshly: safi, hivikaribuni, mzizi
+kupanda: kupanda
+: 
+Erbium: 
+kuapishwa: kuapa, expletive
+toiletry: 
+Godelya: 
+: 
+: 
+config: kimuundo
+sentimita: sentimita, 
+: 
+sawa: sawa, sana
+harakabaadayeuliopo: 
+: 
+contrastive: zinazokinzana, kukabiliana
+coreference: 
+: 
+prepositionalkesi: nominativekesi
+: 
+uwanjajinamfumo: 
+singlehatuaverb: 
+lanthanum: tellurium
+: 
+kiasiyaDutu: 
+: 
+kijijinibaadayeuliopo: 
+: 
+enumerative: 
+: 
+brag: splurge
+pana: kuongeza, pana, upana, kona
+randomupatikanajikumbukumbu: 
+: 
+floating-kumweka-idadi: 
+multilinear: 
+: 
+sikuzanyumawatazamajiMmoja: 
+katiusindikajikitengo: 
+locativedirectionalkesi: 
+marakwamaraaliulizamaswali: 

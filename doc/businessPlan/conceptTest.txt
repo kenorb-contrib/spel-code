@@ -1,0 +1,65 @@
+
+Product
+* description of product or service
+
+translation software that takes human grammar based 
+language as input and converts it to natural human languages
+and computer software languages as output.
+
+Target Market
+* intended target market
+
+Translation Services
+writers, professional translators, lawyers, 
+
+and Software Development
+
+app programmers, novice programmers.
+
+Position
+* benefits of the product or service
+
+Translation Services and Computer Aided Translation
+
+allows a translation company to have fewer translators,
+requiring only a single translator per source language,
+transltors can be monolinguals that know an input language,
+which is an easily parseable version of the source language,
+that has a clearly defined and accessible vocabulary.
+
+a writer can self-publish into 20+ languages if they write or
+rewrite their document using a valid input language.
+
+Software Development
+
+can write apps for several platforms simultaneously from one
+code base, since it translates to multiple computer languages.
+
+can localize to all supported languages after writing the
+content in only one of the supported input languages.
+
+* description of how product or service will be positioned
+  relative to competitors
+
+Currently in the market the biggest players are statistical
+machine translation and translation memory.
+
+statistical machine translation such as Google Translate, gives
+seemingly good translations, as it uses word combinations found
+in the destination language that at least vaguely match the
+input, however it is intrinsicly a low precision process, which
+may inject or remove critical information such as a "not".
+
+translation memory has a database of previous translations,
+a translator can thus not have to translate the same phrase or
+sentence again, if it has near exactly been done before. a major
+drawback is the requirement to have a very large translation
+database, and is mostly viable for repetitive technical texts.
+
+by contrast SPEL is an Interlingual Machine translation.
+
+
+gives a general impression of the original.
+
+Management
+* brief description of the company's management team

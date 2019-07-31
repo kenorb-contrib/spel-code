@@ -1,0 +1,2515 @@
+főnéviigenév: végtelen, végtelenség, eredet, forrás
+alanyesetiügy: elöljáróiügy
+tárgyesetügy: 
+témaügy: tantárgyügy
+szülő: szülői, őrnagy, idősebbember, spenót
+apu: apa
+anya: anya, anya, anyai
+Helló: Viszlát, Szia, Hé
+ős: előző, nagyapa
+nagyszülő: nagyapa, nagymama
+éhes: éhség, éhezik
+birtokosügy: birtokosügy
+melléknév: 
+és: összeg, által, egy
+nekem: sajátmagam, én, azén, mi, nyalás
+te: őket, téged, te, ya
+minket: mi, mi, amiénk
+azt: ő, hogy, ő, ez, ezek, melyik
+rendeltetésihelyügy: objektívügy
+részeshatározóügy: 
+REALIShangulat: 
+deontichangulat: 
+feltételeshangulat: hozzákapcsolthangulat, hipotetikushangulat
+episztemikushangulat: 
+hangszeresügy: 
+belsőkontextus: 
+személykontextus: 
+függőkikötés: 
+befejezettvonatkozás: 
+múltfeszült: 
+férfiasnem: semlegesnem
+comitativeügy: 
+ajándékfeszült: 
+benefactiveügy: 
+essiveügy: 
+nem: nem, nem, alig, képtelen, hangmagasság, soha, sem, egyiksem, Inkább, se, nemtud, hiányzik
+annak: azok, övé, neki, őt, azok, azövé, ból, kineka, független
+felületkontextus: 
+adpositionalügy: 
+elhelyezkedésügy: 
+helykontextus: 
+útügy: 
+kérdőhangulat: 
+ésvagy: 
+kizárólagosvagy: 
+forrásügy: 
+ablativusügy: 
+meggyőző: szilárd, lényeges, konkrét, ellenállhatatlan, irányelv, drámai, Expressz, látszólagos, tagolt
+de: még, azonban, bár, habár, Mindazonáltal
+minden: mindenki, mindenki, teljes, teljes, átfogó, egész, minden, bármilyen, egyreinkább, teljesen
+nőiesnem: 
+ők: őket, ő, azok, azok, övék, vezetéknév, ezek, azonos, becsületes, hasonló, naknek
+többesszámszám: 
+egy: egyetlen, egy, -ba, egyedül, egy, fordulat, azonban
+ki: valaki, bárki, melyik, kineka, mint, kit, bármi, bárki, hogy, azok, azok, énekel, ya
+jövőfeszült: 
+társadalmikontextus: 
+amikor: bármikor, valaha
+folyamatosvonatkozás: 
+ott: létezik, csütörtök
+több: felett, alegtöbb, további, túl, emelkedő, felfelé, több, mint, Inkább, is, ráadásul, plusz, mégmindig, még, más, számos, többszörös, más, másképp, egymásik, pihenés
+ki: kívül, külső, külső, szabadtéri, szabadban, ki, kívülból, túl, fel, upon, -ra, tovább, kilép, kijárat
+relatívügy: relatívügy
+illativusügy: 
+csinál: csinál, teljesít, vállal, render, aktiválja, tett, elkövetni, tesz, mit, reagál, bármi, vajon, tökmindegy, dolgozó
+irányelvhangulat: jelzőhangulat
+kérdésszó: 
+kapcsolószó: csatlakozó, kötvény, csokor, link
+személy: Férfi, emberek, egyedi, valaki, valaki, fickó, emberi, arc, személyiség, őt, őket, Személyesen, gyalogos, fickó
+férfi: férfias, említés, úriember, Férfi, kedves, női
+tudott: tud, esetleg, esetleg, talán, lehetőség, valószínűség, május, lehetséges, képes
+szám: összeg, összeg, ábra, számszerű, számjegy, Mennyiség, számok
+nagyon: nagymértékben, rendkívülimódon, szörnyen, sokkal, is, szörnyen, széleskörben, magasan, igazán, rosszul, borzasztó, jelentősen, sok, több, óriási, alegtöbb, egészen, meglehetősen, messze, szép, rendben, oké, mindenjobbra, szélső, fájó, bőséges, szokatlanul, hihetetlenül, kiváló, gyenge, erősen, élesen
+idő: míg, pillanat, alatt, időszerű, időtartama, időbeli, feszült, menetrend, időszak, időjárás, ismétlő, óra, látás
+időkontextus: 
+időbeliügy: 
+rólről: tekintettel, vonatkozó, közel, körülbelül, ból, által, mint, körül, mert, tovább, majdnem, hozzávetőlegesen, dolog, tisztelet, fejezet, drog
+szószerinti: szószerint, igazi, eredeti, abszolút, szóbeli, irodalmi, pontos, pontos, pontos
+csak: éppen, csupán, egyszerűen, pont, puszta, tisztán, korlátozott, alig, öböl, egyedül, csupasz
+kicsit: kicsi, apró, enyhe, némileg, bit, kisebb, piti, kicsinyítő, hordozható, kevés, könnyen, rövid
+akkor: újra, ya, mivel, ezelőtt, szedán, akésőbbiekben, utána, ennekellenére, később, későbbi, később, után
+buzdítóhangulat: 
+visszatekintővonatkozás: 
+nagy: nagy, nagy, nemes, súlyos, hatalmas, hangos, hatalmas, óriás, borzasztó, uralkodó, jó, finom, tekintélyes, hatalmas, lényeges, csodálatos, kiváló, optimális, nagy, őrnagy, tökéletes, figyelemreméltó, ragyogó, törzs, makró
+volitivehangulat: 
+előtt: előzetes, elő, ezelőtt, megelőz, amíg, amíg, elülső, korábban, ellen, ellen, előre, előleg, messzebb, előre, előző, korábban
+kell: kellene, szükségszerűen, szükségtelen, vannaknek, szükség, kell, kellenenaknek, akar, kellene
+kettő: dupla, mindkét, egymástól, párosít
+lát: néz, Kilátás, látás, értesítés, érzékel, óra, bámulás, utal, találkozik
+tud: meggyőződik, tudatábanvan, tanít, zászló, látható, megért
+le-: lefelé, lefelé, alatt, lent, alatt, alul, Kevésbé, alsó, alárendelt, aföldszinten
+első: bemutatkozás, kezdeti, mivel, tovább, először, alapvetően
+saját: sajátmaga, sajátmagad, birtokol, Személyesen, övé, maga, maga, személyes
+elidegeníthetőbirtoklás: 
+elidegeníthetetlenbirtoklás: 
+régi: használt, ősi, idős, idős, előző, volt, kor, előzetes, előző
+tanácskozóhangulat: 
+nap: napi, enged, dolgozó, ügy, munka
+ahol: bárhol, amelynek, hely
+jön: naknek, amíg, elér, érkezés, megérkezik, válik, előfordul
+út: módszer, módszertan, sétány, eszközök, pálya, útvonal, traktus, útvonal, nyom, mód, út, utca, cukor, nyomonkövetni, röppálya, szokás, hogyan, folyamat, mód, hitvallás
+munka: munka, kijelölés, aktív, feladat, munkaerő, munkaerő, karrier, funkció, működik, funkcionális, üzleti, törvény, munkaki, foglalkoztatás, foglalkozási, dolgozó, artwork
+magánhangzó: híres, élet, túlélés, mozgalom, mozgás, forgalom, ábécé, öntőforma
+megy: séta, viteldíj, indulnak, indulás, vándorol
+perlativeügy: 
+haladóvonatkozás: 
+hosszú: meghosszabbított, tartós, magas, mentén, időszak, korszak, feszült, el, ábrázol
+mondjuk: beszélt, mond, beszél, képvisel, viszonyul, hívott
+még: is, bármelyik, amíg, amíg, ráadásul, is, hasonlóképpen, további, továbbá, maga
+hát: mögött, hátulsó, visszafelé, hátrafelé, visszatérés, visszaállítás, kibont, újra, ismétlés, ezelőtt, szerintnaknek, vissza, visszaszerez, visszahoz
+itt: nálnél
+gondol: gondolkodás, gondolat, úgy, Képzeldel, fogan, elmélkedik, lenne, hívott, elme, érez, látszik, jelez, megfontolás
+minden: minden, mindenegyes, bármilyen, melyik, felé, per, mindenki, névadó, egész, átlagos
+utolsó: vég, utóbbi, végső, végső, egymásik, más, legújabb, új, befejező, múlt, elviselni, folytatódik, előző, késő
+alattkontextus: 
+vesz: üdülőhely, elfoglalják, letölteni, elfogadja, Megragad, kap, kap, csákány, fogás, elfog, díj, elfogad, hoz, visz, lő, alkalmaz, rendelni, alkalmazott
+megtalált: lelet, felfedez, felfedezés, érzékelés, hozzáférhető, kap, találkozik
+kéz: kar, csukló, fegyver
+fiatal: ifjúság, gyerek, serdülő, tizenéves, új
+adni: kölcsönöz, biztosítani, ajánlat, gondoskodás, szállít, render, engedhetimegmagának, tesz, adományoz, enged, biztosít, díj, időszakos, ciklus, ismernem, tartozik
+Isten: isteni
+delativeügy: 
+semmi: valami, tárgy, nemegy, bármi, egyiksem, senki, néhány, kevés, bizonyos, némileg
+jobbra: pár, helyes, pontosan, becsületes, igazságszolgáltatás, indokolt, tisztességtelen, választható, jogosultság, törvény, helyesen, igaz, bizonyos, Persze, feljogosít, jól, át, esedékes, megfelelő, megfelelően, alkalmas, megfelelő
+egyszer: azonnal, azonnal, módszer, minta, módszertan
+semelfactivevonatkozás: 
+balra: el, szabadság, Átugrani
+rész: szakasz, részben, adag, részben, parcella, töredék, szegmens, Osszameg, bit, darab, áthaladás, részhalmaza, fejezet, osztály, epizód, részleges, osztály, kórterem, ágazat, arány, nevében, résztvenni, kvantum
+ház: otthon, helyiség, templom, ház, háztartás
+világ: birodalom, globális, világegyetem
+fej: cím, fő-, fő, fejezet, vezető, elnök, elnöke, igazgató, főnök, toll, fejfájás, haj
+három: harmadik, kilencedik, adó
+fókusz: szándékolt, cél, cél, objektív, sűrítmény, Figyelem, koncentráció, konvergálnak, látomás
+szerelem: szeretet, adomány, mint, szétzúz
+mindig: örökké, állandóan, valaha
+éjszaka: este, vacsora, délután., maeste
+király: uralkodik, lord, uralkodó, iparmágnás, herceg
+között: között, között, ból, banben, -ba, belül, középső, középső, alatt
+szív: éljenzés, bátorító, ledönt, koronária
+paucalszám: 
+mert: esedékes, mivel, ügy, ok, ok
+okozatiügy: 
+név: vezetéknév, főnév, hajó
+megfelelőfőnév: 
+ország: nemzet, föld, föld, állami, föld, talaj, fél, vidékitáj
+kérdezte: kérdez, konzultál, sürgesse, kérdések
+láthatóbizonyítékonalapuló: 
+jobb: kiváló, legjobb, kiváló, ideál, kiemelkedő, további, messzebb, jó
+oldal: oldalsó, kedvez, kedvez, nevében, fordulat, oldal, vonatkozás, fél, csiszoltfelület, felé, mellett, félre
+tanfolyam: tanterv, lecke, előadás, biztosan, biztosan, egyértelműen, arány, pálya, magabiztos
+elég: elegendő, kellően, megfelelő, bőséges, meglehetősen, bőven, elégtelen, egészen, szép, tekintélyes, jelentősen, lényeges, jelentősmértékben, lényegesen, ésszerű, tesz, teljesen
+hamar: hamarosan, gyors, gyors, gyorsan, gyors, azonnali, gyors, siet, sürgős, így, azonnal, készségesen, Közeli, korai, Snap
+teljes: teljesen, kellően, abszolút, teljes, tökéletlen, egész, pontosan, pontos, teljes, pontosan, alapos, teljes, átfogó, méret, teljesen, teljesen, teljesen, befejezett, tökéletes, véghezvisz, hallgatólagos, elegettesz, ellát
+szoba: kamra, negyedik, hálószoba, béke, rekesz, pince, mélység
+víz: folyékony, folyadék, vízválasztó
+desiderativehangulat: 
+fény: világít, fényes, gyertya, enyhe, stílus, könnyen, sápadt, egyértelmű, napfény, exponálás
+szó: lexikális, hang, szójegyzék, kifejezés, ige, főnév, megfogalmazás, kifejezés
+ajtó: kapu, kapualj, bejárat, fejezet, kikötő, portál
+használat: hasznosít, használat, fogyasztás, kiadás, fogyasztó, részt, alkalmazás, hasznosság, alkalmaz, foglalkoztat, fogyaszt
+reggel: délelőtt, reggeli
+terminativeügy: 
+hatalom: erő, energia, esetleg, erős, erő, erős, dinamikus, saláta, fölény, hatóság
+maguk: minket, sajátmagad, sajátmaga, sajátmagam, önmaga, maga, maga, ego, egyedül
+hang: hang, hangosan, szavazás, hang-, szavazás, tétel, szóbeszéd, szóbeszéd, zaj
+fehér: üres, panasz
+pénz: jólét, ezüst, pénzügyi, készpénz, valuta, pénzügy, pénzügyi
+következő: mellett, mellett, következőnaknek, következő, akésőbbiekben, dimenzió, tovább, későbbi, után, később, később, utána, tovább, előre, messzebb, előre, eljárni
+szegény: kar, szegénység, rossz, gyenge
+halál: halálozás, haldoklik, halott
+forma: alak, öntőforma, formátum, körvonal, minta, Farm, alakú, morfológia
+inessivusiügy: 
+együtt: egyidejűleg, mentén, közös, kollektív, készlet, mellett, kötőszó, kombájn
+ügy: ügy, ügy, dolog, jelenség, probléma, anyag, anyag, tantárgy, probléma, kérdés, dolog, téma, érdekesmódon
+gyakran: gyakran, állandóan, rendszeresen, gyakori, általában, normálisesetben, jellemzően
+barát: szövetséges, fiúbarát, fickó, társ, munkatárs
+rendelés: rendszer, elrendezés, intéz, szerződés, sor, parancs, fordulat, sor, sorbanáll, sorrend, egymásutáni, meghívás, így, enged, elkerül, varázslat
+parancsolóhangulat: 
+kerek: lekerekített, kör, öl, gömb
+tart: tart, fenntart, világi, tesz, készlet, paszta, megtartása, őr, részt, mint, megőrzés, Beszélgetés, megőrzése, visszatart, ragaszkodik, marad, marad, rögzített, karbantartás
+feleség: házastárs, női
+hisz: bizalom, számol, feltételez, hit, hit, bizalom, magabiztos, optimizmus, optimista, függőség
+közel: elhalad, mellett, majdnem, körül, közeli, közel, szomszédos, gyakorlatilag, Közeli, közelebbi, szomszéd, szomszéd
+nyilvános: általános, közönség, közös, általában
+államikontextus: 
+fiú: raj, fiú
+száz: századik, arc, cent, század
+gyermekek: kölyök, utódok, gyermek, baba
+ésígy: ezáltal, így, ennélfogva, ilyen, igen, ebbőladódóan
+remény: szeretnék, kilátás, számít, optimizmus, optimista, várt, elvár, várakozás
+felett: fel, felett, emeleten, magas, felső, fejlett, felső, át, vonatkozó, keresztül, upon, felső, -ra, előre
+kedves: szerető, drága
+olvas: olvasás, énekel, liliom, olvasó
+város: város, városi, megye, városi
+már: kész, előkészített, hajlandó, akárhogyanis, elő
+tény: igazság, valóság, igazmondás, igaz, igazi, tényleges, valóban, igazán, tulajdonképpen, tett
+factivebizonyítékonalapuló: 
+lány: szobalány, lánya, női, hölgy, barátnő, egyedül
+hall: hallgat, meghallgatás, érez
+legkevésbé: minimális, minimális, minimalizálása, mínusz, Kevésbé, legalacsonyabb, alegtöbb, legjobb, legmagasabb, optimális
+talán: valószínűleg, talán, feltehetőleg, esetleg, esetleg, lehetséges, valószínűleg, valószínű, állítólag
+nyisdki: egyértelmű, egyszerű, tisztán, csupasz, magátólértetődően, üres, kifejezett, nyilvánvaló, szabadtéri, hiány, nyíltan, tegye, terhelés, felfedi
+test: hús, testi, fizikai, fizikailag, test, szerv, hulla
+levegő: szél, szellő, repülés, időjárás, légitársaság, repülési
+természet: természetes, anyanyelvi, természetesen, eredet, származás, bennszülött, vadvilág, jellem
+Segítség: segít, hasznos, támogatás, támogatás, helyettes, világi, megkönnyebbülés
+levél: levél, fejléc, írás
+négy: negyedik
+óhajtóhangulat: hozzákapcsolthangulat
+Tűz: forró, láng, láz, kandalló, Buddha
+ingyenes: szabadság, szabadság, mentes, ingyen, hiú, önként, üres, lazán, kiadás
+háború: csata, küzdelem, harc, csatatér, birkózik
+második: más, mindkét, szerintnaknek, egymásik, másodszor
+egyesült: egyedülálló, egység, befogadó, unió, szövetséges, szövetséges, egyedi, egyhangú, közös, összetett, koalíció, államszövetség
+hívás: kihívás, oxidálódik, fellebbezés, tovább, kapcsolat, kombináció, közös, magfúzió, meghívás, élettartam, beszélgetés, telefon
+miért: hasonló, hasonlóképpen
+Elvesztett: veszteség, elveszít, hiányzó, eltűnik
+ezer: ezredik, ruhák, szövet
+család: háztartás, túlélő
+lélek: szellem, szellem, kiagyal
+gondoskodás: azérintett, vonatkozik, Figyelem, elmélkedés, szolgáltatás, szponzorálás, őr, biztonság, védelem, biztonság, védelem, megőrzés, Beszélgetés, lefedettség, védelem, Vigyázat, gyógymód, kezelés, őrizet, aggodalom, aggódó, aggasztó
+átlagos: magautánvon, érzék, jelentés, jelentőségteljes, jelöli, középső, ügynök, közepes, átlagos, mérsékelt, lényegében, megért
+különböző: különböző, különbözik, különféle, változatos, többszörös, különbség, különálló, variáció, külön, változékonyság, differenciális, nemúgymint, változat, változik, különböző, más, más, egymásik, számos, eltérően, fajta
+potenciálishangulat: 
+allativeügy: 
+antropikusnem: 
+öt: ötödik, év, mert
+élő: élet, túlélni, viselkedik, élő, fészek, kerület, szomszédság, szomszédság, élő, élénk, nyers, egyenes, egyenes, lakos, közvetlen
+különbözőtantárgy: 
+válasz: északi, válasz, válasz, megoldás, megfelelnek, reagál, északi, replikáció
+tenger: óceán, tengeri, tengergyümölcsei
+félelem: retteg, félnek, terror, félelem, megrémült, pánik, szorongás, angst, borzalom, megijeszt, rémült, fóbia
+kemény: nehéz, merev, bonyolult, durva, hangos, erőszakosan, vad, kemény, szigorú, kihívástjelentő, furfangos, szilárd, szoros
+feltételek: kifejezés, terminológia, probléma, székhelyű, terület, bázis, lényegében, alapvetően, alapvetően, ingatlan
+kétség: gyanú, bizalmatlanság, habozás, gyanúsított, támogató
+dubitativehangulat: 
+fekete: tömb
+szép: jó, szép, bájos, szépen, szépen, szép, díszes, hűvös, aranyos
+sötét: sötétség, sötétség
+fajta: osztályozás, osztályoz, osztályozó, fajta, faj, fajta, tétel
+tíz: évtized, tizedik, becsületes
+előadás: kijelző, teljesít, teljesítmény, demonstráció, bemutatás, jelez, jelöli, esemény, vetítés, bemutat, művészet, kép, vázlat, screenshot
+sztori: mítosz, történelem, elbeszélés, kitalálás, cselekmény, mese, beszélgetés, téma
+könyv: tekercs, lefoglal, font, tankönyv
+elektronikus: elektronika, elektron, villám, elektromos, elektromosság, elektromos, villanyszerelő, email, előző
+számla: ok, ok, kiszámítja, számítás, számítás, számla, számítás, számol, számol, számtan
+jelölés: jelző, nyom, nyom, pontszám, logo, Kiemel, ketyegés, címke, jel, jel, jelzés, dákó, márka, jellem, címke, benyomás, szimbolikus, éber, szimbólum, ikon
+kamat: virág, érdekelt, vonatkozik
+ír: összeállít, írás, típus, írott, helyhezkötött
+ágy: 
+szükséges: alapvető, fontos, hasznos, kritikai, létfontosságú, jelentős, jelentéktelen, integrál, kritikus, fontosabb, szükség, szükségszerűen, tárgyatlan, tárgyatlan, tárgyatlan, sürgős, ragadós, szükségesség, kívánt, kíván
+ötlet: gondolat, megfontolás, vélemény, fogalom, ötletelés, gondolkodás, Képzeldel, képzelet
+VIALISügy: 
+testvér: testvér, lánytestvér, kandalló, kolléga
+néha: ritkán, néha, majdvalamikor
+vonal: huzal, szál, sor, sáv, hővezetés, gondolatjel, csík, adó, forgatókönyv, vonalak, főcím
+táblázat: asztal, menetrend, katalógus, katalógus
+folyó: párna, párna, fényáram
+szem: kinevez, körül, hó
+információ: üzenet, magyarázat, leírás, közleményt, tudás, adat, rang, tájékoztat
+hirtelen: hirtelen, váratlan
+furcsa: furcsán, meglepő, furcsán, páratlan, csoda, csodálatos, figyelemreméltó, rendkívüli, hihetetlen, elképesztő, bizarr, vicces, idegen, egzotikus, kínos, szokatlan, furcsa, rejtélyes, kíváncsi
+mély: mélyen, mélység, kiterjedt, sekély, alapos, részletes, átfogó, kritikusan, mély, belül, belül, szobai, féreg
+változás: módosítás, variáció, átalakítás, átalakít, mutáció, váltás, változtat, módosítására, átmenet, konvergencia, variációk, variancia, változékonyság
+érzés: érez, szenzáció, észlelés, benyomás, érzelem, hangulat, nyűgözve, érzelmi, szenzoros, érzés, érzék, szenvedély, tudatos, tudatosság, impulzus, fogalom, fogamzás, koncepció
+cél: tárgy, cél, objektív, cél, rendeltetésihely, szándék, szándékolt, indíték, cél, előny, haszon
+boldog: vidám, vidám, öröm, boldog, öröm, boldogság, élvezet, elragadtatva, móka, boldogan, szerencsés, elégedett, hangulatjel, gyakran, élvez, jobbanszeret, boldogtalan
+vér: vérzik, véres, vérontás
+rózsa: rózsaszín
+déli: déli, dél, déli
+hideg: téli, hűvös, fagyosan
+pozíció: elhelyezkedés, helyzet, állapot, véletlen, lehetőség, hely, állás, testtartás, hely, állás, tétel, irányultság, világi, található, locus
+állvány: állomás, függőleges, hozzáállás, állás, álljmeg, testtartás, póz, átesés, lenni, marad, marad, létezik, ellen
+tegyükfel: feltevés, hipotézis, Feltételezem, elfogadja, feltételez, feltételez, világi, háztartás, állítólag
+enyém: azén
+vágott: hiány, hiányzó, csökkentés, hiány, csökkenés, hiány, hiányzik, vágás, szakítsa, szelet, vágás, termés, törött, megsért, összeesküvés
+másolat: reprodukálni, replikáció, megismételni, átírás, fotokópia, klón, változat, recept, tervrajz, jólét
+férj: Férfi, házastárs
+hat: szex
+alacsony: Kevésbé, rövid, olcsó, alacsonyáron, vetélés, minimális, alsó, sekély, unalmas, hiány, nyugalom, csökkentésére, csökkenés, minimalizálása
+emlékezik: jegyzet, visszahívás, emlékeztet, memorizál
+hatás: befolyás, érint, benyomás, hatás, fölény, hatékony, hatékonyan, hatékonyság, következmény, eredmény, exponálás, eredmény, vonatkozások
+esik: őszi, ügy, található, csattanás, esés, bontás, összeomlás, csepp, hanyatlás, csökkenés
+kivéve: hacsak, kívül, kívül, egymástólbólből, kívülból, egymástól, kizárás, félrebólből, nélkül
+szerzőijog: 
+hadsereg: csapatok, csapat, házigazda, katona
+fut: elmenekülni, csatorna, futás, kivégez, működik, hajtás, felszerelés, művelet, operatív, megvédeni
+ló: patkó, nálnél, megjegyzés, kifejezés
+jövő: akésőbbiekben, később, utána, téli
+nyugati: nyugati
+fizetés: munkabér, bér, fizetés, tolóerő, fizetés, díjaz, díj, költség, enged
+piros: csökkentés
+arany: 
+vágy: akarat, mohó, étvágy, szeretnék, sóvárog, sürgesse, vágy
+játék: tánc, szerencsejáték, játék, orca, játék, tekercs, pörgés, forog
+fő-: lord, elsődleges, fő-, Egyetemitanár, uralkodik, szabályozzák, úr, úriember, vezető, uram, tulajdonos, kiagyal, ellenőrzés
+hivatal: ügynökség, asztal, minisztérium
+kormány: állami, sor
+templom: 
+hossz: magasság, magasság, arasz, mentén, időtartama, magas
+vállalat: cég, vállalat, társadalom, üzleti, társasági, egység, intézmény, ügynökség, intézet, vállalkozás, vállalkozás
+papír: lap, kártya, alapszabály, újság
+valószínűség: lehetőség, valószínűség, valószínűleg, esetleg, valószínűtlen, kilátás, véletlen, valószínű, változók, esély
+különösen: különleges, különösen, kifejezetten, különösen, különös, pontosan, főként, többnyire, elsősorban, különleges, fontosabb, jellemzően
+viseli: visz, elviselni, türelem, tolerancia, van, birtokol, engedhetimegmagának, elvisel
+ablak: 
+megegyezés: jegyzőkönyv, település, kompromisszum, megegyezés, szerződés, egyetért, üzlet, egyetértés, pályázatikiírás, akkord, szerződés, egyezmény, elrendezés, alku
+szépség: szépen, ragyogás, esztétika
+vám: felelősség, felelősség, kötelezettség, felelős, vám, feladat, kijelölés, adósság, tartozik, vannaknek, foglalkoztat, sors
+elküld: továbbít, benyújtás, állás, adás, email, átvitel, kellene, szállít, benyújtja
+távolság: eltávolítás, hatótávolság, elválasztás, utca, rés
+csend: nyugalom, csendes, csendes, magányosság, béke
+láb: láb, Állj, comb, lábujj, negyed, mancs, futás, megfelelően, lépés
+vad: vadul, illegális, vad, vadvilág, dzsungel
+meghal: halott, haldoklik, ki, becsuk
+mentés: megtakarítás, megőrzés, visszaszerez, megőrzésére, Beszélgetés, memorizál, bolt, megvált, mentés, rekord, védelem, megőrzése, megszabadít
+zöld: nyers, nyers
+baj: zavar, probléma, probléma, nehézség, nehézség, gyúr, szenvedő, problematikus, akadály, megzavar, zavar
+mosoly: vigyorog
+rossz: hiba, hiba, téves, rosszul, rosszulkezel, hamis, hiba, hiba, hiba, helytelenül, tapintatlanság
+alvás: Alva, álom, szieszta
+quotativeügy: 
+kezdet: kezdődik, indul, vállal, karcolás, fellépő, korai, kezdeti, kezdeményezés, bemutatkozás, alapelv, csatlakozzanak, beavatott
+akció: feladat, pont, lépés, szakasz, törvény, eljárás, aktív, művelet, operatív, aktiválja, aktivista, mozog, gyakorlat, gyakorlat, működik, Készlet, végrehajtás, kivégez, magatartás
+látogatás: hozzáférés, interjú, hozzáférhető, utazási, utazás, utazás, túra, filozófia, kritizál, találkozó, ajándék
+kövesse: teljesítés, ragaszkodik, következő, folytat, nyomonkövetni, kísér, engedelmeskedik, későbbi, folytatódik
+próbáldki: kísérlet, megkísérelt, erőfeszítés, kezdeményezés, kísérlet, teszt, minta, szorgalom, próba, vizsgálat, vizsga
+jelenlét: létezés, létezik, egység, vagyontárgy, esemény, látás, részvétel
+nehéz: ismétlés, súlyosan, nehéz, szigorú, súly, Komolyan, hatalmas, máj, hatalmas, tömeges
+édes: desszert, cukorka, kedves, nyájas, aranyos
+száj: orális, bögre, korty, arc
+gazdag: bőven, bőséges, gazdag, ruha, nagylelkű
+ellenség: ellenséges, ellenfél, ellen
+hajó: hajó, vitorla, flotta, vitorlázás, hajó, hajókázás, komp, has, tinó
+feltétel: fogadás, fogadás, állami, helyzet, körülmény, állapot, szerencse, szakasz, szint, alkalmasság, követelmény
+beleértve: tartalmaz, tartalmaz, bevonása, tartoznak, áll, kizárás
+befogadószemély: 
+megjelenik: kinézet, felmerülhet, felbukkan, megjelenése, látható, látszik, néz, tanya
+titok: rejtélyes, rejtély, tű, földalatt
+kérem: kedvesen, kérdez, kegyelem
+precativehangulat: 
+udvariasnyilvántartás: 
+gonosz: sérelem, csúnya, gonosz, rossz, rosszul, szörnyű, beteg, rosszabb
+március: díszszemle, tiltakozás, demonstráció, Mars
+lassan: fokozatosan, lassú, gyengéden, enyhén, késő, fokozatos
+helyette: helyetteból, Inkább, kívül, csere, helyettesítés, vagylagosan, nevében
+kék: cián
+lehetetlen: 
+iskola: egyetem, létra
+alkalom: lehetőség, esemény, esemény, véletlen, sugárút, alku, órakor
+házas: házasság, feleségülvesz, esküvő
+élelmiszer: étkezés, diéta, tál, takarmány, étkezik
+húsz: 
+könnyen: valószínűleg, készségesen, felelős, könnyen, kényelem, enyhe, némileg, könnyen, kényelmes, egyenes, tömören
+leendővonatkozás: 
+nyelv: nyelvi, nyelv, bázis
+kifejezés: Expressz, nyilatkozat, kifejezés, tagolt, exponálás, kifejezés, egyenlet, reprezentáció
+hét: vasárnap, heti
+terem: színház, bejárat, hely, kamra, szalon, társalgó, folyosó, futó, előcsarnok, lyuk, táv
+veszély: veszélyes, kockázat, veszély, tisztelet
+szokásos: általában, általános, közös, rutin, generikus, általában, rendes, szokatlan, általában, szerény, normál, szabálytalan, hagyományos, tipikus, alkalmi, normálisesetben, jellemzően, főáram, szabályos, szokásos, egyszerű, nagyjából, egyszerű, mérsékelt
+született: születés, újjászületés, veleszületett
+bíróság: bírósági, tál, fórum, pereskedés
+gnómikusvonatkozás: 
+érdemes: megérdemel, érték, értékes, érvényesség, érdem, költség, ár
+fa: növény, faipari, nyél, fűrészáru
+fal: 
+menny: ég
+kezdetivonatkozás: 
+jussivehangulat: 
+tónus: hangmagasság, dallam, tonna, tonna, árnyék, tonhal, hang
+tekintet: tisztelet, Feltételezem, feltételez, Figyelem, megfontolás, úgy, kapcsolat, Egyesület, kapcsolat, megjegyzés, lefedettség, kapcsolatok, viszonyul, társult, összefüggő, azérintett, tartoznak, tekintettel, megfelelő, megfelelnek, idevonatkozó
+hónap: hold
+tapasztalat: empirikus, tapasztalati, tapasztalt, szakvélemény, lelkesedés, kísérlet
+körülmények: forgatókönyv, körülmény, helyzet, lazán
+friss: frissen, tiszta, tiszta, tisztító, új, novícius, legújabb
+herceg: vonalzó, herceg, egyenrangú
+fedett: fedő, lefedettség, ki, zárva, szobai, borító, szabályozzák
+köteles: mértékben, korlátozás, határ, határ, korlátozás, korlátozott, összefüggő, függ, köt, határ, korlátoznia
+keleti: keleti, ezelőtt, előző, előzetes, elő, hajnal
+kő: üveggolyó, szikla, drágakő
+irány: irányultság, dimenzió, irányzat, csiszoltfelület, utasítás
+szék: ülés, fotel, széklet, társalgó
+támogatás: fenntartásához, jóváhagy, támogatás, segít, zárójel, támogatás, bázis, mankó
+dátum: történelem, találkozás
+falu: Hamlet, vidékitáj
+mező: gömb, birodalom, vidék, terület, terület, zóna, ágazat, domain, küzdőtér, stádium, hely, margó, vidékitáj, tábor, Farm
+várjon: elvár, tart, marad
+engedély: lehetővéteszi, fül, engedély, vámkezelés, szabadság, engedély, engedély, beleegyezés, kiadás, birtoklás, jóváhagyás
+megengedőhangulat: 
+siker: sikeres, sikerül, jólét, teljesítmény, győzelem, győzelem, találat, nyerő, győztes, boldogulni
+hegy: hegy, hegy, vulkán
+zene: zenei, klasszikus
+távolabbimeggyőző: 
+délután: délután., dél, déli, este
+kiáltás: gyászol, kiáltás, sikoly
+becsület: becsület, tisztelet, méltóság, tiszteletreméltó, tiszteletreméltó, megtisztelő, udvariasság, dicsőség, arány, ár
+hét: 
+magán: személyes, maga, Személyesen, különleges, magánélet, különleges, kizárólagos
+ül: marad, rendezni
+hírek: üzenet
+színhely: webhely, látás, kontextus, kijelző, vizuális, szakasz, Kilátás, kilátás, sátor, kinézet
+kert: kertész, park
+verseny: faji, verseny, futás, verseny, lovagitorna, pályázatikiírás, fajta, mérkőzés, nemzet, tülekedés, csipke
+elosztóügy: 
+tanul: tanulmány, tanít, szándékos
+politikai: politika, politikailag, politikus, irányelv
+beszéd: előadás, beszélgetés, beszélgetés, társalgás, beszélt
+fekszik: hamis, becsap, csal, manipulál
+öntvény: odadob, dobás, hajít, dobás, formátum, öntőforma, dob, fészer, kilép
+eszik: étkezés, takarmány, tál, étkezik, fogyasztás
+padló: szőnyeg, föld, alsó, talaj, séta, magas, magas, rendeltetésihely
+nyár: hőség, forró, fűtés
+vallás: vallási, adósság, hitvallás, Foster
+kép: portré, festmény, kép, fénykép, fényképészeti, fényképezés, fénykép, fotokópia, rajz, Snap, film, ábra, ábrázolás, ábra, ábra
+menekülni: elmenekülni
+szerző: író, tanár, szerkesztő
+barna: szürke, szürke, lebarnulás, bronz, csokoládé, búza
+eltökélt: meghatározás, döntsdel, meghatározása, határozott, tolakodó, tervező, meghatározott, meggyőződik, stabil, bizonyos, döntés, meghatározója, rögzített
+fájdalom: sért, kín, fájdalmas, bánat, fájó, gyötrelem
+tavaszi: madártoll, mi, amiénk
+puha: megengedő, sima, apróra, pályázatikiírás, gyengéden, enyhén, kedves, nyájas, enyhe, finom, veleszületett
+sarok: szög, széles
+: , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , a, egy, egy, benyújtja, erősítése, , , , , fényvédő, , , gördeszka, villanyszerelő, , , pénztárca, habozás, megerősítés, taxi, szállítmány, szokásos, alkalmi, veszély, Szabó, hegedű, kertész, ács, váza, gumi, időszakos, járda, hurrikán, sál, piknik, vanília, jelvény, desszert, ív, leendő, raktár, pénztáros, párna, cukrászsütemény, könyvtáros, tornaterem, daru, séf, generikus, tisztító, pincérnő, tanácsadó, irodaszer, masszázs, pékség, szedán, mikrohullámúsütő, vízvezeték-szerelő, rostély, bróker, füzet, hamburger, fűtőkészülék, kozmetika, kertisütés, pattogatottkukorica, visszaható, logo, tonhal, előétel, időzítő, gyógyszerész, ingázó, kartondoboz, tervrajz, aktatáska, mozgólépcső, testőr, fejléc, mosogatógép, hátizsák, tengergyümölcsei, kerekesszék, sétány, röplabda, kondicionáló, tűzőgép, szauna, kijelentkezés, toner, ipar, ráz
+gyárt: termelés, generál, termelő, gyárt, gyártás, gyártás, termés, növények, termék, Teremtés, képződés
+nevetés: tréfa, nevetés
+elfelejt: átnéz, tagadni, figyelmes
+Európa: 
+nyolc: nyolcadik
+elhaladó: által, keresztül, elhalad, keresztül, eltelt, áthaladás, átkelés, váltás, átmenet, folyosó
+szörnyű: szörnyű, szörnyű, szörnyen, ijesztő, borzasztó, tragikus, riasztó, megijeszt, szörnyű, szörnyen
+kedvéért: indíték, kedvez, kedvez
+lehelet: légző, lélegzik, lélegző, lehel, ego, zihál, sóhaj, suttogás, belehel, szippantás
+bölcs: ésszerű, érzékeny, diszkrét, figyelmes, okos, okos, intelligens, érett, ragyogó
+birtokosjelző: 
+kellemes: kellemes, élvezetes, kedvező, kényelmes, kényelmesen, érdekesmódon, szép, szépen, fajta, szépen, móka
+tökéletesen: teljesen, teljesen, teljesen, teljesen, aktívan, tökéletes, valóban, teljesen, egészen, pontosan, teljesen, abszolút
+emlékezet: memorizál, referencia, emlékmű, nyom
+sír: súlyos, szigorú, súlyosan, temető, kritikai
+modern: kortárs, kifinomult, korszerűsítésére, divatos, új, társalgás, utóbbi, fejlett, Manapság
+folt: pont, pont, órakor, elhelyezkedés, folt, tapasz, hely, sehol, helyiség, locus, webhely, helyi, elhelyez, jel, kettőspont
+szünet: szünetbanben, fék, üdülőhely, társalgó, félbeszakítás, intervallum, rés, összetör, összetör, álljmeg, szünet, szakítsa, nyughatatlan
+sziget: 
+érintés: kontakt, csap
+egyenlő: egyenértékű, azonos, hasonló, helyesen, rendben, mindenjobbra, egyaránt, fokozat, par, azonos
+part: biztonságimentés, küszöbén, tengerpart
+ígéret: elkövetni, elkötelezettség, fogadalom, időpontegyeztetés, biztosíték
+commissivehangulat: 
+terv: rendszer, üzlet, program, program, kezdeményezés, tervező, tervrajz, javaslat, program, cselekmény, vázlat, vetítés, elrendezés, lakás, rajz, tervezés, javaslat, tervezés, elmélkedés
+meglepetés: megdöbbentő, váratlan, véletlen, meglepő, csoda, meglepően, meglepődött
+perc: 
+lövés: lő, lövés, golyó, lőszer, fénykép, fénykép, fúj, bumm, puccs, dobás, keret, rúgás
+vezet: vezetés, vezető, tinó, golyó, hajtás, útmutató, hoz, sovány
+üveg: tükör, kristály-, befőttesüveg, szemüveg, oldal, export
+tábla: lap, tanács, fel, emelkedik, lovagol, csoport, bizottság, panel, tanács, él, jutalék, tabletta, kiadás
+példa: példa, ábra, modell, minta, metafora, prototípus, mint, képvisel, mintadarab, ügy, precedens, minta, paradigma, szemléltet, igen
+biztonságos: biztos, biztonság, biztonság, biztosan, magabiztos, biztosítás, Persze, ártalmatlan, eltávolítás
+orvos: orvos, gyógyász, gyakorlóorvos, orvosi, fogorvos
+osztály: fajta, pálya, tanterem, fokozat, elválasztás, réteg, kategória, rang, kerület
+kiegészítővonatkozás: 
+megismételt: gyakran, szabályos, állandó, állandóan, néha, gyakori, rendszeresen, időszakos, ismétlés, ismétlés, ismétlő, felülvizsgálat, ismétlés
+katonai: megye
+meleg: forró, hőség, melegség, hőmérséklet, fűtés, gramm, fülledt
+ital: ital, részegség
+harag: mérges, düh, merénylet, idegesít, ellenére, megsértődik, bosszús
+közvetlenül: egyenes, közvetlen, közvetett, automatikus, egyenes, azonnali, kiegyenesedik, azonnal, szóbeli
+kalap: sapka, sisak
+kutya: 
+szolgáló: utaskísérő, pincér, pincérnő, szobalány, rabszolga, belföldi
+büszkeség: arrogáns, büszke, büszkén, önhittség
+tömeg: rohanás, zsúfolt, csőcselék, összeg, Mennyiség, népesség, házigazda, halom, sokkal, sok, számos, Komolyan, bőséges, tömeg, csorda
+vonat: szállítás, autó, vasútikocsi, kocsi, vasúti, vasút, oktat
+erkölcsi: erkölcs, erkölcsileg, etikai, etika, hangulat, lelki
+görög: 
+megfelelő: öltöny, alkalmas, egyszínű, összeegyeztethető, megfelelő, kényelmes, megfelelő, megfelelnek, választható, idevonatkozó, egyetértés, beállítani, pontos, pontos, egybevág
+belép: log, belépés, állami, jelez, helyezze, tartalmaz, nyilvántartás, bejegyzés
+szabály: adminisztráció, uralom, rezsim, ítélet, ítélet, ítélet, játékvezető, szabályozzák, törvény, törvényhozás, norma, állami, szabályoz, uralkodik, szabályozás, recept
+kard: penge, kés
+támadás: invázió, betör, agresszió, bűncselekmény, támadás, sértés, sztrájk, fellépő, támadó, rajtaütés
+Egészség: egészséges, köszönt
+bekezdés: vers, kikötés, nagydarab, pont, hozzáállás, állás, par
+társadalmi: társadalom, társadalmilag
+visszatérítés: válasz, reagál
+sajnálom: megbánás, pólus, Bocsánat, mentség, bocsánatkérés, kár, bánat, szenvedni, szenvedő, bánat, kín, gyász, szomorúság, gyászol, nehézség
+bátorság: bátorság, bátor, magabiztos, ideg, bátorság, merészel, bátor, hajó
+hivatalos: hivatalos, formálisan, hivatalosan, tiszt, hivatalnok, bürokratikus, engedélyez
+feltéve: biztosítani, ajánlat, gondoskodás, bevezetés, elérhető, kínálat, ellátás, ellát, ha
+kér: ima, kereslet, követelés, kíván, követelmény, vizsgálat, vizsgálatot, gyors, kínálat, alkalmazás, szeretnék
+pillantás: megpillant, Kilátás, hozzáállás, észlelés, kilátás, látás, néz, észrevehető, bámulás, ragyogás
+terjedése: részlet, kiterjesztése, kiterjesztés, terjeszkedés, kiterjed, széleskörbenelterjedt, előfordulás, diffúzió, szétszór, behatol, amplitúdó, kering
+szemben: elülső, ellentétes, ellentétes, szembenálló, ellen, át, ellen-, nemúgymint, ellentmond, invert, megfricskáz, ellen, ellenzék, elleni, fordított
+tizenkét: tucat
+elkötelezett: eljegyzés, elfoglalt, részt, résztvenni, megszállt, részt, szeres, pragmatikus, fordítottja
+bor: alkohol, alkoholfüggő
+íz: aroma, aroma, finom, csali, lelkesedés
+Vas: acél-, fém
+terjesztheti: továbbít, telepíteni, közzétesz, kiadás, diffúzió, kering, elosztás, osztja, Osszameg, feloszt, hasított, naknekhasított, osztályoz, elosztó, disztribúció
+kereskedelmi: kereskedés, üzleti, kereskedelem, áru, Internet, alku, tranzakció, értékesítés, kereskedelmi
+bíró: ítélet, ítélet, játékvezető, zsűri
+aggódó: vészhelyzet, sürgősség, azérintett, riasztónak, aggódó, szorongás, vonatkozik, aggodalom, figyelmes, kényelmetlen, aggasztó, félnek, lelkes, zavaró, riasztó, lelkes, mohó, nyughatatlan, kényelmetlen, kíváncsiság, nyugtalanság, angst
+kapitány: 
+megszűnésvonatkozás: 
+külföldi: külföldön, idegen, külföldi, egzotikus, idegen, külső, tengerentúli
+erősítő: erősödik
+fontosság: szükségesség, fontosság, jelentés, jelentőség, kritikus, hangsúly
+végül: végül, végülis, véges, végső, végső, terminál, apróra, vég, megbuktat
+bizonyít: bizonyíték, erősítse, megerősítik, igazolni, tanúskodnak, megért, alapigazság
+megelőzése: megszűnik, tilt, visszatart, elnyom, korlátozhatja, gátolják, tömb, visszatartani, elrettent, tiltják, elkerül, elnyomja, felfüggesztésére, Állj
+nyak: torok, tétel
+érdekes: móka, szórakoztató, szórakoztató, érdekesmódon, vonzó, vonz, hatásos, húz, fellebbezés, vissza, izgalmas, kíváncsi
+jogi: bírósági, törvény, jogos, keret, tételek
+száraz: szár, por
+szolgál: szolgáltatás, pénztkeres, ellát, ajánlat
+bizonyíték: bizonyítékonalapuló, bizonyíték, útmutató, nyom, Könyvtár, kijelző, tanú, nyilvánvaló, tanúskodnak
+bizonyítékonalapulóügy: 
+távoli: el, messze, ki, egymástól, hordozhatószámítógép, távoli, tartózkodó, legtávolabbi, száműz
+Haladás: lépés, haladás, fejlődés, haladó, fejlődési, előleg, eljárni, javulás, felemel, növekedés, promóció, mód, folyamat
+keskeny: vékony, szoros, rövid, korlátoznia, bosszantó, minimalizálása, korlátozott
+épület: épít, szerkezet, épít, építés, helyiség, csontváz
+keres: lelet, felfedez, felfedezés, keresés, érzékelés, keres, keresnek, kutatás, felmérés, törekvés, vizsgálat, vizsgálat, vizsgálatot, felfedezés, találmány
+szomorú: nyomott, sajnos, nyomorult, nyugtalanító, ideges, bűntudat, boldogtalan
+bűn: bűnösség, sajnos, elkövetni
+beteg: beteg, fájó, betegség, beteg, betegség
+becsületes: őszinte, hűséges, őszintén, őszinte, egyenes, tisztességtelen
+bank: pad, ón-
+erdő: dzsungel, erdészet
+intézkedés: nyomtáv, mérés, mérjünk, méter, méter
+folyam: folyam, kikötés, jelenlegi, elektromosság, fényáram, sugárhajtású
+gondosan: szorosan, óvatos, óvatos
+kenyér: süt, koca, szendvics, falat, Pán
+további: külön-, tartalék, ráadásul, többlet, többlet, további, kiegészítés, kiegészítő, hozzáad, függelék, kiegészítés, oldalsó, pótlék
+választ: választás, kiválasztás, választ, szelektív, csákány, választ, tárcsa, szavazás, vizsgálat, preferencia, kinevez
+állat: teremtmény, semleges
+zoicnem: 
+eventivehangulat: 
+multiplikatívügy: 
+szerez: nyereség, szerez, beszerzés, kap, kap, lelet, biztos, megőrzése, fenntartásához, származik, letölteni, van, véghezvisz, elérése, feleségülvesz
+kereszt: át, átkelés, elhalad, meghaladja, behatol
+vastag: elhízott, vastagon, sűrű, zsír
+nő: művel, emelkedik, növekedés
+eső: nedves, csapadék, zuhany, csapadék, nem, seprű
+csendesen: 
+felület: arc, szint, repülőgép, terület, szubsztrát
+szent: szentelt, dicső
+július: 
+divat: divatos, mód, módszer, megközelítés, eljárás
+jelentés: meghatározás, nyilatkozat, hányados, kapcsolat, kapcsolat, becsületes, kiállítás, esszé, exponálás
+akta: dokumentum, benyújtani, profil, archív
+váll: nyél, tengely, ábrázolás, fésű, kar
+királyi: császári, monarchia, királyság, Birodalom, igazi, tényleges
+dal: dallam, nyomonkövetni, éneklés, vers, énekel
+kényelem: nyugalom, kipihent, pihentető, bátorítás, kényelem, pihenés, megkönnyebbülés, létesítmény
+bárki: bárki, valaki, valaki, senki, mindenki, mindenki, bárki
+fű: széna, gyom, növény, gyep, gramm, szalma
+nyílás: előzetes, kezdeti, felfedezés, rés, rés, nyíltan, korai
+június: 
+hal: akvárium
+főváros: fejezet, alap, vagyontárgy
+mell: mellkas, tej
+oktatás: oktat, lecke, nevelési, műveltség, képződés, kiképzés, művelt, akadémiai, utasítás, tanít, tanítás
+éles: fényes, vad, szigorú, élesen, fűszeres, hegyes, akut, lelkes, ropogós, tisztán, ragyogás
+költség: díj, kiadás, költség, kiadás, teljesítmény, díj, tölt
+atiéd: ate
+millió: milliomos
+imádkozik: kérdez, ima, könyörög, kölcsön
+fáradt: fáradtság, fárasztó
+megöl: gyilkosság, gyilkolás, megszüntetése
+árnyék: árnyék
+tömeg: minőség, kollektív, Mennyiség, tömeg, többesszám, sok, dudor, fürt, csőcselék, bűncselekmény, guba, tészta
+alapított: felszerel, szilárd, határozottan, stabil, Teremtés, létrehozni, háruló, megalapítja, intézmény, képződés, beállít
+elégedett: elégedett, megelégedettség, megelégedés, boldog, teljesít, kielégítő, tartalom
+jelöljebe: jelöljebe, néz, óra, , választás, megvizsgálni, ellenőriz, vizsgálat, teszt, könyvvizsgálat, kijelentkezés, közbülső, felmérés, vizsgálja, meggyőződik, felülvizsgál, ellenőrzés
+erény: kedvesség, jóság, jóakarat, jellegzetes, tulajdonság, jellemvonás
+aranysárga: szőke
+nemzeti: nemzet, állampolgárság, etnikai, belföldi, nacionalista
+fő: első, kulcsszó, őrnagy, fő-, fő, vezető, legfontosabb
+völgy: mosdó
+Találdki: következtetés, gyanúsított, feltételez, becslés, becslés, jóslás, megjósolni, előrejelzés, spekulál, isteni, sejtés, várt, értékelés, értékeli, értékelje, közelítés, kiszámítható
+spekulatívhangulat: hipotetikushangulat
+sárga: sápadt, borostyán, szőke
+maradványok: maradvány, maradó, többi, maradék, pihenés
+hajlított: ívelt, hajlít, irányzat, sodrott, lejtő, ferde, összecsukható, észlelés, feltevés
+doboz: bőrönd, rajzoló, alap, készlet, tud, kartondoboz, kuka, pénztáros, négyzet, csempe, rács
+évad: évszaki, fejezet, állomás, korszak
+tudomány: tudományos, morfológia, nyelvészet
+látszólag: magátólértetődően, egyértelmű, nyilvánvaló, nyíltan, kifejezetten, állítólag, tisztán, nyilvánvaló
+furat: lyuk, fúró, unalmas, fúrás, szúr, bosszantani, fórum, unott, városnézési
+nagybácsi: néni
+lista: index, katalógus, katalógus, menü, nyilvántartás
+augusztus: 
+nyugodt: csendes, nyugodt, Békés, csendes, lassú, kipihent, nyugalom, enyhén
+népszerű: előfordulás, híres, kiemelkedo, népi, vezető, veterán
+ismeretlen: idegen
+ismerős: ismerős, leszármazás, leszármazott, használt
+ismerősnyilvántartás: 
+gyalogló: séta, futófelület, eljárni, túra, séta, gyalogos
+kétszer: kettős
+szellemi: elme, intelligencia, szellemi, intelligens, pszichiátriai, gondolkodó, bölcsesség, lelki
+pap: papság
+sebesült: sérült, seb, sért
+palota: 
+üt: vereség, puncs, csapás, kopogás, bevág, ritmus, leküzdése, sztrájk, bit, győzelem, győzelem, nyerő
+bolond: bolondos, trükk, becsap, csal, hülye, bolond, őrült, őrült, őrült, félrevezet, tudatlan, tudatlan
+kilenc: kilencedik, új
+együttérzés: együttérzés, átélés, kár, kegyelem, rokonszenvező, könyörületes
+robbanás: robbanás, robbanás, felrobban, repedt, bumm, görcs, bumm
+öltözött: ruha, köntös, egyenruha, ruhák, ruházat
+irodalom: irodalmi, anyag, felszerelés
+Gyűjtemény: koncentráció, felhalmozódás, készlet, csoport, kombináció, sor, Képtár, lakosztály, csomag, portfolió, szintézis, repertoár, következtetés, következtetéstlevonni, következtetés, gyűjt
+üres: üres, üres, dob, szabadidő, nulla, üresség, vákuum, hiú, csupasz
+vihar: hurrikán, tinó
+zseb-: táska, csomag
+mondat: ítélet, ítélet, javaslat, elv, javaslat, javaslat, büntetés, meggyőződés, kifejezés, elítél, felmondja, büntetés, büntet
+november: 
+december: 
+történik: előfordul, esemény, lenni, felmerülhet, mit, sem, se, megérkezik
+távollét: hiányzó, hiány, hiány
+köszönet: hála, hálás, Kösz, köszönette, ismernem, elismerik, elismerni, értékelni, könyvvizsgáló
+sorozat: lánc, húr, sor, sorrend, készlet, fordulat, hatótávolság, sor
+lakcim: lelet
+madár: repülési, repülőgép, sugárhajtású, repülőgép, repülőgép, légitársaság, bagoly
+kabát: köntös, borító, kabát, szőrme
+készít: kész, előkészített, szervez, készítmény, fogalmaz, szándékolt, hajlandó, mohó, nemhajlandó, kréta, felszerelni, generál, beállít, épít, teremt
+gyorsan: gyorsan, gyors, gyors, gyors
+füst: dohányzó, éget, elhalasztja
+január: 
+gép: gépezet, motor, repülőgép
+mozgó: mozog, mozgó, mozgat, mozgalom, mozgás, vándorol, ketyegés
+fogak: fog, felszerelés, ez, tetű
+szégyen: szégyen, megszégyenülve, félénk, zavart, kínos, zavar, csupasz, meztelen, sértés, merénylet
+agy: kiagyal, velő
+gyűrű: piti, tárcsa, becsavar, hurok, gumi, gumi
+kifejezésjelző: 
+megértés: megért, felfogás, érzék, fogás, átélés, tudás, érzékel, Bepillantás, észlelés, tudatosság
+gyümölcs: eredmény, következmény
+tea: sóvárog, autó, négyzetes
+magyarázza: magyarázat, szemléltet, Expressz, tagolt, Kijelentem, tisztázása, értelmez, megjegyzés, értelmezés, leírni, leíró
+Üdvözöljük: üdvözlet, vétel, szórakoztat, Hé, Szia, köszönt
+költészet: vers, vers, városi, órakor
+vétel: vásárlás, szerez, engedhetimegmagának, piac, üzlet, alacsonyáron, befektet, bevásárlás
+hűséges: tisztességtelen, hűséges, hűségesen, elkötelezett, helyes, megbízható
+izgalom: stimuláció, izgatott, fontoskodás, feszültség, provokál, öröm, ébredés, flush, lelkesedés, buzgóság, lelkes, sürgősség, szenzáció
+április: 
+október: 
+keserű: nehézség, gyötrelem, kín, keserűen, szenvedő, fájdalmas, fullánk, írott
+laza: független, lazán, elhatározás, megfejt, üres, önként
+szöveg: megfogalmazás
+legrosszabb: rossz, rosszabb, durva, kedvezőtlen, csúnya, ellenére, alegtöbb, legmagasabb, legalacsonyabb, szemét, szemét, szemét
+hitel: jelzálog, hitelkártya, adósság, kölcsönöz, kölcsön, hitel, presztízs, érvényesség, hitelesség
+jellemzők: alkatrészek, függvények, szempontok, funkció
+képes: engedélyezze, illetékes, képes, kapacitás, képesség, alkalmatlan, potenciális, engedhetimegmagának, szakképzett, tehetséges, jártasság, hatékonyság, alkalmasság, ügyes, hatékonyság, hasznos
+tizenöt: 
+kegyetlen: vad, kemény, barátságtalan
+csatlakozik: résztvenni, résztvesz, részt, csatlakozzanak, ragaszkodik, résztvevő, bevonása, egyesül, connect, újonc, integrálni
+bűn: bűnösség, bűncselekmény, sértés, bűnügyi
+por: gát, por, piszok
+gyakorlati: funkcionális, pragmatikus, gyakorlatilag, kényelmes, gyakorlatilag, ügyes, alkalmazott
+szín: szín, festék, festék, sápadt, színezett, színes, flush, utca, kódolás
+elpusztítani: roncs, aláássák, szabotázs, lebontják, lerombol, szétzúz, összetör, romos, zavarbahoz, törli, tagad, megsemmisítés
+növekedés: eljárni, fokozza, hegy, emel, hozzáad, helyezze, növekedés, nagyít, túra, boost
+orr: csőr
+barátságos: egyszínű, kedvező, egybehangzó, kedvesen, őszinte, szövetséges, barátság, fajta
+tegnap: holnap, Manapság
+hesternalfeszült: 
+nemsikerül: hiba, sikertelen, vereség, képtelen, zavarbahoz, csalódástokoz
+folytatódik: eljárni, folyamatos, kitartó, folytatás, állandóan, folytatódik, osztja, tart, tovább, connect, kezdődik, teljesít
+eltávolít: megszabadít, vissza, megszüntetése, megszüntetése, törlés, törli, töröl, megszüntet, levon, húz, Húzni, kiutasítja, elnyel
+viselet: visz, hordár
+vak: 
+légy: repülő, ugrás, repülési, repülés
+dicséret: csodálat, csodál, hírnév, érdem, gratulál, gratuláció
+misszió: 
+áldozat: áldozat, áldozat, sérülés, díj
+gyakorlat: munkaki, kijelölés, gyakorlat, gyakorlat, Sport, alkalmasság, próba, fúró, mozgalom, mozgás, kampány, atlétikai
+lelkiismeret: névmás, tudatosság
+elmélet: alapelv, teoretikus, elv, elméleti
+miniszter: 
+gyűlölet: csúnya, undorító, gyűlölet, ellenszenv, előítélet, ellenszenv, megsértődik, felháborodott, undor
+tó: puszta
+központ: központi, központ, állomás, központ, középső
+elájul: öntudatlan, kétségbeesés, kétségbeesett, gyenge, sápadt
+racionálisnem: 
+rövid: tömören, betűszó, rövid, hamarosan, kártya, kompakt, áttekintés, gazdasági
+imádat: szertartás
+áruk: termék, szállítmány, tétel, áru, árucikk, dolog, fuvar, sétálóutca, alkatrész
+bőr: bőr, abszorpció, ugat, héj, héj, szőrme, lelkesedés
+tető: terasz, mennyezet, fedő, lefedettség
+korona: 
+kastély: ketrec, zár, vezetéknév
+trón: 
+csatolt: részt, feltételes, csatolni, összefüggő, függő, munkatárs, pár
+mérföld: tendencia, lejtő, sovány, gradiens, hajlandó
+börtön: börtön
+alaposan: jól, kényelmes, megfelelően, simán, alapos, egészen, teljesen, teljesen, teljesen, meglehetősen, teljesen, teljesen, teljesen, tisztán, pontosan, pontosan, pontosan
+csésze: bögre
+tag: szerv, tagság, végtag, bennfentes
+civil: belföldi, polgár, polgári, polgári
+mindenhol: egész, valahol
+megfelelnek: végrehajtás, kivégez, érvényesítése, megfelelnek, kísér, találkozik, engedelmeskedik, tartalom, teljesít, ragaszkodik, tantárgy, teljesítés
+míg: míg, bár, azonban, habár, Mindazonáltal, mivel, ennekellenére
+kötet: sokkal, mértékben, összeg, viszonylag, mennyiségi, tömb, modul, tömeg, körméret, lefedettség, méret, kontinens, kikötés
+szokás: ügyfél, választható, kosztüm, gyakorlat, szokás, használtnaknek
+íj: boltív, ív, hagyma, ív
+hús: hús, marhahús
+növényinem: 
+ritka: ritkán, alig, ritkán
+unokatestvér: relatív
+híd: fokozat, fedélzet, láb, medence
+véd: védelem, Beszélgetés, őr, pajzs, megvédeni, megőrzése, fenntart, megőrzésére, biztos, védelem, védelem
+só: túlzott, túloz, sós, tengerész
+ártatlan: tiszta
+királynő: 
+tánc: dob, tánc, ugrás, Átugrani
+szálloda: szállás
+tölt: tartalom, tartalom
+Rab: elítélt
+lépcsők: lépcső, lépcsőfok, létra, rajzoló
+homoszexuális: homoszexuális
+homok: 
+erőszakos: erőszak, vad, turbulens, csodálatos, szigorú, erős, erős, élénk, vadul, intenzív
+szeptember: 
+ROM: megsemmisítés, felforgatás, kár, zsákmány, katasztrófa, roncs, roncs, lerombol
+marha: tehén
+felszerelés: berendezés, eszköz, irodaszer, készlet, felszerelés, felszerelés, felszerelés, létesítmény, alkatrész
+érzékelt: észlelés, tudatábanvan, érzékel, elismerik, elismerés, tudatosság
+bárhol: valahol, bárhol, sehol, máshol
+konyha: főzés, tűzhely
+elad: eladás, félig, eladó, elárul
+sebesség: sebesség, sebesség, lendület, élesen, dinamika, mozgás, gyorsul
+számítógép: számítástechnika
+örök: valaha, örökké, végtelen, állandó
+könyvtár: könyvtáros, könyvszekrény
+zavar: rendetlenség, káosz, fontoskodás, zavaró, zavaros, anarchia
+cikk: esszé, tétel, szakasz, kikötés, átmérő, mérnök
+főz: séf, főzés, süt, forral
+zenekar: öv, szalag, szalag, osztag, csoport, szalag, csík, zóna, part, csokor, fürt, sáv
+sivatag: vadon, elhagyatott
+csók: 
+jég: jégkrém, szalag, hó
+labda: gumi, gömb, golyó, erő, csecsemő, tabletta, üresség, kézbesítés
+bot: Készlet, nád, ragaszkodik, faipari, fűrészáru, denevér, dákó, személyzet, pólus
+érv: logika, mozog, vita, vita, vita, vita, traktus, kijelentés, kérdés, kérdések
+megfigyelni: ellenőriz, megvizsgálni, Fedezdfel, vizsgálja, megfigyelés
+áldáshangulat: 
+meglepő: kiemelkedő, lenyűgöző, sztrájk, tekintélyes, jelentős, lényeges, észrevehető, hatásos, meglepő, megdöbbentő, figyelemreméltó
+bűnös: bűnösség, tartozik, sért, szabálysértő, elítélt, elítél
+pisztoly: puska, fegyver
+rendőrség: érvényesítése, felügyel
+elrejt: kiválaszt, elrejt
+expedíció: kampány, hajtás, utazás, utazás, utazás, túra, kereszteshadjárat
+felhő: kibertér
+hulladék: hiábavaló, szükségtelen, megtagadja, elutasítás, elutasítás, szemét, szemét, szemét
+február: 
+betegség: betegség, betegség, koronária, kielégítő, kielégítő, szindróma
+kezdeményezésügy: 
+egyetemes: 
+birtok: jól, ültetvény, vagyontárgy, föld, ingatlan, tulajdonjog, szerencse, jólét
+alázatos: vereség, szerény
+késleltetés: elhalasztja, késő
+késleltetettparancsoló: 
+jelentettbizonyítékonalapuló: 
+szerencsétlen: sajnálatosmódon, szerencsétlen, véletlenegybeesés, boldogtalan, nyomorult, nemmegfelelő, nemösszeillő, alkalmatlan
+éjfél: északi
+hős: harcos, bajnok
+ujj: lábujj, számjegy
+nyomjameg: média, magazin, folyóirat, nyomtatás, típus, képlet, nyom
+jutalom: díj, ajándék, díj, pótlék, kártérítés, kompenzálni
+hibáztat: hiba, disszidál, hiba, adósság, bűnösség, pisze, vádemelés, felelősség, felelősség, vádol, állítják, elítél, felmondja
+szenvedés: nehézség, szenvedő, kín, nyomorult, unalom, szenvedni, bánat, irónia
+homlok: 
+hirdetés: hirdetés, hirdető, hirdet, hirdetés, közlemény, nyilvánosság, értesítés, nyilatkozat, naknek, mert, nyilatkozat, kijelentés, promóció, elősegítése
+angyal: földbirtokos, tündér, kemény, furfangos, hírnök
+hírnév: dicsőség, hírnév, szóbeszéd, szóbeszéd, hirdető, nyilvánosság, presztízs
+egyedülállószám: 
+hajnal: szürkület
+megbocsát: mentség, Bocsánat, elvisel, mentes, enyhít, utasítsa, megbocsátás
+juh: Bárány, kecske, összeg, pozitív
+felbontás: elhatározás, megoldás, döntés, következtetés, elemzés, bontás, szünetle-, meghatározás, hanyatlás
+türelem: bátorság, türelem, beteg, türelmetlen, toleráns, tolerancia, korlátozás
+referenciális: referencia, utal, adja, irányelv
+kukorica: búza, kürt, gabona
+kulcsfontosságú: kötvény, gomb, kapcsoló, fő-, létfontosságú, kiemelkedo, érzékeny, őrnagy, fülke, főáram, nyom, hogy
+többség: sok, alegtöbb
+tudatlanság: tudatlan, nevetséges, hülye, tudatlan, hüvelykujj
+gyengeség: képtelenség
+nyereség: előny, nyereség, haszon, életképes, győzelem, kedvezményezett
+harang: riasztás, óra, óra
+légkör: környezet, ég, repülés, térbeli, éghajlat, környéke
+emberiség: emberi
+korong: lemez, szelet, ellen-, henger, lemez, rekord, tálca
+magányos: egyedül, magányosság, külön, egyetlen, csupán, csendes, elhagyatott
+művész: előadó, festő, szórakoztató
+báj: karizmatikus, vonzerő, varázslat, varázslat, esztétika
+rabszolgaság: rabszolga, kötvény
+kormányzó: konzervatív, vonalzó
+ág: 
+diszpozíció: elrendezés, konfiguráció, tendencia, irányzat, ellátás, elrendezés, hangulat, menetrend, menetrend, rezidencia, rendeltetésihely
+szerencse: szerencse, sors, szerencsés, boldogság, véletlen, szerencsés
+származtatott: kap, kap, származik, letölteni, elérése, visszahoz
+induktívhangulat: következtetésihangulat, deduktívhangulat
+közösség: társadalom, kategória, emberek
+olaj: zsír, üzemanyag, kövület, velő, termikus, vaj
+cső: cső, csap, csap, tat
+nyomtatás: kiadás, nyomás, nyomtatás, tengely, öntőforma, benyomás
+ó: ya, sor
+társalgáskontextus: 
+vokativuszügy: 
+kabin: kunyhó, sátor, benyújtani, kamra, sejt, rekesz
+ideges: feszült, zavaros, zavar, ideges, zavart, zavaró, zaklat, nyugtalanító, ideg-, aggódó, ideg, erős, erős, intenzív
+megkülönböztetés: illetőleg, eltérően, variációk, sokféleség, különbözik, különbségettesz, rés, különbséget, különbség, kontraszt, variáció, variancia
+teher: érzékel, terhelés
+selyem: fogás, markolat
+megvetés: megvet, gyűlölet, ellenszenv, undor, undor, pisze, sértés, merénylet, gondatlanság
+pokol: 
+elválasztott: különálló, félre, egymástól, különböző, különbözik, külön, tartózkodó, diszkrét, szigetelés, ostracized, körülhatárolt, elválasztás, különbségettesz, izolál, elválasztás
+vegyes: keverék, kombináció, összetett, keverdössze, közös, magfúzió
+fa: faipari, fűrészáru
+élvezet: kezelés, terápia, gyógymód, folyamat, úgy, gyógyász, jogorvoslat, üzlet, gyógyít, viselkedik, támogatás, áll, állkapocs
+figyelmeztetés: Vigyázat, figyelmeztet, éber, emlékmű, értesítés
+figyelmeztetéshangulat: 
+becsvágy: csalódott, csalódás, vágy, elbátortalanít, becsvágyó
+hozam: hatékonyság, reprodukálni, jövedelem
+valahogy: némileg, valami
+Tanács: szaktanácsadó, célzás, tanácsotad, konzultáció, tanács, tipp, jogász, ügyvéd, ügyvéd
+alkotmány: alapszabály, alkotmányos, incidens, esemény
+hangszer: eszköz, hajó, egység, szerv, tartály, hasznosság, eszköz
+állandó: stabil, stabilizálása, szabályos, rendszeresen, rögzített, állandó, állandóan, folyamatos, fenntartható, standard, statikus, erősít, következetes, állandó, helyhezkötött, kipihent
+elemek: tényezők, elem, összetevő, hozzávaló, alkatrészek, lényeg, szövetséges, tényező, paraméter
+folyamatosvonatkozás: 
+online: 
+árapály: hullám, Snap
+főiskola: kar, akadémia, egyetem, egyetemi
+farok: sorbanáll, nyom
+generáció: leszármazott
+macska: 
+közvetlenbizonyítékonalapuló: 
+elhagyatott: elhanyagolás, szabadság, elhagyatott, kilép, elhagy, feloldja, törölni
+tizenegy: 
+ösztön: spontán
+törzs: törzs, szár, terhelés, hiány, hiányzó, hiány, hiány, hiány
+nyugtalanhangulat: 
+menedék: üdülőhely, rezidencia, település, élőhely, lakó, védelem, kollégium, menedékjog, kikötő
+durva: udvariatlanul, durva, barátságtalan, durva
+lovaglás: lovagol, lovas
+szakma: foglalkozási, karrier, foglalkozás, szakmai, szakmai, üzleti
+lámpa: gyertya
+kávé: kávézó, elegendő, kellően, megfelelő
+nővér: lánytestvér
+Biztosíthatom: biztosíték, parancs, fogadalom, garancia, biztosít, biztosít, meggyőződik, erősítse, biztosítani, ellát, Persze, meggyőz, megerősítik, biztos, palládium
+cipő: cipő, szandál
+legénység: személyzet, csorda, csapat, csokor, személyzet
+udvar: kód, oldal, udvarlás
+homályos: kétértelműség, homályos, kétértelmű, homályos, rejtélyes, bizonytalan, határozatlan, hullám, üres, értelmetlen
+lakás: lakás, kör, rekesz, lakosztály, vasútikocsi
+tevékenység: tranzakció, funkció, művelet
+szombat: hétvégi
+tartó: 
+napfény: nap-, fényvédő, ragyog, napfény
+özvegy: 
+közlés: kontakt, levelezés, beszédes, kommunikálni, interakció, egymásrahat, kapcsolat, viszonyul, kapcsolat, korreláció, fontosság, értesítés, közlemény, tranzakció, permet, foglalkozási, párbeszéd, felület, párbeszéd
+visszaverődés: elmélkedés, reflex, képzelet
+szervezet: szövet, szervezet, szervez, felszerelés, vállalat, hasznosság, ügynökség, egység, rendszer, szerkezet, struktúra, elrendezés, intézmény, intézet, Egyesület, cég, vállalkozás, légitársaság, szervezett
+csillag: 
+vendég: idegen, látogató, idegen, külföldi, újonc, ügyfél, vevő, házigazda
+bár: csupasz, kocsma, terhelés, szállítmány, fuvar, kávézó, bárium, szalag, kötszer, öv
+üveg: befőttesüveg, betegség
+áldja: áldás, köszönt
+kavar: manipulál, keverdössze, megidéz, lázadás, izgat
+veszekedés: variancia, vita, harc, pereskedés, érvel, nézeteltérés
+belső: belül, belül, belső, belső, helyi, belföldi, szobai, szellemi, bennfentes, fő-, őrnagy
+ellenállás: ellenzék, szembenálló, tiltakozás, ellenálló, elleni, megsértődik, ellenvetés
+üreges: egyszerű, csupasz, üres, kábel, lyuk
+tartomány: vidéki, kerület, megye, zsír
+civilizáció: kultúra
+lejtés: felügyel
+sokk: fúj, sérülés, megdöbbentő, összecsapás, hatás, megszédít
+kivétel: részleges, megkülönböztetés, sztereotípia, felmentés, összeütközés, kiemelkedő, mentes, levonás
+törzs: feszültség, feszültség, terhelés, fáradtság, erőfeszítés, intenzitás, ölelés, faji, etnikai
+vezetés: hajtás, gépkocsivezető, útmutató, lovagol
+esküszik: káromkodás, fogadalom
+kincs: ékszer
+mag: sperma, dió, részecske, úr
+torony: 
+kedvenc: kedvenc
+mostanában: új, frissen, újonnan, Manapság, utána
+ébren: tudatos, hangulat, ébred, éber, izgat
+bútor: 
+kötél: zsinór, húr, szíj, köt
+kaland: vállalkozás, veszély, szerencsejáték
+jogdíj: uralkodik
+ünnep: fél, ünneplés, bankett, szabadság, vacsora
+évi: év, évente
+skála: keret, keretrendszer, nyomtáv, hányados, létra, lépcső, lépcsőfok, méret, kritérium, dimenzió, szint, mértékben, arányos
+következésképpen: következmény, ebbőladódóan
+Alapítvány: bázis, bázis, székhelyű, alapvető, elsődleges, alapvető, mag, alapvető, sekély, egyetemi, terület, emelvény, alapok, alapvetően, hátterében
+szertartás: szertartás, funkció, ünneplés, koncert, képlet, tudatosság
+vadászat: vadászat, áldozat, áldozat, üldözés, lövés
+liberális: nagylelkű, önként
+nagymértékben: lényegesen, jelentősmértékben, alegtöbb, főként, többnyire, nagymértékben, széleskörben, Főleg, eredetileg, lényegében, alapvetően, egyreinkább
+hercegnő: lánya, menyasszony
+oltár: szentély
+háló: hálózat, nettó, rács, szövet, vászon, kötés
+lila: bíborvörös
+gyűjt: gyűjt, felhalmozódik, összezsugorodik, tárcsa, maradék
+választás: választás, választ, nyom, közvéleménykutatás, bálna, kiválasztás, szelektív
+részeg: alkoholfüggő, részegség
+önt: ledönt, fészer, bukás, megbuktat
+emel: lift, felemel, felemel, emel, túra
+gesztus: jel, jel, szimbólum, szimbolikus, hozzáállás, testtartás, célzás, jelzés
+kezel: vezetés, felügyel, fogantyú, adminisztráció, szabályozzák, tinó, ellenőrzés, működik, lenne, intéz, szervez, Beállítás, teljesít, fenntart
+csere: csere, kölcsönös, cserél, csere, kommutatív, valuta, pénzügyi, váltakozó, transzplantáció
+határozottcikk: 
+császár: uralkodó
+Befejez: befejezett, befejező, vég, vakolat, felett, dekoráció, következtetés
+csúnya: csúnya, undorító, vidám, élvezetes, szórakoztató
+valódi: igaz, igazi, tényleges, tényleges, pontos, eredeti, anyanyelvi, veleszületett, bennszülött, bizonyos, magabiztos, oszlop, őszinte
+hüvelyk: vám, hüvelykujj
+szakáll: áll
+könny: megragad, erózió
+ellenáll: elleni, ellenzék, kontraszt, tiltakozás, ellentétes, engedélyezi, szakítsa, szembenálló, megtagadja, elutasít, ellentétes, tárgy, elviselni, ellenségeskedés, ellentmondás
+kereskedő: kereskedő, üzletember, áru
+függetlenség: független, szabadság, önként, szabadság, autonómia, felszabadulás
+szag: parfüm, aroma, aroma
+tizennyolc: 
+történelmi: történelmileg, történelem, történész, történelmi
+bruttó: teljes, adalékanyag, piszkos, nyers, nyers, ébredés, makró, mohó, szigorú, erős, pont, átfogó
+gyökér: szár, frissen, útvonal, eredeti, eredet
+sár: talaj, iszap, agyag, piszok, virág
+egyszerűség: egyszerű, alázatosság
+fátyol: függöny, vitorla, vitorlázás, képernyő, membrán
+színház: színház
+összehasonlítás: összehasonlítani, összehasonlító, korreláció, hányados, szembesítés, hasonló
+összetétel: összetevő, szerkezet, képződés, építés, alkotják, épít, szervez, konfiguráció, Beállítás
+vetélytárs: ellenfél, szakadár, verseny, versenyképes, versenyez, versenyző, ellen-, ellentmondó, elleni
+észre: elérése, elismerik, elismerés, azonosítani, diagnosztizál, tudatában, kivégez, érez, érzékel, megért, fogás, véghezvisz, memorizál
+egyensúly: egyensúlyi, egyaránt, egyenlőség, vízszintes, arányos, par, költségvetés
+edző: edző, gyakorlóorvos, Oktató, tanácsadó
+humor: humor, tréfás, hangulat, komédia, tréfa
+regény: kitalálás, új, újonnan
+bosszú: ellenszenv
+erőforrások: vagyontárgy, forrás, forrás, eszközök, kínálat
+irigy: féltékenység, irigység
+kerék: bicikli, kör, ciklus
+megégett: éget
+vaku: villám, világít, ragyog, zseblámpa
+javasol: javaslat, ajánlást, javasol, ajánl, javaslat, kinevez, magautánvon, visszajelzés, jelez, javaslat
+átkozódóhangulat: 
+tehetetlen: 
+csoportok: csoport, fedélzet
+klub: denevér
+árvíz: elborít
+élvezet: élvez, öröm, öröm, élvezet, boldogság, boldog, elégedett, elragadtatva, éljenzés
+közöny: fásultság, gondatlan, elhanyagolás, figyelmenkívülhagyni, átnéz
+horizont: 
+feltevésszerűhangulat: hipotetikushangulat
+meredek: magasság, merőleges, sokkal
+harmónia: kompromisszum, dallam
+gyermekkor: 
+térd: öl
+kölcsönös: mindenegyesmás, kölcsönös, közös, közös, interakció, interaktív
+szoftver: alkalmazás, repertoár
+sérülés: sért, sérelem, kár, megsebesít, seb, sérülés, sérült, megsértése
+nyugta: kap, bejárat, vétel, belépés, elfogadás, utalvány
+fegyelem: tantárgy
+csúszás: csúszós, csúszik, siklik, tapintatlanság
+forradalom: forradalmi, puccs, forgás, lázadás, lázadó
+földműves: paraszt
+ütés: fúj, puccs, rohanás, tülekedés
+kiváltság: kiváltságos, preferencia, kvóta, választójog, ajánlat, koncesszió
+diák: tanítvány, tudós, egyetemi, akadémiai
+barlang: 
+hagyomány: hagyományos, hagyományosan, vám, megadás
+tragédia: járvány, szomorúság, paradoxon
+fogadó: kocsma
+szűz-: szobalány
+búcsú: viszontlátásra, Viszlát, Viszlát
+kritika: kritizál, kritika, felülvizsgálat
+pamut-: gyapjú
+kórház: menedékjog
+bérlés: viteldíj, bérel, adó, tisztelgés, bérlet, foglalkoztat, részt, bérelt, alapszabály
+gáz: 
+elkerülhetetlen: elkerülhetetlenül
+halálos: létfontosságú
+levélnövényen: lap, penge
+kiadvány: közzétesz, kiadás, nyomtatás, hirdetik, adás, kiadás, teljesítmény, diffúzió, bejelent
+fordítás: fordít, fordít, értelmezés, járvány, átruházás, változat
+strand: part, tengerpart
+temetés: temetés, temető, eltemet
+Liszt: por, guba, pontos, pontos, pontos, étkezés
+ordít: drámai, kiáltás, zaj
+romantikus: derék, csípő
+kunyhó: kunyhó, benyújtani, fészer
+utánzó: 
+dollár: 
+tizenhat: hatvan
+gyülekezés: találkozó, konferencia, Kongresszus, konfiguráció, gyülekezik
+kolónia: 
+szárny: kórterem, lakosztály, végtag, uszony, repülési, repülés
+oroszlán: 
+ravasz: furfangos, trükk, ügyes, okos, diplomáciai
+dráma: színlel, drámai
+köd: köd
+hipertext: hyperlink
+gyógyszer: drog, jogorvoslat, permet, recept
+tizennégy: nélkül, kizárólagos, szinusz
+sav: savanyú, savas, hegy, hegy
+ugyanis: bármilyen, azaz
+használó: kedvezményezett, fogyasztó
+püspök: 
+narancs: 
+fürdőkád: fürdőszoba, zuhany, fürdőkád
+derivált: összetett, átírás, származik
+primitív: korai, kezdeti, ősi
+kosár: kuka, táska, kosárlabda
+titkár: szerkesztő
+megváltás: biztonság, felszabadulás, Szia, mentés, felépülés, visszahoz
+Ma: 
+maifeszült: 
+szándékozik: szándékolt, szándék, érdekelt, lelkes, indíték, nemhajlandó, szán, szán, meghatározás
+gőz: 
+méreg: mérgező, mérgező, gyomirtó, poisson
+tehetség: ragyogás, tehetséges, képesítés, képesség, repertoár
+hatékony: érvényes, hatékonyan, hatékony, hatékonyság, befolyásos, hasznos, aktív, elérhető, hatásos
+mosás: mosás
+gyónás: elismerik, hitvallás, elismerés, belépés, követelés
+ostobaság: szemét, ésszerűtlen, nemösszeillő
+szén: szén
+helyettes: asszociációs, Viszlát, helyettes
+ideiglenes: intervallum, időtartama, időbeli, alkalmi, véletlen, időzítő, míg, kortárs
+delimitativevonatkozás: 
+csont: láb, törés, csontváz
+hétfő: 
+kedd: harmadik
+szerda: negyedik
+szövetségi: államszövetség, központi
+kívánatos: vonzó, kedvező
+reprezentatív: képvisel, nevében, delegált, ügyvéd, helyettes, szóvivője
+vászon: fehérnemű
+mosogató: megfullad, mosdó, cink-, szinkronizál
+unokaöcs: unokahúg, unokája, unoka
+ostrom: körülvesz, ülés
+gyomor: has, hasi, mátrix
+csúcstalálkozó: csúcs, felső, tipp, egyezmény, gerinc
+kizárólagosszemély: 
+megragadja: felszerelés, korlátoznia, visszatart, foglalás, megragad, megszállt, elfoglalják, lefoglal, Megragad, fogás, érzékel, kap, érvényesíteni, birtoklás
+kerítés: sövény
+szobor: szobor
+luxus: 
+tüzérségi: borotválkozás
+letartóztatás: fogás, elfog, visszatart, rögzít, Állj, fogamzás
+csomag: parcella, csomag, csomag, betakar, csomag, zárva, becsuk, csomagolás, csomagolás
+környező: körül, szomszédság, szomszéd, szomszéd, szomszédság, kerületi, környéke, szomszédos, átfogó, környezet, környezeti
+pontosan: szigorú, összefüggő, pontosan, szoros, szigorú, biztosan, teljesen, egyértelműen, szorosan, durva, Persze, pontosan, pontosan
+maradék: pihenés, többi, eltelt, maradék
+szarvas: 
+bokor: 
+vasút: vasúti, vasút
+kirakodás: felszabadulás, kirakodik, kiadás, abbahagy, kiutasítja, kibocsát
+örökös: örököl, birtokol
+tölgy: 
+kellemetlen: élvezet, kellemes, kényelmetlen, bosszús, nyugtalanító, csúnya, kényelmetlen
+zongora: 
+meggyőzni: meggyőz, ünnepel, megemlékezik
+láthatatlan: rejtélyes, eltűnik
+jólismert: híres, hírhedt, kiemelkedo
+kegyetlenség: 
+kísértés: csábít
+telikusvonatkozás: 
+nemzetközi: globális, többnemzetiségű
+zavarja: interferencia, beavatkozás, beavatkozni, zavar, zavar, zavaró, szakítsa, bosszantani, idegesít, zaklat, összecsapás, bosszantó, enged, zavarás
+apró: mikro, trükk, hajó, finom, sima, apróra, finom, vékony, diszkrét, kedves
+filozófus: filozófiai
+elegáns: divatos, finom, csodálatos, kiváló, figyelemreméltó, dicső, hihetetlen, fantasztikus, hangsúlyos, rendkívüli
+jólét: jóakarat, jólét, ellátás
+halászat: 
+lop: lopás, rabol, rablás, elcsór, plagizál, rosszulkezel
+ajak: csőr, orális, küszöbén
+visszavonul: nyugdíjazás, nyugdíjas, nyugdíjas, visszavonulás, pihenés, szabadidő, vissza, nyugdíj
+gazdaság: gazdasági, gazdaságosan, közgazdaságtan, recesszió, megtakarítás, háztartás, közgazdász
+kitágít: kiegyenesedik, kiterjesztése, traktus, jellemvonás, darab, áthaladás, töredék, nagydarab, szegmens, arány
+párhuzamos: mellett, összeegyeztethető, munkatárs, elhelyezi, vízszintes
+atelicvonatkozás: 
+tiltóhangulat: tiltóhangulat
+nyakkendő: sas
+tojás: 
+mesterséges: szintetikus
+ihlet: indíték, motiváció, impulzus, inspirál, ötletelés, bátorítás, indukció, stimuláció, inger, motivál
+közben: egyidejűleg
+válság: veszély, pangás, ítélet, ítélet, vészhelyzet
+udvarias: udvariasság, művelt, etikai
+fóka: bélyeg, nyomtatás, benyomás
+ebéd: reggeli, vacsora, tanya, étkezés, étkezik
+annakellenére: ellenére, bár, habár
+tájkép: forgatókönyv, környéke, környezet, kontextus, környezeti, vidékitáj, természetes, Kilátás, látomás, kilátás, kilátás
+művészeti: művészet, artwork
+szövetség: unió, liga, koalíció, kombájn, társaság, csillagkép
+maximális: maximalizálása, szélső, végső, alegtöbb, mint, felett, meghaladja
+csoda: csoda
+réz: bronz
+tisztaság: tisztaság, pontosság, pontosság
+köztársaság: demokrácia
+telefon: telefon, mozgó
+ostor: szíj
+ing: ting
+bevezet: bevezetés, bemutatás, létrehozni, beavatott, render, ellátás, ajánl, áttétel, injekciót, szállít, kézbesítés, ábrázol, ábrázol, kontakt, helyezze
+szófa: fotel
+söprés: törlés, letapogatás
+tolvaj: 
+csatorna: csatorna
+reform: javulás, javítás, evolúció, módosítására, módosítás, finomítani, felülvizsgálat, frissítés
+szomjúság: szomjas
+fenyegető: fenyegetés, fenyeget, ijesztő
+tenyér: 
+ösztönzése: bátorítás, inspirál, hajtás, nyom, elősegítése, ösztönző, sürgesse, éljenzés
+hangszóró: szóvivője, előadó
+küszöb: bejárat, belépés
+indukál: előcsarnok, sürgesse, ok, figyelmeztet, izgat, póz, csábít, megidéz, áztatás, származik, indukció, elhelyezi
+tiszta: takaros, tiszta, jó, csodálatos, díszes, szépen, szépen
+ülés: találkozó, konferencia, szemeszter
+kínvallatás: szenvedő, kín, erőszak, állvány, tanácsadó
+nyirkos: piszok, nedves, fülledt
+utazó: látogató, utazó, turista, utas, utazás, utazási
+malom: gyár, gyártás, növény, csap, sörfőzde, búza
+térkép: kártya, diagram, grafikon, viteldíj, jegy, szimbólum, ikon, vezetés
+szökőkút: forrás, vízesés, töredék
+gallér: körülvesz, zóna
+cserélni: csere, elmozdít, tartalék, alternatív, helyettes, helyettesítés, elmozdulás, változtat, változik, módosítására, alatti, módosít, kapcsoló, enyhít, alkalmazkodni, kompenzálni
+szándékosan: szándékos, szándékos, tudatábanvan, tudatos, szándékos, véletlen
+sör: pint
+bársony: 
+pozitívan: pozitív, aktívan, kedvez, kedvez, teljesen, teljesen
+súly: vonzerő, szétzúz, Komolyan
+szentbeszéd: prédikál, társalgás, előadás
+partner: fickó, munkatárs, barátnő, fiúbarát, pár, társ, közös, közös, részvényes, kolléga, házastárs
+visszaélés: téves, helytelenül, átkozott
+nyáj: csoport, csorda, raj, iparmágnás
+tizenhárom: harminc
+indokol: parancs, hivatkozhat, ügyvéd, indokolás, indokolt, jogos, beállítani
+kézirat: számla, forgatókönyv, felperes
+péntek: ezüst, Vénusz
+kefe: fésű
+letöltés: feltölt
+krém: jégkrém
+szörnyeteg: óriás, szörnyű
+fagyott: fagy
+edény: Pán, váza, befőttesüveg, tartály, tűzhely, pat, hajó
+rizs: 
+viselkedés: viselkedés, viselkedési, jellem, szokás, jellegzetes, tendencia, magatartás
+érme: valuta, penny
+jövedelem: jövedelem
+ragaszkodnak: hangos, tolóerő, érvényesíteni, aláhúzás, hangsúlyozzák, folytatódik, ragaszkodás, kíván, hangsúly, vontatás, Hangsúlyozta, érvel, állítják
+Ugrás: 
+alma: bocsánatkérés, bocsánatotkér
+megvitatása: vita, tárgyal, érvel, hash, beszélgetés
+háttér: 
+lemásol: alkalmazkodni, átír, szimulálni
+szórakozás: pihenés, szórakoztató, szabadidő, szórakoztató, szórakoztat, móka, hobby, kikapcsolódás, szórakoztat, vendégszeretet
+vírus: 
+gyerekes: szoprán
+palást: ruha, ruha, köntös, egyenruha, felszerelés, ruhásszekrény
+tükrözi: elmélkedés, elmélkedés, elmélkedik, felfedi, vetítés, ábrázol
+megtérít: változtat, átalakít, kapcsoló, mutáció, átmenet, átalakítás
+vázlat: profil, körvonal, összefoglalás, vázlat, tegye, áttekintés, vázlat
+opera: 
+könyök: zárójel
+mellékletet: függelék, kapcsolat, tapasz, link, csatlakozó
+javítás: felújítás, javulás, rekonstruál, javítás, módosítására, módosítás
+ököl: puncs, markolat
+gyanús: gyanú, gyanúsított
+szentírás: Biblia, betűtípussal, forgatókönyv
+gödör: lyuk, kiásás, medence, árok, bór
+rendetlenség: káosz, anarchia, nyugtalanság, zavarás, rendetlenség, nyugtalanító, interferencia, hiba, akadály
+taps: taps, tapsol, jóváhagyás
+kétkomponensű: diadikus
+apátság: kolostor
+nyíl: 
+hajlamosak: felelős, általában, normálisesetben, irányultság, bőven, áll, megvédeni, irányzat
+bonyolult: részletes, meghatározzák, tisztázása, fejleszt, bonyolult, furfangos, munkaki
+hűség: elkötelezett, hűséges, bizalom, hűségesen, őszintén, bizalmatlanság, hitelesség, hit, hit
+remeg: reszket, rezgés
+száműzetés: lő, külföldön, menedékjog
+mechanikai: gépezet, szerelő, mechanika, mérnök
+sikeresen: szépen, sikerül, sikertelen, eredmény
+csapda: markolat, elítélt
+torta: cukrászsütemény, pite, aprósütemény, guba
+úr: úr, uram, lord, úriember
+tétovázik: habozás, kopogás, tanya, frekvencia, lebeg
+tizenhét: 
+nőies: nőies, női, hölgy, finom
+édesem: 
+tét: fogadás, arány, halom, Osszameg, töredék, hozzájárulás, szerencsejáték, részvényes
+tégla: csempe
+legenda: mítosz
+aratás: termés, növények
+tűzhely: tűzhely, lap, sütő, kandalló
+lázadó: lázadás, lázadó, puccs
+régivágású: ősi
+dagad: felfúj, duzzadt, infláció, duzzanat, nagyít
+javul: emel, fokozza, erősít, jogorvoslat, gyógymód, gyógyít, javulás, hozzáad, hozzáad, kering
+tál: 
+bámul: erősít, bámulás
+ipari: gyártás, iparosítás, ipar
+öltözködés: szósz, kötszer
+téma: téma, motívum, tantárgy, probléma, indíték
+aszkéta: 
+menedzser: utaskísérő, fő, főnök, adminisztrátor, igazgató, moderátor, vezető, végrehajtó
+ellenállás: húz, Húzni, táv, vissza, visszavonja, olló, vontatás, rajzoló, drog
+énekkar: hajtás
+racionális: indokolt, logika, logikus, ésszerűtlen, érzékeny, ésszerűen, ésszerű, látszólagos
+feldolgozás: szerkesztés, feldolgozó, folyamat, folyamatok, eljárás
+farkas: 
+szőnyeg: szőnyeg
+antikvitás: ősi, korszak
+termékeny: Fourier
+síp: fuvola
+sajt: 
+harapás: szelet, farag, fullánk, falat, korty, sérelem, megfosztás
+katedrális: 
+vándorol: séta, vándorol, túra, indulnak, torzítás
+haditengerészet: tengeri, flotta
+maszk: homlokzat, féreg
+ceruza: toll
+növényi: vegetáriánus
+nadrág: nadrágos, nadrág
+vesztegetés: botrány, környezetszennyezés
+szekrény: szekrény, fülke, ruhásszekrény, WC
+leves: 
+sebész: sebészet, sebészeti, művelet, elemző
+juttatás: csere, helyettes, kártérítés, értelmezőjelző, kiosztás, függelék
+kém: érzékel
+meggondolatlan: gondatlan, rendetlen, gondatlanság, ésszerűtlen
+pletyka: szóbeszéd, szóbeszéd, csevegés
+rendszerek: rendszer
+jelképes: 
+absztrakt: összefoglalás, tanmenet
+hangsúly: kimondani, kiejtés, nyelvjárás, hangsúly
+Tisztelettel: őszintén, Komolyan, őszinte, hűségesen
+jóváhagy: elfogadja, engedélyez, jóváhagyó, erősítse, megerősítik, beleegyezés, jóváhagyás, jóváhagy, elfogad, biztosít, kedvező, szankció
+építészet: szerkezet, építés, struktúra
+repedés: hasadék, repedt, indulnak, kilép, törés
+járda: járdaszegély, hangmagasság, iszap, járda, sétány, csomagolás
+döntő: kritikus, létfontosságú, meghatározása, döntsdel, tolakodó, rendelni, adja, végső, kritikai, puccs
+negatív: kedvezőtlen, tagadás, tagadás, tagad
+fesztivál: koncert, vízkereszt, ünneplés
+árulás: 
+vadász: ragadozó
+kígyó: hüllő
+akkumulátor: 
+nyomozó: levonás, nyomozó
+úszás: úszás
+boríték: körülmény, határozószó
+cigaretta: dohányzó, gyom
+motor: autó, motor, indíték, motorkerékpár, motorbicikli
+önkéntes: szán, önkéntes, adomány
+reakció: visszaható, válasz, reagál, reagál, visszajelzés, exponálás, reaktor
+poggyász: poggyász, fuvar, törzs, bőrönd, logisztikai
+süket: 
+gyümölcslé: kivonat
+szexuális: szex, nemiség
+gyémánt: drágakő
+visszhang: 
+identitás: azonosítani, azonosítás, szimbolikus, ismerős, azonosítható, elismerés
+nagykövet: hírnök, diplomata, anyagcsere
+lusta: rothadt
+momentanevonatkozás: 
+sodródás: művelet, elhajlás, tendencia, irányzat, folyam, állás
+képzeletbeli: díszes, Képzeldel, képzelet, kitalálás, fantázia, szubjektív
+sugár: gerenda, folyosó, sugár, alap
+mászó: emelkedik, növény, koca, emelkedés, kúszás
+tinta: toner
+emlékezetes: kiemelkedo
+zajos: zaj, kiáltás, hangos, hangosan
+szenátus: parlament
+szállítás: szállítás, szállítás, táv, forgalom, űrsikló, átruházás, metafora, hővezetés
+koporsó: traktus
+nyelés: korty, sok
+elkényeztet: folytat, teljesít, bele, beágyaz, telepíteni
+mezőgazdasági: mezőgazdaság, mezőgazdasági, Farm
+hinta: 
+rét: legelő, elő, gyep
+összetett: bonyolult, bonyolít, kifinomult, összetett, furfangos
+lemondás: lemond, nyugdíjazás, visszafelé, visszavonulás, kilép
+alázatosnyilvántartás: 
+bors: 
+póniló: 
+jelölt: pályázó, leendő, újonc
+róka: 
+kémény: kandalló, kazal
+igazságszolgáltatás: hatóság, ítélet, ítélet, alkalmasság
+előzőelhunyt: 
+demokratikus: demokrácia
+takaró: mennyezet, borító, szőnyeg, lefedettség
+malac: koca
+elefántcsont: elefánt
+öngyújtó: író
+megfigyelő: felügyelő, látogató, ellenőr
+körmök: köröm, karom
+méh: 
+színész: színésznő, előadó, felperes
+izzad: öltés
+lengyel: nyelvjárás, ragyog
+illúzió: csalás
+bizonytalanság: bizonytalan, kétértelműség
+másodlagos: kisebb
+vidéki: vidéki, vidékitáj, falusi
+keringés: hurok, kerékpározás, ciklikus, előfordulás, diffúzió, kör, ciklus, frekvencia, forgás, forog, forgalom, városnézési, hővezetés
+nyögés: 
+hasonlít: hasonló, hasonlóság, emlékeztet, megfelelő, mint
+idézet: kivonat, idézet, idézőjeletbezár, kölcsönöz, kölcsön, hitel, referencia, becslés, idéz
+zsák: utasítsa, elbocsátás, táska
+bosszúság: zavarás, interferencia, félbeszakítás, nehézség, unalom, zavar, zaj, zavaró
+tű: injekció, tű, mutató
+ellenőrzött: ellenőrzés
+akadály: korlátozás, kényszer, korlátozott, tilalom, tiltják, akadály, tömb, félbeszakítás, hátrány, zavar
+támaszkodni: számol, számol, függ, bizalom, biztosíték, bizalom, függő, függőség
+csirke: tyúk
+hordó: vödör
+szokásosvonatkozás: 
+szakértő: szakember, tapasztalt, különleges, különleges, szakosít
+hatni: érint, benyomás, vonz, nyűgözve
+kisteherautó: szelep
+bólint: szieszta
+meghatározás: kommentár, azonosítás, leírás, meghatározás, másodlagosjelentés, igazságszolgáltatás
+születésnap: évforduló
+kalapács: 
+illatos: parfüm
+jelentéktelen: piti, jelentéktelen, enyhe, marginális
+ás: kiás, fúró, kiásás
+házikedvenc: lényeg, Foster
+koponya: 
+törvényhozás: parlament, törvényhozás, törvényhozó
+sarok: ugrás, boka
+homlokátráncolja: 
+szabadalom: engedély, engedély
+milliárd: 
+kémiai: kémia, vegyszerek, vegyész, kemoterápiáskezelés
+impulzus: impulzus, csukló, lendület, csipke
+pilóta: kísérlet, kísérleti, gépkocsivezető
+csomó: dudor, csomópont, tart, szerződés, következtetéstlevonni, évtized, kötött, csomópont, nyers, nyers, előítélet
+szoknya: szikla
+depresszió: recesszió, pangás, bánat, bánat, szomorúság, nyomott, feszültség
+műszaki: technika, technológia, technikailag, tech, fejlett
+jármű: hajtás, autó, kocsi, eszközök, autó
+hatálya: bővítések, domain, birodalom, hatótávolság, elér, mértékben
+növényzet: növény
+napfelkelte: 
+hozzájárul: hozzájárulás, adományoz, társaság
+horog: viszonyul, connect, korreláció, zárójel
+tigris: 
+ujj: kar, kiskereskedelem
+országút: út
+milícia: 
+sértetlenség: koncentráció
+átlátszó: átláthatóság, egyértelmű, tisztán, nyilvánvaló, nyilvánvaló, magátólértetődően, homályos, kifejezett, egyenes
+tizenkilenc: 
+számolás: számol, adalékanyag, számítás, számítás
+képzett: választható, képesítés, képes, érdem, megérdemel, jogosultak, szakképzett, illetékes, érvényes, alkalmasság
+organikus: kövület, alapvető
+teológia: 
+úszó: hajó, lebeg, flotta
+boszorkány: 
+stúdió: címke, Műhely, tanulmány
+pezsgő: 
+transzparens: zászló, poszter, jegy
+válás: elvált
+csavar: villám, köröm, csavar, csavar
+ér: ideg
+passzív: közönség, Tiltva
+kavics: adalékanyag
+bolygó: elsődleges, csillagkép
+polc: állvány, szekrény
+ventilátor: 
+tropikus: szenvedélyes
+fázis: fényképészeti, szakasz, időszak, épít, lépés
+önkényes: spontán, választható, szerződés, egyetértés, ellenőrizetlen
+eksztázis: révület, lelkesedés, öröm, boldogság
+higany: hőmérséklet
+öngyilkosság: 
+riporter: újságíró
+megfoszt: megfosztás, visszavonja, kizár, levon, tagad, rabol
+erkély: terasz, tetőtér
+Villa: népi
+munkavállaló: munkás, munkás, dolgozó, tényező, függő, hivatalnok, személyzet, munkaerő, munkaerő, személyzet
+munkáltató: főnök, fogadós, tulajdonos
+szélesség: széleskörben, kínálat, széles, félig
+lángoló: 
+irritált: bosszús, izgatott, idegesít, provokál, stimuláció, unott, inger, ösztönöz, ösztönző, motiváció
+klasszikus: klasszikus, optimális
+majom: csimpánz
+elfogadható: elfogad, elfogadás, valószínű
+aláírás: 
+énekes: olvasó
+ortodox: konzervatív, hagyományos, hagyományos
+óvoda: ültetvény
+örökbefogadás: foglalkoztat, elfogadja, elfogadás, feltevés, jóváhagyás, fél, vétel, belépés, öl, kvantum
+idegenkedés: habozás, ellenszenv
+import: bevezetés, jövedelem
+fáklya: 
+nyelvtan: nyelvtani
+letét: felhalmozódik
+gyarmati: bevándorló
+jacht: komp, hajó
+megijeszt: megijeszt, megijeszt, elrettent, riasztás, riasztónak, tanya
+következményes: következmény, epizód, fontos, tekintélyes, vezető, kiemelkedo, jelentősen, jelentős, lényeges, jelentőségteljes, közvetett
+kihalt: hiányzó, eltűnik, halott
+kupola: 
+vastagság: 
+makacs: tolakodó
+izom: 
+nagyság: méret, tömeg, amplitúdó, nyomtáv, Mennyiség, intenzitás
+dörzsölés: 
+pirítós: falatozás
+egér: patkány
+szótag: betűtípussal, ábécé
+semleges: semleges, becsületes, világi
+felismerni: értékeli, azonosítás, elismerik, azonosítani, érzékelés, elhelyez, visszahoz, lelet
+fejlődik: jólét, boldogulni, bumm, ékszer, drágakő, virág
+ró: erő, érvényesítése, meghatározása
+névtelen: 
+hivatalosnyilvántartás: 
+borjú: siet
+kézikönyv: útmutató, tervrajz, irányelv, füzet, márka, vezetés, tankönyv, utasítás, vezető, felügyelő, dokumentum, dokumentáció, művelet, gyártás
+előérzet: várt, leendő, elvár, várakozás, számít, jóslás, megjósolni, előrejelzés, ellátás
+olvad: párolog, olvadás, magfúzió, egyesül, oldódó
+esernyő: ejtőernyő, gombaféle
+csomagtartó: cipő, törzs
+ásványi: jód, tápláló, fém, mangán
+fegyverszünet: tűzszünet
+kacsa: 
+szappan: 
+baba: baba, játék
+villa: tündér, benyújtani
+varrás: öltés, varr
+összeegyeztetni: közvetít, egyesül, egységesítése, beállítani, beállítás
+vízforraló: 
+nyúl: 
+karmester: létra, felügyelő, gépkocsivezető, vezető
+játékos: előadó
+rovar: kártevő, féreg, bogár
+étterem: 
+radikális: harcos, szélsőséges, haladó, forradalmi, szélső, egész, egész, teljes, abszolút, integrálni
+lakó: lakos, anyanyelvi, belföldi, bennszülött, bérlő, lakó
+sárkány: sárkány
+hallásibizonyítékonalapuló: 
+habozik: meghosszabbított
+fedő: borító, sapka, fedélzet, szelep
+polgármester: piac
+hardver: anyag
+kreatív: 
+kisebbség: kevés, decimális
+árok: árok, kiásás
+zenekar: 
+szalonna: 
+vád: vádemelés, ügy, öltöny, pereskedés, törekvés, követelés, felperes
+hátrány: veszteség, megfosztás, kedvezőtlen, hiba, hátrány, nehézség
+szövet: szövet, ruházat, törülköző, vászon, szövet, megkönnyebbülés, szerkezet
+zenész: Zeneszerző, zenei
+mentálisan: lelki, szellemi, hangulat, mana, szubjektív, pszichológiai, megismerő, pszichiátriai
+helytelen: téves, elfogadhatatlan, hibás, nemösszeillő, várt, illegális, nemmegfelelő, alkalmatlan, tisztességtelen
+építészmérnök: 
+házasodik: 
+citrom: 
+köhögés: köhögés
+termékenység: reprodukció, fajta, nemi
+véletlen: véletlenszerűen, véletlenszerű, véletlen, alkalmi, spontán, sztochasztikus
+kanál: vödör
+napló: napi, újság, folyóirat, naptár
+ballon: 
+következtetésibizonyítékonalapuló: 
+kiadó: szerkesztő, kiadás
+hamu: szürke, szürke
+pót-: káromkodás
+feléled: újjáéledés
+fogékony: sebezhető, érzékeny, érzékeny, érzelmi, felelős
+alagút: metró
+kirakósjáték: megzavarja, zavaró
+mechanizmus: eljárás, rutin, szisztematikus, gépezet, berendezés, megközelítés, irányelv
+matematika: matematikai, matematikai, végtelenség
+áttűnés: 
+kiegyensúlyozott: hányados, korreláció, arány, következetes, fenntartható
+sublativeügy: 
+BEMÁRT: fejestugrik, beágyaz, csepp, esés, előfordulása, lejtő, lejtő, gradiens, áztatás, hanyatlás, pangás, ferde
+egység: egység, egység, modul, csőr, egyedülálló
+monopólium: kizárólagos
+szerencsejáték: szerencsejáték, játék, mérkőzés, vámkezelés, fogadás
+tengeralattjáró: 
+tekintetnélkül: 
+földrengés: görcs
+laboratórium: labor
+megjegyzések: megjegyzés, megjegyzés, kommentár, válasz
+alávetni: elhalad, tapasztalt, kap
+magaellenőrzés: 
+nagykövetség: 
+elnök: elnöke, elnök
+feltalál: találmány
+kinyilatkoztatóhangulat: 
+kesztyű: 
+térdel: 
+földrajz: 
+beruházás: befektet, vállalkozás
+analógia: egyenlőség, hasonlóság, affinitás, rokonság, hányados
+sólyom: sas, csapkod
+pszichológia: fiziológiai, pszichológiai
+darabka: törölni, szemét, szemét, töredék, hajít, odadob
+kalóz: hacker
+szerep: Osszameg, Készlet, résztvevő, bevezetés, jellem, állás
+dózis: Mennyiség, diéta, hányados, adag
+lazac: 
+puding: desszert
+mágneses: vonzó, sajátmagam
+szivattyú: bomba, vákuum
+oxigén: 
+rojt: él, küszöbén, marginális, margó, kerületi, határ, határ
+bizonyítvány: megerősítés
+érem: 
+retorika: 
+felhívott: lépcsőfok, futófelület, lépés
+kaparás: karcolás, horzsolás, sért
+bejelentkezés: invázió, log
+távcső: mikroszkóp
+nyaklánc: vereség, paszta, lánc
+helyesírás: varázslat
+hullámtörés: 
+whisky: 
+teve: 
+amatőr: 
+felnőtt: érett, kor, idős
+életrajz: elektromosság
+szamár: 
+távlati: kilátás
+pro: szakmai, pozitív, adaptív
+havi: magazin
+vakáció: szabadság, szabadság, pihenés
+kettyenés: klikk, Snap, kopogás
+ovális: 
+rugalmas: gumi, rugalmas
+szótár: lexikális, szójegyzék, elő
+feloszt: feloszt, osztály, bontás, szünetle-, számol, rekesz, szakasz, töredék, összetevő, alkatrészek
+sonka: comb
+szivárvány: 
+szervezet: teremtmény, Teremtés
+nyárs: társ, nyelv
+kivezetés: kijárat, foglalat, teljesítmény, indulás, markolat, rés
+tartály: rezervoár, tartály, áfa
+pillangó: 
+diagram: diagram, grafikon, grafikus, grafika, rendszer, katalógus, katalógus
+iker-: kettős, dupla, párosít, pár
+sértő: sértés, szégyen, bűncselekmény, sért, sértés, szóbeli, támadó
+függetlenül: független, önként, egymástól, lazán, külön
+mocsár: 
+lidércnyomás: álom
+lekvár: zselé, borogatás
+hallgató: hallgat
+múzeum: 
+stabilitás: stabilizálása
+nyilvánosságra: bejelent, felfedi, érzékelés, tegye, kibont, közzétesz, felfedez, különbségettesz, látszólagos
+agresszív: zavar, rendetlenség, foglalkozás, agresszió, támadó, bombázó
+súrlódás: szembesítés
+részvétel: részvétel, résztvenni, bevonása
+móló: útvonal
+pók: halász
+burgonya: 
+készítő: gyártó, termelő, készítmény, gyártás, gyártás
+kapzsiság: éhség, étvágy
+időelőtti: korai
+szaporodnak: találat, fajta, szorzás, kettős
+statisztika: statisztikai, ábra, statisztikai
+jelölés: kinevez, időpontegyeztetés, kiválasztás, eljegyzés
+billió: 
+igenlőhangulat: 
+alkalmazások: app, folyamatok, alkalmaz, alkalmazás
+névleges: horzsolás, meghatározott, par
+elégedetlenség: 
+fertőzés: megfertőz, fertőzött, átmenet, átvitel, fertőző
+vállvonás: ránt
+futball: futball, rúgás, kalcium
+úttörő: őrnagy, avantgarde
+rendellenes: szokatlan, szokatlanul, rögeszmés, rendkívüli, túlzott, rendkívüli, ideál, egyedülálló
+mulasztás: alapértelmezett, tapintatlanság, hiány, gondatlanság, elhanyagolás, megszüntetése
+présel: zsúfolt, nyom, gyúr, csökkentés, tolóerő, nyomás, szétzúz, fogás, markolat
+százalék: cent, százalék
+idiophone: 
+fogantyú: 
+visszavonás: visszatérés, regresszió, visszavonulás, foglalat, visszahívás, következtetés, következtetés, teljesítmény, vonatkozások, vissza, teljes
+szenátor: 
+hangya: 
+terhes: anyai, fogan
+mindennap: napi
+kicsapódik: csapadék, üledék, sebesség, sürgős, gyorsul
+változó: változik, változók, globális, mozgó
+göndör: becsavar, odadob, tekercs, csigavonal
+kén: kén, törött
+kontinentális: kontinens
+diktál: utasítás, parancs
+béka: 
+túlzottügy: 
+darál: fél, félig
+irrealishangulat: 
+fedett: szobai, belül, belül
+kihasználni: hasznosít, elnyel, teljesítmény, Fedezdfel, rablás, abszorpció
+geológiai: földalatt
+útlevél: 
+erkölcstelen: gonosz, rothadt
+keksz: aprósütemény
+együttműködés: együttműködik, társaság, integráció, segít, hozzájárulás
+kovácsműhely: csinál, teljes, képződés, teremt, összeállít, generál, hamisít, betűtípus, megismételni
+atom: atom, részecske, egyedi
+AIDS: támogatás, megkönnyebbülés
+kényes: finom, bosszantó
+piramis: 
+törvénytelen: illegális, nem
+félénkség: félénk, összehúzódás
+lant: ferde
+csillagászat: 
+labirintus: kétértelműség
+ösztöndíj: szponzorálás, díj
+rost: rost, csomag, előítélet
+krikett: 
+galamb: 
+alkalmazkodás: alkalmazkodni, alkatrész, teljesítés, módosítás, beállítani, optimalizálás, adaptív, szállás
+rosszallás: elítél, rosszalló, ellenzék, ellentétes, tiltakozás, ellen-, ellenfél, szembenálló, megtagadja, nyom, elutasít, utasítsa, vétó, sért, Oktató, egyetért, nemértegyet
+operátor: hordozó
+háromszög: 
+kincstárnok: pénztáros
+hidrogén: 
+nyomtató: 
+fojtás: kréta
+krónikus: ellenálló, súlyos, szigorú, nagymértékben, szélső, akut, erősödik
+megbirkózik: találkozás, alkalmazkodni, szembeszáll, eltolt, leküzdése, felszerelés, kontrasztív, üzlet, véghezvisz
+dilemma: zavaros, zavaró
+tünet: jelzés, ajánlat, kijelző, bemutat, bemutatás, jelenség, diagnosztikai, szindróma, jellegzetes
+kerékpár: bicikli, kerékpározás, ciklus, lovagol
+mérnöki: technika, technikailag, mechanika
+spirál: csigavonal, pörgés
+kamera: kamra
+táncos: 
+elvándorlás: vándorol, bevándorlás
+tenisz: 
+rabja: függő, függőség, bizalom, rabszolga
+szövés: fonat, kötött, kötés, szövet, struktúra
+gerinc: 
+süt: forral
+elősegítése: elősegítése, stimuláció, gyorsulás, Foster, nyugalom, egyszerűsítése, létesítmény, hasznosság, enyhít
+döfés: fullánk, szúr, Megragad, kísérlet, megkísérelt
+jelszó: jel, dákó, szlogen, azén, kód
+félteke: hegyes, tipp
+nyomasztó: kiábrándító, nyomott, elbátortalanít, bánat, provokál
+stratégia: stratégiai, stratégiák, irányelv
+járőr: időszakos, benzin
+gleccser: 
+félúton: fél, részben, félig
+memorandum: szerződés, szerződés, egyezmény, egyetértés, parancs, reprezentáció
+kúp: 
+szimmetria: 
+alperes: ügyvéd, szembenálló
+mecset: 
+kipufogó: kibocsátás, kilövell
+sakk: 
+atommag: nukleáris, sejt, lényeg, mag, központi, embrió, magzati, mag, anyag
+cseresznye: 
+botlás: esés
+kamion: teherautó, teherhajó, nyomonkövetni
+drótnélküli: rádió
+árverés: eladás
+Szita: hibakeresés
+bizonytalan: instabil, instabilitás, bizonytalan, kényelmetlen, nyughatatlan
+szív: elnyel, áztatás
+barátságtalan: barátságtalan, ellenséges, kedvezőtlen, káros
+népszámlálás: számítás
+lábujjhegyenmegy: lábujj, kész, hajlandó
+kipihenimagát: pihentető, kipihent, kikapcsolódás, szabadidő, enyhít
+folytonosság: állandóan, folytatás, kötőszó
+buborék: 
+gitár: stb.
+előítélet: preferencia, előítélet, elhajlás
+fényes: fényes, délelőtt, ragyogó
+bármelyik: bármilyen, tökmindegy, melyik, bárki, között, vizalatti
+kötött: kötés, kötött, fonat
+felszáll: túra, lebeg, torok, repülési, híres, repülőgép, repülőgép, repülőgép, légitársaság
+névmásjelző: 
+fűszer: lelkesedés
+óvadék: kötvény, biztosíték, fogadalom, garancia, szponzor, ékszer, drágakő
+kötekedik: csábít, bosszantani, idegesít, elbűvöl
+Jáva: 
+recept: módszer, inger, recept, képlet, utasítás, mássalhangzó
+eke: megfejt, eltérít
+esővízcsatorna: csatorna
+üstökös: szabálysértő
+innováció: felfedezés, találmány
+középkori: középső
+dekoratív: dekoráció, díszít, kozmetika
+műanyag: 
+lábjegyzet: 
+tejcsarnok: tej, rendes, szabályos
+golf: 
+nulla: nulla, üres
+postaiirányítószám: borogatás
+ravasz: 
+csip: darab, töredék, szelet, nagydarab
+elnyom: elnyomja, elnyom, nyomja, elborít, rosszulkezel
+ásít: párolog
+egyenlőtlenség: 
+anyajegy: agyag
+fazekasság: talaj, agyag
+háziasszony: 
+irracionális: ésszerűtlen
+bányász: kisebb
+élesztő: enzim, guba, cukrászsütemény
+elfog: gátolják, felszerelés
+prémium: pótlék, díj, díj
+választásilehetőség: alternatív, helyettes, váltakozó, uborka, választás, kiválasztás, változat, jobbanszeret, preferencia, választható, helyettesítés, vidám
+érettségizni: vizsga, elhalad
+csőd: hiba
+öntözés: 
+kapitalista: kapitalizmus
+rugalmasság: rugalmasság
+geometria: geometriai
+cápa: 
+tárolás: megőrzése, megőrzésére, bolt, megtakarítás
+remélhetőleg: kilátás, várakozás, optimizmus
+realizmus: 
+mentőautó: 
+pénztárca: pénztárca, portfolió
+fintor: bögre, vigyorog, tekergőzés
+tudós: tudományos, tudós, kutató, nyomozó, biológus
+bél: bél
+egykedvűség: 
+valószerű: tényleges, igaz, igazán, tulajdonképpen, valóban, őszinte, pragmatikus, igazi, kifejezett
+irreleváns: ellentmondó, alkalmatlan, nemösszeillő, jelentéktelen
+bab: dió, földimogyoró, gabona-
+informális: hivatalos, formálisan
+lányunoka: unokája, unoka, unokahúg, leszármazott
+steak: szelet
+nitrogén: 
+motyog: suttogás
+Bogyó: bátorság, öböl
+elemez: elemez, analitikus, elemez, elemzés
+kontrasztos: kontraszt, kontrasztív, ellentmondó, ellentétes, ellentétes, különbségettesz, megkülönböztetést, különbséget, különböző, különböző
+tűzijáték: fogadás, fogadás, láng
+pop: Snap, bumm
+Levetkőzik: szalag, ruhák
+kiegészítés: kiegészítő, felszerelni, kiegészítés, kiegészítő
+pegativeügy: 
+rák: 
+zálog: jelzálog, katona, fogadalom
+szivárog: bukás, veszteség, csepp
+sűrűség: zsúfolt, intenzitás
+rágás: 
+bonyolultság: bonyodalom
+beszédes: beszédes, agilis
+viszonoz: mentes, felszabadulás, megszabadít, enyhít, érdem
+poláris: szélső, pólus
+kedvezmény: felmentés, eladás, koncesszió, feltevés
+Taxi: taxi
+hierarchia: vezetés, rendszer, rekurzió
+vicsorog: 
+naiv: lineáris, egyszerű
+elnökség: elnöki
+vevő: vevő
+gallon: 
+szúnyog: 
+szán: gyászol, elítél, megbánás
+eltérés: elhajlás, torzítás, eltolt, valami
+mozaik-: különböző
+dugó: csatlakozó, utalvány
+terhesség: fogamzás, fogan, visz, terhelés
+élelmiszerbolt: 
+kommunista: 
+meghökkent: meglepő, elképesztő, lenyűgöző, félrevezet, megzavarja, megszédít, zavarbahoz, meghökkent
+ügyésziügy: 
+diktátor: 
+szórakozottság: foglalkoztatás, szorongás, aggodalom, vonatkozik
+műhold: szonda
+hozzávetőleges: közelítés, hozzávetőlegesen, megközelítő, majdnem, gyakorlatilag, körülbelül, nagyjából
+munkanélküli: foglalkoztatás
+végrehajtása: végrehajtás, érvényesítése, végrehajtás, végrehajtás, kivégez
+izzó: hagyma, szelep
+támogató: helyettes, elviselni, zárójel
+lótusz: liliom
+klorid: 
+baktériumok: gombaféle, bakteriális
+rács: minta
+biológiai: teremtmény, biológia
+kitalál: színlel, szimulálni
+byte: 
+kiválasztás: kiválaszt
+balett: uszony, szavazás
+vizelet: pisi
+fokhagyma: 
+középsőosztály: 
+mosoda: mosás
+jellemez: különbségettesz, jellemzés
+eper: 
+jegyzetfüzet: hordozhatószámítógép
+transzcendentális: 
+album: 
+baseball: 
+kalózkodás: 
+büfé: 
+melléknéviigenév: résztvevő, pályakezdő
+garázs: 
+diagnózis: diagnosztikai, diagnosztizál, megismerő, elismerik
+kicsikar: zsarolás, bátorság, kényszerít, kényszerít
+foszfor: 
+szerkezeti: szerkezet, konfiguráció, config, szervezeti
+ragasztó: gumi
+tézis: értekezés
+kézműves: szerelő, vízvezeték-szerelő
+banán: szövet
+borda: felszerelés
+nikkel: 
+jelenleg: Most, ajándék, jelenlegi, Manapság, sorbanáll
+busz: enged
+cenzor: cenzúra, kritikus
+rakéta: rakéta
+kolbász: Hotdog
+manipuláció: működik, manipulál, operatív, trükk, csal, fogantyú, művelet, csalás
+paradicsom: 
+megerősítése: megszilárdítása, erősödik, erősítse, erős, erősítése
+konvex: 
+kálium: 
+algebra: algebrai
+ékszerek: 
+optikai: vizuális
+munkanélküliség: pékség
+hatástalanítására: fegyver, fegyver, fegyveres
+szóló: különálló, rendkívüli, diszkrét, talaj, egyedül
+böngésző: scanner
+történelmifeszült: 
+képesség: hatékonyság, potenciálisan, kapacitás, hányados, képesség, alkalmasság, műveltség
+színkép: 
+nátrium: 
+hisztéria: görcs
+megbízott: adminisztrátor, hűséges
+túsz: jelzálog, fogadalom
+sportoló: matematikai, atlétikai
+ránc: disszidál, elkövetni
+tartalmaz: bele, tartalom, alkotják, épít, részt, részt, bevonása, befogadás, áll, tartalmaz, elérése, tartalmaz
+csipesz: legfontosabb, zárójel, tűzőgép
+kiemeltenfontos: Figyelem, preferencia, jobbanszeret
+erőszak: merénylet, meghaladja, agresszió
+monitor: nyomonkövetni, felügyel, óra, folytat
+választókerület: szavazó, választók, enyhe
+kulturális: kultúra
+nem: kiszámít, szex, hímvessző, faj, nemiség
+platina: 
+duplaszám: 
+különlegesség: szakmai, jellegzetes, jellemvonás, különös, különleges, szakvélemény, szakember, különálló, kizárólagos, szakosít
+tüdő: 
+szuper: rendkívüli, óriási, hihetetlenül, felügyelő
+targonca: szállítás, kocsi, vasútikocsi
+gomba: gombaféle, öntőforma
+helyileg: helyi
+ösztönöz: izgat, bosszantani
+benzin: benzin
+tök: Fallabda, velő
+vese: magasság, kiterjesztés
+zsákmány: rablás, fosztogatás, áldozat, zsákmány, rabol, táv
+arzén: 
+csiga: csigavonal
+elenyésző: 
+szocialista: rokonság
+szűrő: 
+szélesíteni: kiterjed, széles, hozzáad, emel, fokozza, kiterjesztése, széleskörben, terjeszkedés
+vitatott: vita, ellentmondás, kétértelmű, zavaró, kétértelműség, ellentmondó
+póráz: bérlet, szíj
+zsoké: 
+tüdőgyulladás: 
+elhelyez: tesz
+útkereszteződés: átkelés, csomópont, sorrendi
+szolidaritás: egyesül, gyülekezik, affinitás, egység, hasonlóság, korszak
+zsanér: részletes, hurok, tengely
+hosszirányú: függőleges, meghosszabbított, faj
+osztalék: kiosztás
+tompa: lassú
+korcsolya: sí
+lekuporodik: hajlít
+kitevő: index, exponenciális, töredék
+fogyatékosság: hátrány, képtelenség, disszidál, tökéletlen, Tiltva, hiba
+bajnokság: bajnok, győztes, lovagitorna
+fotós: fényképészeti
+digitális: ábra, számjegy, számszerű
+kurva: 
+szemhéj: 
+tudatalatti: 
+szemöldök: 
+tüsszentés: 
+vicces: vidám, móka, boldog, vicces, vidám, szórakoztató, szórakoztató, tréfás, nevetséges, kellemes
+menekült: bevándorló
+fehérje: tojásfehér
+lerak: halom, kazal, száműz, szemét, szemét, odadob
+fejlődik: evolúció, fejleszt
+hányás: 
+gén: genetikailag, genetikai
+újonc: 
+összeolvad: magfúzió, egyesül, egységesítése, kombájn, megszilárdítása, integráció, konvergálnak, connect
+szociológia: 
+mobilitás: mozgó, hordozható, mozgalom, mozgás
+regionális: megye, terület, zóna, kórterem, gömb, ágazat, kerületi, vidéki
+mozgásfárasztó: 
+hígított: vékony, enyhe
+visszatekintő: múlt, önelemzés
+inverzió: invert, ellentétes, kölcsönös, fordítottja, katasztrófa, hővezetés
+tévé: televízió, film
+kocka: szilárd
+szintaxis: szintaktikai, nyugdíj, elrendezés
+termelékenység: teljesítmény, teljesítmény
+sárgarépa: 
+molekuláris: molekula, számláló, szubsztrát, nukleáris, atom
+konglomerátum: klikk, csoport, fürt
+Könyvelő: könyvvizsgáló
+különbségtétel: megkülönböztetés, megkülönböztetést, különbségettesz, különbséget, szünetle-, különbség, kontraszt, variációk, variancia
+elérhetőség: hozzáférés, beszerzés, kap, elérhető, részvétel, hatékonyság
+orgia: 
+oldószer: feloldja
+foszfát: 
+alapozó: csali, ismerős, bevezetés, először
+vessző: kóma, fél
+premissza: 
+mozgáslesiklás: 
+donor: 
+pszichológus: 
+klór: kecske
+billentyűzet: 
+elit: kiváló
+zárójel: zárójel
+rögbi: 
+fekély: fájó, seb, sérülés, forral
+ragozott: 
+rágcsál: 
+magzatelhajtás: vetélés
+pulóver: kabát
+evolúciós: fejlődési, evolúció, fejlődés, haladás
+jelölés: jel, szimbólum, jegyzet
+ugrál: bumm, ugrás
+boncolás: osztja, szakasz, osztály, feloszt
+cache: lappangó
+antimon: 
+superessivusügy: 
+tumor: tumor, tömeg
+alfa: 
+köldök: has, pólus
+immúnis: lélegző, ellenálló
+rövidít: határ, korlátoznia, korlátozhatja, összesít, kompakt
+meghódít: elfog, elbűvöl, vadászat, vonz
+zokni: 
+film: film, mozi, szalag, szalag, csík
+világegyetem: világegyetem
+szennyezik: környezetszennyezés, megfertőz
+társas: 
+alumínium: alumínium
+rezgés: ingadozás, rezgés
+betűrendes: ábécé
+horoszkóp: 
+tangens: 
+delfin: 
+gyilkos: 
+rezonancia: rezgés
+indikátor: testtartás, index, kritériumok, indexujj, nyomtáv
+dioxid: 
+bürokrácia: bürokratikus
+torzítják: félrevezet, tülekedés, romlik, hamisít, ferde, torzítás
+galaktika: csillagkép
+klinikai: 
+rádium: rádió
+hűtőszekrény: hűtő
+harmonikus: zenei, teljesítés
+régészeti: régészet, régészet, kövület
+leírás: norma, szabványosítása, részlet
+interpoláció: 
+szórólap: füzet, közleményt, kiosztás, lap
+hiányos: tökéletlen
+embertan: 
+ízletes: finom
+tranzitív: mentség
+meglapul: 
+tettetés: szimulálni, jelvény
+hüvely: öböl, sejt
+ion: 
+idegenforgalom: turista, utazási, piknik
+trigonometria: 
+elrabol: eltérít, hővezetés, megragad
+átfedés: interakció, interaktív
+kereső: 
+elűz: elmozdít, kiutasítja, kilövell, deportál, száműz
+fodrász: 
+folklór: búza, népi
+hajszálcsöves: 
+nacionalizmus: állampolgárság
+fenék: csípő
+szublimátum: tiszta, finomítani
+ütköző: 
+csalódottság: kétségbeesés, csalódás, zavaros, törölni, vereség, csalódott, csalódástokoz, kiábrándító
+kobalt: 
+kivonás: levon
+mozgásfolyón: 
+koordináták: ordináta, koordináta, egyeztetés
+végbélnyílás: 
+redundancia: bőven, maradó, többlet, utasítsa, elbocsátás, felmentés, többlet
+videó-: 
+bojkott: megye, ostracized, elhanyagolás
+kvíz: kísérlet, vizsga, kérdőív
+gerilla: 
+magnézium: 
+radar: 
+minőségi: minőség, jellegzetes
+megbízhatóság: hitelesség
+téglalap: 
+általánosít: általánosítás, épít, teremt, összeállít
+többé: Most, újra
+kijárásitilalom: 
+készítmény: épít, épít, konstruktív, megfogalmazás, Teremtés, képződés, fogalmaz, intézmény
+reinkarnáció: újjászületés
+meggyullad: 
+uránium: 
+adófizető: adó
+integrált: integrál
+vélekedett: Kilátás, vélemény, megjegyzés
+gamma: 
+kiszolgáló: 
+mozgásafolyón: 
+együttható: fokozat, tényező, modulus
+bizmut: 
+képeslap: állás, posztgraduális
+elkalandozik: visszavonulás, indulnak
+morfológiai: genetikai, morfológia
+értékelés: értékeli, értékelés, értékelje, vizsgálat, vizsgálja, vizsgálatot, szonda, par
+Farmer: 
+adatbázis: 
+számológép: számítástechnika
+beruházó: 
+xsugár: 
+napirend: program, program, tanterv
+Visa: 
+infrastruktúra: alapvető, alapvető, alapvetően
+detektor: 
+összefonás: elhelyezi, módosítására, csatolni, connect
+bróm: 
+szilícium: pi
+csuklás: 
+pasztell: sápadt
+állatkert: 
+klinika: 
+jóga: összeg
+könyvesbolt: könyvszekrény, üzlet
+kiskereskedő: kereskedő, eladó, üzlet, Közeli
+lefejez: időszerű
+igen: igen, ya, őszinte
+dzsessz: 
+volfrám: 
+terrorista: harcos, terror, szélsőséges
+fogalmi: díszes, fogalom, koncepció, feltevés, paradigma, fogamzás, vázlat
+kartéziánus: 
+csöpög: iszap
+feleségtartásidíj: 
+programozó: app
+bemenet: 
+smink: csinálfel, kozmetika, trükk, kompenzálni
+vakcina: kommentár, lefedettség, injekció
+magátólértetődő: 
+heroin: 
+mappa: 
+katód-: 
+influenza: láz, befolyás
+ideológia: gondolat
+parkolás: 
+pillanatkép: 
+antiklimax: csalódás
+szelén: 
+kéreg: ugat, héj, héj
+egyenértékűség: egyenlőség
+csúcs: 
+repülőtér: 
+amputál: szakítsa
+csaló: 
+króm: 
+liter: liter
+műszerfal: panel, gondolatjel
+hormon: 
+átfúr: szúr
+animizmus: 
+poligon: szög
+feminista: 
+konjugált: lejtő, összefüggő, tinó
+euro: 
+algoritmus: 
+lézer: 
+gyógyszertár: 
+milliméter: milliméter
+Flex: hajlít, ívelt, rugalmas, kedvező, kábel
+anód: 
+árnyalat: árnyék
+odasimul: ölelés
+részidő: 
+érzékenység: 
+mainframe: 
+tüntető: kinézet, kijelző, teljesítmény, demonstráció, bemutatás
+hélium: 
+kétnyelvű: 
+gerundium: 
+vérplazma: 
+kromoszóma: 
+egészszám: számjegy, számjegy
+kilométer: kilométer
+fax: 
+genetika: genetikai, genetikailag
+folt: 
+brokkoli: 
+permutáció: formátum, sor, elrendezés, értelmezőjelző
+levélszemét: 
+vektor: hordozó
+taktika: eszköz, megközelítés, technika, módszertan, letölteni
+rendben: visszaszerez, helyesen, rögzít, érvényes, oké
+vitamin: 
+kadmium: 
+grafikus: grafikus, grafika
+manuálisan: maga
+titán: 
+feltűnés: henceg
+helikopter: 
+tellúr: szkandium, lantán
+határidő: kifejezés
+igazítsa: következetes, sor
+analóg: 
+centiméter: 
+molibdén: 
+lítium: 
+multimédia: 
+kalória: 
+robot: 
+házifeladat: egyenrangú
+logaritmus: 
+felszerel: hegy, felszerel, szintézis
+glyph: megkönnyebbülés
+ökológia: ökológiai, környezeti
+szofistaérveketfejtki: zsákmány
+sablon: öntőforma
+euklideszi: 
+kilogramm: 
+sokateszik: 
+osztó: 
+ral: 
+ereszalja: 
+hajvágás: 
+irídium: 
+rasszizmus: faji
+sávszélesség: szélessávú
+optimális: felső, optimális, kedvező, egyszínű, beállítani, alkalmazkodni, összeegyeztethető, adaptív, megfelelő, helyes, érzékeny
+átfogó: akkord, ferde
+asztali: 
+központja: központ, ülés
+elhány: zavart, elveszít
+cérium: 
+részelőügy: 
+kazetta: szalag
+szupermarket: sétálóutca
+akaraterő: akarat, akarat
+dimenziós: méret, alak, dimenzió, térbeli
+nemelérhető: 
+titkosítás: kriptográfia, titkosítása, kódolás
+szinkronizálni: szinkronizál, integrálni, kortárs
+szeminárium: 
+szemantikus: jelentés, másodlagosjelentés, tantárgy, tárgy, anyag, anyag, érzék, jelentőségteljes
+disco: 
+neon: 
+igaziidő: 
+ozmium: 
+életmód: élet, élettartam, túlélés, élő, karrier
+tűzfal: 
+koszinusz: számítás, számítás
+műalkotás: 
+plutónium: 
+munkaállomás: 
+ittrium: 
+fokozódó: 
+felhasználónév: 
+jobbraszárny: 
+argon: 
+szocializál: kommunikálni, egymásrahat
+globalizáció: 
+metsző: 
+hullámhossz: hullám
+kódol: kód
+újrahasznosítása: 
+asymptote: 
+megfejt: teljesít, megfejt
+újrakezd: újraindítás, operatív
+májgyulladás: 
+proton: 
+hajlékonylemez: lemez
+milligramm: 
+pixel: 
+tantál: 
+oldottanyag: 
+fajirtás: 
+gallium: 
+popfel: 
+cirkónium: 
+nemlineáris: 
+növényvédőszer: 
+polinom: 
+berillium: 
+neuron: 
+állító: tolakodó
+router: 
+faktoriális: kar
+modul: kiegészítés
+neutron: 
+nióbium: 
+germánium: 
+félfém-: nemfémből
+prolativeügy: 
+abiológiaisokféleség: 
+indusztrializál: iparosítás, ipar
+joystick: 
+antibiotikum: 
+aktínium: 
+űrhajós: hely
+nyomástcsökkent: kiterjed, fokozza
+extrapoláció: 
+földönkívüli: idegen
+oktett: 
+nyisdkiforrás: 
+marathon: 
+dugóbanben: 
+topológia: 
+gigabyte: 
+ionizál: 
+siegységek: 
+kemping: tábor
+végesige: 
+kripton: 
+gnómikushangulat: 
+váltáskulcsfontosságú: 
+négyzetek: négyzet
+üzletkötő: kereskedő, eladó, hivatalnok
+rénium: 
+sejttelefon: mobiltelefon, mozgótelefon, hordozható, hordozhatószámítógép, sejt
+oldalt: félre
+módbeliügy: 
+hulladéklevél: 
+motorkocsi: 
+csipeszművészet: 
+könyvjelző: 
+hafnium: 
+otthonoldal: 
+halmozottügy: 
+n-edikgyökér: 
+folyamatábra: 
+középsőhang: 
+régikor: idős
+kerekítés: lekerekített
+ródiumatom: terbiumatom, túliumatom, tóriumatom, fluoratom, rubídiumatom, talliumatom, vanádiumatom, polóniumatom, stronciumatom, ruténiumatom
+rosszedzett: durva
+ferdeügy: 
+betegügy: 
+premai: 
+kopasz: csupasz, nyers
+célravasz: 
+prazeodinium: 
+bénult: 
+panaszkodik: panasz
+naknekügy: nálnélügy, véletlenszerűen, bólbőlügy
+sugárzás: világít, kibocsátás
+indium: 
+színészszerep: 
+eufória: lelkesedés, buzgóság, megelégedettség, beleegyezés, öröm, öröm, boldogság, élvezet
+sapkákzár: 
+szóköz: 
+drámaian: drámai
+soviniszta: 
+hálówebhely: weboldal, webhely
+házinövény: 
+civiljogok: 
+protaktínium: 
+projektív: 
+kétkomponensűérték: 
+kapus: 
+kiskereskedelembolt: 
+állapotbár: 
+mikrofon: mikro
+emberitest: 
+esküszikbanben: 
+levélhordozó: 
+centrikusügy: 
+trójailó: 
+tekercsbár: 
+hármaspont: 
+olvascsak: 
+aranyköpés: tréfa, orális
+múlandóság: instabil, instabilitás
+költő: 
+fonológiai: 
+hipnotizál: 
+próbaszám: 
+receptor: 
+igeelhelyezi: 
+nememberi: 
+folyamjelenlegi: 
+hogymelyik: hogy, melyik, kit, kineka
+kikötésfarok: 
+fejjelle-: fordítottja, fordított
+mertpélda: 
+iplakcim: 
+banbennyelv: 
+egyénileg: Személyesen, egyedi, személyes, külön, különálló, különböző, különbözik, eltérően, térbeli
+promondat: prokifejezés
+járványtan: mechanika, dinamika
+törvényt: törvényhozás, törvényhozó, intéz, szervez
+csíkos: csík, rendszer, tervező, tervrajz
+sztrájkokelfojtásával: 
+asztácium: 
+túlterhelés: 
+másha: 
+szögek: szög, hegyes
+viseletki: 
+idézetforma: 
+ergatívokügy: 
+külváros: Hamlet, ingázó, vidékitáj
+közösnem: 
+szuperszámítógép: 
+közvetlentárgy: közvetetttárgy
+autós: gépkocsivezető
+statisztikusan: statisztikai, számszerű
+lutetium: 
+racionalitás: tudatosság, logika
+passzívhang: 
+okozó: 
+cézium: 
+keresmotor: 
+eszköztár: 
+automatikusan: automatikus
+kalifornium: 
+mendelévium: 
+ügynökravasz: 
+színvak: 
+komikusszalag: 
+terminál: terminál
+pontmátrix: 
+szamárium: 
+rövidáramkör: 
+összeállít: gyűjt
+agentiveügy: 
+baleset: csattanás, sérülés, véletlen, incidens, roncs
+fraktálok: 
+multalszám: 
+naknekközeli: zárva, becsuk, közeli, kizár
+széles: hatalmas, kiterjedt, átfogó, széles, széleskörben, bőséges, széleskörben, széleskörbenelterjedt, nagy, szög
+adessiveügy: 
+szövetkezet: kolléga, együttműködik, fickó, munkatárs
+Eulerszám: 
+lézernyomtató: 
+transzszámjegy: 
+blog: blogger
+kombinatorikus: kombinatorika
+Püthagorasz: 
+abessiveügy: 
+helyhatározóiesetügy: 
+úszásmedence: medence, mosdó
+aszámítógépesbűnözés: veszélyes, káros
+álláshivatal: állás, levél
+rosszindulatú: 
+gátlás: visszatartani, járdaszegély, gátolják, tiltják, vétó, elrettent, tilt
+spyware: 
+felvétel: rekord, befogadás, nyilvántartás, bejegyzés, belépés, log
+riporter: interjú
+csipesztábla: 
+xenon: 
+táblázatkezelő: 
+n-edikhatalom: 
+filmszínház: mozi
+Bejövő: 
+percent: százalék, cent
+aeroszol: permet
+elosztó: 
+dinamikai: dinamika, mechanika, dinamikus
+egymásodik: 
+kiterjeszt: hátterében
+brown: 
+csillagnem: 
+galaktikanem: 
+karton: kártya, kartondoboz
+kiszámíthatóság: 
+egyegymásik: egymásik, mindenegyesmás, más
+rendőrségtiszt: 
+elsődlegestárgy: 
+élőnem: 
+evitativeügy: 
+járműnem: 
+adatbányászati: 
+megszállottügy: 
+americium: 
+ásványinem: 
+domainnév: 
+képzeletbeliegység: 
+neptunium: 
+szóbelifőnév: 
+matematikusok: 
+birtokosügy: birtokosügy
+modellezés: 
+végsőrészecske: 
+vakuhajtás: 
+floppykorong: 
+tűzoltó: 
+kritikaipont: 
+empatikusöröm: 
+szófeldolgozó: 
+elsőminiszter: 
+ténylegesemlékezet: 
+határozóiügy: 
+etídium: 
+rövidnadrág: 
+bolondkörül: 
+egyenletek: egyenlet
+subessiveügy: 
+logki: 
+spammer: 
+antessiveügy: 
+gyalogátkelőhely: útvonal, sétány
+használófelület: 
+Szellemíró: 
+számítógépvírus: 
+egyeztető: , moderátor
+rehabilitáció: 
+kiegészítőige: 
+elsőkéz: közvetlen
+alaplap: vajon
+betegravasz: 
+futásidejű: 
+kollektívfőnév: 
+Korán: újság
+üzletiszemély: üzletember
+tranzitívige: 
+felhőszámítástechnika: 
+ténylegesgép: 
+absolutiveügy: 
+ténylegesvalóság: 
+múltbefejezett: 
+személytelenige: 
+crastinalfeszült: 
+visszahatóhang: 
+absztraktnem: 
+különbözőesemény: 
+exocentricügy: 
+másodiknyelv: 
+művészetinem: 
+magabizalom: 
+kutatásnem: 
+közvetettbeszéd: 
+helységnem: 
+fizika: fizikai, fizikailag
+világegyetemnem: 
+bezárás: közeli, zárva, becsuk, ki, megszűnik, kilép, Állj
+felsőfokúügy: 
+megfelelő: mérkőzés, szavazás, szavazás, öltöny, megfelelő, egyetértés, megfelelnek, alkalmas, egyszínű, egybevág, levél, megfelelő, összeegyeztethető
+számítógépprogram: 
+ellenanyag: 
+teljesidő: 
+propositivehangulat: 
+asszociációsügy: 
+élettelennem: 
+szövegszerkesztő: 
+földinem: 
+üzemeltetésirendszer: 
+nyelvtaniügy: 
+elektromosjelenlegi: 
+kölcsönöshang: 
+evőeszközök: 
+magbenefactive: 
+hálóházigazda: 
+orsócsontiideg: 
+alkalmazóhang: 
+fonéma: 
+egymástkikötés: 
+jegyzetfüzetszámítógép: 
+gázpedál: 
+antipassivehang: 
+népizene: 
+terabyte: 
+társadalmihálózatépítés: 
+tárgyalás: tárgyal, beszélgetés, beszélgetés, csevegés, interakció, egymásrahat, konzultáció, kommunikálni, párbeszéd
+semmitmondó: lakás, homályos, kétértelmű
+morféma: 
+linker: link, kötőszó
+neodímium: 
+sugárzásbetegség: 
+ajándékmelléknéviigenév: 
+necessitativehangulat: 
+egzisztenciáliskikötés: 
+túlzottidőtartama: 
+passzívmelléknéviigenév: 
+nyelvtanitárgy: 
+továbbképzésvonatkozás: 
+singulativeszám: 
+világítóintenzitás: 
+felsőfokúfokozat: 
+kékjean: 
+választásikvantor: 
+szuperkritikusfolyadék: 
+beiktatottmorféma: 
+névutósügy: 
+tagadókvantor: 
+összekötőrészecske: 
+Nerium: 
+egyetemeskvantor: 
+levegőerő: 
+rövidbuzdítóbeszédmegegyezés: 
+számítógépprogramozás: 
+tolakodókvantor: 
+gyakorítóvonatkozás: 
+elosztónévmás: 
+alternatívkvantor: 
+adathalászat: 
+skaláris: 
+alternatívfeltételes: 

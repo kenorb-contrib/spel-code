@@ -1,0 +1,2515 @@
+Infinitive: tanpawates, pandjenengan, asal, sumber
+nominativecilik: prepositionalcilik
+akusatifcilik: 
+topikcilik: tundhukcilik
+tiyangsepah: Parental, utama, senior, bayem
+bapak: rama
+ibu: ibu, ibu, bayen
+hello: bye, woy, hey
+leluhur: leluhur, mbah
+grandparent: mbah, mbah
+luwe: keluwen, keluwen
+genitifcilik: possessivecilik
+kata: 
+lan: jumlah, dening, lan
+kula: aku, i, sandi, kita, dilat
+sampeyan: wong, kowé, Paduka, ya
+us: kita, kita, kito
+iku: kang, sing, dheweke, iki, iki, kang
+panggonancilik: adilcilik
+datifcilik: 
+nyataswasanaati: 
+deonticswasanaati: 
+saratipunswasanaati: subjunctiveswasanaati, hipotesisswasanaati
+epistemicswasanaati: 
+instrumentalcilik: 
+interiorcontext: 
+wongcontext: 
+gumantungangger-angger: 
+perfectiveaspek: 
+kepungkurtegang: 
+lananggender: nétralgender
+comitativecilik: 
+saikitegang: 
+benefactivecilik: 
+essivecilik: 
+ora: ora, non, meh, Tukang, Jarak, tau, utawa, oraana, rodo, ora, orabisa, miss
+sawijining: sing, kang, dheweke, wong, sing, duweke, saka, kang, sawijining
+lumahingcontext: 
+adpositionalcilik: 
+lokasicilik: 
+papancontext: 
+caracilik: 
+interrogativeswasanaati: 
+lanutawa: 
+eksklusifutawa: 
+sumbercilik: 
+gameluenganakocilik: 
+demonstrative: ngalangi, substansial, konkrit, Cogent, arahan, serem, nyebut, nyoto, ngomongake
+nanging: durung, Nanging, sanadyan, sanajan, Nanging
+kabeh: everyone, everybody, total, kabeh, sakabèhé, kabèh, kabeh, sembarang, tambah, kabeh
+feminingender: 
+padha: wong, dheweke, sing, sing, duwekedhewe, surname, iki, padha, padha, padha, kanggo
+jamaknomer: 
+siji: single, a, menyang, piyambak, lan, siji, Nanging
+sing: piyantun, sapa, kang, kang, minangka, kang, apa, sopowae, sing, sing, sing, sing, ya
+mangsategang: 
+sosialcontext: 
+kapan: kapan, tau
+imperfectiveaspek: 
+ana: ana, ana
+liyane: liwat, paling, luwih, ngluwihi, munggah, munggah, multi, saka, rodo, uga, malih, plus, isih, durung, liya, sawetara, kaping, liyane, digunakake, liyane, liyane
+metu: njaba, njaba, external, ruangan, njobo, mati, njabasaka, ngluwihi, munggah, marang, dhateng, kasebut, metu, metu
+relatifcilik: relatifcilik
+illativecilik: 
+apa: nggawe, nindakake, nggarap, nerjemahake, ngaktifake, iya, laku, sijine, opo, nanggepi, apa, apa, apa, apa
+arahanswasanaati: indikatifswasanaati
+pitakonantembung: 
+copula: konektor, jaminan, Bunch, link
+wong: wong, wong, individu, piyantun, wong, wong, manungsa, pasuryan, pribadine, wong, wong, wong, wong, fellow
+lanang: lanang, sebutno, Gentleman, wong, lanang, wadon
+bisa: bisa, bisa, bisa, Mungkin, kamungkinan, tentrem, bisa, bisa, bisa
+nomer: jumlah, jumlah, tokoh, angka, angka, jumlahe, nomer
+banget: nemen, arangbanget, awfully, akeh, banget, banget, digunakake, Highly, tenan, kantiawon, sanget, banget, akèh, multi, enormously, paling, cukup, nyedhaki, adoh, cantik, ok, nggih, kabehtengen, nemen, perih, KALUBÈRAN, saèstu, luarbiasa, banget, banget, banget, banget
+wektu: nalika, wayahe, sak, paswektune, dadi, Temporal, tegang, jadwal, wektu, weather, mbaleni, jam, ngarsane
+wektucontext: 
+Temporalcilik: 
+bab: gegayutan, bab, saklawasé, taun, saka, dening, saka, sak, kanggo, ing, meh, kira-kira, bab, bab, bab, tamba
+harfiah: secaraharfiah, nyata, asli, Absolute, langsung, sastra, pas, akurat, pas
+mung: mung, namung, mung, titik, mere, sejatinesifate, Dibuwang, lagiwae, bay, piyambak, Bare
+sethitik: cilik, cilik, tipis, rada, dicokot, suntingan, cilik, diminutive, hotspot, sawetara, entheng, singkat
+banjur: maneh, ya, wiwit, ago, , mengko, bubar, pancet, sesampunipun, sakteruse, salajengipun, sawise
+hortativeswasanaati: 
+retrospektifaspek: 
+gedhe: gedhe, amba, Noble, serius, sungguh, sora, gedhetenan, buta, sanget, unggul, apik, nggoleki, owahan, ageng, substansial, apik, banget, paling, grand, utama, sampurna, apikbanget, sarwa, gedhe, gedhe
+volitiveswasanaati: 
+sadurunge: sadurunge, wis, ago, ndhisiki, nganti, nganti, ngarep, biyen, marang, mungsuh, nerusake, advance, luwih, ahead, sadurungé, sadurunge
+kudu: ngirim, kudu, rasah, duwekanggo, kudu, bakal, kudukanggo, pengin, kudu
+loro: dual, loro, loro, saperangan
+ndeleng: katon, tampilan, ngarsane, kabar, ndelok, nonton, ndeleng, deleng, ketemu
+ngerti: mesthèkaken, weruh, mulang, flag, katon, ngerti
+mudhun: mudhun, mudhun, ing, ngisor, ngisor, ngisor, kurang, ngisor, cendhek, mester
+pisanan: debut, dhisikan, wiwit, terus, sepisanan, pisanan
+dhewe: piyambak, dhewe, nduweni, wong, kang, dhewe, poto, pribadi
+alienablemilik: 
+inalienablemilik: 
+lawas: used, kuna, umur, tuwa, mantan, Ex, umur, sadurunge, leluhur
+deliberativeswasanaati: 
+dina: dina, supaya, apa, hubungan, proyek
+ngendi: ngendi, kang, Panggonan
+teka: kanggo, nganti, tekan, rawuh, teka, dadi, dumadi
+cara: cara, Tata, , liya, path, route, ngambakake, pathway, Trail, proses, dalan, werna, gula, track, alur, pakulinan, carane, proses, mode, akidah
+karya: proyek, assignment, aktif, tugas, pegawe, pegawe, karir, fungsi, operate, fungsi, business, tumindak, karyametu, Employment, komunikasi, apa, kriya
+aksara: misuwur, urip, kaslametané, gerakan, gerakan, lalulintas, aksara, jamur
+pindhah: lumaku, beya, mangkat, departure, pindhah
+perlativecilik: 
+majuaspek: 
+long: ingkangdipundanguaken, awet, dhuwur, bebarengan, wektu, jaman, tegang, adoh, nggambar
+ngomong: dipocapake, marang, nganggo, makili, hubungané, disebut
+malah: uga, salahsiji, nganti, nganti, malih, banget, uga, luwih, Salajengipun, dhewe
+bali: konco, mburi, mundur, sakdurunge, bali, mulihake, batalaken, maneh, baleni, ago, miturutkanggo, mbatalake, waras, nompo
+kene: ing
+mikir: mikir, panginten, nimbang, mbayangno, ngandhut, tapa, ngatur, disebut, pikiran, aran, koyone, nunjukaké, wawasan
+saben: kabeh, saben, sembarang, kang, menyang, saben, everybody, denominator, kabèh, saben
+pungkasan: pungkasan, terakhir, pungkasan, pokok, liyane, liya, palinganyar, anyar, pungkasan, kepungkur, keno, tahan, sadurungé, pungkasan
+ingcontext: 
+njupuk: resort, Occupy, njupuk, nganggo, njupuk, njaluk, nampa, Pick, nyekel, Jupuk, ngisi, nampa, nggawa, nindakake, njupuk, aplikasi, nemtokake, Applied
+ketemu: golek, nemokake, panemon, deteksi, diakses, njaluk, ketemu
+tangan: lengen, bangkekan, tangan
+enom: muda, junior, cahcilik, taruna, anyar
+menehi: ngutangi, nyedhiyani, tawaran, nyediakake, ngirim, nerjemahake, saged, sijine, nyumbang, supaya, ngawèhaké, menehi, mesti, siklus, ngakeni, utang
+Allah: gaib
+delativecilik: 
+boten: soko, obyek, orasiji, apa, oraana, oleh, sawetara, sawetara, tartamtu, Luwih
+tengen: pasangan, bener, kanthi, padha, kaadilan, sabdho, adil, layak, entitlement, hukum, bener, bener, tartamtu, manawa, irahan, uga, tengen, amarga, suwene, mlaku, cocok, cocok
+sapisan: langsung, sakcepete, cara, pola, Tata
+semelfactiveaspek: 
+kiwa: adoh, ninggalake, skip
+part: bagean, sebagian, bagean, sebagéyan, bingkisan, bagiansekedhik, babagan, nuduhake, dicokot, Piece, wacana, himpunan, bab, departemen, episode, sebagean, divisi, pendhapa, sektor, babagan, atas, melu, kuantum
+house: ngarep, latar, candhi, omah, kluwarga
+donya: dunyo, global, Semesta
+sirah: title, utama, pangareping, bab, pimpinan, presiden, Ketua, direktur, boss, pen, sirah, rambute
+telung: katelu, kapingsanga, tax
+fokus: dimaksudaké, Yahoo, goal, adil, musataken, manungsawaé, konsentrasi, converge, sesanti
+tresna: tresno, amal, kaya, tresna
+tansah: ingsalawas-lawase, saya, tau
+wengi: sore, dinner, p.m., bengiiki
+king: mrentah, Gusti, rojo, tycoon, pangeran
+antarane: antarane, diantara, saka, ing, menyang, ing, tengah, agêng, sak
+jantung: gayeng, nyemangati, topple, koroner
+paucalnomer: 
+amarga: amarga, wiwit, cilik, sabab, alesan
+nyebabakecilik: 
+jeneng: surname, tembung, pakaryan
+suwenetembung: 
+negara: bangsa, tanah, bumi, negara, lemah, lemah, party, deso
+takon: takon, takon, nggusah, pitakonan
+katonevidential: 
+luwih: unggul, paling, banget, becik, pinunjul, luwih, luwih, apik
+sisih: tambahan, sih, sih, atas, siji, kaca, aspek, setengah, facet, menyang, jejere, aside
+mesthi: kurikulum, wulangan, kuliah, mesthi, mesthi, temtunipun, rate, path, mesthi
+cukup: cekap, cekap, oranyukupi, akeh, nyedhaki, kathah, botencecek, cukup, cantik, owahan, banget, substansial, Ngartekno, mesti, cukup, sijine, kanthi
+rauh: sakcepete, cepet, prompt, cepet, cepet, langsung, cepet, cepet-cepet, urgent, supaya, langsung, siap, toko, awal, sworoseru
+lengkap: kanthi, cekap, Absolute, lengkap, cacat, kabèh, persis, pas, ngocapake, sabenere, pepek, kabeh, lengkap, ukuran, tanggung, rampung, babarblas, rampung, tuntas, ngrampungake, isodilacak, nepaki, ngebaki
+kamar: kamar, papat, bedroom, tentrem, kamar, rong, ambane
+banyu: Cairan, adi, Kali
+desiderativeswasanaati: 
+cahya: cemlorot, padhang, lilin, tipis, gaya, entheng, bulak, langit, Awan, cahya
+tembung: paromosastro, muni, Vocabulary, tembung, tembung, tembung, tembung, term
+lawang: gapura, lawang, ngleboke, bab, port, Warta
+nggunakake: nggunakke, Panggunan, konsumsi, sah, konsumen, melu, aplikasi, sarana, aplikasi, tugas, nganggo
+morning: a.m., sarapan
+terminativecilik: 
+daya: kekuatan, energi, bisa, kuwat, pasukan, kuat, dinamis, salad, dominasi, panguwasa
+piyambak: dhéwé, dhewe, piyambak, aku, dhéwé, dhewe, poto, EGO, piyambak
+swara: muni, banter, kertusuoro, audio, vote, item, kabarangin, kabarangin, gangguan
+putih: blank, complaint
+dhuwit: kasugihan, silver, financial, awis, itungan, finance, babakandhuwit
+sabanjuré: jejere, kajawi, sabanjurékanggo, Dipuntedahaken, mengko, ukuran, terus, sakteruse, sawise, sesampunipun, salajengipun, bubar, kasebut, nerusake, luwih, ahead, nerusake
+miskin: lengen, mlarat, ala, banget
+pati: kematian, dying, mati
+wangun: wangun, jamur, format, bleger, pola, farm, shaped, morfologi
+inessivecilik: 
+bebarengan: bebarengan, bebarengan, peserta, bebarengan, pesawat, kajawi, magepokan, gabungan
+prakara: cilik, hubungan, bab, kedadean, masalah, materi, inti, tundhuk, JeksaAgungbisangetokake, pitakonan, kuwi, topik, Apike
+asring: seneng, saya, ajeg, Kerep, umum, biasane, biasane
+kanca: kumpulan, pacar, fellow, mate, digandhengake
+supaya: sistem, noto, ngatur, kontrak, Uploaded, printah, siji, baris, saiki, urutan, urut-urutan, ngajak, supaya, supaya, supaya, Nulis
+utomoswasanaati: 
+babak: dibunderaké, bunder, lap, bal
+tetep: terus, njaga, lay, sijine, pesawat, tempel, makaryakke, njaga, melu, kaya, pengawetan, konservasi, ngreksa, nyegah, bakal, tetep, tetep, tetep, pangopènan
+bojo: pasangan, wadon
+pracaya: dateng, mawas, ngira, iman, yakin, kapercayan, mesthi, optimisme, optimistis, katergantungan
+near: pass, jejere, meh, sak, cedhak, saklawasé, jejer, sakbenere, toko, proksimal, pepadhamu, pepadhamu
+umum: umum, pamirsa, umum, umum
+negaracontext: 
+putra: grombolan, boy
+atus: atus, pasuryan, sen, abad
+anak: bocah, turunane, anak, baby
+mangkono: mangkono, supaya, Empu, kuwi, ya, mulane
+Mugi: pengin, prospek, antisipasi, optimisme, optimistis, samesthine, nyana, pengarepan
+ndhuwur: munggah, liwat, mendhuwur, dhuwur, ndhuwur, majeng, ndhuwur, tengen, bab, liwat, marang, nduwursirah, dhateng, ahead
+dear: pacangan, larang
+maca: maca, sing, Lily, maca
+kutha: kutha, kotamadya, county, kutha
+wis: siap, disiapake, gelem, tho, wis
+kasunyatan: bebener, kasunyatan, Tan, bener, nyata, nyata, tenan, tenan, bener, iya
+factiveevidential: 
+girl: prawan, putri, wadon, lady, gendakan, piyambak
+krungu: listen, Hearing, aran
+paling: tithik, minimal, nyilikake, minus, kurang, paling, paling, paling, paling, paling
+mbokmenawa: mbokmenawa, Mungkin, minangka, bisa, bisa, bisa, kamungkinan, kemungkinan, mesthine
+mbukak: langit, kosong, cetha, Bare, temenan, kosongmlompong, nyata, ketok, ruangan, defisit, melak-melak, mbabarake, mbukak, mbukak
+awak: daging, onosesambungankarobadan, fisik, fisik, corpus, organ, mayit
+air: angin, breeze, aviation, weather, maskapai, pesawat
+alam: alam, native, alamiah, asal, keturunan, pribumi, satwa, karakter
+bantuan: ngewangi, mbiyantu, sepindah, pitulungan, assistant, lay, relief
+layang: mail, , nulis
+papat: papat
+optativeswasanaati: subjunctiveswasanaati
+geni: panas, semangat, mriyang, geni, buddha
+free: Liberty, kamardikan, exempt, gratis, muspra, bebas, kosongmlompong, kahanan, release
+perang: perang, perjuangan, perang, perang, perang
+kapindho: liyane, loro, miturutkanggo, liyane, sareh
+united: tunggal, manunggal, klebu, Uni, rumpun, kumpulan, unik, unanimous, peserta, gabungan, koalisi, federasi
+telpon: tantangan, ngoksidasi, mréntahaké, ing, sambungan, kombinasi, peserta, campuran, undhangan, sakumururip, obrolan, telpon
+kok: padha, Kajaba
+ilang: mundhut, ilang, ilang, ilang
+ewu: sewu, sandhangan, kain
+kulawarga: kluwarga, slamet
+nyawa: roh, Kudus, mastermind
+care: ngangap, badhan, manungsawaé, semedi, layanan, sponsor, njaga, safety, pangayoman, keamanan, nimbali, pengawetan, konservasi, jangkoan, nimbali, ati-ati, tamba, perawatan, ditahan, sumelang, kuwatir, gawekuatir
+ateges: patijelas, raos, meaning, migunani, ndudohke, tengah, agen, medium, saben, Moderate, ateges, ngerti
+beda: béda, beda-beda, macem-macem, mawarni-warni, kaping, prabédan, kapisah, jenis, kapisah, variable, diferensial, kados, varian, beda-beda, warna, liyane, liya, liyane, sawetara, beda, macem-macem
+potensialswasanaati: 
+allativecilik: 
+anthropicgender: 
+limang: kalima, taun, kanggo
+manggon: urip, urip, nindakake, urip, nest, Kabupaten, tetanggan, tetanggan, urip, nengsemake, raw, sakcara, suta, manggon, langsung
+bedatundhuk: 
+jawaban: lor, reply, nanggepi, solusi, cocog, nanggapi, lor, réplikasi
+sea: ocean, marine, 
+wedi: dread, wedi, teror, awe, wedi, gupuh, kuatir, angst, medeni, ajrih, wedi, phobia
+hard: Angel, kuli, rumit, atos, sora, violently, galak, angel, ketat, tantangan, angel, ngalangi, nyenyet
+istilah: term, terminologi, JeksaAgungbisangetokake, adhedhasar, latar, basis, ateges, dhasar, Sejatine, property
+mangu: anggepan, orangandel, , Suspect, supplier
+dubitativeswasanaati: 
+ireng: pemblokiran
+ayu: apik, becik, apikbanget, apik, apik, cantik, apik, kelangan, imut
+peteng: gloom, peteng
+Urut: klasifikasi, golongan, classifier, jenis, spesies, macem-macem, item
+sepuluh: dasawarsa, sepuluh, padha
+gambar: tampilan, nindakake, kinerja, demo, presentation, nunjukaké, ndudohke, acara, nggambarake, ngetokne, gambar, gambar, gambar, gambar
+crita: mitos, Sajarah, narasi, fiction, plot, dongeng, Dhiskusi, topik
+buku: gulung, cadangan, pound, buku
+elektronik: elektronik, elektron, kilat, listrik, listrik, electrical, , email, mantan
+akun: alesan, sabab, ngetung, etungan, kalkulus, Bill, pitungan, Count, mawas, aritmetika
+tandha: panandha, tilak, Trail, skor, , murup, obah, tag, tandha, sinyal, pratondo, cue, account, karakter, label, kesengsem, simbolis, tandha, simbol, lambang
+kapentingan: kembang, interested, badhan
+nulis: nyipta, nulis, jinis, ditulis, nulis
+amben: 
+perlu: penting, penting, migunani, kritis, penting, wujud, penting, integral, wigati, Jahwéh, kudu, kudu, intransitive, intransitive, intransitive, urgent, caket, pendjalok, dibutuhake, mbutuhake
+idea: panginten, wawasan, mratelakakepanemume, pemanggih, Brainstorm, mikir, mbayangno, bayangan
+vialiscilik: 
+cak: sibling, Dhik, geni, rowange
+kadhangkala: jarang, sok-sok, arang-arang
+line: kabel, utas, baris, lane, antaran, mlayu, belang, tax, script, garis, judhul
+Tabel: mejo, jadwal, Katalog, Katalog
+kali: guling, tedheng, owahterus
+mripat: milih, sak, salju
+Alexa: pesen, panjelasan, gambaran, Bulletin, kawruh, data, Alexa, ngandhani
+dumadakan: dadakan, dikarepke
+aneh: strangely, ngageti, oddly, aneh, wonder, apik, apikbanget, Srengengekatonpadhang, luarbiasa, apiktenan, aneh, lucu, liyo, endah, kikuk, mbotenumum, aneh, aneh, curious
+jero: rumiyin, ambane, ekstensif, cethek, pepek, rinci, lengkap, sanget, penting, ing, nang, njeroruangan, cacing
+owah-owahan: perubahan, jenis, transformasi, ndandani, mutasi, shift, ngowahi, mbenake, transisi, manunggal, variasi, bedo, variable
+koyo: aran, sensation, pemahaman, kesengsem, emosi, swasanaati, kesengsem, emosi, sensori, sentimen, raos, passion, sadar, eling, rangsang, pemanggih, angen-angen, konsep
+maksud: obyek, Yahoo, adil, goal, panggonan, niat, dimaksudaké, alasan, target, kauntungan, entukmanfaat
+seneng: nyenengake, amused, kesenengan, bungah, kabungahan, rasaseneng, bungahaken, remen, fun, seneng, Bejo, pleased, emoticon, seneng, seneng, seneng, mbotenremen
+getih: metugetihe, getih, getih
+wungu: pink
+kidul: kidul, noon, midday
+kadhemen: mangsa, kelangan, coldly
+posisi: lokasi, kahanan, status, kasempatan, kesempatan, papan, sikap, dedegpiadeg, Panggonan, kirim, item, orientasi, lay, dumunung, lokasi
+ngadeg: stasiun, vertikal, sikap, sikap, mungkasi, dedegpiadeg, nuduhke, kandhang, dadi, tetep, tetep, ana, mungsuh
+Upaminipun: Panyangka, hipotesis, nganggep, nganggo, ngira, hypothesize, lay, kluwarga, mesthine
+mine: sandi
+Cut: lack, kakurangan, abang, kurang, ngurangi, butuh, miss, nglereni, ngganggu, chop, motong, potong, broken, nglanggar, kongkalikong
+salinan: ngasilaken, réplikasi, nurun, transkripsi, Fotokopi, Klone, versi, resep, , kasugihan
+bojomu: wong, pasangan
+enem: jinis
+kurang: kurang, singkat, mirah, tuku, keguguran, tithik, ngisor, cethek, kurang, kurang, ease, nyuda, ngurangi, nyilikake
+elinga: catetan, kelingan, ngelingake, apal
+efek: pengaruh, mengaruhi, kesengsem, impact, dominasi, efisien, èfèktif, efektifitas, akibat, asil, cahya, kasil, Sarehne
+tiba: Autumn, cilik, dumunung, kacilakan, tumble, risak, ambruk, nyelehake, Kurangépopulasi, ngurangi
+kajaba: kajaba, njaba, Kejabi, lorosaka, njabasaka, loro, kalebu, asidesaka, tanpa
+hakcipta: 
+tentara: pasukan, tentara, inang, prajurit
+roto: nylametake, saluran, mlaku, hajar, operate, drive, gear, operasi, operasional, defend
+jaran: tapeljaran, ing, komentar, utterance
+mangsa: mengko, sesampunipun, bubar, mangsa
+kulon: western
+mbayar: bayaran, wage, gaji, tikaman, pembayaran, remunerate, ragad, biaya, supaya
+abang: abang
+emas: 
+kepinginan: kae, semangat, napsu, pengin, yearn, nggusah, hawanepsu
+muter: dancing, gamble, game, pipi, dolanan, muter, muter, muter
+master: Gusti, utami, utama, profesor, dominasi, mrentah, mr, Gentleman, anjog, mister, pemilik, mastermind, kontrol
+kantor: agensi, mejo, pelayanan
+pamaréntah: negara, baris
+pasamuwan: 
+dawa: dhuwur, dhuwur, span, bebarengan, dadi, dhuwur
+perusahaan: tenan, perusahaan, masyarakat, business, perusahaan, entitas, institusi, agensi, institute, sukan, perusahaan
+kertas: sheet, kertu, charter, koran
+kemungkinan: kamungkinan, tentrem, kamungkinan, bisa, dipercaya, prospek, kasempatan, kemungkinan, kemungkinan, rintangan
+utamané: khusus, khusus, khusus, utamané, tartamtu, persis, utamané, biasane, utamané, tartamtu, Jahwéh, biasane
+metokake: nindakake, keno, forbearance, toleransi, duwe, nduweni, saged, ngidinke
+jendhela: 
+agreement: protokol, utang, rembugan, Kesepakatan, kasepakatan, setuju, hasil, kasepakatan, tender, penghubung, kontrak, konvènsi, noto, nyang-nyangan
+kaendahan: apik, brilliance, estetis
+tugas: hukuman, tanggungjawab, kewajiban, tanggungjawab, khusus, tugas, assignment, utang, utang, duwekanggo, tugas, nasib
+ngirim: ngirimaken, pengajuan, kirim, Broadcast, email, transmisi, ngirim, ngirim, ngirim
+kadohan: aman, sawetara, misahake, werna, longkangan
+kasepen: stillness, sepi, bisu, kasepen, tentrem
+mlaku: wentis, nyegah, thigh, jempol, waktu, paw, mlaku, mlaku, langkah
+alambébas: nyakakak, ilegal, galak, satwa, jungle
+mati: mati, dying, mati, mati
+nyimpen: nyimpen, pengawetan, waras, ngreksa, konservasi, apal, nyimpen, ngijolake, rescue, rekaman, pangayoman, ngreksa, nyisihaken
+ijo: raw, Crude
+alangan: keganggu, JeksaAgungbisangetokake, masalah, kasangsaran, kangelan, knead, gerah, masalah, alangan, diladeni, Wirang
+eseman: grin
+salah: kesalahan, kesalahan, mistaken, kantiawon, nyikara, palsu, kaluputan, Gagal, cacat, wrongly, gaffe
+turu: asleep, ngimpi, turu
+quotativecilik: 
+diwiwiti: miwiti, wiwitan, nggarap, ngeruk, serangn, awal, dhisikan, wiwitan, debut, asas, numpakkapal, miwiti
+tumindak: tugas, titik, langkah, panggung, tumindak, prosedur, aktif, operasi, operasional, ngaktifake, aktivis, pamindhahan, laku, laku, operate, Simpenan, eksekusi, hajar, tumindak
+riko: akses, Interview, diakses, travel, trip, lelampahan, demo, filsafat, mada, patemon, hadiah
+tindakake: selaras, bakal, Dipuntedahaken, nguber, track, ngancani, ngrungokake, sakteruse, tahan
+nyoba: nyoba, ngupados, gaweyan, inisiatif, jajalan, test, sample, rajin, nyoba, ujian, ujian
+ngarsane: orane, ana, entitas, bondho, kedadeyan, ngarsane, saksi
+abot: Ambalan, akehbanget, Angel, abot, bobot, akeh, gedhetenan, ati, ageng, massive
+manis: , Candy, lanang, empuk, imut
+tutuk: lisan, bodo, sip, pasuryan
+sugih: kathah, KALUBÈRAN, sugih, sugih, loman
+mungsuh: musuhan, mungsuh, mungsuh
+kapal: boat, sail, armada, sailing, prau, cruise, Ferry, weteng, kemudi
+kondisi: nang, totoan, negara, kahanan, kahanan, status, rejeki, panggung, tingkat, fitness, requirement
+kalebu: ngemot, kalebu, ndherek, kagungane, kalebu, kalebu
+klebuwong: 
+katon: katon, njedhul, muncul, emergence, katon, koyone, katon, haunt
+rahasia: aneh, misteri, pin, lemah
+please: kindly, takon, sih
+precativeswasanaati: 
+sopanndhaftar: 
+ala: gawepiala, becik, ganas, ala, kantiawon, ala, gerah, Samsayaawon
+Maret: arakan, protest, demo, mars
+alon: mbokosithik, alon, alon-alon, lirih, pungkasan, bertahap
+tinimbang: tinimbangsaka, rodo, Kejabi, panggantos, substitusi, Utawa, atas
+biru: cyan
+mokal: 
+sekolah: kampus, andha
+wusana: kesempatan, acara, kedadeyan, kasempatan, avenue, nyang-nyangan, jam
+nikah: marriage, omah-omah, wedding
+pangan: meal, diet, sajian, feed, mangan
+puluh: 
+gampang: kamungkinan, siap, tanggungjawab, gampang, penak, tipis, rada, entheng, trep, suta, sedhela
+calonaspek: 
+basa: linguistik, basa, basa
+expression: nyebut, statement, tembung, ngomongake, cahya, utterance, rumus, perwakilan
+minggu: sunday, minggu
+bale: téater, lorong, papan, kamar, salon, Lounge, aisle, runner, lobi, bolongan, haul
+bebaya: mbebayani, resiko, , bab
+biasanipun: umume, umum, umum, tumindake, , biasane, biasa, mbotenumum, umum, andhapasor, normal, oraduweaturanbaku, conventional, khas, , biasane, biasane, ide, biasa, , kosong, kira-kira, prasaja, Moderate
+ditakdirake: lair, rebirth, alus
+pengadilan: hukum, sajian, forum, pengadilan
+gnomicaspek: 
+worth: pantes, Nilai, terkenal, sah, patut, biaya, price
+wit: tanduran, kayu, batang, timber
+wall: 
+swarga: langit
+inchoativeaspek: 
+jussiveswasanaati: 
+muni: Jarak, melodi, ton, ton, iyub-iyub, , muni
+gati: bab, nganggep, ngira, manungsawaé, wawasan, nimbang, hubungan, asosiasi, sesambetan, komentar, jangkoan, hubungan, hubungané, gadhah, gegandhengan, ngangap, kagungane, gegayutan, cocog, cocog, relevan
+sasi: rembulan
+pengalaman: empiris, experiential, ngalami, expertise, zest, jajalan
+kahanan: skenario, kahanan, kahanan, kahanan
+seger: anyar, murni, resik, , anyar, wonganyar, palinganyar
+Adipati: ruler, pangeran, peer
+dijamin: panutup, jangkoan, mati, ditutup, njeroruangan, tutup, mrentah
+bound: ombone, watesan, watesan, wewatesan, watesan, diwatesi, disambungake, gumantung, tali, wates, ngurungi
+wétan: eastern, ago, sadurungé, sadurunge, wis, orient
+watu: marmer, rock, gem
+arah: orientasi, ukuran, gaya, facet, instruction
+dhingklik: jog, armchair, dhingklik, Lounge
+support: nyonggo, nyetujui, pitulungan, ngewangi, krenjang, sepindah, basis, pirantikanggonyangga
+tanggal: Sajarah, manggih
+desa: dusun, deso
+lapangan: bal, dunyo, wilayah, wilayah, area, zona, sektor, domain, arena, stadion, papan, wates, deso, camp, farm
+ngenteni: nyana, terus, tetep
+ijin: ngidini, kuping, ijin, clearance, ninggalake, lisènsi, lisènsi, idin, edition, milik, disetujoni
+permissiveswasanaati: 
+sukses: sukses, kasil, kamakmuran, prestasi, kamenangan, menang, kenek, menang, juara, begja
+gunung: gunung, gunung, gunung
+music: musik, klasik
+pisahadohdemonstrative: 
+afternoon: p.m., noon, midday, sore
+nangis: nangisi, bengok, njerit
+pakurmatan: pakurmatan, bab, kamulyan, kajenkeringan, mulya, sakralkami, duweni, kamulyan, rate, price
+pitu: 
+pribadi: pribadi, poto, wong, khusus, privasi, tartamtu, eksklusif
+njagong: tetep, dumunung
+warta: pesen
+pemandangan: situs, ngarsane, context, tampilan, visual, panggung, tampilan, prospek, tarub, katon
+Taman: , park
+lomba: rasis, racing, mlaku, kontes, turnamen, tender, jenis, match, bangsa, scramble, lace
+distributifcilik: 
+sinau: sinau, mulang, disengojo
+politik: politik, politik, politisi, privasi
+wicara: kuliah, Dhiskusi, obrolan, wacana, dipocapake
+ngapusi: palsu, ngapusi, ngapusi, ngapusi
+matak: mbucal, uncalan, fling, tos, format, jamur, Bukak, ngeculaké, metu
+mangan: meal, feed, sajian, mangan, konsumsi
+lantai: Karpet, lemah, ngisor, lemah, lumaku, dhuwur, dhuwur, panggonan
+panas: panas, panas, panas
+agama: agama, utang, akidah, Foster
+Gambar: mujur, lukisan, gambar, foto, Photographic, photography, foto, Fotokopi, drawing, sworoseru, film, ilustrasi, Sudamala, anjir, tokoh
+uwal: nylametake
+penulis: writer, guru, editor
+coklat: grey, grey, suntan, tembaga, coklat, gandum
+ditemtokake: netepake, arep, nemtokake, pesti, tegas, Desainer, kasebut, mesthèkaken, stabil, tartamtu, kaputusan, determiner, tetep
+pain: babras, prihatin, nglarani, sungkowo, perih, kasangsaranbanget
+spring: wulu, kita, kito
+alus: concessive, Gamelan, sacoroapik, tender, alon-alon, lirih, lanang, empuk, entheng, alus, alus
+sudhut: amba, sudhut
+: , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ing, lan, a, ngirim, ngiyataken, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , industri, 
+gawé: produksi, generate, produktif, fabricate, Pabrik, Manufaktur, potong, crops, produk, nggawe, tatanan
+ngguyu: jest, ngguyu
+lali: klalen, lali, lali
+europe: 
+wolung: kawolu
+maringaken: dening, liwat, pass, liwat, dilakoni, wacana, crossing, shift, transisi, aisle
+elek: ala, nggegirisi, banget, medeni, sanget, tragis, nguwatirake, ajrih, monstrous, awfully
+sake: alasan, sih, sih
+ambegan: ambegan, ambegan, AMBEGAN, gempur, EGO, gasp, desahan, kalakon, inhale, sniff
+wicaksana: cukup, nyoto, wicaksana, pemikir, pinter, pinter, pinter, diwasa, sarwa
+possessivepanandha: 
+penake: nyenengke, nyenengake, sarujuk, nyaman, mulyo, Apike, becik, apik, jenis, apik, fun
+sampurna: tanggung, kanthi, rampung, babarblas, aktif, sampurna, saestu, kabeh, cukup, persis, pancen, Absolute
+memori: apal, referensi, Monumen, tilak
+grave: serius, abot, akehbanget, kuburan, kritis
+modern: kontemporer, canggih, modernisasi, modern, anyar, wacana, terakhir, majeng, saiki
+titik: titik, dot, jam, lokasi, rereged, tembelan, Panggonan, oraono, latar, lokasi, situs, lokal, nemokake, tandha, titik
+break: breaking, brake, resort, Lounge, gangguan, interval, longkangan, mbanting, mecahake, mungkasi, ngaso, ngganggu, sumelang
+pulo: 
+tutul: kontak, tutul
+witjaksono: padhakaro, padha, padha, rightly, ok, kabehtengen, merata, degree, par, podhorupo
+dharat: serep, brink, pesisir
+janji: laku, prasetya, sumpah, janjian, tanggungan
+commissiveswasanaati: 
+rencana: rencana, hasil, program, program, inisiatif, Planner, , proposal, project, plot, gambar, nggambarake, tataletak, flat, drawing, desain, rencana, planning, kontemplasi
+surprise: ngeramaken, dikarepke, sengaja, ngageti, wonder, kaget, kaget
+menit: 
+dijupuk: njupuk, shooting, peluru, amunisi, foto, foto, jotosan, bang, kudeta, uncalan, pigura, kick
+mimpin: Kepemimpinan, anjog, kemudi, peluru, drive, nuntun, nggawa, mimpin
+kaca: mirror, Crystal, jar, kacatingal, kaca, kaca
+Papan: papan, PBB, munggah, munggah, kulo, group, panitia, panel, saran, pinggiran, Komisi, tablet, edition
+Kayata: contone, ilustrasi, model, pola, kiasan, prototipe, minangka, makili, spesimené, cilik, perintis, sample, paradigma, Nggambarake, ya
+aman: ngamanake, safety, keamanan, aman, mesthi, insurance, manawa, aman, aman
+dhokter: dokter, terapi, praktisi, medical, dentist
+kelas: jenis, orbit, kelas, bahan, misahake, lapisan, kategori, Alexa, Kabupaten
+completiveaspek: 
+bola: seneng, biasa, pancet, saya, sok-sok, Kerep, ajeg, , Ambalan, baleni, mbaleni, Revisi, pengulangan
+militèr: county
+anget: panas, panas, anget, suhu, panas, gram, panaslanmawabanyu
+ngombe: wedang, mabuk-mabukan
+nesu: duka, nesu, njobo, ngganggu, éwadéné, nesu, pegel
+langsung: sakcara, langsung, langsung, otomatis, suta, langsung, straighten, langsung, langsung
+hat: tutup, helem
+dog: 
+abdi: steward, waiter, , prawan, abdi, domestik
+bangga: arrogant, bangga, bangga, hubris
+akeh: rush, crowded, tiyangkathah, jumlah, jumlahe, populasi, inang, tumpukan, akeh, akeh, akeh, akeh, akeh, akeh, komplotan
+Sepur: kreta, car, titian, cart, railway, alur, Ajar
+moral: moralitas, morally, sopan, Etika, morale, spiritual
+greek: 
+pas: miturut, cocok, cocog, kompatibel, suwene, trep, cocok, cocog, layak, relevan, kasepakatan, nyetel, pas, pas, pas
+ketik: log, entri, negara, nunjukaké, masang, kalebu, ndhaftar, Pendhaftaran
+aturan: administrasi, dominasi, regime, pangadilan, putusan, pangadilan, wasit, mrentah, hukum, aturan, pakewuh, negara, aturan, mrentah, angger-angger, resep
+pedhang: agul-agul, piso
+serangan: mlebu, nyerbu, agresi, pelanggaran, sergap, pelanggaran, serangan, serangn, nyerang, gropyokan
+kesehatan: sehat, salam
+paragraf: ayat, angger-angger, cuwilan, titik, sikap, sikap, par
+sosial: masyarakat, sosial
+mbalekaken: reply, nanggapi
+nuwun: Getun, Pole, pardon, alesan, njalukngapura, tega, kasusahan, nandhangsangsara, gerah, sungkowo, prihatin, mourning, sumelang, nangisi, kasangsaran
+wani: pluck, kandel, mesthi, syaraf, fortitude, wani, wani, prau
+resmi: formal, resmi, resmi, pejabat, Carik, birokrasi, kuoso
+kasedhiya: nyedhiyani, tawaran, nyediakake, introduksi, kasedhiya, sumber, panentu, ngebaki, yen
+request: pandonga, dikarepake, pratelan, mbutuhake, requirement, inquiry, inquiry, prompt, bid, aplikasi, pengin
+Mirit: sakklebatan, tampilan, sikap, pemahaman, Outlook, ngarsane, katon, ngelingke, ndeleng, glare
+panyebaran: detail, ngluwihi, extension, expansion, nggedhekake, nyebar, lazim, penyebaran, buyar, nembus, amplitudo, ngetokake
+ngelawan: ngarep, gantos, nalisir, ngawan, mungsuh, tengen, counter, kados, mbantah, Balèkna, loncatkaromuterawak, marang, musuh, anti, malik
+rolas: rolas
+melu: engagement, sibuk, melu, melu, dikuwasani, melu, melu, pragmatic, kuwalik
+anggur: alkohol, alkohol
+rasa: roso, roso, éca, umpan, zest
+wesi: baja, metal
+disebaraké: ngirimaken, masang, nerbitaké, publishing, penyebaran, ngetokake, distribusi, nyedhiakke, nuduhake, dibagi, pamisah, kanggopamisah, golongan, distributif, distribusi
+perdagangan: dagang, business, commerce, dagangan, internet, nyang-nyangan, transaksi, marketing, komersial
+hakim: pangadilan, pangadilan, wasit, hakim
+penasaran: darurat, urgency, ngangap, kaget, kuwatir, kuatir, badhan, sumelang, pemikir, oraadil, gawekuatir, wedi, ngengkel, gangguan, nguwatirake, antusias, semangat, sumelang, kuwatir, penasaran, kumrungsung, angst
+kapten: 
+mandhekaspek: 
+manca: luarnegeri, asing, foreigner, endah, liyo, external, jabanrangkah
+Intensifier: intensify
+wigati: pendjalok, relevansi, meaning, pinunjul, wigati, emphasis
+pungkasanipun: wekasanipun, pungkasanipun, wates, pungkasan, pokok, terminal, sacoroapik, pungkasan, nibakake
+mbuktekaken: bukti, konfirmasi, negasake, nduduhake, nekseni, ngerti, axiom
+nyegah: mandek, ngalang-alangi, nyegah, nindhes, matesi, nyandhet, pemblokiran, ngempet, ngrintangi, nglarang, supaya, bareng-barengnyuda, nundha, nyegah
+gulu: tenggorokan, item
+menarik: fun, nyenengake, nglipur, Apike, atraktif, narikkawigaten, nyengsemaken, tarik, mréntahaké, mbatalake, macem, curious
+legal: hukum, hukum, sah, pigura, téoréma
+garing: gagang, wêdakakêna
+ngawula: layanan, entuk, ngebaki, tawaran
+bukti: evidential, bukti, nuntun, pitunjuk, direktori, tampilan, seksi, bukti, nekseni
+evidentialcilik: 
+adoh: adoh, adoh, mati, loro, laptop, remot, Sung, adoh, banish
+proses: stride, kemajuan, pembangunan, maju, ngremboko, advance, nerusake, dandan, Satmata, wutah, promosi, proses, proses
+panah: lancip, nyenyet, singkat, ngurungi, ngganggu, nyilikake, winates
+bangunan: mbangun, struktur, mbangun, construction, latar, balung
+search: golek, nemokake, panemon, nggoleki, deteksi, seeking, ngupaya, riset, survey, nguber, inquiry, diselidiki, inquiry, eksplorasi, penemuan
+sad: nandhangsungkowo, susah, dakkirim, upsetting, upset, remorse, mbotenremen
+dosa: sirno, susah, laku
+lara: gerah, perih, penyakit, sabar, penyakit
+jujur: tulus, manut, sajujure, frank, sakcara, jujur
+bank: bench, tin
+alas: jungle, kehutanan
+ngukur: gauge, Takeran, nimbang, meter, meter
+stream: mili, angger-angger, saiki, listrik, owahterus, jet
+kasebutkanthiteliti,: rapet, ati-ati, ngati-ati
+roti: bake, sow, sandwich, morsel, pan
+tambahan: ekstra, spare, malih, keluwihan, keluwihan, luwih, Saliyane, tambahan, nambah, sesambungan, tambahan, tambahan, bonus
+milih: pilihan, pilihan, pilih, Milih, Pick, milih, nelpon, vote, ujian, pilihan, milih
+kewan: titah, nétral
+zoicgender: 
+eventiveswasanaati: 
+multiplicativecilik: 
+diwenehi: gain, ndarbeni, disualekno, nampa, njaluk, golek, ngamanake, ngreksa, nyonggo, niru, njupuk, duwe, ngrampungake, entuk, omah-omah
+nglintasi: tengen, crossing, pass, ngluwihi, nembus
+nglukis: lemu, thickly, kandhel, lemak
+tuwuh: cultivate, munggah, wutah
+udan: udan, udan, padusan, udan, non, broom
+quietly: 
+lumahing: pasuryan, tingkat, bidang, area, landasan
+suci: suci, kamulyane
+Juli: 
+fashion: modern, proses, cara, pendekatan, prosedur
+laporan: netepake, statement, aspek, hubungan, sesambetan, padha, pameran, Essay, cahya
+file: document, lodge, profile, arsip
+Pundhak: batang, sumbu, Sudamala, jongkas, lengen
+kraton: Imperial, monarki, Kratoning, kekaisaran, nyata, nyata
+song: tune, track, singing, geguritan, sing
+comfort: ease, anteng, sayah, dukungan, penak, liyane, relief, fasilitas
+sapa: sopowae, piyantun, wong, oleh, everybody, everyone, sapa
+suket: HAY, ganja, Herb, lawn, gram, dipercoyo
+opening: pambuka, dhisikan, panemon, longkangan, slot, melak-melak, awal
+Juni: 
+iwak: Aquarium
+ibukutha: bab, dana, bondho
+susu: dodo, susu
+pendidikan: Ajar, wulangan, pendidikan, kesusastraan, tatanan, training, educated, akademisi, instruction, mulang, memulang
+cetha: padhang, galak, ketat, banget, pedhes, nuding, leukemia, ngengkel, asri, cetha, glare
+beyo: ragad, sah, biaya, edition, output, ngisi, nglampahi
+Yours: Panjenengan
+yuta: yuta
+ndedonga: takon, pandonga, beg, nyilih
+kesel: lemes, tiring
+matèni: Rajapati, nyababaken, ngilangke
+Shadow: iyub-iyub
+massa: kualitas, bebarengan, jumlahe, akeh, jamak, akèh, bongkahan, cluster, tiyangkathah, pelanggaran, keuangan, pasta
+mantep: nginstal, ngalangi, kuwat, stabil, nggawe, netepake, incumbent, founds, panyiapan, tatanan, Nggawe
+wareg: pleased, kepuasan, kabingahan, bungah, maremake, marem, isi
+mriksa: mriksa, katon, nonton, , pilihan, nliti, mrekso, ujian, test, audit, , penengah, survey, neliti, mesthèkaken, mbenakake, kontrol
+kabecikan: kebecikan, kaluhuran, benevolence, karakteristik, ngubungake, sipat
+Golden: pirang
+nasional: bangsa, warganegara, ètnis, domestik, nasionalis
+principal: Perdana, keyword, utama, utama, pangareping, anjog, pokok
+lebak: basin
+guess: kesimpulan, Suspect, ngira, ngira, ngira, prediksi, prédhiksi, forecast, speculate, gaib, konjektur, samesthine, Assessment, netepke, ngira-ngira, panyerakan, katebak
+Spekulasiswasanaati: hipotesisswasanaati
+kuning: bulak, amber, pirang
+Sisa: turahan, ampas, isih, leftovers, liyane
+mbengkongaken: sudhutmlengkung, bend, gaya, bengkong, slope, slant, lempitan, pemahaman, Panyangka
+kothak: koper, laci, dana, kit, bisa, , bin, , kothak, kothak, kothak
+usum: mangsan, bab, stasiun, jaman
+ilmu: ngelmu, morfologi, Linguistics
+ketoke: temenan, langit, ketok, melak-melak, tegas, mesthine, cetha, bukti
+bolongan: bolongan, pengeboran, kurang, boring, Pierce, ngganggu, forum, bosen, sightsee
+lik: lik
+dhaftar: index, Katalog, Katalog, menu, ndhaftar
+Agustus: 
+kalem: sepi, tranquil, tentrem, bisu, alon, anteng, stillness, lirih
+populer: lazim, misuwur, penting, rakyat, anjog, Veteran
+dingerteni: liyo
+menowo: kenalan, garisketurunan, keturunan, used
+menowondhaftar: 
+mlaku-mlaku: lumaku, ngidhak, nerusake, hiking, CampSaw, wong
+kapingpindho: pindho
+intellectual: pikiran, Intelligence, mental, pinter, kejiwaan, wuyung, kawicaksanan, spiritual
+Imam: ulama
+tatu: tatu, tatu, babras
+palace: 
+ngalahake: asor, punch, tamparan, ngalahake, Slam, irama, ngalahake, serangan, dicokot, kamenangan, menang, menang
+bodho: botensae, trick, ngapusi, ngapusi, bodho, gemblung, mad, edan, edan, Ngapusi, bodho, bodho
+sangang: kapingsanga, anyar
+simpati: karep, empathy, tega, sih, simpatik, welasan
+bledosan: jeblugan, bledosan, njeblug, retak, boom, sawan, bang
+disandangi: sugih, gaun, seragam, sandhangan, sandhangan
+sastra: sastra, materi, rasukantiyangistri
+koleksi: konsentrasi, klempakan, pesawat, group, kombinasi, Uploaded, gallery, Suite, paket, portofolio, sintesis, dhaptar, kesimpulan, nganakke, kesimpulan, ngumpulake
+P: blank, kosongmlompong, drum, luang, null, kakosongan, vakum, muspra, Bare
+badai: , kemudi
+kanthong: tas, paket
+ukara: pangadilan, pangadilan, rencana, Téoréma, saran, proposal, paukuman, bebendhu, tembung, ngukum, nyacad, paukuman, ngukum
+november: 
+desember: 
+kelakon: dumadi, kedadeyan, dadi, njedhul, opo, utawa, ora, teka
+anané: absen, lack, butuh
+matur: sukur, ngucapkematurnuwun, thanks, matursampeyan, ngakeni, ngakoni, ngakoni, appreciate, auditor
+seri: chain, senar, Uploaded, urutan, pesawat, siji, sawetara, baris
+alamat: golek
+manuk: pesawat, bidang, jet, pesawat, pesawat, maskapai, manuk
+jas: gaun, tutup, jaket, wulu
+nyiapake: siap, disiapake, ngatur, preparation, ngramu, dimaksudaké, gelem, semangat, sungkan, kapur, nglengkapi, generate, Nggawe, mbangun, nggawe
+cepet: cepet, cepet, cepet, cepet
+kumelun: smoking, ngobong, nundha
+Januari: 
+mesin: mesin, engine, bidang
+obah: pamindhahan, mobile, budge, gerakan, gerakan, pindhah, obah
+untu: waos, gear, iki, louse
+kawirangan: cacad, isin, isin, isin, wadhi, Wirang, Bare, naked, ngenyek, njobo
+otak: mastermind, sumsum
+ring: cilik, nelpon, nggulung, daurulang, ban, ban
+tembungpanandha: 
+pangerten: ngerti, pangerten, raos, nangkep, empathy, kawruh, ndelok, kaweruh, pemahaman, kesadaran
+woh: asil, akibat
+teh: yearn, car, kuadrat
+nerangake: panjelasan, Nggambarake, nyebut, ngomongake, wara-wara, njlentrehake, kokwaca, komentar, interpretasi, njlèntrèhaké, dèskripsi
+welcome: Salam, reception, panghibur, hey, woy, salam
+puisi: geguritan, ayat, kotamadya, jam
+tuku: tuku, ndarbeni, saged, pasar, toko, tuku, nandurmodal, shopping
+setya: jujur, manut, setya, pengabdian, bener, dipercaya
+kasenengan: stimulasi, bungah, fuss, tension, provoke, kabungahan, reged, flush, semangat, zeal, antusias, urgency, sensation
+april: 
+Oktober: 
+pait: kasangsaran, kasangsaranbanget, prihatin, kelara-lara, gerah, nglarani, gawelara, ditulis
+ngeculke: sawijining, kahanan, mutusake, ngatasi, kosongmlompong, bebas
+teks: tembung
+awon: ala, Samsayaawon, atos, salabetipun, becik, éwadéné, paling, paling, paling, sampah, Trash, uwuh
+kredit: mortgage, kreditkertu, utang, ngutangi, nyilih, etangan, Prestige, sah, kapercayan
+fitur: komponen, fungsi, aspèk, fitur
+saged: ngaktifake, wewenang, bisa, kapasitas, kemampuan, sanggup, potensial, saged, trampil, bakat, skill, efektifitas, kepinteran, pinter, efficiency, migunani
+limalas: 
+kejem: galak, angel, kejem
+nggabungake: melu, rawuh, melu, numpakkapal, bakal, peserta, keterlibatan, nyawiji, nyambung, anyaran, nggabungake
+angkara: sirno, pelanggaran, pelanggaran, pidana
+bledug: dam, wêdakakêna, rereget
+praktis: fungsi, pragmatic, prakteke, trep, sakbenere, Handy, Applied
+werna: werna, Paint, dye, bulak, colored, warni, flush, werna, werna
+numpes: kecelakaan, ndhudhuk, sabotage, degrade, ngrusak, tresna, mbanting, rusak, mirangake, mbusak, negate, karusakan
+Mundakake: nerusake, nambah, gunung, mundhakaken, nambah, masang, wutah, nggedhekake, hiking, ngedongkrak
+irung: beak
+loropaken: cocog, sarujuk, congruent, kindly, tulus, kumpulan, Persahabatan, jenis
+wingi: sesuk, saiki
+hesternaltegang: 
+gagal: Gagal, kasil, asor, Tukang, mirangake, nguciwani
+terus: nerusake, dadi, ngengkel, tutugan, saya, tahan, nyedhiakke, terus, terus, nyambung, miwiti, nindakake
+mbusak: nyisihaken, mbatalake, ngilangke, eliminasi, ngilangke, mbusak, mbusak, ngilangi, nyuda, tarik, narik, ngusir, nresep
+nyandhang: nindakake, Porter
+wuta: 
+fly: kloter, mlumpat, pesawat, aviation
+memuji: admiration, ngujo, ajiningdiri, patut, congratulate, selamat
+misi: 
+kurban: korban, memangsan, korban, Toll
+ngleksanani: karyametu, assignment, laku, laku, olahraga, fitness, gladhen, pengeboran, gerakan, gerakan, kampanye, atletik
+kalbu: netral, eling
+teori: asas, Teori, Téoréma, teori
+mentri: 
+sengit: becik, njijiki, gething, rak, serat, incim, nesu, jareya, loathing
+lake: mere
+tengah: tengah, tengah, stasiun, markas, tengah
+Mesem: oraeling, nglokro, nekat, banget, bulak
+nyotogender: 
+Brief: sedhela, acronym, singkat, sakcepete, kertu, kompak, Ringkesan, ekonomi
+sembahyang: ritual
+barang: produk, , item, dagangan, komoditas, kuwi, barang, Mal, peralatan
+kulit: kulit, panyerepan, babakan, Nihan, pil, wulu, zest
+gendheng: Teras, langit-langit, panutup, jangkoan
+makutha: 
+Bèntèng: kandhang, ngunci, surname
+tahta: 
+ditempelake: melu, saratipun, masang, disambungake, gumantung, digandhengake, pasangan
+mil: cenderung, slope, mimpin, jurangpemisah, gelem
+pakunjaran: jail
+saktenane: uga, nyaman, mlaku, lancar, pepek, cukup, tanggung, kabeh, rampung, nyedhaki, babarblas, kanthi, pancen, sejatinesifate, persis, sabenere, kanthi
+tuwung: bodo
+anggota: organ, anggota, pang, njero
+sipil: domestik, warga, Civic, sipil
+nangendiwae: saindhenging, nangendiwae
+tundhuk: eksekusi, hajar, nglakokake, cocog, ngancani, ketemu, ngrungokake, isi, maremake, bakal, tundhuk, selaras
+salawasé: nalika, sanadyan, Nanging, sanajan, Nanging, déné, pancet
+volume: akeh, ombone, jumlah, relatif, jumlah, pemblokiran, modul, akeh, circumference, jangkoan, ukuran, bawana, angger-angger
+adat: klien, pilihan, paketan, laku, pakulinan, usedkanggo
+gandhewo: arch, , trikatuka, kurva
+daging: daging, dagingsapi
+vegetalgender: 
+langka: arang, meh, jarang
+seduluré: relatif
+bridge: bahan, kelompok, wentis, blumbang
+nglindhungi: pangayoman, konservasi, njaga, tameng, defend, ngreksa, njaga, ngreksa, ngamanake, nimbali, nimbali
+uyah: kae, exaggerate, salty, sailor
+resik: resik
+ratu: 
+tari: drum, dancing, mlumpat, skip
+hotel: accommodation
+isi: isi, isi
+tahanan: narapidana
+undhak-undhakan: tangga, tangga, andha, laci
+gay: homoseksual
+wedhi: 
+kasar: panganiaya, galak, tenang, apik, abot, kuwat, kuat, vigorous, nyakakak, intensif
+September: 
+kiamat: karusakan, subversion, karusakan, spoil, bilai, wreckage, kecelakaan, ngrusak
+sapi: cow
+peralatan: apparatus, piranti, , kit, gear, rasukantiyangistri, nyegat, fasilitas, peralatan
+wikan: pemahaman, weruh, ndelok, ngenali, pangenalan, kesadaran
+ngendiwae: nangendiwae, ngendi, oraono, liya
+pawon: masak, kompor
+ngedol: sale, semi, bakul, ngiyanati
+kacepetan: kecepatan, jangkah, semangat, banget, dinamika, gerakan, akselerasi
+komputer: komputerisasi
+langgeng: tau, ingsalawas-lawase, tanpawates, permanen
+perpustakaan: , lemaribuku
+kebingungan: kekacoan, lam, fuss, bingung, bingung, anarki
+artikel: Essay, item, bagean, angger-angger, diameteripun, engineer
+cook: , masak, bake, godhok
+band: sabuk, pita, tape, regu, group, Strip, belang, zona, strand, Bunch, cluster, lane
+ara-arasamun: ara-arasamun, sepi
+Kiss: 
+es: eskrim, tape, salju
+ball: karet, bal, peluru, pasukan, bayi, pil, kakosongan, delivery
+kelet: Simpenan, tebu, bakal, kayu, timber, bat, cue, Staff, Pole
+pitakonan: logika, pamindhahan, kontrovèrsi, diskusi, debat, regejegan, ngambakake, tuntutan, pitakonan, pitakonan
+mirsani: mrekso, nliti, njelajah, neliti, pengamatan
+benedictionswasanaati: 
+striking: pinunjul, nggumunke, serangan, owahan, wujud, substansial, ngelingke, nyengsemaken, ngageti, ngeramaken, apikbanget
+guilty: sirno, utang, nyenggol, nerak, narapidana, ngukum
+gun: senapan, gegaman
+polisi: nglakokake, ngawasi
+ndhelikake: secrete, nyamarake
+ekspedisi: kampanye, drive, trip, lelampahan, lungoadoh, demo, crusade
+maya: maya
+sampah: guna, rasah, nolak, panulakan, larangan, uwuh, sampah, Trash
+Februari: 
+penyakit: penyakit, penyakit, koroner, puas, marem, sindrom
+inisiatifcilik: 
+universal: 
+real: uga, sawah, bondho, tanah, property, kepemilikan, rejeki, kasugihan
+asor: asor, andhapasor
+tundha: nundha, pungkasan
+telatutomo: 
+kacaritaevidential: 
+apes: sayangé, apes, ketepakan, mbotenremen, dakkirim, cupet, incongruous, inappropriate
+tengahwengi: lor
+pahlawan: warrior, juara
+driji: jempol, digit
+penet: media, majalah, Jurnal, printing, jinis, rumus, push
+ganjaran: hadiah, hadiah, menehi, bonus, rugi, ijol
+nyalahke: kaluputan, kekurangan, cacat, utang, sirno, snub, nuntut, hukuman, tanggungjawab, ngarani, allege, ngukum, nyacad
+kasangsaran: kasangsaran, gerah, prihatin, dakkirim, omahe, nandhangsangsara, sungkowo, ironi
+bathuk: 
+kanggo: iklan, iklan, Panggenan, iklan, woro-woro, woro-woro, kabar, Pranyatan, kanggo, kanggo, statement, tuntutan, promosi, ningkataké
+angel: landowner, Crita, angel, angel, utusan
+fame: kamulyan, ajiningdiri, kabarangin, kabarangin, iklan, woro-woro, Prestige
+tunggalnomer: 
+dawn: twilight
+ngapura: alesan, pardon, ngidinke, exempt, ngganti, ngilangi, pangapunten
+wedhus: lamb, wedhus, jumlah, positif
+résolusi: mutusake, solusi, kaputusan, kesimpulan, analisis, risak, breakmudhun, netepake, bosok
+sabar: fortitude, forbearance, sabar, sabar, sabar, toleransi, pengendalian
+referential: referensi, deleng, nemtokake, arahan
+jagung: gandum, sungu, gandum
+tombol: jaminan, tombol, ngalih, utama, penting, penting, sensitif, utama, niche, ide, pitunjuk, sing
+mayoritas: akeh, paling
+nggatekke: bodho, ridiculous, bodho, bodho, thumb
+kekirangan: kasekengan
+MediaWiki: kauntungan, gain, entukmanfaat, sregep, kamenangan, ahliwaris
+lonceng: weker, jam, jam
+atmosfer: lingkungan, langit, aviation, spasial, iklim, sakcedhake
+djalmomanungso: manungsa
+disk: disc, irisan, counter, silinder, plate, rekaman, tray
+sepi: piyambak, kasepen, kapisah, single, namung, sepi, sepi
+artis: pemain, pelukis, panglipur
+Pesona: liya, atraksi, Piandel, Nulis, estetis
+perbudakan: abdi, jaminan
+gubernur: Konservatif, ruler
+cabang: 
+panggonan: noto, konfigurasi, cenderung, gaya, panentu, tataletak, swasanaati, jadwal, jadwal, panggonan, panggonan
+luck: rejeki, nasib, Bejo, rasaseneng, kasempatan, Begja
+asalé: njaluk, nampa, niru, njupuk, entuk, nompo
+induktifswasanaati: inferentialswasanaati, deduktifswasanaati
+masyarakat: masyarakat, kategori, wong
+lenga: lemak, bahanbakar, fosil, sumsum, termal, butter
+pipe: tabung, tutul, kranbanyu, pawarto
+print: edition, meksa, printing, sumbu, jamur, kesengsem
+oh: ya, Uploaded
+wacanacontext: 
+vocativecilik: 
+kabin: Cottage, tarub, lodge, kamar, sel, kamar
+gemeter: tegang, bingung, disturb, upset, isin, gangguan, ngganggu, upsetting, syaraf, kuwatir, syaraf, kuwat, kuat, intensif
+bédané: mungguh, beda, variasi, bhinéka, beda-beda, mbedakake, longkangan, mbedakake, prabédan, kontras, jenis, bedo
+beban: ndelok, mbukak
+sutra: nangkep, genggeman
+enyekan: nyepelekake, gething, rak, kajijikan, loathing, snub, ngenyek, njobo, teledor
+neraka: 
+kapisah: kapisah, aside, loro, béda, beda-beda, kapisah, Sung, bedo, hubungan, ostracized, delimited, misahake, mbedakake, isolasi, disjunction
+campuran: dicampur, kombinasi, gabungan, nyampur, peserta, campuran
+wooden: kayu, timber
+nambani: perawatan, therapy, tamba, proses, nimbang, terapi, obat, hasil, waras, nindakake, sepindah, chin, rahang
+warning: ati-ati, ngelekake, tandha, Monumen, kabar
+pepélingswasanaati: 
+ambisi: wagol, kuciwo, hawanepsu, nyumelangake, ambisi
+ngasilaken: efficiency, ngasilaken, income
+piyewae: Luwih, soko
+pitutur: konsultan, Petunjuk, maringipitutur, rembugan, saran, tip, pengacara, Agung, pengacara
+konstitusi: charter, sahmiturutukum, kedadean, kedadeyan
+instrument: alat, prau, entitas, organ, wadhah, sarana, piranti
+anteng: stabil, stabil, biasa, ajeg, tetep, pancet, saya, dadi, sustainable, standar, statis, ndandani, konsisten, permanen, nulis, anteng
+unsur: faktor, unsur, komponèn, bakal, komponen, pet, kumpulan, faktor, parameter
+dadiaspek: 
+online: 
+pasang: gelombang, sworoseru
+College: fakultas, akademi, kampus, universitas
+buntut: saiki, Trail
+generasi: keturunan
+kucing: 
+langsungevidential: 
+nilar: watakcerobo, ninggalake, sepi, metu, nglirwaaken, dissolve, mbatalake
+sewelas: 
+pangroso: spontan
+suku: gedhe, gagang, mbukak, lack, kakurangan, kurang, defisit, butuh
+apprehensiveswasanaati: 
+papanperlindungan: resort, panggonan, utang, habitat, omah, pangayoman, asrama, asylum, pelabuhan
+rude: rudely, atos, kejem, atos
+nunggang: kulo, rider
+Profesi: komunikasi, karir, pendhudhukan, profesional, SMK, business
+lamp: lilin
+warung: cafe, cekap, cekap, oranyukupi
+perawat: Dhik
+njamin: tanggungan, warrant, sumpah, njamin, asuransi, mesthekake, mesthèkaken, konfirmasi, nyedhiyani, ngebaki, manawa, tenanan, negasake, ngamanake, Proteksi
+shoes: sepatu, sandal
+crew: Staff, komplotan, tim, Bunch, personel
+yard: kode, kaca, pangenalan
+samar: mbingungake, nyamarke, ambigu, cetho, aneh, botenmesthi, indefinite, gelombang, kosongmlompong, unintelligible
+apartemen: flat, bunder, kamar, Suite, titian
+kegiatan: transaksi, fungsi, operasi
+Setu: weekend
+nduwèni: 
+Sunshine: solar, , kawentar, Awan
+randha: 
+komunikasi: kontak, Correspondence, lesan, komunikasi, interaksi, sesambungan, hubungan, hubungané, sesambetan, korélasi, relevansi, kabar, woro-woro, transaksi, semprotan, komunikasi, dialog, antarmuka, dialog
+bayangan: kontemplasi, refleks, bayangan
+organisasi: tissue, organisasi, ngatur, rasukantiyangistri, perusahaan, sarana, agensi, entitas, sistem, struktur, tektur, tataletak, institusi, institute, asosiasi, tenan, perusahaan, maskapai, diatur
+star: 
+tamu: liyo, Pengunjung, asing, foreigner, anyaran, klien, customer, inang
+bar: Bare, pub, mbukak, , barang, cafe, barium, Strip, bandage, sabuk
+botol: jar, penyakit
+mberkahi: berkah, salam
+nglakoake: ngapusi, nyampur, evoke, Rerusuh, excite
+padu: bedo, regejegan, perang, pengadilan, argue, disagreement
+utama: ing, nang, interior, internal, lokal, domestik, njeroruangan, mental, njero, utama, utama
+resistance: musuh, ngawan, protest, tahan, anti, nesu, kabotan
+kothong: kosong, Bare, blank, kabel, bolongan
+provinsi: provinsi, Kabupaten, county, lemak
+peradaban: budaya
+hang: ngawasi
+kejut: jotosan, trauma, ngageti, tawuran, impact, stun
+istiméwa: sebagean, diskriminasi, stereotype, kewajiban, konflik, pinunjul, exempt, potongan
+galur: kaku, tension, mbukak, lemes, gaweyan, kakiyatan, ngisin, rasis, ètnis
+driving: drive, driver, nuntun, kulo
+sumpah: swearing, sumpah
+bandha: Permata
+wiji: sperma, nut, partikel, mr
+menara: 
+favorit: favorit
+bubar: anyar, anyar, mentas, saiki, bubar
+awake: sadar, morale, tangi, tandha, excite
+furniture: 
+tali: ari, senar, tali, tali
+ngulandara: sukan, , gamble
+Royalty: mrentah
+riyaya: party, prayaan, pesta, liburan, dinner
+taunan: taun, tahunan
+ukuran: pigura, framework, gauge, aspek, andha, tangga, tangga, ukuran, ukuran, ukuran, tingkat, ombone, ceceg
+Akibate: akibat, mulane
+dhasar: basa, basis, adhedhasar, dhasar, utami, SD, inti, dhasar, cethek, lulus, latar, platform, dhasar, dhasar, underlie
+upacara: ritual, fungsi, prayaan, konser, rumus, eling
+mburu: goleki, korban, memangsan, mburu, shooting
+liberal: loman, bebas
+umumé: mesti, Ngartekno, paling, utamané, biasane, nemen, digunakake, akehe, Originally, ateges, Sejatine, tambah
+putri: putri, putri
+misbyah: sanctuary
+web: jaringan, net, kothak, tissue, kanvas, knitting
+purple: magenta
+klumpukne: ngumpulake, nglumpukake, nyilikake, nelpon, leftovers
+Pemilu: pilihan, milih, Trail, poll, iwakpaus, pilihan, Milih
+tahap: alkohol, mabuk-mabukan
+pour: topple, ngeculaké, kuthah, nibakake
+angkat: elevator, elevate, Satmata, mundhakaken, hiking
+Tulis: tandha, sinyal, simbol, simbolis, sikap, dedegpiadeg, Petunjuk, pratondo
+ngatur: Manajemen, ngawasi, nangani, administrasi, mrentah, kemudi, kontrol, operate, ngatur, ngatur, ngatur, ngatur, nindakake, njaga
+exchange: pertukaran, ngetokake, swop, panggantos, Commutative, itungan, babakandhuwit, sulih, transplan
+pestiartikel: 
+kaisar: rojo
+Rampung: rampung, pungkasan, pungkasan, plester, liwat, hiasan, kesimpulan
+nyenengake: becik, njijiki, nyenengake, nyenengake, nyenengake
+asli: bener, nyata, nyata, virtual, pas, asli, native, alus, pribumi, tartamtu, mesthi, asli, tulus
+inch: khusus, thumb
+jenggot: chin
+luh: entuk, erosi
+nolak: anti, musuh, kontras, protest, nalisir, nentang, ngganggu, ngawan, nolak, nolak, gantos, obyek, keno, memungsuhan, kosokwangsul
+Merchant: bakul, wongbisnis, dagangan
+kamardikan: sawijining, Liberty, bebas, kamardikan, otonomi, mardika
+mambu: wangi, roso, roso
+wolulas: 
+sajarah: historis, Sajarah, Sejarawan, sajarah
+reged: total, kanthijumlahongko, reged, raw, Crude, reged, gedhe, semangat, abot, kuat, dot, sakabèhé
+ROOT: gagang, anyar, route, asli, asal
+lendhut: lemah, slime, lempung, rereget, kembang
+gamblang: prasaja, andhap
+kudung: langsir, sail, sailing, layar, membran
+téater: téater
+comparison: mbandhingaké, komparatif, korélasi, aspek, confrontation, isodibandhingke
+komposisi: komponèn, struktur, tatanan, construction, akehe, mbangun, ngatur, konfigurasi, ngatur
+saingan: mungsuh, dissident, kompetisi, competitive, saingan, pesaing, counter, mbantah, anti
+éling: entuk, ngenali, pangenalan, ngenali, diagnosa, orapeduli, hajar, aran, ndelok, ngerti, nangkep, ngrampungake, apal
+imbangan: keseimbangn, merata, podo, horisontal, ceceg, par, budget
+pelatih: trainer, praktisi, guru, guru
+humor: humor, guyonan, swasanaati, komedi, guyon
+novel: fiction, anyar, mentas
+mbales: incim
+sumber: bondho, sumber, sumber, liya, sumber
+cemburu: butarepan, meri
+wheel: bike, bunder, siklus
+obaran: ngobong
+lampukilat: kilat, cemlorot, kawentar, senter
+suggest: saran, rujukan, propose, nyaranake, proposal, nyalonake, patijelas, saran, nunjukaké, rencana
+imprecatoryswasanaati: 
+nduwenidaya: 
+kelompok: group, kelompok
+club: bat
+banjir: nyerang
+rasaseneng: seneng, kesenengan, kabungahan, bungahaken, rasaseneng, bungah, pleased, remen, gayeng
+indifference: apathy, careless, watakcerobo, nglirwakake, klalen
+wonten: 
+assumptiveswasanaati: hipotesisswasanaati
+tajem: elevation, jejeg, akeh
+harmoni: rembugan, tune
+kanak-kanak: 
+dhengkul: lap
+Teknologi: sabenliyane, ngetokake, umum, peserta, interaksi, interaktif
+lunak: aplikasi, dhaptar
+bundhas: babras, gawepiala, karusakan, natoni, tatu, trauma, tatu, nglanggar
+panrimo: nampa, ngleboke, reception, diakoni, acceptance, voucer
+disiplin: tundhuk
+slip: lunyu, Muter, ngleyang, gaffe
+revolusi: revolusioner, kudeta, rotasi, pambrontakan, kraman
+petani: petani
+stroke: jotosan, kudeta, rush, scramble
+hakistimewa: kangndarbenihakistimewa, pilihan, jumlah, franchise, tawaran, kalonggaran
+mahasiswa: murid, Topik, lulus, akademisi
+guwa: 
+tradisi: tradisional, tradisional, khusus, nyerah
+tragedi: epidemi, sumelang, paradoks
+inn: pub
+prawan: prawan
+pamitan: pamit, bye, pareng
+kritik: mada, kritik, review
+katun: wool
+rumahsakit: asylum
+rent: beya, ngrekrut, tax, pajeg, nyewakake, tugas, melu, disewa, charter
+gas: 
+ono: pesti
+agawe: penting
+rwaning: sheet, agul-agul
+publikasi: nerbitaké, publishing, printing, martakaké, Broadcast, release, output, penyebaran, ngumumke
+translation: nerjemahake, nerjemahake, interpretasi, epidemi, transfer, versi
+beach: strand, pesisir
+panguburan: kakubur, kuburan, ngubur
+glepung: wêdakakêna, keuangan, pas, akurat, pas, meal
+nggero: serem, bengok, gangguan
+romantis: pinggul, hip
+Gubug: Cottage, lodge, ngeculaké
+mimetic: 
+dollar: 
+nembelas: sewidak
+Déwan: patemon, konferensi, congress, konfigurasi, rapatumum
+koloni: 
+wing: pendhapa, Suite, pang, fin, pesawat, aviation
+singa: 
+katu: angel, trick, pinter, pinter, diplomatis
+drama: ndalang, serem
+mist: pedhut
+hypertext: pranala
+medicine: tamba, obat, semprotan, resep
+patbelas: tanpa, eksklusif, sine
+asam: oranguntungke, ngandhutasam, gunung, gunung
+yaiku: sembarang, i.e.
+user: ahliwaris, konsumen
+uskup: 
+orange: 
+bath: jedhing, padusan, bathtub
+turunan: senyawa, transkripsi, niru
+primitif: awal, dhisikan, kuna
+basket: bin, tas, basket
+sekretaris: editor
+kawilujengan: safety, mardika, woy, rescue, Recovery, nompo
+dinaiki: 
+hodiernaltegang: 
+dienggo: dimaksudaké, niat, interested, ngengkel, alasan, sungkan, nglakoni, ngaturake, netepake
+uap: 
+racun: poisonous, beracun, herbicide, Poisson
+talent: brilliance, bakat, kualifikasi, kemampuan, dhaptar
+efektif: bener, èfèktif, efisien, efektifitas, pengaruh, migunani, aktif, kasedhiya, nyengsemaken
+wisuh: ngumbah
+pratelan: ngakoni, akidah, pangenalan, diakoni, pratelan
+tulisan: sampah, khayal, incongruous
+coal: karbon
+kosok: associative, bye, Wakil
+sakwentoro: interval, dadi, Temporal, , sengaja, , nalika, kontemporer
+delimitativeaspek: 
+balung: wentis, rengat, balung
+gary: 
+Selasa: katelu
+Rebo: papat
+Federal: federasi, tengah
+sengdipengeni: atraktif, sarujuk
+wakil: makili, atas, utusan, Agung, Wakil, juru
+linen: jeroan
+sink: drown, basin, seng, nyelarasake
+ponakan: niece, putu, putu
+pengepungan: surround, jog
+weteng: weteng, weteng, matrik
+Summit: puncak, ndhuwur, tip, konvènsi, Pegunungan
+eksklusifwong: 
+njaluk: nyegat, ngurungi, nyegah, leladen, entuk, dikuwasani, Occupy, impound, njupuk, nangkep, ndelok, njaluk, njaluk, milik
+pager: pager
+patung: reca
+kemewahan: 
+tentarameriem: cukurbrengos
+nyekel: nyekel, Jupuk, nyegah, ngencengake, nyegah, angen-angen
+Pack: bingkisan, paket, paket, Lebokake, mbendel, ditutup, mati, wrapping, packaging
+lingkungan: sak, tetanggan, pepadhamu, pepadhamu, tetanggan, peripheral, sakcedhake, jejer, lengkap, lingkungan, lingkungan
+strictly: ketat, manékawarnatakson, kanthi, nyenyet, abot, mesthi, pancen, temtunipun, tightly, atos, manawa, persis, sabenere
+seko: liyane, isih, dilakoni, leftovers
+deer: 
+grumbulan: 
+nyambungaken: railway, alur
+discharge: mardika, mbongkar, release, masrahake, ngusir, emit
+heir: warisan, nduweni
+Oak: 
+karu: bungahaken, nyenengke, kuwatir, pegel, upsetting, becik, oraadil
+piano: 
+ngarih-arih: tenanan, ngrameke, mèngeti
+siro: aneh, ilang
+ugadikenal: misuwur, jahat, penting
+kekejeman: 
+panggodha: nggodha
+telicaspek: 
+internasional: global, multinasional
+ngganggu: gangguan, melu-melu, ngalangi, disturb, keganggu, gangguan, ngganggu, ngganggu, ngganggu, ngganggu, tawuran, ngganggu, supaya, gangguan
+subtle: mikro, trick, pakaryan, alus, Gamelan, sacoroapik, nggoleki, lancip, wicaksana, lanang
+filsuf: filosofis
+elegan: modern, alus, apik, banget, apikbanget, kamulyane, luarbiasa, Fantastic, Emphatic, fenomena
+kawulo: benevolence, kamakmuran, panentu
+fishing: 
+nyolong: nyolong, Rob, rampokan, geser, style, nyikara
+lip: beak, lisan, brink
+pensiun: leren, pensiun, pensiunan, mundur, liyane, luang, mbatalake, pensiun
+ekonomi: ekonomi, ekonomi, ekonomi, resesi, nyimpen, kluwarga, ekonomi
+babagan: straighten, ngluwihi, ngambakake, sipat, Piece, wacana, pecahan, cuwilan, babagan, babagan
+podokaro: kajawi, kompatibel, digandhengake, muwuhi, horisontal
+atelicaspek: 
+prohibitiveswasanaati: prohibitiveswasanaati
+dasi: eagle
+endhog: 
+Ponggawa: tiron
+inspirasi: alasan, motivasi, rangsang, inspirasi, Brainstorm, dukungan, prabawa, stimulasi, rangsangan, nambahsemangat
+Kangge: bebarengan
+krisis: , slump, pangadilan, pangadilan, darurat
+sopan: duweni, educated, sopan
+segel: cap, printing, kesengsem
+lunch: sarapan, dinner, ranch, meal, mangan
+senadyan: éwadéné, sanadyan, sanajan
+malang: skenario, sakcedhake, lingkungan, context, lingkungan, deso, alam, tampilan, sesanti, prospek, Outlook
+seni: gambar, kriya
+aliansi: Uni, Liga, koalisi, gabungan, kemitraan, rasilintang
+maksimum: nggedhekake, nemen, pokok, paling, saka, liwat, ngluwihi
+Ajaib: wonder
+tembaga: tembaga
+kemurnian: murni, akurasi, tliti
+republik: demokrasi
+telephone: telpon, mobile
+mecut: tali
+klambi: tklambi
+introduce: introduksi, presentation, netepake, miwiti, nerjemahake, panentu, nyaranake, ngubungake, inject, ngirim, delivery, nggambarake, nggambar, kontak, masang
+sofa: armchair
+Sapuan: ngilangke, scan
+maling: 
+saluran: saluran
+pembaharuan: dandan, koreksi, évolusi, mbenake, Amandemen, dirinci, Revisi, nganyari
+thirst: ngelak
+anceman: ancaman, ngancem, medeni
+palm: 
+kasurung: dukungan, inspirasi, drive, push, ningkataké, nyurung, nggusah, gayeng
+speaker: juru, dosen
+batesan: ngleboke, diakoni
+panggawe: lobi, nggusah, sabab, ngelekake, excite, nuduhke, nggodha, evoke, rendhem, niru, prabawa, muwuhi
+apik: apik, resik, apik, apik, apik, apik, apik
+sesi: patemon, konferensi, semester
+torture: gerah, prihatin, panganiaya, rak, penasehat
+lembab: rereget, udan, panaslanmawabanyu
+lelungan: Pengunjung, lelungan, wisata, penumpang, lungoadoh, travel
+pabrik: pabrik, Manufaktur, tanduran, kranbanyu, pabrik, gandum
+map: kertu, diagram, graph, beya, tiket, simbol, lambang, Kepemimpinan
+Fountain: sumber, waterfall, bagiansekedhik
+iker-ikerrasukan: surround, zona
+ngganti: panggantos, mindhahake, spare, alternatif, sulih, substitusi, pamindahan, ngowahi, beda-beda, mbenake, sub, ngowahi, ngalih, ngganti, ngganti, ijol
+sengaja: disengojo, disengojo, weruh, sadar, purposive, sengaja
+bir: pint
+Beludru: 
+positif: positif, aktif, sih, sih, tanggung, babarblas
+gravitasi: atraksi, tresna, akeh
+khutbah: martakake, wacana, kuliah
+partner: fellow, digandhengake, gendakan, pacar, pasangan, mate, umum, peserta, saham, rowange, pasangan
+penyalahgunaan: mistaken, wrongly, peduli
+kumpul: group, komplotan, grombolan, tycoon
+telulas: telungpuluh
+mbecikake: warrant, mbela, pengacara, sabdhoning, sabdho, sah, nyetel
+naskah: Bill, script, penggugat
+friday: silver, Venus
+rerumput: jongkas
+download: upload
+krim: eskrim
+monster: buta, monstrous
+beku: beku
+pot: pan, , jar, wadhah, kompor, pat, prau
+beras: 
+prilaku: prilaku, tindaktanduk, karakter, pakulinan, karakteristik, cenderung, tumindak
+duwitreceh: itungan, Penny
+revenue: income
+nandheske: sora, tikaman, njaluk, nggaris, nandheske, tahan, insistence, mbutuhake, emphasis, doyotarik, ditekan, argue, allege
+kabisat: 
+apple: njalukngapura, apologize
+ngrembug: diskusi, rembugan, argue, ngrembug, Dhiskusi
+latarmburi: 
+transcribe: ngganti, mbaleninulis, simulasi
+hiburan: rekreasi, panglipur, luang, nglipur, panghibur, fun, hobi, istirahat, amuse, Hospitality
+virus: 
+childish: soprano
+jubah: sandhangan, sugih, gaun, seragam, rasukantiyangistri, lemariklambi
+nggambarake: kontemplasi, semedi, tapa, mbukak, nggambarake, nggambarake
+Ngonversi: ngowahi, ndandani, ngalih, mutasi, transisi, transformasi
+outline: profile, bleger, ringkesan, gambar, mbabarake, Ringkesan, konsep
+opera: 
+sikut: krenjang
+lampiran: sesambungan, sambungan, tembelan, link, konektor
+Diposaken: pemugaran, dandan, Sekat, koreksi, mbenake, Amandemen
+ajiné: punch, genggeman
+curiga: anggepan, Suspect
+Injil: saw, migunakakéjinishuruf, script
+pit: bolongan, penggalian, blumbang, selokan, boron
+kelainan: lam, anarki, kumrungsung, gangguan, kekacoan, upsetting, gangguan, kaluputan, alangan
+keplok: clap, applaud, disetujoni
+binar: dyadic
+biara: biara
+arrow: 
+kathah: tanggungjawab, biasane, biasane, orientasi, kathah, kalebu, defend, gaya
+njlimet: rinci, netepake, njlentrehake, berkembang, rumit, angel, karyametu
+kasetyan: pengabdian, manut, dateng, setya, sajujure, orangandel, kapercayan, iman, yakin
+ndhredheg: Manginggil, geter
+kasingkirake: njupuk, luarnegeri, asylum
+mechanical: mesin, mekanik, mekanika, engineer
+kasil: apik, kasil, kasil, kasil
+trap: genggeman, narapidana
+cake: , pie, cookie, keuangan
+sir: mr, mister, Gusti, Gentleman
+ragu-ragu: , ngalahake, haunt, frekuensi, kisaran
+pitulas: 
+feminin: feminin, wadon, lady, alus
+madu: 
+saham: nang, babagan, tumpukan, nuduhake, bagiansekedhik, kontribusi, gamble, saham
+bata: kothak
+legenda: mitos
+harvest: potong, crops
+kompor: kompor, papan, open, geni
+Rebel: pambrontakan, kraman, kudeta
+lawasgaya: kuna
+swell: ngompa, abuh, inflasi, dadigedhe, nggedhekake
+nambah: mundhakaken, nambah, ndandani, obat, tamba, waras, dandan, nambah, nambah, ngetokake
+bowl: 
+mentheleng: ndandani, ndeleng
+industri: Manufaktur, industrialization, industri
+klamben: sauce, bandage
+tema: topik, motif, tundhuk, JeksaAgungbisangetokake, alasan
+pertapa: 
+manager: steward, pangareping, boss, administrator, direktur, moderator, pimpinan, eksekutif
+seret: tarik, narik, haul, mbatalake, njabut, gunting, doyotarik, laci, tamba
+PaduanSwara: drive
+nyoto: sabdho, logika, logis, khayal, nyoto, akal, cukup, nyoto
+Processing: sunting, prosesor, proses, pangolahan, prosedur
+wolf: 
+karpet: Karpet
+jaman: kuna, jaman
+fertile: Fourier
+singsot: suling
+keju: 
+cokotan: chop, ngukir, gawelara, morsel, sip, gawepiala, nyabut
+katedral: 
+ngumbara: CampSaw, pindhah, hiking, mangkat, distorsi
+angkatanlaut: marine, armada
+mask: teras, cacing
+potlot: pen
+sayur-sayuran: vegetarian
+clonodowo: trouser, celonone
+corruption: skandal, polusi
+kabinèt: lemari, kakus, lemariklambi, jamban
+sayursup: 
+bedah: bedhah, bedhah, operasi, Analyst
+sangu: panggantos, sulih, rugi, apposition, persediaan, sesambungan
+ndelok: ndelok
+sembrono: careless, untidy, teledor, khayal
+gossip: kabarangin, kabarangin, ngobrol
+sistem: sistem
+koin: 
+abstrak: ringkesan, silabus
+logat: ngucapake, caranengucapake, dialect, emphasis
+Sincerely: sajujure, akeh, tulus, setya
+sarujuk: nganggo, kuoso, sarujuk, konfirmasi, negasake, idin, disetujoni, nyetujui, nampa, ngawèhaké, sarujuk, sanksi
+arsitektur: struktur, construction, tektur
+crack: crevice, retak, mangkat, metu, rengat
+trotoar: curb, Jarak, slime, , , packaging
+nemtokake: wigati, penting, nemtokake, arep, tegas, nemtokake, nemtokake, pungkasan, kritis, kudeta
+negatif: salabetipun, orangaku, negation, negate
+Festival: konser, epiphany, prayaan
+Bala: 
+pamburu: Predator
+snake: reptile
+baterei: 
+detektif: potongan, selidik
+nglangi: swimming
+envelope: kahanan, tembungkatrangan
+rokok: smoking, ganja
+motor: automobile, engine, alasan, motorbike, motor
+volunteer: ngaturake, sukarela, amal
+reaksi: reaktif, nanggepi, nanggapi, nanggepi, saran, cahya, reaktor
+baggage: bagasi, barang, gedhe, koper, logistik
+budheg: 
+jus: extract
+seksual: jinis, seksualitas
+diamond: gem
+kumandhang: 
+identitas: ngenali, identifikasi, simbolis, kenalan, dikenali, pangenalan
+duta: utusan, diplomat, metabolisme
+puguh: rotten
+momentaneaspek: 
+mabur: operasi, deflection, cenderung, gaya, mili, sikap
+maye: apik, mbayangno, bayangan, fiction, Fantasi, subyektif
+ray: Beam, aisle, radius, dana
+climbing: munggah, tanduran, sow, menek, penjilat
+ink: 
+paweling: penting
+rame: gangguan, bengok, sora, banter
+Senat: parlemen
+transportasi: kreta, transportasi, haul, lalulintas, anterjemput, transfer, kiasan, antaran
+coffin: ngambakake
+ngulu: sip, akèh
+nyenengi: nguber, maremake, incorporate, embed, masang
+tetanèn: tetanèn, tani, farm
+swing: 
+meadow: pangonan, wis, lawn
+Komplek: rumit, complicate, canggih, senyawa, angel
+mundur: mundur, leren, mundur, mundur, metu
+asorndhaftar: 
+mrico: 
+Pony: 
+calon: pelamar, , oleh
+fox: 
+cerobongasep: geni, tumpukan
+ukum: panguwasa, pangadilan, pangadilan, kepinteran
+mantanalmarhum: 
+demokratis: demokrasi
+kemul: langit-langit, tutup, Karpet, jangkoan
+babi: sow
+gadhing: gajah
+korek: writer
+pengamat: supervisor, Pengunjung, inspector
+kuku: kuku, cakar
+tawon: 
+aktor: aktris, pemain, penggugat
+kringet: nggawe
+polish: dialect, kawentar
+khayalan: penipuan
+kahanansingdurungmesthi: botenmesthi, mbingungake
+secondary: suntingan
+deso: provinsi, deso, villager
+circulation: daurulang, cycling, siklik, lazim, penyebaran, bunder, siklus, frekuensi, rotasi, muter, lalulintas, sightsee, antaran
+groan: 
+mehpodo: padha, mirip, ngelingake, cocog, kaya
+penawaran: extract, petik, unquote, ngutangi, nyilih, etangan, referensi, ngira, id
+perampokan: ngilangi, buyaran, tas
+gangguan: gangguan, gangguan, gangguan, kasangsaran, omahe, keganggu, gangguan, gangguan
+jarum: injeksi, pin, pointer
+kontrol: kontrol
+alangi: watesan, larangan, diwatesi, ban, nglarang, alangan, pemblokiran, gangguan, cacat, disturb
+gumantung: Count, mawas, gumantung, dateng, tanggungan, percoyo, gumantung, katergantungan
+pitik: pitik
+tong: ember
+habitualaspek: 
+pakar: spesialis, ngalami, khusus, tartamtu, spesialis
+ngematake: mengaruhi, kesengsem, narikkawigaten, kesengsem
+van: tutup
+manthuk: turu
+definisi: katrangan, identifikasi, gambaran, netepake, konotasi, kaadilan
+birthday: mengeti
+Pethel: 
+fragrant: wangi
+orapatipenting: cilik, penting, tipis, marginal
+Sampeyan: ngedhuk, pengeboran, penggalian
+pet: pet, Foster
+tengkorak: 
+pamilihan: parlemen, aturan, legislative
+hak: mlumpat, tungkak
+patingslebar: 
+patent: lisènsi, lisènsi
+milyar: 
+kimia: kimia, kimia, kimia, kemoterapi
+pulsa: rangsang, bangkekan, semangat, lace
+pilot: jajalan, eksperimen, driver
+iket: bongkahan, simpul, terus, kontrak, nganakke, dasawarsa, ngrajut, prapatan, raw, Crude, serat
+rok: rock
+depresi: resesi, slump, kasusahan, sungkowo, sumelang, nandhangsungkowo, kaku
+technical: technique, teknologi, teknis, tech, majeng
+kendaraan: drive, car, cart, liya, automobile
+oranekatrangan: ekspansi, domain, dunyo, sawetara, tekan, ombone
+vegetasi: tanduran
+Sunrise: 
+kontribusi: kontribusi, nyumbang, kemitraan
+pancing: hubungané, nyambung, hubungan, krenjang
+macan: 
+kantong: lengen, Toko
+Ting: dalan
+militia: 
+integritas: konsentrasi
+transparent: transparan, langit, cetha, bukti, ketok, temenan, cetho, nyata, suta
+sangalas: 
+sarego: Count, kanthijumlahongko, pitungan, etungan
+qualified: layak, kualifikasi, bisa, patut, pantes, nduweni, trampil, wewenang, bener, kepinteran
+Organic: fosil, penting
+teologi: 
+ngawang: boat, kisaran, armada
+penyihir: 
+studio: label, workshop, sinau
+Sampanye: 
+banner: flag, poster, tiket
+divorce: pegatan
+bolt: kilat, kuku, corak, meneng
+urat: syaraf
+pasif: pamirsa, dipatèni
+kerikil: kanthijumlahongko
+planet: utami, rasilintang
+beting: rak, lemari
+penggemar: 
+tropis: hasrat
+phase: Photographic, panggung, wektu, mbangun, langkah
+kasepakatan: spontan, pilihan, kasepakatan, kasepakatan, uncontrolled
+ecstasy: trance, semangat, kesenengan, rasaseneng
+Mercury: suhu
+lampus: 
+reporter: wartawan
+cegah: nyabut, njabut, ngilangi, nyuda, negate, Rob
+loteng: Teras, loteng
+garpu: rakyat
+pegawe: buruh, buruh, apa, faktor, gumantung, Carik, personel, pegawe, pegawe, Staff
+juragan: boss, juragan, pemilik
+jembaré: wiyar, sumber, sudhut, semi
+murub: 
+nepsu: pegel, bungah, ngganggu, provoke, stimulasi, bosen, rangsangan, ngrangsang, nyurung, motivasi
+klasik: klasik, paling
+monkey: dibuwang
+ditrima: nampa, acceptance, mlebunalar
+teken: 
+singer: maca
+orthodox: Konservatif, conventional, tradisional
+nursery: sawah
+Adoption: tugas, nganggo, acceptance, Panyangka, disetujoni, party, reception, diakoni, lap, kuantum
+rikuh: , rak
+ngimpor: introduksi, income
+obor: 
+grammar: grammatical
+simpenan: nglumpukake
+kolonial: imigran
+yacht: Ferry, boat
+medèni: ajrih, medeni, ngrintangi, weker, kaget, haunt
+consequential: akibat, episode, penting, owahan, anjog, penting, banget, wujud, substansial, migunani, langsung
+punah: ilang, ilang, mati
+Dome: 
+kekandelan: 
+wangkal: tegas
+otot: 
+magnitudo: ukuran, akeh, amplitudo, gauge, jumlahe, kakiyatan
+samubarangkangangel: 
+rotipanggang: cemilan
+mouse: rat
+syllable: migunakakéjinishuruf, aksara
+Neutral: nétral, padha, sekuler
+ndeteksi: netepke, identifikasi, ngenali, ngenali, deteksi, nemokake, nompo, golek
+ngrembaka: kamakmuran, begja, boom, Permata, gem, kembang
+nemtokke: pasukan, nglakokake, nemtokake
+anonymous: 
+formalndhaftar: 
+pedhet: cepet-cepet
+manual: nuntun, , pedoman, , account, Kepemimpinan, buku, instruction, pimpinan, supervisor, document, dokumentasi, operasi, Manufaktur
+nunggu: samesthine, , nyana, pengarepan, antisipasi, prediksi, prédhiksi, forecast, panentu
+nyawiji: nguapaké, thaw, campuran, nyawiji, telat
+payung: parachute, jamur
+boot: sepatu, gedhe
+Mineral: yodium, nutrisi, metal, manganese
+truce: gencatansenjata
+bebek: 
+sinetron: 
+boneka: baby, dolanan
+Villa: Crita, lodge
+sewing: nggawe, jahitan
+karahayon: mediasi, nyawiji, nyawijèkaké, nyetel, imbuhan
+ceret: 
+terwelu: 
+dirijen: andha, inspektur, driver, pimpinan
+pamuter: pemain
+serangga: JawaTengahDésa, cacing, bug
+restaurant: 
+radikal: militant, extremist, maju, revolusioner, nemen, kabèh, saindhenging, kabeh, Absolute, nggabungake
+penduduk: manggon, native, domestik, pribumi, tenant, omah
+dragon: kite
+parungonevidential: 
+linger: ingkangdipundanguaken
+tutup: tutup, tutup, kelompok, tutup
+Walikutha: pasar
+hardware: materi
+creative: 
+minoritas: sawetara, desimal
+trench: selokan, penggalian
+orchestra: 
+dagingbabi: 
+tuntutanukum: nuntut, cilik, miturut, pengadilan, nguber, pratelan, penggugat
+kerugian: mundhut, nyabut, salabetipun, cacat, cacat, kangelan
+kain: kain, sandhangan, andhuk, kanvas, tissue, relief, struktur
+musisi: pengarang, musik
+mental: spiritual, mental, morale, mana, subyektif, psychological, kognitif, kejiwaan
+samesthine: mistaken, orabisoditompo, dicacat, incongruous, samesthine, ilegal, cupet, inappropriate, adil
+arsitek: 
+wed: 
+linglang: 
+watuk: watuk
+kesuburan: Reproduksi, jenis, tempik
+acak: acak, randomize, sengaja, , spontan, stokastik
+sendok: ember
+diary: dina, koran, Jurnal, tanggalan
+balon: 
+inferentialevidential: 
+publisher: editor, publishing
+awu: grey, grey
+expletive: swearing
+revive: kawentar
+rentan: ngrugekke, sensitif, nyoto, emosi, tanggungjawab
+trowongan: sepur
+teka-teki: galau, bingung
+mekanisme: prosedur, tumindake, sistematis, mesin, apparatus, pendekatan, privasi
+matématika: math, matematika, pandjenengan
+fade: 
+imbang: aspek, korélasi, babagan, konsisten, sustainable
+sublativecilik: 
+dip: nyilem, embed, nyelehake, tumble, kedadeansingoradikarepke, slope, pereng, jurangpemisah, rendhem, Kurangépopulasi, slump, slant
+unit: manunggal, entitas, modul, beak, tunggal
+monopoli: eksklusif
+gambling: gamble, game, match, clearance, totoan
+submarine: 
+preduli: 
+lindhu: sawan
+Laboratory: Lab
+komentar: komentar, komentar, katrangan, reply
+ngalami: pass, ngalami, nampa
+potokontrol: 
+embassy: 
+ketua: Ketua, presiden
+invent: penemuan
+declarativeswasanaati: 
+sarungtangan: 
+jengkeng: 
+geografi: 
+investasi: nandurmodal, sukan
+analogi: podo, mirip, karemenan, kekerabatan, aspek
+Hawk: eagle, hack
+psikologi: psikologi, psychological
+kethokan: mbatalake, sampah, uwuh, pecahan, fling, mbucal
+pirate: hacker
+peran: nuduhake, Simpenan, peserta, introduksi, karakter, sikap
+dose: jumlahe, diet, quotient, jatah
+salmon: 
+pudding: 
+Magnetik: atraktif, aku
+pump: bom, vakum
+oksigen: 
+pinggir: pinggiran, brink, marginal, wates, peripheral, wewatesan, wates
+certificate: 
+medali: 
+retorika: 
+rung: tangga, ngidhak, langkah
+scrape: ngeruk, graze, nyenggol
+mlebu: mlebu, log
+teleskop: mikroskop
+kalung: asor, tempel, chain
+ejaan: Nulis
+surf: 
+wiski: 
+camel: 
+amateur: 
+diwasa: diwasa, umur, umur
+biography: listrik
+kuldi: 
+perspektif: Outlook
+pro: profesional, positif, adaptif
+sabenwulan: majalah
+vacation: ninggalake, liburan, liyane
+klik: klik, sworoseru, ngalahake
+oval: 
+lentur: karet, fleksibel
+kamus: paromosastro, Vocabulary, wis
+pemisahan: dibagi, divisi, risak, breakmudhun, Count, kamar, bagean, pecahan, komponèn, komponen
+Ham: thigh
+Pelangi: 
+organisme: titah, nggawe
+muntahake: mate, basa
+outlet: metu, soket, output, departure, genggeman, slot
+tank: reservoir, wadhah, pajek
+kupu: 
+rata-rata: diagram, graph, Graphic, grafis, rencana, Katalog, Katalog
+kembar: pindho, dual, saperangan, pasangan
+ngina: ngenyek, cacad, pelanggaran, nyenggol, pelanggaran, langsung, nyerang
+independen: sawijining, bebas, loro, kahanan, kapisah
+Marsh: 
+ngipielek: ngimpi
+senggol: sele, compress
+pamiyarsa: listen
+museum: 
+stabilitas: stabil
+nyampekanoinformasi: ngumumke, mbukak, deteksi, mbabarake, batalaken, nerbitaké, nemokake, mbedakake, nyoto
+agresif: disturb, kekacoan, pendhudhukan, agresi, nyerang, tukangngebom
+gesekan: confrontation
+partisipasi: saksi, melu, keterlibatan
+pier: pathway
+Spider: fisher
+kentang: 
+Edo: Produsèn, produser, preparation, Pabrik, Manufaktur
+kien: keluwen, napsu
+durungwayahe: awal
+Multiply: kenek, jenis, pingan, pindho
+statistik: statistik, tokoh, statistic
+nominasi: nyalonake, janjian, pilihan, engagement
+triliun: 
+akurswasanaati: 
+aplikasi: app, pangolahan, aplikasi, aplikasi
+nominal: graze, kasebut, par
+dissatisfaction: 
+infèksi: nginfèksi, infèksi, transisi, transmisi, infèksius
+shrug: twitch
+bal-balan: bal-balan, kick, calcium
+pelopor: utama, avantgarde
+abnormal: mbotenumum, saèstu, crackpot, Srengengekatonpadhang, kae, fenomena, becik, tunggal
+omission: standar, gaffe, kurang, teledor, watakcerobo, eliminasi
+remet: crowded, push, knead, abang, tikaman, meksa, tresna, nangkep, genggeman
+persentasi: sen, persen
+idiophone: 
+ngang: 
+total: bali, kemunduran, mundur, soket, kelingan, kesimpulan, kesimpulan, output, Sarehne, mbatalake, total
+senator: 
+semut: 
+ngandhut: bayen, ngandhut
+sabendina: dina
+precipitate: udan, endhepan, kecepatan, urgent, akselerasi
+global: beda-beda, kemungkinan, global, mobile
+kriting: nggulung, mbucal, gulung, helix
+belerang: belerang, broken
+Continental: bawana
+ndhikte: instruction, printah
+kodhok: 
+gedhebangetcilik: 
+tlatah: setengah, semi
+irrealisswasanaati: 
+ingjeroruangan: njeroruangan, nang, ing
+manfaat: nggunakke, nresep, prestasi, njelajah, rampokan, panyerepan
+geologi: lemah
+passport: 
+lakujina: ganas, rotten
+biscuit: cookie
+kerjasama: kerjo, kemitraan, integrasi, ngewangi, kontribusi
+Forge: nggawe, ngocapake, tatanan, nggawe, nyipta, generate, falsify, font, nurun
+atom: atom, partikel, individu
+aids: sepindah, relief
+fastidious: alus, ngganggu
+piramida: 
+Kabeh: ilegal, non
+shyness: isin, kontrak
+kecapi: slant
+astronomi: 
+mbingungake: mbingungake
+beasiswa: sponsor, menehi
+serat: serat, mbendel, serat
+jangkrik: 
+pigeon: 
+adaptasi: ngganti, peralatan, selaras, perubahan, nyetel, Optimization, adaptif, accommodation
+setuju: setuju, disapproving, musuh, gantos, protest, counter, mungsuh, ngawan, nolak, tilak, nolak, ngilangi, veto, nyenggol, guru, setuju, setuju
+operator: operator
+triangle: 
+bendahara: 
+hidrogen: 
+printer: 
+keselak: kapur
+nemen: tahan, serius, abot, nemen, nemen, leukemia, intensify
+ngrampungake: manggih, ngganti, ngadepi, nutupkerugian, ngalahake, nyegat, contrastive, hasil, ngrampungake
+bingung: bingung, bingung
+gejala: pratondo, tawaran, tampilan, ngetokne, presentation, kedadean, diagnostic, sindrom, karakteristik
+Bicycle: bike, cycling, siklus, kulo
+engineering: technique, teknis, mekanika
+spiral: helix, muter
+kamera: kamar
+penari: 
+migration: pindhah, imigrasi
+tennis: 
+ketagihan: gumantung, katergantungan, percoyo, abdi
+nenun: braid, ngrajut, knitting, tissue, tektur
+utomo: 
+Fry: godhok
+nggampangake: ningkataké, stimulasi, percepatan, Foster, ease, menakake, fasilitas, sarana, ngganti
+sujèn: gawelara, Pierce, njupuk, nyoba, ngupados
+sandi: sinyal, cue, Slogan, sandi, kode
+wilahan: nuding, tip
+depressing: kuciwo, nandhangsungkowo, nyumelangake, sungkowo, provoke
+strategi: strategis, Sastranegara, privasi
+patrol: , bensin
+Glacier: 
+halfway: setengah, sebagéyan, semi
+Memorandum: kasepakatan, kontrak, konvènsi, kasepakatan, warrant, perwakilan
+conthong: 
+simetri: 
+didakwa: pengacara, ngawan
+masjid: 
+exhaust: polusi, metukake
+catur: 
+inti: nuklir, sel, pet, inti, tengah, embrio, janin, kernel, inti
+Cherry: 
+kesandhung: tumble
+truk: lori, freighter, track
+nirkabel: radio
+lelangan: sale
+sieve: debug
+unsteady: botenstabil, kahanankangoratetep, botenmesthi, kuwatir, sumelang
+nyedhot: nresep, rendhem
+grapyak: kejem, musuhan, salabetipun, mbebayani
+sensus: pitungan
+tiptoe: jempol, siap, gelem
+ngendhokke: sayah, anteng, istirahat, luang, ngganti
+lampahing: saya, tutugan, magepokan
+gelembung: 
+gitar: etc.
+Bias: pilihan, serat, deflection
+mengilap: padhang, a.m., sarwa
+whichever: sembarang, apa, kang, sapa, antarane, jerobanyu
+rajutan: knitting, ngrajut, braid
+misuwur: hiking, kisaran, tenggorokan, pesawat, misuwur, bidang, pesawat, pesawat, maskapai
+netralpanandha: 
+Spice: zest
+tanggungan: jaminan, tanggungan, sumpah, njamin, Sponsor, Permata, gem
+nggodha: nggodha, ngganggu, ngganggu, fascinate
+java: 
+resep: cara, rangsangan, resep, rumus, instruction, consonant
+plow: ngatasi, ngrampog
+talang: saluran
+komèt: nerak
+inovasi: panemon, penemuan
+abadtengah: agêng
+hiasan: hiasan, dekorasi, 
+plastik: 
+Referensi: 
+biasa: susu, biasa, biasa
+golf: 
+nul: null, kosongmlompong
+zip: compress
+pemicu: 
+chip: Piece, pecahan, irisan, cuwilan
+nindhes: bareng-barengnyuda, nindhes, depress, nyerang, nyikara
+angob: nguapaké
+ketimpangan: 
+mole: lempung
+Pottery: lemah, lempung
+Bojo: 
+oraklebunalar: khayal
+miner: suntingan
+ragi: enzim, keuangan, 
+nyegat: nyandhet, nyegat
+premium: bonus, hadiah, menehi
+pilihan: alternatif, sulih, sulih, timun, pilihan, pilihan, varian, seneng, pilihan, pilihan, substitusi, amused
+lulusan: ujian, pass
+bangkrut: Gagal
+irigasi: 
+kapitalis: kapitalisme
+kelenturan: keluwesan
+geometri: geometris
+Hiu: 
+panyimpenan: ngreksa, ngreksa, nyimpen, nyimpen
+mugia: prospek, pengarepan, optimisme
+aliranrealisme: 
+ambulance: 
+wallet: , portofolio
+grimace: bodo, grin, Naga
+ilmuwan: ngelmu, Topik, peneliti, selidik, biologist
+gut: usus
+equanimity: 
+nyata: nyata, bener, tenan, bener, saestu, tulus, pragmatic, nyata, nyata
+salaras: mbantah, inappropriate, incongruous, penting
+bean: nut, kacang, sereal
+informal: formal, resmi
+putu: putu, putu, niece, keturunan
+steak: chop
+nitrogen: 
+mutter: kalakon
+SemonougaSindhunata: pluck, bay
+njelasno: njlentrehake, analisa, njelasno, analisis
+mbedakake: kontras, contrastive, mbantah, gantos, nalisir, mbedakake, mbedakake, mbedakake, béda, warna
+mercon: nang, totoan, semangat
+pop: sworoseru, bang
+undress: Strip, sandhangan
+ngompliti: tambahan, nglengkapi, Saliyane, congenital
+pegativecilik: 
+kanker: 
+pawn: mortgage, prajurit, sumpah
+bocor: kuthah, mundhut, nyelehake
+Kapadhetan: crowded, kakiyatan
+nyakot: 
+kerumitan: komplikasi
+sauntara: lesan, Agile
+mbebasake: exempt, mardika, nyisihaken, ngganti, patut
+polar: nemen, Pole
+diskon: kewajiban, sale, kalonggaran, Panyangka
+taxi: 
+hirarki: Kepemimpinan, sistem, recursion
+snarl: 
+naif: linear, kosong
+kepresidenan: presiden
+panuku: customer
+galon: 
+nyamuk: 
+deplore: nangisi, ngukum, Getun
+soko: deflection, distorsi, nutupkerugian, soko
+mozaik: warna
+plug: konektor, voucer
+meteng: angen-angen, ngandhut, nindakake, mbukak
+Grosir: 
+komunis: 
+nggumunake: ngageti, apiktenan, nggumunke, Ngapusi, galau, stun, mirangake, kaget
+prosecutivecilik: 
+diktator: 
+preoccupation: Employment, kuatir, sumelang, badhan
+satelit: satelit
+kira-kira: panyerakan, kira-kira, approximative, meh, prakteke, taun, kira-kira
+nganggur: Employment
+ngleksanakake: implementasine, nglakokake, pelaksanaane, eksekusi, hajar
+bohlam: trikatuka, tutup
+supporter: assistant, keno, krenjang
+lotus: Lily
+klorida: 
+bakteri: jamur, bakterial
+pola: pola
+biologi: titah, biologi
+feign: ndalang, simulasi
+bait: 
+metune: secrete
+ballet: fin, kertusuoro
+cipratan: piss
+papak: 
+tengahkelas: 
+umbah-umbah: ngumbah
+ciri: mbedakake, watak
+Stroberi: 
+notebook: laptop
+transendental: 
+album: 
+enggak: 
+perompaksegoro: 
+prasmanan: 
+participle: peserta, entrant
+garage: 
+diagnosis: diagnostic, diagnosa, kognitif, ngenali
+extort: blackmail, pluck, constrain, meksa
+fosfor: 
+struktural: struktur, konfigurasi, config, lembaga
+lim: 
+tesis: disertasi
+artisan: mekanik, 
+banana: tissue
+rib: gear
+nikel: 
+saiki: saiki, saiki, saiki, saiki, saiki
+bus: supaya
+sensor: censorship, kritikus
+rudal: roket
+sausage: asupanas
+penipuan: operate, ngapusi, operasional, trick, ngapusi, nangani, operasi, penipuan
+tomat: 
+nguwataké: consolidate, intensify, konfirmasi, kuwat, ngiyataken
+gilig: 
+kalium: 
+aljabar: aljabar
+perhiasan: 
+optik: visual
+pengangguran: 
+disarm: tangan, gegaman, bersenjata
+solo: kapisah, fenomena, bedo, lemah, piyambak
+browser: scanner
+sajarahtegang: 
+kemampuan: efficiency, potensi, kapasitas, quotient, kemampuan, kepinteran, kesusastraan
+spektrum: 
+sodium: 
+hysteria: sawan
+wali: administrator, manut
+bebandan: mortgage, sumpah
+atlet: matematika, atletik
+kisut: kekurangan, laku
+ngemot: incorporate, isi, akehe, mbangun, melu, melu, ndherek, Gawan, kalebu, ngemot, entuk, kalebu
+clip: pokok, krenjang, 
+prioritas: manungsawaé, pilihan, seneng
+rudopekso: njobo, ngluwihi, agresi
+monitor: track, ngawasi, nonton, nguber
+konstituensi: pinilih, electorate, entheng
+budaya: budaya
+gender: keitung, jinis, penis, spesies, seksualitas
+platinum: 
+dualnomer: 
+Seluk-beluk: SMK, karakteristik, sipat, tartamtu, khusus, expertise, spesialis, kapisah, eksklusif, spesialis
+lung: 
+super: fenomena, enormously, luarbiasa, supervisor
+trolley: kreta, cart, titian
+jamur: jamur, jamur
+lokal: lokal
+ngasut: excite, ngganggu
+bensin: bensin
+pumpkin: squash, sumsum
+ginjel: dhuwur, extension
+loot: rampokan, penjarahan, memangsan, spoil, Rob, haul
+arsenik: 
+snail: helix
+kakira: 
+sosialis: kekerabatan
+Filter: 
+ngambakaké: nggedhekake, sudhut, nambah, mundhakaken, nambah, ngluwihi, wiyar, expansion
+kontrovèrsial: kontrovèrsi, kosokwangsul, ambigu, bingung, mbingungake, mbantah
+leash: nyewakake, tali
+jockey: 
+radhangparu-paru: 
+Situate: sijine
+persimpangan: crossing, prapatan, ordinal
+rososeduluran: nyawiji, rapatumum, karemenan, manunggal, mirip, jaman
+nggeser: rinci, daurulang, sumbu
+longitudinal: vertikal, ingkangdipundanguaken, spesies
+bahti: persediaan
+obtuse: alon
+skate: ski
+crouch: bend
+pecahan: index, Gedene, pecahan
+cacat: cacat, kasekengan, kekurangan, cacat, dipatèni, cacat
+juara: juara, juara, turnamen
+photographer: Photographic
+digital: tokoh, angka, angka
+asu: 
+tlapukan: 
+subconscious: 
+alis: 
+wahing: 
+gumbyang: nyenengake, fun, bungah, lucu, amused, nyenengake, nglipur, guyonan, ridiculous, nyenengke
+pengungsi: imigran
+protein: endhogputih
+mbucal: tumpukan, tumpukan, banish, sampah, uwuh, mbucal
+mekar: évolusi, berkembang
+vomit: 
+gene: gen, genetik
+tiyanganyar: 
+nggabung: campuran, nyawiji, nyawijèkaké, gabungan, consolidate, integrasi, converge, nyambung
+sosiologi: 
+mobilitas: mobile, hotspot, gerakan, gerakan
+regional: county, area, zona, pendhapa, bal, sektor, peripheral, provinsi
+gerakanuphill: 
+dilute: lancip, entheng
+retrospektif: kepungkur, introspection
+bantahan: Balèkna, nalisir, ngetokake, kuwalik, bilai, antaran
+tv: televisi, film
+kotak: ngalangi
+sintaks: syntactic, pensiun, tataletak
+produktivitas: kinerja, output
+wortel: 
+molekuler: molekul, numerator, landasan, nuklir, atom
+konglomerat: klik, group, cluster
+akuntan: auditor
+diferensiasi: diskriminasi, mbedakake, mbedakake, mbedakake, breakmudhun, prabédan, kontras, variasi, bedo
+kasedhiyan: akses, disualekno, njaluk, kasedhiya, saksi, efektifitas
+pestaseks: 
+solvent: dissolve
+fosfat: 
+sepisanan: umpan, kenalan, introduksi, sepisanan
+koma: koma, party
+premis: 
+gerakandownhill: 
+donor: 
+ahliilmujiwa: 
+khlor: wedhus
+keyboard: 
+elit: unggul
+parenthesis: krenjang
+rugby: 
+ulcer: perih, tatu, trauma, godhok
+inflected: 
+nibble: 
+aborsi: keguguran
+sweater: jaket
+evolusi: ngremboko, évolusi, pembangunan, kemajuan
+seratan: tandha, simbol, catetan
+mumbul: boom, mlumpat
+dissection: nyedhiakke, bagean, divisi, dibagi
+cache: lurking
+antimon: 
+superessivecilik: 
+tumor: tumor, akeh
+alpha: 
+navel: weteng, Pole
+imun: AMBEGAN, tahan
+abridge: watesan, ngurungi, matesi, ngringkes, kompak
+captivate: Jupuk, fascinate, goleki, narikkawigaten
+kaoskaki: 
+movie: film, wayang, pita, tape, belang
+cosmos: Semesta
+ngregedi: polusi, nginfèksi
+nglumpukakèh: 
+aluminium: aluminium
+oscillation: horeg, geter
+carakan: aksara
+Horoscope: 
+tangent: 
+dolphin: 
+pembunuh: 
+résonansi: geter
+Indikator: dedegpiadeg, index, kritéria, indexdriji, gauge
+dioxide: 
+birokrasi: birokrasi
+molak: Ngapusi, scramble, deteriorate, falsify, skew, distorsi
+galaxy: rasilintang
+Clinical: 
+radium: radio
+kulkas: kulkas
+selaras: musik, selaras
+arkeologi: Arkeologi, Arkeologi, fosil
+specification: pakewuh, standar, detail
+sisipan: 
+brosur: , Bulletin, handout, sheet
+incompleteness: cacat
+antropologi: 
+sedhep: éca
+transitive: alesan
+cower: 
+simulasi: simulasi, 
+tempek: bay, sel
+ion: 
+pariwisata: wisata, travel, 
+trigonometry: 
+nyulik: ngrampog, antaran, entuk
+tumpangtindih: interaksi, interaktif
+ngentot: 
+oust: mindhahake, ngusir, metukake, nundhung, banish
+hairdresser: 
+folklore: gandum, rakyat
+kapiler: 
+nasionalisme: warganegara
+buttocks: hip
+sublimate: murni, dirinci
+buffer: 
+frustasi: nglokro, kuciwo, bingung, mbatalake, asor, wagol, nguciwani, kuciwo
+kobalt: 
+ping: nyuda
+gerakanupriver: 
+coordinates: koordinasi, koordinasi, sesambungan
+anus: 
+redundansi: kathah, ampas, keluwihan, ngilangi, buyaran, kewajiban, keluwihan
+video: 
+boikot: county, ostracized, watakcerobo
+ANTV: nyoba, ujian, kuesioner
+gerilya: 
+Magnesium: 
+Radar: 
+kwalitase: kualitas, karakteristik
+linuwih: kapercayan
+persegidowo: 
+generalize: gebyah, mbangun, nggawe, nyipta
+maneh: saiki, maneh
+curfew: 
+ngrumusake: mbangun, mbangun, mbangun, tembung, nggawe, tatanan, ngramu, panyiapan
+reinkarnasi: rebirth
+ignite: 
+uranium: 
+sengmbayarpajek: tax
+terpadu: integral
+opined: tampilan, mratelakakepanemume, komentar
+gamma: 
+server: 
+gerakandownriver: 
+koefisien: bahan, faktor, pengaturan
+bismuth: 
+kertupos: kirim, pascasarjana
+digress: mundur, mangkat
+morfologi: genetik, morfologi
+evaluasi: netepke, Assessment, ngira-ngira, inquiry, neliti, inquiry, satelit, par
+jeans: 
+database: 
+kalkulator: komputerisasi
+investor: 
+xray: 
+agenda: program, program, kurikulum
+visa: 
+infrastruktur: dhasar, dhasar, dhasar
+detector: 
+splice: muwuhi, mbenake, masang, nyambung
+bromine: 
+Silicon: pi
+hiccup: 
+pastel: bulak
+Kebon: 
+Clinic: 
+Yoga: jumlah
+tokobuku: lemaribuku, toko
+toko: bakul, bakul, toko, toko
+behead: paswektune
+yeah: ya, ya, tulus
+jazz: 
+tungsten: 
+teroris: militant, teror, extremist
+konsep: apik, pemanggih, konsep, Panyangka, paradigma, angen-angen, konsep
+cartesian: 
+dribble: slime
+alimony: 
+Programmer: app
+input: 
+dandanan: nggawemunggah, , trick, ijol
+vaksin: katrangan, jangkoan, injeksi
+aksioma: 
+heroin: 
+folder: 
+cathode: 
+flu: mriyang, pengaruh
+ideologi: panginten
+parking: 
+gambarasliseko: 
+anticlimax: kuciwo
+selenium: 
+corteks: babakan, Nihan, pil
+padanan: podo
+pucuk: 
+Airport: 
+ngethokperanganebadan: ngganggu
+imposter: 
+krom: 
+liter: liter
+dashboard: panel, mlayu
+hormon: 
+perforate: Pierce
+animisme: 
+polygon: amba
+feminis: 
+konjugat: pereng, disambungake, kemudi
+euro: 
+algoritma: 
+laser: 
+farmasi: 
+millimeter: millimeter
+flex: bend, sudhutmlengkung, fleksibel, sarujuk, kabel
+anode: 
+Suasana: iyub-iyub
+snuggle: ngisin
+partwektu: 
+sensitivitas: 
+mainframe: 
+demonstrator: katon, tampilan, kinerja, demo, presentation
+helium: 
+bilingual: 
+gerund: 
+plasma: 
+kromosom: 
+ongko: digit, angka
+kilometer: kilometer
+fax: 
+génétika: genetik, gen
+freckle: 
+brokoli: 
+permutation: format, Uploaded, tataletak, apposition
+spam: 
+vektor: operator
+taktik: piranti, pendekatan, technique, Tata, njupuk
+sehat-sehat: waras, bener, ngencengake, bener, nggih
+vitamin: 
+kadmium: 
+grafis: Graphic, grafis
+kanthimanual: dhewe
+titanium: 
+splurge: brag
+helikopter: 
+tellurium: scandium, lanthanum
+deadline: term
+kempal: konsisten, Uploaded
+analog: 
+centimeter: 
+molybdenum: 
+lithium: 
+multimedia: 
+kalori: 
+robot: 
+peer: peer
+logarithm: 
+instal: gunung, nginstal, sintesis
+glyph: relief
+ékologi: ekologis, lingkungan
+sophisticate: spoil
+cithakan: jamur
+géomètri: 
+kilogram: 
+overeat: 
+pembagi: 
+freeware: 
+eavesdrop: 
+cukuran: 
+iridium: 
+rasisme: rasis
+bandwidth: broadband
+optimal: ndhuwur, paling, sarujuk, cocog, nyetel, ngganti, kompatibel, adaptif, suwene, bener, nyoto
+hypotenuse: penghubung, slant
+desktop: 
+markas: markas, jog
+kesingsal: isin, ilang
+cerium: 
+partitivecilik: 
+kaset: tape
+supermarket: Mal
+Rawuhipun: kae, bakal
+dimensi: ukuran, wangun, ukuran, spasial
+offline: 
+enkripsi: kriptografi, encrypt, werna
+nyinkronake: nyelarasake, nggabungake, kontemporer
+seminar: 
+semantik: meaning, konotasi, tundhuk, obyek, materi, inti, raos, migunani
+disco: 
+neon: 
+nyatawektu: 
+osmium: 
+gayaurip: urip, sakumururip, kaslametané, urip, karir
+firewall: 
+cosine: pitungan, etungan
+artefak: 
+plutonium: 
+pangkalan: 
+yttrium: 
+augmentative: 
+jenengpanganggo: 
+tengenwing: 
+argon: 
+sosialisasi: komunikasi, sesambungan
+globalisasi: 
+secant: 
+gelombang: gelombang
+encode: kode
+Daur-ulang: 
+asymptote: 
+decode: maremake, ngatasi
+balenimeneh: uripmaneh, operasional
+hepatitis: 
+proton: 
+diskette: disc
+milligram: 
+piksel: 
+tantalum: 
+solute: 
+pembantaian: 
+gallium: 
+popmunggah: 
+zirconium: 
+orasegaris: 
+pestisida: 
+polimial: 
+beryllium: 
+neuron: 
+predicative: tegas
+router: 
+factorial: fakultas
+widget: tambahan
+neutron: 
+niobium: 
+germanium: 
+metaloid: nonlogam
+prolativecilik: 
+karagamanhayati: 
+industrialize: industrialization, industri
+joystick: 
+antibiotik: 
+actinium: 
+astronot: papan
+decompress: nggedhekake, nambah
+extrapolation: 
+njawi: asing
+octet: 
+mbukaksumber: 
+marathon: 
+pluging: 
+topologi: 
+Gigabyte: 
+ngionisasi: 
+siUnit: 
+camping: camp
+watestembung: 
+krypton: 
+gnomicswasanaati: 
+shifttombol: 
+squares: kothak
+salesperson: bakul, bakul, Carik
+rhenium: 
+seltelpon: ponsel, mobiletelpon, hotspot, laptop, sel
+miring: aside
+pengandaiancilik: 
+ajurmail: 
+railcar: 
+clipgambar: 
+tetenger: 
+hafnium: 
+ngarepkaca: 
+lativecilik: 
+nthROOT: 
+flowchart: 
+tengahswara: 
+lawasumur: tuwa
+lambédibunderaké: dibunderaké
+rhodiumatom: Terbiumatom, tuliumatom, thoriumatom, fluorineatom, rubidiumatom, thalliumatom, vanadiumatom, poloniumatom, strontiumatom, uraniumatom
+alatempered: atos
+obliquecilik: 
+sabarcilik: 
+wishodiernal: 
+gundul: Bare, raw
+goalpemicu: 
+praseodymium: 
+lumpuh: 
+sambat: complaint
+kanggocilik: ingcilik, acak, sakacilik
+radiation: cemlorot, polusi
+indium: 
+aktorperan: 
+euphoria: semangat, zeal, kepuasan, idin, kesenengan, kabungahan, rasaseneng, bungahaken
+kapitalngunci: 
+papanputih: 
+dramatically: serem
+chauvinist: 
+websitus: situs, situs
+tanduranhouse: 
+sipilhak: 
+Protaktinium: 
+projective: 
+binarNilai: 
+kiper: 
+Tokonyimpen: 
+statusbar: 
+microphone: mikro
+manungsaawak: 
+sumpahing: 
+mailoperator: 
+sentriscilik: 
+trojanjaran: 
+gulungbar: 
+telungtitik: 
+macamung: 
+wisecrack: guyon, lisan
+impermanence: botenstabil, kahanankangoratetep
+pujangga: 
+kayata: 
+hypnotize: 
+nyobanomer: 
+reseptor: 
+tembungmuwuhi: 
+nonmanungsa: 
+milisaiki: 
+singkang: sing, kang, kang, kang
+angger-anggerbuntut: 
+reganemudhun: kuwalik, malik
+kanggocontone: 
+ipalamat: 
+ingbasa: 
+individu: wong, individu, pribadi, kapisah, kapisah, béda, beda-beda, beda, spasial
+proukara: protembung
+epidemiologi: mekanika, dinamika
+legislate: aturan, legislative, ngatur, ngatur
+belang: belang, rencana, Planner, 
+strikebreaker: 
+astatine: 
+overcharge: 
+liyayen: 
+ngarepke: amba, nuding
+nyandhangmetu: 
+panggilanwangun: 
+ergativecilik: 
+suburb: dusun, , deso
+umumgender: 
+Supercomputer: 
+langsungobyek: langsungobyek
+motorist: driver
+kecatet: statistik, angka
+lutetium: 
+rationality: eling, logika
+pasifswara: 
+causative: 
+sesium: 
+searchengine: 
+toolbar: 
+otomatis: otomatis
+californium: 
+mendelevium: 
+agenpemicu: 
+wernawuta: 
+komikStrip: 
+terminal: terminal
+dotmatrik: 
+samarium: 
+singkatsirkuit: 
+ngumpulake: ngumpulake
+agentivecilik: 
+Laka: kacilakan, korban, sengaja, kedadean, kecelakaan
+fractals: 
+multalnomer: 
+kanggocedhak: ditutup, mati, cedhak, ngilangi
+amba: sungguh, ekstensif, lengkap, sudhut, wiyar, akeh, digunakake, nyebar, amba, amba
+adessivecilik: 
+pengusaha: rowange, kerjo, fellow, digandhengake
+Eulerkangnomer: 
+laserprinter: 
+transangka: 
+blog: blogger
+combinatorial: Kombinatorika
+pythagoras: 
+abessivecilik: 
+gamelurikcilik: 
+swimmingblumbang: blumbang, basin
+mbebayani: mbebayani, mbebayani
+kirimkantor: kirim, mail
+malware: 
+pencegahan: ngempet, curb, nyandhet, nglarang, veto, ngrintangi, ngalang-alangi
+spyware: 
+ngrekam: rekaman, Gawan, ndhaftar, Pendhaftaran, entri, log
+interviewer: Interview
+clipPapan: 
+xenon: 
+spreadsheet: 
+nthdaya: 
+movietéater: wayang
+kothakmlebu: 
+sabensen: persen, sen
+aerosol: semprotan
+distributor: 
+dinamika: dinamika, mekanika, dinamis
+sijikapindho: 
+subtend: underlie
+brownian: 
+stargender: 
+galaxygender: 
+karton: kertu, 
+komputabilitas: 
+sijiliyane: liyane, sabenliyane, liya
+polisipejabat: 
+utamiobyek: 
+animategender: 
+evitativecilik: 
+kendaraangender: 
+datamining: 
+duwenicilik: 
+americium: 
+Mineralgender: 
+domainjeneng: 
+mayeunit: 
+neptunium: 
+langsungtembung: 
+matématikawan: 
+possessivecilik: possessivecilik
+modeling: 
+pungkasanpartikel: 
+lampukilatdrive: 
+floppydisk: 
+firefighter: 
+kritistitik: 
+empathetickabungahan: 
+tembungprosesor: 
+Perdanamentri: 
+virtualmemori: 
+adverbialcilik: 
+ethidium: 
+kathokcendhak: 
+bodhosak: 
+pepadhan: rumus
+subessivecilik: 
+logmetu: 
+spammer: 
+antessivecilik: 
+crosswalk: pathway, 
+userantarmuka: 
+ghostwriter: 
+komputervirus: 
+fasilitator: , moderator
+papanpemulihan: 
+tambahantembung: 
+pisanantangan: langsung
+motherboard: apa
+sabarpemicu: 
+durasi: 
+bebarengantembung: 
+koran: koran
+businesswong: wongbisnis
+transitivetembung: 
+mayakomputerisasi: 
+virtualmesin: 
+absolutivecilik: 
+virtualkasunyatan: 
+kepungkurperfective: 
+mligitembung: 
+crastinaltegang: 
+tanggapanswara: 
+abstrakgender: 
+bedaacara: 
+exocentriccilik: 
+kapindhobasa: 
+senigender: 
+potokapercayan: 
+risetgender: 
+langsungwicara: 
+lokalitasgender: 
+fisika: fisik, fisik
+Semestagender: 
+closure: cedhak, ditutup, mati, mati, mandek, metu, nyegah
+superlativecilik: 
+cocog: match, vote, kertusuoro, miturut, cocok, kasepakatan, cocog, cocok, cocog, pas, mail, cocog, kompatibel
+komputerprogram: 
+antibodi: 
+lengkapwektu: 
+propositiveswasanaati: 
+associativecilik: 
+inanimategender: 
+tekseditor: 
+planetgender: 
+operasisistem: 
+grammaticalcilik: 
+listriksaiki: 
+ngetokakeswara: 
+flatware: 
+intibenefactive: 
+webinang: 
+Radian: 
+applicativeswara: 
+phoneme: 
+suksesangger-angger: 
+notebookkomputer: 
+gaspedal: 
+antipassiveswara: 
+rakyatmusic: 
+terabyte: 
+sosialjaringan: 
+rembagan: rembugan, Dhiskusi, obrolan, ngobrol, interaksi, sesambungan, rembugan, komunikasi, dialog
+noncommittal: flat, nyamarke, ambigu
+ci-: 
+Linker: link, magepokan
+neodymium: 
+radiationpenyakit: 
+saikiparticiple: 
+necessitativeswasanaati: 
+eksistensialangger-angger: 
+gedhebangetdadi: 
+pasifparticiple: 
+grammaticalobyek: 
+continuativeaspek: 
+singulativenomer: 
+padhangkakiyatan: 
+superlativedegree: 
+birujean: 
+pilihanquantifier: 
+supercriticaladi: 
+epentheticci-: 
+postpositionalcilik: 
+negatoryquantifier: 
+panyambungpartikel: 
+nerium: 
+universalquantifier: 
+airpasukan: 
+allocutionagreement: 
+komputerprogramming: 
+tegasquantifier: 
+frequentativeaspek: 
+distributifnetral: 
+alternatifquantifier: 
+manehAbu: 
+skalar: 
+counterfactualsaratipun: 

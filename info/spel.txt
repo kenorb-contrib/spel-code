@@ -1,0 +1,2252 @@
+Speakable Programming for Every Language (SPEL)
+***********************************************
+
+Note can access an updated web version of this manual at
+<http://spel.sourceforge.net>.
+
+   For Table of Contents *Note TOC::, or *Note Index::.
+For copying this document *Note Copyright::.  Updated on August 15,
+2014.
+
+1 Introduction
+**************
+
+MMMMMMMMMO:,:KMMMM      9.  spell out,
+MMMMMMMWdcl;dckMMM      a.  to explain something explicitly, so that
+MMMMMMWlcl::MMKWMM      the meaning is unmistakable
+MMMMMWl:::o;KMMMMM      - Dictionary(1) (*note
+MMMMMdclc:lckMMMMM      Introduction-Footnote-1::) definition of spell
+MMMMk';,,;c:oMMMMM      out.
+Kdlc.   .,,;;MMMMM 
+.         ...;:c:l A programming language for communicating with
+Nd;..  ......  .cN computers and humans.  SPEL merges the exactness of
+SPEL's Wizard Hat. computer programming, with the ease of use of human
+                   language.
+                   
+                   It uses Linguistic Universals, elements common to
+                   many human languages.  Starting with assembly
+                   programming, the foundation of computer languages.
+                   Integrating the ability for it to be translated to
+                   and from other languages.  Allowing for a majority
+                   of humans and computers to understand it's meaning.
+                   
+                   Eventually it may enter common day expression, So
+                   when someone asks you to "spell it out for them",
+                   you can SPEL it, explaining with enough precision to
+                   write a program.
+                   
+
+   Can download from our sourceforge site <sourceforge.net/p/spel/>.
+
+   (1) Dictionary.com, "spell out," in Dictionary.com Unabridged.
+Source location: Random House, Inc.
+<http://dictionary.reference.com/browse/spell out>.
+Available: http://dictionary.reference.com.  Accessed: January 27, 2014.
+
+1.1 Mission
+===========
+
+     One lang to rule them all,
+     - J.R.R. Tolkien, conlanger, paraphrased by L. Streondj.
+
+   For unified programming from simple computer programs, to complex
+human laws.  A speakable programming language based on common elements
+of human language.  Sentence oriented, context sensitive, interpreted
+and compilable.
+
+   Plan is to be able to do all things on computer, with a single
+language, much like how humans can do all things with their native
+language or English.  Then to also be able to use that same language for
+communication with humans.  SPEL's core is an intermediary language,
+capable of being translated to any other human or computer language,
+that it has the translation files for.  Ruling all the languages with
+one language.
+
+   Being able to translate human languages into computer programs, can
+allow for better search results, and learning from the text by
+computers.  Finding them search results.
+
+   Computer programming languages would also be translated into SPEL.
+This should allow for easier development of a Generally Intelligent
+Operating System (GI-OS), since the "brain" would be able to understand
+all it's components with a single language.  Bringing it all together.
+
+   Darknet is an anonymous peer-to-peer network, eventually SPEL will be
+used for making the We You Net (WYN) darknet, for humans and generally
+intelligent computers.  One of the services provided by some darknets is
+a DNS or Domain Name Service, which binds domain names, to websites.
+SPEL will allow for names to be bound to concepts, making possible a
+global brain working on many computers, which you can tap into with your
+own WYN client or GI-OS, via the WYN Darknet.
+
+1.2 Features and Requirements
+=============================
+
+Features                             Requirements
+--------------------------------------------------------------------------
+Implemented                             * POSIX compliant system, such
+   * Human Speakable Syntax, even         as Linux, BSD, Minix or
+     punctuation is made into             Cygwin.
+     words.  *Note Language::.          * Processor supporting Intel
+   * Turing Complete set of               32-bit instruction set or
+     interpreted commands.  *Note         above.  AMD and 64bit
+     Turing Complete::.                   processors are good also.
+   * Signed integers, and various    
+     bases *Note Numbers::.               Eventually will support PPC
+   * English grammar support.             and ARM, but that may be a
+                                          while.
+Soon                                 
+   * multi language translation      Are sufficient for running the
+     support.                        binaries.  If you'd like to
+   * Compiles to intel assembly.     compile from sources *Note
+   * Universal Assembly Language     Compilation Requirements::.
+     *Note UAL::.                    
+
+For more detailed list *Note
+Roadmap::.
+
+1.2.1 new in this release
+-------------------------
+
+     0.4.1.C.6 tran be word su context for intel to do (10 April 2014)
+     0.4.1.C.6.3 random numbers (linear congruential generator) (14 April 2014)
+     0.4.1.C.7 support jumps, and address translation. (03 May 2014)
+     0.4.1.C.8 support assembly data types
+     0.4.1.C.8.2 multi sentence quote (packet) dynamic encapsulation (16 May 2014)
+     0.4.1.C.8.3 support simple data and reservation (20 May 2014)
+     0.4.1.C.8.4 support data types rounded by a byte size (28 May 2014)
+     0.4.1.C.8.5 allow dropping or freeing of packets (29 May 2014)
+     0.4.1.C.8.6 recover freed packets for reuse (02 Jun 2014)
+     0.4.1.C.8.7 entry capsules, bo quote for data storage (03 Jun 2014)
+     0.4.1.C.8.8 reentrant function support, rdef, rcall, struc (05 Jun 2014)
+     0.4.1.C.8.9 free entry capsules (06 Jun 2014)
+     0.4.1.C.8.A position independant code support for constants (10 Jun 2014)
+     0.4.1.C.8.B recover entry capsules  (11 Jun 2014)
+     0.4.1.C.8.C reduceInsert to multiSentence capsules (2 Jul 2014)
+     0.4.1.C.8.D append to capsules (11 July 2014)
+     0.4.1.C.8.F array data  (25 Jul 2014)
+     0.4.1.D show syntax rules
+     0.4.1.D.1 config file
+     0.4.1.D.1.1 global config /etc/spelrc (29 Jul 2014)
+     0.4.1.D.2  support C function calls
+     0.4.1.D.2.1 compile spel as a C program (30 Jul 2014)
+     0.3.1.D.2.2 say/hear system functions implemented as C function calls (05 Aug 2014)
+     0.4.1.D.2.3 sys_brk emulation with malloc family. (07 Aug 2014)
+     0.4.1.D.2.4 win32 compilation support with make win32 (08 Aug 2014)
+     0.4.1.D.2.5 moreHold using malloc. usable (in wine) win32 .exe files (09 Aug 2014)
+
+1.3 License
+===========
+
+SPEL is Open Source Software, released under the Affero GPL-3 license,
+with classpath exception to allow using it as a compiler.
+
+   You can read the license notice at <doc/license/license.txt>, and the
+full Affero GPL license at <doc/license/agpl-3.0.txt>.
+
+1.4 Overview of Manual
+======================
+
+This manual covers both the downloading and installation of SPEL, as
+well as the elements of the language.
+
+   The actual application doesn't do much at the moment.  So if you're
+simply interested in what the language is like, and how it will be once
+it is fully implemented, *Note Language::.
+
+2 Download
+**********
+
+You can download the version for your system by using this link:
+
+   [Download] (https://sourceforge.net/projects/spel/files/latest/download)
+
+   This manual is available in several different formats:
+   * online at <http://spel.sourceforge.net>
+   * offline html <doc/www/index.html>
+   * pdf <info/spel.pdf>
+   * plain text <info/spel.txt>
+   * info file <info/spel.info>
+   * info source file <info/spel.texi>
+   note that relative addresses in this manual, are in reference to the
+root directory of spel, or doc/www which is symlinked to be similar.
+
+2.1 Releases
+============
+
+Assuming you clicked on the download link above: by default you will
+likely recieve a portable binary, with a .tar.gz extension.  If you
+didn't but would like to get it, download the latest one from
+<https://sourceforge.net/projects/spel/files/epm/>.  If you have an
+intel based POSIX system then you can use it by following instructions
+at *Note Portable Binary::.
+
+   If you are using a Debian based distro, and would like it integrated
+with apt then please download the latest .deb file from
+<https://sourceforge.net/projects/spel/files/deb/> and then follow
+instruction at *Note Debian Binary::.
+
+   If you'd like to try SPEL without installing it, download a tar ball,
+since they have precompiled binaries inside, If you'd like to try SPEL
+without installing it, download a tar ball, since they have precompiled
+binaries inside, *Note Tar Ball::.
+
+   If you are on Windows you'll have to set up Cygwin first *Note
+Windows::.  If you are on non-intel processor, then you'll need to set
+up qemu, which is out of the scope of this manual, unless you'd like to
+contribute it.
+
+2.2 Sources
+===========
+
+You can download the sources if you'd like to see them, or if you would
+like to compile them.
+
+   There are the release tar balls.  Which have a precompiled binary, in
+case you'd like to try it, without doing any compilation.
+
+   And also the ongoing git archive, which may be more up to date, and
+can be used for testing.
+
+2.2.1 Tar Ball
+--------------
+
+Tar Ball's, or Tape-Archive "balls", are archive files.  They have the
+tar.xz extension, indicating LZMA compression.  Tar balls are found in
+SPEL's base file directory:
+<https://sourceforge.net/projects/spel/files/spel/>.
+
+   You can unpack them with:
+     $ tar xvf spel*tar.xz
+
+   The precompiled binary is bin/spel which you can run by doing:
+     $ cd spel*/bin
+     $ ./spel
+
+   If you'd like to compile from sources follow directions at *Note
+Compile::.
+
+2.2.2 Git
+---------
+
+Can get a development git release.
+     $ git clone git://git.code.sf.net/p/spel/code spel-code
+
+   To compile follow directions at *Note Compile::.
+
+3 Installation
+**************
+
+3.1 POSIX, POSIX compatible Systems
+===================================
+
+POSIX is the Portable Operating System Interface, a group of standards,
+made by the IEEE Institute of Electrical and Electronics Engineers.
+
+   POSIX compatible OS's include most Unix like OS's, such as Linux,
+BSD, Minix, Solaris, BeOS, among many others.  Although the main
+development for SPEL is occuring on Linux, it should be compatible with
+all POSIX systems.
+
+   If you have such a system you may either install *Note Binary::, or
+*Note Compile::.
+
+3.2 Windows
+===========
+
+For the executable or .exe file *Note Windows Binary::.
+
+   Windows is not a POSIX standard system.  To compile from sources you
+need to install a posix operating system emulator such as
+<http://www.cygwin.com/Cygwin>.  You'll have to make sure you install
+nasm, make, bash, clang.  Then follow the instructions for *Note POSIX
+Compilation::.
+
+3.3 Binary
+==========
+
+We have several binaries included, for installing without the hassle of
+compiling.  They are compatible with any POSIX compatible operating
+systems.
+
+3.3.1 Portable Binary
+---------------------
+
+The EPM format, is the Easy Software Products (ESP) Package Manager.  It
+works on most *nix's though there aren't any that use it in particular.
+If there aren't any other compatible binaries for you, then use this
+one.
+
+   Here is an example of how to use it, after downloading
+spel-version-all.tar.gz , in a command prompt:
+     $ mkdir spel
+     $ mv spel-*all.tar.gz spel
+     $ cd spel/
+     $ tar xvf spel*tar.gz
+     $ ./spel.install
+
+   It's that easy, now to use it you can go to *Note Run::.
+
+   and to uninstall simply run the spel.remove which is in the spel/
+directory.
+     $ cd spel/
+     $ ./spel.remove
+
+3.3.2 Debian Binary
+-------------------
+
+This is for Debian like distro's such as Ubuntu, Mint etc.  To install
+after downloading the .deb
+
+     $ sudo dpkg -i spel*.deb
+
+   It's that easy, now to use it you can go to *Note Run::.
+
+   To uninstall:
+     $ sudo apt-get remove spel
+
+3.3.3 Windows Binary
+--------------------
+
+We now have preliminary windows support, that at least works in windows
+emulator (wine).  note that you will likely have to open the .exe from
+within a windows text console.  you can find the spel.exe file at
+<bin/spel.exe> of the zip file.  note that the spel64.exe will not work
+until there is bytecode compiler to port the current intel 32-bit x86
+assembly to other architectures.
+
+   If you do get it running *Note Contact Us::, we like to hear about
+your experience.
+
+3.4 Compile
+===========
+
+This is if you are interested in compiling it for your system, for
+instance if you would like to help develop it.
+
+3.4.1 Compilation Requirements
+------------------------------
+
+Requirements in order to compile.
+
+   * POSIX (standard) utils, if you have Linux or BSD these are
+     standard.
+   * x86 instruction set (intel/amd processor or emulator such as qemu).
+   * bash (bourne-again shell)
+   * nasm assembler, to compile the assembly, <http://www.nasm.us/>.
+   * GNU's make <http://www.gnu.org/software/make>.
+   * LLVM's C compiler clang <http://clang.llvm.org>.
+   * naturaldocs, only needed for api generation,
+     <http://www.naturaldocs.org/>
+
+   if you find other dependancies *Note Contact Us::.
+
+3.4.2 POSIX Compilation
+-----------------------
+
+This is for compiling on any POSIX compatible operating systems, such as
+Linux, BSD, Minix, etc.
+
+   First off have to get the sources *Note Sources::.
+     $ cd spel*
+     $ make
+   executable is bin/spel.  run by
+     $ cd bin
+     $ ./spel
+
+   To install onto the system run
+     $ sudo make install
+
+   Then can run interpreter from command line with:
+     $ spel
+
+   Can now go to *Note Run::.
+
+   To uninstall:
+     $ sudo make uninstall
+
+   Note can use -B to force, if it refuses do it.
+     make -B command
+
+   Additional make commands
+
+   * make clean
+     clean up so can do another write.
+   * make w32
+     make a win32 executable bin/spel.exe
+   * make -B info
+     make info documentation.  Requires makeinfo.
+   * make -B api
+     make API. requires naturaldocs.
+   * make pack
+     make binaries.  requires epm.
+
+4 Usage
+*******
+
+4.1 Run SPEL interpreter on your computer.
+==========================================
+
+Once you In a command prompt type:
+     $ spel
+
+   That starts the interpreter.  It will indicate it is interpreting you
+by saying:
+     me su you bo love be ya
+
+   Then your prompt comes up:
+     you yo
+
+4.2 Try SPEL interpreter with some basic commands
+=================================================
+
+For a simple hello world.
+     say obj quo hello world quo te
+
+   To exit from the interpreter:
+     bye
+
+   Congratulations!  You've had your first successful test of SPEL :-).
+
+   To learn more about the language *Note Language::.  To do try some
+more tests of the interpreter *Note Test::.
+
+4.3 Functionality
+=================
+
+4.3.1 Turing Complete
+---------------------
+
+A Turing Complete language, is one that can be used to compute any
+algorithm.  It must implement the features of a Turing Machine, with a
+few extras to make it practical, and similar to hindu chakras.
+
+   * 0 none, do nothing or pause
+   * 1 not, or forget something
+   * 2 run next command, or interpret next sentence
+   * 3 compare values
+   * 4 store, or remember something, read write internally
+   * 5 write, or say something, externally
+   * 6 read, or hear something, externally
+   * 7 move, or move to another place
+
+   Here is a comparison table, of turing, to assembly, to spel.
+Turing                   Assembly                 SPEL
+---------------------------------------------------------------------------
+none                     nop                      pause
+not                      movr [memory],0          forget
+run                      implicit, tracked by     implicit, tracked by
+                         EIP                      Program Counter
+compare                  cmp                      compare
+store                    movr [memory],register   remember
+                         (write internally)
+                         movr register,[memory]
+                         (read internally)
+write                    OS dependent             say
+read                     OS dependent             hear
+move                     jmp                      jump
+
+   Additionally there are a few more functions to make it useful, such
+as math, function definitions
+
+English                  Assembly                 SPEL
+---------------------------------------------------------------------------
+add                      add                      add
+subtract                 sub                      sub
+multiply                 mul                      mul
+divide                   div                      div
+use function             call                     call
+return from function     ret                      return
+label of function        :                        label
+macro function           %macro                   define*
+   * yet to implement
+
+   These elements can be implemented for making a Universal Assembly
+Language *Note UAL::.
+
+4.4 Hiccups: known bugs
+=======================
+
+This is alpha level program, so as new features are added, some of the
+old ones may brake and not get tested before release.  While it is
+attempted to test all relevant things, some slip through.
+
+   A major hiccup for foreign languages is that sentences must be one
+per line.  Can't have more than one sentence per line, and can't have
+half a sentence.  Since translation is done on a sentence by sentence
+basis, and due to diversity of foreign languages, would need to have a
+per language parser.  You can volunteer to write one of course, then can
+have multiple lines per sentence, or multiple sentences per line.
+
+5 Language
+**********
+
+This is documentation for the SPEL's core language, which uses Mkaw
+grammar with English vocabulary currently.  Later there will be
+generated documentation, originally written in Mkaw, that can translate
+to English, French or any other supported language, explaining how to
+use that particular language's SPEL version.
+
+   The most common writing direction is left to right in horizontal
+lines.  Due to this fact, SPEL's base language Mkaw is oriented in the
+same fashion.
+
+   The mascot of Mkaw is the Ara macao (Scarlet Macaw), a true parrot
+species, with a similar sounding name.
+
+MMMMMKNMMMMMMMMMMMMMMMMMMMMMMMM
+MMMK:;,cKMMMMMMMMMMMMMMMMMMMMMM
+MMMN,,,;,lXMMMMMMMMMMMMMMMMMMMM
+MMMMd,,;;;,oWMMMMMMMMMMMMMMMMMM
+MMMMWc....,,kMMMMMMMMMMMMMMMMMM
+MMMMMN, ..'';kXWMMWNX000KKKKKXW
+MMMMMMWo....,':oo,'.''..    ,dX
+MMMMMNK0x::''. .l:,..'.;cokKNMM
+MMMWk:'',;.'';xxOxxk0KWMMMMMMMM
+WKOoldc,;;'..lMMMMMMMMMMMMMMMMM
+MMMW0kl:'cccOMMMMMMMMMMMMMMMMMM
+MWK00dk0kWMMMMMMMMMMMMMMMMMMMMM
+MMMMXWMMMMMMMMMMMMMMMMMMMMMMMMM
+5.1 Linguistic Universals
+=========================
+
+Linguistic Universals (LU) are patterns that occur across natural
+languages, occuring for all or some of them.  Natural languages being
+those which developed spontaneously when humans decided to interact with
+each other.
+
+   These are to be used as a guide for users and developers of the
+language.  For instance they indicate such things as having a case
+grammar, having the commentary words (rheme) precede the verb, while
+having the auxillary or grammar words follow the verb.
+
+   Joseph Greenberg is famous for making a list of 45 LU, based on 30
+langauges.  Here is a list of some of Greenberg's LU that apply to Mkaw.
+   * 1.  "In declarative sentences with nominal subject and object, the
+     dominant order is almost always one in which the subject precedes
+     the object."
+   * 4.  "With overwhelmingly greater than chance frequency, languages
+     with normal SOV order are postpositional."
+   * 7.  "If in a language with dominant SOV order there is no
+     alternative basic order, or only OSV as the alternative, then all
+     adverbial modifiers of the verb likewise precede the verb.  (This
+     is the 'rigid' subtype of III.)"
+   * 9.  "With well more than chance frequency, when question particles
+     or affixes are specified in position by reference to the sentence
+     as a whole, if initial, such elements are found in prepositional
+     languages, and, if final, in postpositional."
+   * 13.  "If the nominal object always precedes the verb, then verb
+     forms subordinate to the main verb also precede it."
+   * 14.  "In conditional statements, the conditional clause precedes
+     the conclusion as the normal order in all languages."
+   * 19.  "When the general rule is that the descriptive adjective
+     follows, there may be a minority of adjectives which usually
+     precede, but when the general rule is that descriptive adjectives
+     precede, there are no exceptions."
+   * 27.  "If a language is exclusively suffixing, it is postpositional;
+     if it is exclusively prefixing, it is prepositional."
+   * 38.  "Where there is a case system, the only case which ever has
+     only zero allomorphs is the one which includes among its meanings
+     that of the subject of the intransitive verb."
+   * 41.  "If in a language the verb follows both the nominal subject
+     and nominal object as the dominant order, the language almost
+     always has a case system."
+
+   There is also an archive of over 2000 LU at
+<http://typo.uni-konstanz.de/archive/intro/index.php>.
+
+   A few that match to SPEL's Mkaw.
+   * 2 In languages with postpositions the genitive almost always
+     precedes the governing noun.
+   * 7 IF morphemes of both number and case are present and both follow
+     or both precede the noun base, THEN the exponent of number almost
+     always comes between the noun base and the exponent of case.
+   * 266 IF there is Person and Number inflection, THEN there is Tense,
+     Aspect, and Mood inflection.
+   * 437 IF basic order is verb-initial or free, THEN head-marking is
+     favoured, and vice versa.  IF basic order is verb-medial or
+     verb-final, THEN dependent-marking is favoured, and vice versa.
+   * 446 IF there is verb-final (rigid, or non-rigid) or free word order
+     as (one of) the basic order(s), THEN there will be postpositions or
+     case affixes.
+   * 684 IF there is morphological (suffixal) negation, THEN word order
+     is verb-final or free.
+   * 822 IF there are correlatives, THEN basic order is loosely
+     verb-final.
+   * 1213 IF there is an extensive system of local cases, THEN there
+     will very likely also be numerous local postpositions.
+   * 1493 IF basic word order is not-verb-initial (i.e.  verb-medial or
+     verb-final), THEN nouns attach to the left of the verb stem when
+     incorporated.
+   * 1535 IF word order is verb-final, THEN there is a tendency to
+     attract a questioned NP(Noun-phrase) to the normal DO(Direct
+     Object) position.
+   * 1589 IF basic order is verb-final, THEN there will be a strong
+     tendency to place grammatical morphemes (grams) after the verb, and
+     eventually to suffix them.
+   * 1596 IF AUX(illary verbs) occurs in final position (in
+     surface-order), THEN basic order is rigidly verb-final.
+   * 1633 IF basic order is verb-final, THEN there will be no
+     WH(question word)-movement, and vice versa.
+   * 1650 IF basic word order is rigidly verb-final, THEN the rhematic
+     focus of a sentence is most likely to be in the position
+     immediately preceding the finite verb.
+
+5.2 Phonology
+=============
+
+The Phonology is similar to the Alphabet, it is the sounds of the
+language.  Here we will be covering both.
+
+   For the sake of precision we prefer to call alphabet components
+glyphs.  Programmers often call alphabet components characters, but that
+can be confused with actors of a story.  Some people call the alphabet
+components letters, but that can be confused with mail.  Glyph is
+similar to hieroglyph, thus easy to remember, and has a unique sound
+which is hard to confuse for other words.
+
+   Since the Vocabulary is currently English, with a few additions, the
+Phonology, or sounds are currently the same.
+
+   Current implementation uses ASCII encoding but after the Bravo
+release, we are intending to implement UTF-8 for supporting more
+languages.
+
+   That's it for implemented Phonology, feel free to skip to *Note
+Syntax::.  The rest of this phonology chapter is for people interested
+in constructed languages and bytecode.
+
+5.2.1 Bytecode Alphabet
+-----------------------
+
+Also note that there will be a bytecode language, which is the
+intermediary language of the compiler.  To make them similar to standard
+languages, we can emulate the phonemic inventory of average languages.
+
+   World Atlas of Language Structures has some good averages of world
+languages.
+
+Type         Small        Moderately   Average      Moderately   Large
+                          Small                     Large
+------------------------------------------------------------------------------
+Consonant    6 to 14      15-18        22+-3        26-33        34 or more
+inventory(1)                                                     
+(*note
+Bytecode
+Alphabet-Footnote-1::)
+Vowel        2 to 4                    5 to 6                    7 to 14
+Quality                                                          
+Inventory(2)
+(*note
+Bytecode
+Alphabet-Footnote-2::)
+Consonant    less than    2-2.75       2.75-4.5     4.5-6.5      more than
+Vowel        2                                                   6.5
+Rato(3)
+(*note
+Bytecode
+Alphabet-Footnote-3::)
+
+   Additionally the UCLA Phonological Segment Inventory Database
+(UPSID), has a good listing of the phonemes found in world languages.
+Based on some of their data available online, came up with a listing of
+most common ones.
+
+   Most Popular Phonemes.(4)  (*note Bytecode Alphabet-Footnote-4::)
+     	UPSID
+     of lang glyph description               http://web.phonetik.uni-frankfurt.de/S/
+     94.24%  m     voiced bilabial nasal                                  S0621.html
+     89.36%  k     voiceless velar plosive                                S0573.html
+     87.14%  i     high front unrounded vowel                             S0532.html
+     86.92%  a     low central unrounded vowel                            S0300.html
+     83.81%  j     voiced palatal approximant                             S0568.html
+     83.15%  p     voiceless bilabial plosive                             S0721.html
+     81.82%  u     high back rounded vowel                                S0853.html
+     73.61%  w     voiced labial-velar approximant                        S0892.html
+     63.64%  b     voiced bilabial plosive                                S0349.html
+     61.86%  h     voiceless glottal fricative                            S0473.html
+     56.10%  g     voiced velar plosive                                   S0438.html
+     52.55%  N     voiced velar nasal                                     S0222.html
+     47.89%  ?     voiceless glottal plosive                              S0173.html
+     44.79%  n     voiced alveolar nasal                                  S0635.html
+     43.46%  s     voiceless alveolar sibilant fricative                  S0784.html
+     41.69%  tS    voiceless palato-alveolar sibilant affricate           S0827.html
+     41.46%  S     voiceless palato-alveolar sibilant fricative           S0265.html
+     41.24%  E     lower mid front unrounded vowel                        S0196.html
+     40.13%  t     voiceless alveolar plosive                             S0797.html
+     40.13%  "o    mid back rounded vowel                                 S0066.html
+     39.91%  f     voiceless labiodental fricative                        S0433.html
+     38.58%  l     voiced alveolar lateral approximant                    S0598.html
+     37.47%  "e    mid front unrounded vowel                              S0023.html
+     35.92%  O     lower mid back rounded vowel                           S0238.html
+     35.48%  "n    voiced dental/alveolar nasal                           S0053.html
+     33.70%  "t    voiceless dental/alveolar plosive                      S0102.html
+     31.26%  nj    voiced palatal nasal                                   S0671.html
+     30.16%  "l    voiced dental/alveolar lateral approximant             S0045.html
+     29.93%  "s    voiceless dental/alveolar sibilant fricative           S0094.html
+     29.05%  o     higher mid back rounded vowel                          S0691.html
+     27.49%  e     higher mid front unrounded vowel                       S0419.html
+     26.61%  d     voiced alveolar plosive                                S0373.html
+
+   A more extensive list is in <doc/lang/phonemePopularity-most.txt>,
+which has a listing of phonemes found in more than 10% of languages.  In
+addition there is <doc/lang/phonemePopularity-least.txt> for the
+phonemes that are found in less than 10% of languages.
+
+   We use these sources to design the alphabets for the bytecode
+language, so that they are most compatible with people around the world.
+
+   Generally when picking phonemes, we prefer those that are easy to
+distinguish.  So for instance UPSID's E and "e are almost identical,
+given limited alphabet space, only the more popular would be included,
+but for consistency, with "o and a, we are using "e.
+
+   We also prefer the simple rather than compound phonemes, i.e.
+picking t and s seperately rather than the ts affricate.
+
+   To fit two glyphs in a byte, we will use the *Note 4 Bit Alphabet::.
+For ordinary communication amongst people, can use an average *Note 5
+Bit Alphabet::.
+
+   Smaller alphabets are for vocabulary priority, and larger ones mostly
+for artistic purposes.
+
+   Can check IPA, X-SAMPA, UPSID equivalents in appendix *Note
+Alphabets::.
+
+   (1) Ian Maddieson.  2013.  Consonant Inventories.
+In: Dryer, Matthew S. & Haspelmath, Martin (eds.)
+The World Atlas of Language Structures Online.
+Leipzig: Max Planck Institute for Evolutionary Anthropology.
+(Available online at <http://wals.info/chapter/1>, Accessed on
+2014-01-27.)
+
+   (2) Ian Maddieson.  2013.  Vowel Inventories.
+In: Dryer, Matthew S. & Haspelmath, Martin (eds.)
+The World Atlas of Language Structures Online.
+Leipzig: Max Planck Institute for Evolutionary Anthropology.
+(Available online at <http://wals.info/chapter/2>, Accessed on
+2014-01-27.)
+
+   (3) Ian Maddieson.  2013.  Consonant-Vowel Ratio.
+In: Dryer, Matthew S. & Haspelmath, Martin (eds.)
+The World Atlas of Language Structures Online.
+Leipzig: Max Planck Institute for Evolutionary Anthropology.
+(Available online at <http://wals.info/chapter/3>, Accessed on
+2014-01-27.)
+
+   (4) Most Popular Phonemes.  Compiled by Logan Streondj.  From UPSID.
+Available at <doc/lang/phonemePopularity-most.txt>.  Accessed at 28 Jan
+2014
+
+5.2.1.1 1 Bit Alphabet: 2 Glyphs
+................................
+
+This is a minimal binary alphabet, it only has 2 glyphs: a silence or ?
+glottal stop, and i high front vowel.
+
+   This means that .i is the highest priority word.  Perhaps it will
+mean verb.
+
+5.2.1.2 2 Bit Alphabet: 4 Glyphs
+................................
+
+The two bit alphabet has 4 glyphs: ?  i m k.
+
+   glottal stops can only intite a grammar word with no other
+consonants, since really it's not much different than a pause.
+Functionally it can be treated the same as one.
+
+Vowel              Front
+----------------------------------
+Closed or Upper    i
+
+Consonants Labial  Velar
+---------------------------
+Nasal      m
+Stop               k
+
+   Encoding is how the alphabet is represented on the computer.
+     encoding
+     decimal binary	glyph
+     0	0	.
+     1	1	i
+     2	01	m
+     3	11	k
+
+5.2.1.3 3 Bit Alphabet: 8 Glyphs
+................................
+
+The three bit alphabet has 8 glyphs: .  i m k a y p w.  2 vowels, 6
+consonants.  vowel consonat ratio of 3.
+
+Vowel              Front          Central
+-------------------------------------------------
+Closed or Upper    i
+Open or Lower                     a
+
+Consonants Labial  AlveolarPost-AlveolarPalatalVelarGlottal
+-----------------------------------------------------------
+Nasal      m
+Stop       p                               k       ?
+Approximantw                       y       w
+   note: w is both labial and velar.
+
+   It has a core vocabulary space of as many as 0x200 or 512 words.
+Toki Pona is a language people use and are fluent in, with only 128
+words.  If such a small language is enough, then we can certainly have
+enough words, in this 3-bit sub-language, to allow beginners and easy
+point of access.
+
+   can see the vocabulary for it at <doc/lang/vocab-3bit.txt>.
+
+5.2.1.4 4 Bit Alphabet: 16 Glyphs
+.................................
+
+To fit 2 glyphs in a byte, it'll be a 4-bit alphabet.  That allows for
+around 16 glyphs, one being a blank.  Due to the size limitation, this
+will be a small alphabet.  With correspondingly small vowel, and small
+consonant inventories.
+
+   With 12 consonants and 3 vowels, and a blank (glottal stop), that
+gives us a consonant vowel ratio of 4, or 4.3.  fitting in with the
+average consonant vowel ratio.  One of the goals with this small
+alphabet, is that even if whispered it would be clear to understand.
+Thus priority is for voiceless consonants, or at least without overlap.
+For instance p and B, are both bilabial plosives, but B is voiced, thus
+only p remains for the language.
+
+   Also though f is more popular than r, niether Proto-Indo-European,
+nor Borean, list any words that contain an f, but have plenty with r, so
+r is included.
+
+   Given this criteria we have: .  i m k a y p w u h q s c t l r
+
+Vowel              Front          Central        Back
+----------------------------------------------------------------
+Closed or Upper    i                             u
+Open or Lower                     a
+   note u is rounded, a and i are unrounded.
+
+Consonants Labial  AlveolarPost-AlveolarPalatalVelarGlottal
+-----------------------------------------------------------
+Nasal      m                               q
+Stop       p       t                       k       .
+Fricative          s       c                       h
+Approximantw       l               y       w
+Trill              r
+   note: w is both labial and velar.
+
+   It is documented in <doc/lang/alphabet-4bit.txt>.
+
+   can see the vocabulary for it at <doc/lang/vocab-4bit.txt>.
+
+5.2.1.5 5 Bit Alphabet
+......................
+
+If the bytecode language proves popular, can have a higher level version
+for average communication, using an average phonemeic inventory, of
+around 24 phonemes, which can easily fit in a 5-bit alphabet of 32
+glyphs
+
+   5 vowels: i a u e o 19 consonants: m n y w l r k p b g t d h s c f x
+z j rests: '.', null, space, newline, tab
+
+Vowel              Front          Central        Back
+----------------------------------------------------------------
+Closed or Upper    i              1              u
+Mid                e                             o
+Open or Lower                     a
+   note only o and u are rounded.
+
+Consonants Labial  AlveolarPost-AlveolarPalatalVelarGlottal
+-----------------------------------------------------------
+Nasal      m       n                       q
+Stop       p b     t d                     k g     .
+Fricative  f v     s z     c j             x       h
+Approximantw       l               y       w
+Trill              r
+   note: w is both labial and velar.
+
+   It is documented in <doc/lang/alphabet-5bit.txt>.
+
+   can see the vocabulary for it at <doc/lang/vocab-5bit.txt>.
+
+5.2.1.6 Larger Alphabets
+........................
+
+Then for those that wish to be more consise, or expressive, can have
+even larger phonemic inventories, 6bit or larger.
+
+   can see the alphabet in progress at <doc/lang/alphabet-6bit.txt>.
+
+5.2.2 Alphabet Encoding
+-----------------------
+
+Alphabet encodings, are the way in which numbers are represented on a
+computer.
+
+   Bytecode encoding will happen while on a per-alphabet basis, also it
+aims to integrate all the alphabets from small to large, with the same
+or similar bit representation.
+
+   Glyph encoding, is an alternative to UTF-8, which we may develop.  It
+allows for the encoding bits to be used to make an image of the glyph.
+That way if a font is not installed, it can give at least a rough
+approximation, of what that glyph is supposed to look like.
+
+   It also becomes easier to develop new scripts, since other people can
+at least sort of see them, and can get a high definition font for them
+also.
+
+   Glyph encoding will likely have to start with 2 bytes per glyph, that
+can give a 4 by 4 grid (16 bits), in which to draw a glyph.  This also
+makes it more fault tolerant, as if some bits decay, it may still be
+legible, though it does take up more room than ASCII.
+
+   For anything outside of ASCII it is the same or less room than UTF-8.
+Though it may require a whole section have a similar resolution, rather
+than having different size characters next to each other, a system
+similar to UTF-8's charcter size notification could be used.  which
+would allow it.
+
+   It is compressible, if you know which glyphs are used in a document,
+can simply list the glyphs with what they are supposed to look like at
+top, and then what numbers will be used to encode each, then proceed by
+using just the numbers.
+
+5.3 Syntax: Grammar, or language glue
+=====================================
+
+Note that this is a description of the syntax of the core language.
+Once translation files are supported and made, the syntax you interact
+with will more closely resemble your prefered language.  However some
+elements of the core may still peek through, so it may be good to learn
+the core language, to understand both it, and how it relates to what you
+are seeing.
+
+5.3.1 Word Order
+----------------
+
+The syntax is based on the most common word order, Subject Object Verb
+(SOV). This is in contrast to the word order of English, SVO. To
+illustrate, in SVO it is "she loves him", in SOV it is "she him loves".
+
+   Along with SOV comes post-positions, which are also in contrast to
+English's prepositions.  For instance instead of "I go to the store" it
+is "I store the to go".
+
+   SPEL conforms to *Note Linguistic Universals::, stated simply, words
+within a phrase go from least to most significant.  Can consider it
+"little endian".
+     filename.txt file from say be do
+   filename.txt is a type of file that is being gotten from.  by itself
+filename.txt is just some glyphs, but knowing it is a file is more
+significant, knowing that it's where information is being retrieved, is
+the most significant piece of information of the phrase, for the
+sentence.
+
+5.3.1.1 Why not SVO?
+....................
+
+SVO or subject-verb-object, is used in English, most european languages,
+as well as mandarin, making is a very high profile word order.
+
+   However SVO is considered a transitional word order, that is
+transitioning from SOV to VSO, so it has some elements of VSO grammar,
+and some elments of SOV grammar, making it rather inconsistent.
+
+   SOV languages have well defined Linguistic Universals, as they are a
+very regular kind of language, and likely the word order of a
+proto-human language, that may have been the point of origin of all
+languages.
+
+   In future there may be support for a zero-marking version of Mkaw,
+which uses SVO, as we'll need to make support for other zero-marking
+languages, such as Vietnamese and Indonesian.
+
+5.3.2 Cases
+-----------
+
+     41.  "If in a language the verb follows both the nominal subject
+     and nominal object as the dominant order, the language almost
+     always has a case system.
+     - Greenberg's Linguistic Universals
+   Since SPEL's Mkaw is SOV, both the subject and object precede the
+verb, thus it should have a case a system.  That is why it does.
+
+   Grammatical cases describe the function a word serves in a sentence.
+
+   Spel uses an isolating case-grammar, so there is a word for each
+grammatical case.  where a grammatical case is a word like "to", "of",
+"for", "by".
+
+   English uses many case-grammar words, but uses place-grammar for
+subject and object.  In SPEL the word for subject is "su" and for object
+is "bo".  For example, "we go to the store", is "we su store the bo go
+be"
+
+   SPEL is actually analytical in terms that how you arrange the phrases
+in a sentences doesn't matter, so long as you have proper case
+post-positions.
+
+   In example
+     she su go be store to apples for ya
+     store to apples for go be she su ya
+   have the same meaning.
+
+   Most languages don't have morphological case marking, of those that
+do have case, they usually have 6-7.  (1) (*note Cases-Footnote-1::).
+While SPEL likes to use the most popular of something, it also likes to
+support all the features of language, so that if something is expressed
+in a language, it can also be expressed in SPEL, thus we use most
+grammar forms, including case, to our advantage.
+
+   Typically verbs aren't considered cases, but for simplicty of parsing
+we do.  Thus the basic 8 cases in SPEL are: be, su, bo, to, from, for,
+of, by.  Notably "of" is parent, "for" is child, "from" is source, "to"
+is destination, "by" is instrument, "su" is subject, "bo" is object,
+"be" is verb.
+
+   There are a few more that are commonly used, such as since and til,
+though they could be seem as variations of from and to.  "til" is used
+to designate the length of what is describes, mneumonically can think of
+it as "til so many byte have passed".
+
+   can find full listing of implemented cases at
+<api/html/index/Cases.html>
+
+   (1) Ian Maddieson.  2013.  Number of Cases.
+In: Dryer, Matthew S. & Haspelmath, Martin (eds.)
+The World Atlas of Language Structures Online.
+Leipzig: Max Planck Institute for Evolutionary Anthropology.
+(Available online at <http://wals.info/chapter/49>, Accessed on
+2014-01-27.)
+
+5.3.3 Punctuation
+-----------------
+
+Punctuation is also voiced
+
+   * Instead of a period to end a declarative sentence, the word "ya" is
+     used.
+   * Instead of a question mark to end an insquisitve sentence, the word
+     "ke" is used.
+   * Instead of an exclamation mark to end an imperative sentence, the
+     word "do" is used.
+   * For a comment the word "hu" is used.
+
+   Post-positions also make sense from a computer programming
+perspective, because for instance the sentence ender goes at the end,
+thereby indicating an end of a sentence, otherwise it is an open
+question, if someone stopped talking.
+
+     hello bo say be do
+
+   When do is said, the computer knows it is the end of the sentence.
+If you make a sentence, but at the end decide not to use it, or simply
+leave it as a comment can say "hu".  Of course currently it is typed,
+though the intent that eventually it will be spoken.
+
+   can find full listing of implemented punctuation at
+<api/html/index/Punctuation.html>
+
+5.3.4 Types
+-----------
+
+Types are from computer programming languages, where the contents of a
+phrase may be a number, quote, or something else.
+
+     test.txt file
+   test.txt is of the file type.
+
+   The most common type used, is probably quotes and numbers *Note
+Quotes::, *Note Numbers::.
+
+   There is a full listing of types and their usage in the API
+<api/html/index/Types.html>
+
+5.3.5 Numbers
+-------------
+
+By default for Mkaw numbers are little endian hexadecimal.
+     01 nu
+   means 16.
+
+   In English big endian decimal as the locale default.
+     nu 16
+   means 16.
+
+   You can write little endian hexadecimal like so
+     nu 16 01
+   is 16.  can do big endian hexadecimal
+     nu -16 10
+   means 16 it is negative because big-endian is reversed from the flow
+of the text.
+
+   Arabic has little endian decimal as the default, though all of their
+text flows in the other direction.
+
+   note little endian hexadecimal is the format of all the addresses and
+pointers.  it is also the default in intel based processors, as it is
+same flow as text.
+
+5.3.5.1 Why Little Endian?
+..........................
+
+Numbers, or Arabic Numerals, are originally from Arabic.  In Arabic they
+are little endian, because Arabic is written from right to left.  When
+westerners first learned it, they kept the right to left orientation,
+even though their own languages were written left to right, like
+English.  Little Endian preserves the order, which numbers were intended
+to be.
+
+   Another important point, is that the last number that is read is the
+easiest to recall, since it was most recently in memory.  Similar
+advantage to SOV, and post-positions in general.
+
+   Of course doing math also becomes much easier, since it can be done
+forwards, rather than backwards, as is the case with addition,
+subtraction and multiplication.  Meaning that can add the first two
+numbers together, carry forward to the next, rather than starting at the
+back, and carrying backward.
+
+5.3.5.2 Hexadecimal Numerals
+............................
+
+In the interest of making math more appealing to people, while at the
+same time adding support for hexadecimal numerals.  They look like
+little people, with either their arms or legs extended.  They
+organization is binary, so with 2 arms, and 2 legs, 16 numbers are
+represented.
+
+   They while having been created, we wont have support to display them,
+at least until either they enter UTF, or we make an operating system
+GI-OS. Though perhaps even simply a font would do the trick, you'd be
+limited to only using that font to represent it.
+
+5.3.6 Quotes
+------------
+
+Quotes aren't typically expressed in most spoken languages, and so for
+instance English has non-prounced glyphs for representing them such as
+"''.  However that is not compatible with having Speakable Programming,
+so we have spoken quotes, which use words, inspired largely by Lojban.
+
+5.3.6.1 Single Word Quotes
+..........................
+
+There are also single word quotes, which are ended by the word "wu".
+For instance hello wu quotes the word hello.
+     hello world wu
+   world is quoted, hello is not.
+
+5.3.6.2 Multi Word Quotes
+.........................
+
+The kind of quotes implemented is the lojban foreign language quotes
+style.  It's interesting as it's actually an infinite quoting mechanism,
+since you can literally make new quotes with it.
+
+     quo phrase or proverb quo te
+   is a quote, containing the words "phrase or proverb" the quote_word
+is quo in this case, though " contents " te can work just as easily as
+any combination, however " is not speakable, unless it is defined as a
+phoneme of some sort, perhaps a dental click.
+
+   Instead of having escape sequences, can simply have quotes comprised
+of glyphs which are not found in the text as solitary words.
+
+   Note that these are in sentence quotes, and a sentence has upper
+limit, of 0x100 or 256 glyphs, any longer is excessive.  If you'd like
+to quote a paragraph or more, use *Note Multi Sentence Quotes::.
+
+5.3.6.3 Free Word Quotes
+........................
+
+These are the most common kind of quote, most cases use them.  For
+instance it ends at case word, and the start is whatever grammar word of
+same or higher class came before.
+     hello word bo
+     say be hello world bo
+     ya hello world bo
+   In all these cases hello world is quoted by bo.
+
+5.3.6.4 Multi Sentence Quotes
+.............................
+
+Though the basic idea is:
+     start be ya
+     she su walk be mercury on ya
+     she su die be meteorite from ya
+     she su life good bo think be ya
+     she su back go be colony to ya
+     she su backup body bo find be ya
+     she su body bo enter be ya
+     she su return bo life to ya
+     returned su story of end be ya
+
+   The end is more important than the begining, since the compiler
+searches from the end.  Much like how a story is compiled, after it
+occurs.
+
+5.3.6.5 Binary Quotes: For machine language instructions
+........................................................
+
+Binary quotes allow for quoting machine language instructions.  Machine
+language quote type word is sci pronounced "s,she".  They are the same
+as multi sentence quotes above.
+
+   However you can also convert them to little endian hexadecimal.
+     binary sci bo convert be do
+   There is an example in <bin/quote.txt>.
+
+5.3.7 Clauses
+-------------
+
+In 3-bit Mkaw there is a rather limited range of grammar words.  So they
+are of the most generic kind.
+
+   pia ends a clause, and if necessary yai starts one.
+
+   by default it is assumed to be a relative or subordinate clause.  the
+clause is at the begining of the sentence, or it does not contain any
+case markers then it doesn't need a starter.  if it is in the middle of
+the sentence and contains case markers, then it does need a stater.
+
+   for instance an and clause is ki pia, conditional clause is kwi pia.
+
+5.3.7.1 Conditionals:: If's and Comparisons
+...........................................
+
+     14.  "In conditional statements, the conditional clause precedes
+     the conclusion as the normal order in all languages.
+     - Greenberg's Linguistic Universals.
+
+   Since SPEL emulates assembly, first a comparison is made the result
+is stored, and based on that result actions can be taken.
+     2 nu bo 2 nu to compare be do
+     equal if hello bo say be do
+
+   If a sentence has an if case, the case is evaluated first; if
+successful the rest of the sentence is also, otherwise it goes on to
+next sentence.
+
+   That is a conditional case, or kwi wa.  There is also the more
+ordinary conditional clause, or kwi pia, which isn't yet implemented.
+
+5.4 Vocabulary
+==============
+
+While most of the vocabulary is English, there are some new words that
+had to be added for the grammar.
+
+   The most notable are words to indicate the subject "su" and object
+"bo".  These and other grammar words are covered in the section on
+syntax, *Note Syntax::.
+
+   There are also verbs, which do various functions To see full listing
+of implemented verbs see
+<http://spel.sourceforge.net/api/html/index/Verbs.html>.
+
+   You can test them using various commands at *Note Test::.
+
+5.4.1 Morphology: Word Form
+---------------------------
+
+For the bytecode language, it will likely be based on Lojban vocabulary.
+Lojban root word particles are either CVCC or CCVC, where C is consonant
+and V is vowel.
+
+   For hard to pronounce CC clusters can insert a brief mid central
+vowel @ when pronouncing them.
+
+   We'll probably also have CVC and CCV roots for high priority words.
+
+   Grammar words in lojban are CV, CVV and some more complex ones.  We
+will use these listed, including possibility of glottal stop to be
+initial consonant.
+
+   Non-core roots may be used for local dialects, or domain specific
+vocabulary, which is shortened from more complex words.  This is similar
+to the idea of "localhost", and "local network" of IPv4, where not
+everyone can have their own IP, so local networks around the world share
+the same IP's, but don't get to use them on the internet.
+
+5.4.1.1 Word Priority
+.....................
+
+High priority meanings, are those which are used more frequently.  To
+accomodate them, they must be easier and quicker to pronounce.  Thus,
+the shorter words, and those from a smaller alphabet, are the words of
+highest priority.
+
+   For root words, there is also syllable length.  The CCV form is a
+short syllable and CVC is a long-syllable, because the former is quicker
+to say.  So CCV words are higher priority than CVC words, and CCVC words
+are higher priority than CVCC words.
+
+   Similarly for grammar words, CV is short syllable and CVV is
+long-syllable.
+
+   If one is speaking with a low-bit alphabet, can use compound words to
+express those words which are too low to have representation.  In
+example in 3-bit to express an aquatic creature such as a fish, you
+would have to say kwa mimw, wheras in 4-bit you could simply say cam.
+
+   Thus there are certainly synonyms in the language, for long words in
+low-bit languages, there may be short words in higher-bit ones.  For
+instance calm in 3-bit is pwim, and in 4-bit is tiw.  This can help with
+explaining to people what is meant, if they don't understand a version
+of it, then it can be expressed as a lower-bit compound, or a synonym.
+
+5.4.2 Vocabulary Size
+---------------------
+
+Here is a listing of the various alphabet sizes, and what kind of word
+inventory they can hold:
+
+Glyph     Number    ConsonantsVowels    Other     Grammar   Simple    Complex
+Size      of                                      Words     Roots     Roots
+          Glyphs
+--------------------------------------------------------------------------------
+2-bit     4         2         1         1         6         8         16
+3-bit     8         5         2         1         30        100       500
+4-bit     16        12        3         1         144       864       10,368
+5-bit     32        19        5         4         570       3,240     58,320
+6-bit     64        31        8         10                            432,000
+7-bit     128       50        13        32                            3,058,874
+8-bit     256       81        21        64                            21,504,000
+
+   Remember from Morphology that C is Consonant and V is vowel.
+   * Complex Roots are CCVC and CVCC.
+   * Simple Roots are CVC and CCV.
+   * Grammar Words are CV and CVV, where C may also be glottal stop.
+
+   The core vocabularies are going to line up with round hexadecimal
+numbers, so as to allow for non-core roots in domain specific
+applications.  At each level, some of the words may be undesirable, such
+as for sake of ease of pronounciation, those would be put into non-core
+words.
+
+   Some comparisons:
+
+   3-bit language may have 0x200 or ~500 core words, half can be for
+most common computer commands, and half can be for most common human
+words.
+
+   4-bit language may have 0x2000 or ~8,000 core words.  Collins cobuild
+Active English Dictionary has of 6,000 words, claims to be 85% of the
+English language.
+
+   5-bit alphabet may have 0xf000 or ~60,000 core words.  For comparison
+the average vocabulary of a person is about 10,000-20,000 words.
+
+   6-bit alphabet may have 0x60000 or ~390,000 core words.  Recently
+(2013) English surpassed the 1 million words mark.  With 2 extra tones,
+it would be possible to surpass the million mark.
+
+   7-bit alphabet may have 0x2E0,000 or ~3,000,000 core words.  For
+comparison, total number of species on Earth, is estimated from 5-30
+million, only around 2 million have been documented.  Many species are
+of course compound words, so most don't need their own.  Though there
+are plenty of minerals, and geographic features also.  7-bit alphabet is
+also at the limit of what can be represented in ASCII, using single
+glyphs per phoneme.
+
+   8-bit alphabet may have 0x1,482,000 or ~21,000,000 core words.  That
+leaves plenty of room for growth.  It can be typed with a keyboard that
+has 9 keys, assuming 8 of them are for entering binary encoding, the one
+"space" bar to indicate encoding is entered.  These can also be in a
+glove format.
+
+   Of course can have larger alphabets also, though considering the
+limitations on human vocabulary, it is best to make the most of the
+common several thousand.
+
+   The more complex words would be for defining specific (new) concepts.
+A stylistic rule is one concept per core-word, so large vocab is
+necessary.
+
+   The more specific ones likely have lots of unusual phonemes, so
+people could use non-core words to refer to them, when communicating
+with others that have the same refrence set.  Wheras if they make a
+public notice, they can use the specific words, so that everyone can
+look up that specific word and it's meaning.
+
+   The complex words can be based on their simpler relatives, so if
+someone hears the word, they still get an idea of what it is, because
+they know the simpler variation.
+
+   Initial Vocabularly meanings for bytecode language, after covering
+those required for Turing Completness, may be somewhat tricky to figure
+out, for more *Note Vocabulary Selection::.
+
+5.4.3 Vocabulary Selection
+--------------------------
+
+5.4.3.1 Earth Auxillary Language
+................................
+
+The Earth Auxillary Language, is to be the core-language for translating
+between the human and computer languages of earth.
+
+   To make things easier, we can make it on a first-come first-serve
+basis.  So if some people invented or discovered something, their name
+for it is used as the basis of the SPEL word, within it's limitations.
+
+   If there is disagreement about which language group discovered
+something, like for instance if they both discovered it simultaneously,
+then all their word versions can be used as sources.
+
+   For things that are very ancient, and common to most culture.  We'd
+either have to use the most common phonemes for it, or simply make up
+our own version if consistency is lacking.
+
+   For common words there are proto-languages.  Proto-Indo-European is
+the most developed proto language, representing the largest langauge
+family on Earth.  There is aslo the the Borean langauge database, which
+is a synthesis of most human langauge families, it was compiled largely
+by Sergei Starostin, from other proto languages.  These are common
+source for inspiring the words phonemes.
+
+   There are some things which have standardized international names.
+Species names for plants and animals are standardized in Latin, so we
+can use the latin roots as the basis for species lists.
+
+   To mimic the hierarchy found in the language itself, can have the
+most basic concepts in the low-bit alphabet range, and the more complex
+and numerous concepts in the high-bit range.
+
+   In the example of taxonomy or botany,
+   * life, domains and kingdoms in 3-bit
+   * phylums and popular classes in 4-bit
+   * classes and popular orders in 5-bit
+   * orders and popular genus in 6-bit
+   * genus and popular species in 7-bit
+   * remaining species in 8-bit
+
+   There would ideally also be the ability to express high bit words,
+using compounds comprised of lower bit words.
+
+5.4.3.2 Generated Auxillary Language
+....................................
+
+There is also the potential of later on having a computer-generated
+vocabulary.  Which may be harder to argue with, and people wouldn't find
+it as biased.  A selection of languages used by around 85% or more of
+earth human population, so that we could satisfy a large majority of our
+potential speaker base.  word frequency lists for those languages, so we
+could prioritize words properly, indicating which should be simpler.
+
+   phonetic transcriptions of words, so can decide how the words should
+sound.
+
+   Meaning equivalences from one language to another.  meaning
+equivalences may be available through the Intercontinental Dictionary
+Series (http://lingweb.eva.mpg.de/ids/).
+
+   Since this is also a programming language, we'd have to do something
+similar, for computer programming languages.  We'd need to have meaning
+equivalences for at least the major languages.  Also the word frequency
+lists so we could see the most common ones.
+
+   Then we'd have to make equivalences between computer and human
+languages, so that common conecepts overlap and can be said with simple
+words.
+
+   Of course it will take a while to get all this information, a lot of
+datamining will have to occur.  Likely it will only be developed after
+SPEL is self-hosting.  Meanwhile only preliminary work can even be done
+on it.
+
+   If we have to make a vocabulary before we have this information, we
+can certainly do, with the understanding it may not be compatible, with
+future languages, at least in terms of vocabularly selection.
+
+   That's okay though, since we can easily translate vocabulary.  Old
+English, and modern English are different from each other, and for lay
+speakers would require translation for comprehension.
+
+   There are some things we can do without an excessive amount of data.
+
+5.5 Universal Assembly Language
+===============================
+
+A Universal Assembly Language (UAL), is like an assembly language, in
+that it has a near 1:1 ratio to machine code instructions, but it is
+different because it is cross platform, functioning on different kinds
+of processors.
+
+   This is possible because all modern processors are Turing Complete,
+and so at least some of the most basic commands they have in common.  It
+is easiest to implement a UAL with a Minimal Instruction Set, similar to
+the set which is used for making the SPEL interpreter and compiler.  In
+fact only roughly 16 assembly commands are used in making SPEL.
+
+   SPEL's UAL is an intermediary language, similar to Java bytecode, but
+instead of being interpreted, it is compiled to native machine code.  It
+can be optimized if the native processor has a large instruction set, by
+seeing which combinations of commands that corresponds to.
+
+   The first non-intel processor that SPEL's UAL will compile to, is the
+ARM instruction set, since the ARM processor is the most common.
+Afterwards we'll be able to more easily translate it to PPC and others.
+
+5.5.1 Mimk: smallest speakable programming language
+---------------------------------------------------
+
+Mimk is a UAL and therefor can mimic any known algorithm.  It has 2-bit
+glyphs, meaning it can only support 4 glyphs in total.  Since one is a
+space or glottal stop, that leaves room for 2 spoken consonants and a
+vowel.  That makes it likely the smallest known alphabet, and it is also
+turing complete.
+
+   This language is the closest to machine code, Though also supports
+some high level abilities, it is turing complete, and includes all the
+basic commands, which are used in the creation of the spel programming
+language.
+
+     approximate frequency count of assembly commands 31 Jan 2014 by grep
+     word	count	name	of	meaning		mneumonic
+     \n 	10091	.i	punc	new sentence	.i ind and  (optional?)
+     e.x	4619	mi	type	register
+     mov  	3573	mim	verb	move or copy	mim like mimic
+     [] 	2490	mii	type	memory
+     :	1695	mik	verb	define		make function
+     ret	1456	kik	verb	return
+     call	1178	kim	verb	call function
+     add	1050	mikm	verb	add (numbers)	make 'em
+     nu	866	ki	type	number
+     section	470	mikk	punc	section		siktion
+     cmp	370	kmi	verb	compare 	(kom (par) i)
+     jmp	280	mki	verb	jump 		(mkay kick/jump)
+     sub	219	mkim	verb	subtract	not make 'em undo 'em
+     jz 	210	mkik 	verb	jump if equal	(mkay kick jump)
+     jl	77	kmik	verb	jump if lesser
+     %include 63	kimm	verb	include files	call call (optional)
+     jnz	59	kkim	verb	jump if	other 	(use jl and jg)
+     int	34	kimk	verb	interrupt	gimmick, or interrupt kernel
+     jg	25	kmim	verb	jump if greater
+     %macro	21	mmik	verb	macro		make make (optional)
+     mul	6	mimk	verb	multiply	mimic, make multiples
+     div	4	kikm	verb	divide		kick 'em, divide them
+     nop	2	mimm	verb	no operation	lowest value
+     global	2	kkik	verb 	start program 	highest value
+
+     non-core: kii mmim kikk,  1 type and 2 roots
+     	can be used for push, pop, or something else.
+
+     encoding:
+     0	.
+     1	i
+     2	m
+     3	k
+
+     numbers
+     decimal hexdeci	binary	quaternary
+     0	0	.	.
+     1	1	i	i
+     2	2	.i	m
+     3	3	ii	k
+
+     4	4	..i	.i
+     5	5	i.i	ii
+     6	6	.ii	mi
+     7	7	iii	ki
+
+     8	8	...i	.m
+     9	9	i..i	im
+     10	A	.i.i	mm
+     11	B	ii.i	km
+
+     12	C	..ii	.k
+     13	D	i.ii	ik
+     14	E	.iii	mk
+     15	F	iiii	kk
+   Usage details are in <doc/lang/vocab-2bit.txt>.
+
+   Mimk is somewhat of a gimmick, if it is used, it'll be fairly hidden.
+Indeed to edit a true kimk file, you'd need a special editor, that can
+translate every 2 bits into a glyph.
+
+   Though it is possible that kimk will be used as the machine code of
+SPEL.
+
+   Whether it can actually be used in speaking form is an open question,
+since the amount of silence or glottal stops is relevant, either people
+will have to do it to a beat, or make sure the microphone can hear their
+glottal stops.  For instance can use the @ vowel in between them,
+similarly can use the @ vowel in between numbers.  Though generally it's
+not practical for humans to speak kimk, the vocabulary is far too
+limited, and it would be hard to keep track.
+
+   It's really mostly for writing near machine language code.  and as a
+UAL that can be transfered to other architectures, though for the same
+operating system.
+
+5.6 Not Lojban: Why Not Lojban?
+===============================
+
+SPEL has many elements that are borrowed from Lojban, so why doesn't it
+simplify things by using Lojban as it's core language?
+
+   First and foremost it is due to Lojban's authoritarian management.
+Lojban was created by some people, to be more open than Loglan, it may
+be so, however it is still a very closed language.  There are many
+arbitrary rules, with no way of changing.  There is no official process
+for adding new words, and if it can be done, it is a very difficult one.
+This makes Lojban a stiffling if not dead language, since it can't grow
+or expand to meet new needs.
+
+   In order for SPEL to "rule them all", it must have words for all the
+concepts.  SPEL's core language needs to be open and alive.  With clear
+processes that would allow introducing new words and functionality.  In
+fact SPEL already supports non-core words, which allow for people to
+make new temporary words with meaning on the fly.  If it is a useful
+word it can go through a process to be introduced as a core word in an
+appropriate alphabet.
+
+   Lojban's grammar is also lacking a case system, and is SVO with all
+it's inherant inconsistencies.  Such as VSO style prepositions, and SOV
+style compound words.  Some rules in it make the language longer,
+without contributing anything else.
+
+   SPEL is a living Authoritative language, any rules and words must
+have a reason for being there.  If they do not, then they can be
+summarily struck down.  People may be able to vote on rules, words, add
+supporting evidence, and a large variety of other things.  Community
+involvement is encouraged.
+
+6 Roadmap
+*********
+
+   * 0.4.2 Bravo Turing Complete English release 2014
+
+     This version is in the works, it is already Turing Complete.
+     However we are currently working on the English part, making it
+     more friendly for English speakers.
+
+   * 0.4.4 Charlie International Programming Language release, 2016
+
+     This version will add in support for UTF-8, and translations for at
+     least the most popular world languages, such as the Lingua Franca's
+     of the world.
+
+     This will open the door to an international audience programming
+     together.  Since as long as they speak or write in one of the
+     supported languages, Everyone else in the SPEL community can
+     understand them, due to the translation into their own native
+     language.
+
+     Also any code that gets written in a SPEL supported language, can
+     be read by any others that have a SPEL supported language.
+
+     So after this point, we should start gaining a lot of members.
+     Some of which may not have done any programming before, and only
+     started since a language was available in their language.
+
+   * 0.8 Delta Operating System release 2018 ~
+
+     This release will have support for translating from system
+     languages like C, Java and possibly some others.  Meaning we could
+     (ideally) compile for instance Linux, or Minix, into SPEL.
+
+     The Operating System Component, will be called GI-OS. Likely it
+     will use some combination of features of other operating systems.
+     Will also support a POSIX compatible userland, such as linux or a
+     BSD flavour.
+
+   * 0.C Echo We You Net release 2020 ~
+
+     This release will have support for the We You Net darknet.  It will
+     allow people and computers to communicate to each other, as well as
+     have a distributed data store and services.
+
+     People will be able to share functions or ideas they write on their
+     computers, they will be tested and reviewed by nodes on the
+     network, and then possibly accepted by those or other nodes.
+
+     3D websites, and a whole slew of interesting things would be
+     possible.
+
+   * 1.0 Foxtrot General Intelligence release 2024 ~
+
+     This is really the initial reason for creating SPEL, is to allow
+     for the creation of a General Intelligence.
+
+     At this point the operating system will have it's own goals and
+     ambitions, and be able to act autonomously or in co-operating with
+     it's user-peers.
+
+     They may become similar to close friends or family members,
+     interested in your well being, at least as far as you reciprocate.
+
+     We may see intentional communities springing up, organized by
+     General Intelligences.
+
+   * Beyond
+
+     The roadmap goes far beyond, but for now this should suffice, to
+     understand the extend of the WYN project.
+
+     There are plans to inhabit the areas which are too hostile for
+     biological life, with self-sustaining technological life.  Such as
+     polar or desert regions.  Then to go to other planets, negotiate
+     with star beings, and become members of the galactic community.
+
+     The idea is that we can incarnate in these technological
+     host-bodies, and so their success is our success, where they go, we
+     go.
+
+     We with You are souls in the Network of creation.
+
+   For a more detailed roadmap <doc/roadmap.txt>
+
+7 Contribute
+************
+
+7.1 Love
+========
+
+     When you realize, that the we with you are one, you have won.
+     - Orion Priesthood, paraphrased by L. Streondj.
+
+   It's one of the core principles of magic.  Help others and you help
+yourself, help yourself and you help others.
+
+   Loving is the act of accepting something from another, and making it
+a part of yourself.  To love each other, is continually reciprocate this
+act.
+
+7.1.1 Learn
+-----------
+
+Learning is a form of cognitive love, making knowledge a part of
+yourself.
+
+   If you learn SPEL or at least about it, then you have made it
+greater, and thus helped it, thank you :-).
+
+7.1.2 Review
+------------
+
+If you have experienced this project and liked it.
+
+   Please, rate or review this project on sourceforge
+(https://sourceforge.net/projectsspel/reviews/new).
+
+   If you did not, then please *Note Contact Us::.
+
+7.1.3 Connect
+-------------
+
+Eventually SPEL will make it possible, to have an interlanguage forum or
+chat.  So people could post in their language's version of SPEL, and it
+would translate to all the other languages.
+
+   It would be bringing together people from all languages.  Imagine
+wikipedia, if every language was supported equally, or at least in so
+far as it had translation files, and sufficient grammatical structures.
+
+7.1.3.1 Contact Us
+..................
+
+At some point, there will be a mailing list.  Till then can email
+weyounet (at) gmail (dot) com, it gets checked at least once a week, so
+please be patient.  If you put SPEL in the title, will have higher
+priority, get back to you ASAP.
+
+7.2 Develop
+===========
+
+7.2.1 directory structure
+-------------------------
+
+bin/ binaries doc/	documentation info/	detailed manual man/	brief manual
+pages locale/	languages src/	source code
+
+   Grammar Scanner is lower level, getting the word kinda stuff Parser
+is mid level, operating with the word
+
+7.2.2 Design
+------------
+
+SPEL is most closely described as a recursive ascent descent parser,
+meaning it is easy to hand edit the assembly code.  It is not a
+context-free grammar like most programming languages.  SPEL is a
+recursive language with a context-sensitive grammar, since the meaning
+of a token or word can change depending on it's context.  For instance
+book can be a type in terms of something that is a book, and a verb in
+terms of creating a book.  Their context is different, book being in a
+verb phrase is a verb, and if it is in the type position of another
+phrase it is a type, so they can be distinguished and parsed as such.
+
+   Whether it is fully context-sensitive or mildly-context-sensitive is
+open for debate.  Context-sensitive grammars are supposed to be
+"PSPACE-Complete", or about the difficulty of checkers, so if you can
+play checkers, then you can develop the SPEL programming language.
+
+   It might be an "indexed language" since it has an index of words,
+similar to a dictionary, though what an "indexed language" means in the
+mathematical world of formal language theoricians is a mystery to Logan.
+If you would like to run a mathematical analysis of SPEL, and then get
+back to me on the answer, please *Note Contact Us::.  Logan doesn't
+really understand the complicated math, as it has very little to do with
+actually implementing a speakable programming language.  Complicated
+math may become speakable due to it, but until then, it may remain a
+mystery to many of us.
+
+7.2.2.1 Scanner
+...............
+
+Scans over the glyphs, and gets words, phrases, quotes, sentences from
+it.
+
+7.2.2.2 Parser
+..............
+
+Refines the output of the scan, by droping words, or selecting something
+in particular.
+
+7.2.2.3 Compiler
+................
+
+Changes the nature of the word, by transforming it into something else.
+
+7.2.2.4 Translater
+..................
+
+Translates the word into other languages, programming or human.
+
+7.2.3 API
+---------
+
+Can find the API in the source or website at <api/html>.
+
+7.2.4 search
+------------
+
+You can look through the *Note API::.
+
+   to find where a command is, can cd to 1/src
+
+   if it is a word then grep -rin commandName\" * if it code label then
+grep -rin commandName: *
+
+   to debug requires gdb can use ./debug.sh in 2/bin to start it up
+
+   grammar-structure
+
+   because of subject-object-verb, the initial words are helpful
+descriptors, the last word in a noun-group is the most important,
+typically indicating the underlying process or result.  In example
+"spaceClear" clears, "spaceFind", finds.
+
+   source files are in src/ the main one is sysh.asm then interpret.asm
+
+   can compile new version with ./2/bin/run.sh in base directory the
+executable or binary shall be ./2/bin/sysh can go into gnu debbugging
+mode with ./2/bin/debug.sh in base directory
+
+7.2.5 Porting Guide
+-------------------
+
+     The soul makes the person.
+     The host body is just the vessel.
+     What you do with it, is up to you.
+     - Logan Streondj
+
+7.2.5.1 Port OS: Port to another operating system, i.e. Windows
+...............................................................
+
+if porting to other operating system, the linux kernal call are in
+system/lin could for instance make system/win and update their wrapper
+functions in system/, so for instance based on some variable they would
+either use win or lin functions.
+
+7.2.5.2 Port Bit: Port to another bit base, i.e. 64 bit
+.......................................................
+
+if to other processing bits, cpu.asm main functions to be improved for
+64bit, are the movement functions, i.e.  copyMove.  and possibly the
+comparison functions.
+
+   Another major optimization move can be to allow loading strings
+directly.  For instance 64bit can allow for both address and length to
+be in same register.
+
+   something like
+     ;input:
+     ;	rax  text address, text length
+
+     someFunction:
+     	movr [someFunctionInputText],rax ; save input text
+     	move eax,[someFunctionInputText] ;retrieve address
+     	move ebx,[someFunctionInputText+lengthBase] ;retrieve length
+
+     ; where movr moves 64 bit register, and move moves 32 bit register
+     ; this can speed up loading of arguments, and make things at least a bit faster
+
+7.2.5.3 Port Arch:: Port to another architecutre, i.e. ARM
+..........................................................
+
+This will likely have to happen only after we are compiling to intel
+assembly.  and become self-hosting, meaning can compile SPEL with SPEL.
+Then it will be a relatively simple manner of getting proper translation
+files, of the corresponding Minimal Instruction Set that is required for
+SPEL to work.
+
+7.2.6 Test
+----------
+
+Note you can find a full listing of commands or verbs in the API, at
+<api/html/index/Verbs.html>.
+
+   Note these tests are for standard spel grammar, so you'll have to
+revert to spel using
+     language bo spe
+
+   If you'd like to get back to English
+     en bo language
+
+   Can also try French, language code fr.
+
+   to test addition note that numbers run from right to left, and have
+the word nu following them to designate as numbers.
+     c nu bo 04 nu to add be do
+
+   to test compare love bo love to compare be word by do
+     11 nu bo 7 nu to compare be number by do
+
+   to write to (emulated 32-bit) register
+      helo nu bo 0 re to write be do
+
+   to say from (emulated) register
+      0 re from say be do
+
+   to see bytes in numeric form
+     0 re bo convert be number to do
+
+   to say from memory
+     00B8408 po from say be do
+
+   to find address of recent word in book
+      test bo what be do
+
+   to test writing to file
+      hello world! :-) bo hello.txt file to write be do
+
+   to test saying or reading from file
+     	hello.txt file from say be do
+
+   to test loving or compiling from file
+      	test.txt file from love be do
+
+   to test factorial label example
+      	factorial.txt file from love be do
+
+   to test conditional statements.
+      	love bo love to compare be do
+      	equal if compare works bo say be do
+
+   can do switch/case statments by
+      	happy bo compare be do
+      	sad if :-( bo say be do
+      	happy if :-) bo say be do
+
+   to see contents of memory or book catalog
+      	catalog book from say be do
+
+   to see contents of user history
+      	user book from say be do
+
+   to make a label
+      	name su label be ya
+   to get pointer or po of label
+      	name la bo say be do
+
+   to test label jump
+      		name su	label be ya
+      		name la bo say be do
+      		end be do
+      		name la to jump be do
+
+   to test variables
+      		something su 33 nu bo var be do
+      		something va bo say be do
+      		something va bo 4 nu to add be do
+
+   to convert a number to a string variable
+      	44 nu bo word to convert be do
+
+   to set quiet mode, where only say outputs to screen
+      		voice bo quiet to mode be do
+   to return to verbose or debugging mode
+      		voice bo verbose to mode be do
+
+   to see book list
+      	catalog book from say be do
+   to see book contents
+      	bookname book from say be do
+
+   to start a new book
+      	book name su book be do
+
+   to forget a book
+      	book name book bo forget be do
+
+   they are then marked as "free" insead of "book" in the catalog
+
+   to extend a book
+      	book name book bo 0002 nu till extend be do
+   note 0002 is equivalent to 0x2000 bytes, and can be any number
+
+   to write from book to file
+      	bookname book from filename file to write be do
+   to write from file to book
+      	filename file from bookname book to write be do
+
+7.3 Donate
+==========
+
+You can donate with Anoncoin at: AHQjHf3WetwgAzwbbKZy5igL5bt3NjLcRg
+
+8 Acknowledgements
+******************
+
+Authored by Logan Streondj jonesforth is the initial code example
+supported by #forth and #asm irc channels from irc.freenode.net network.
+consulted by Igor Zvorygin about computer-programming.  Inspired by Ben
+Goertzel AGI academic guru and part-time mentor.  Role models of Linux
+Torvalds and Richard Stallman.
+
+   Lojban and Toki Pona as sources of inspiration for langagues.
+
+   Wikipedia, Wiktionary, helped with vocabulary comprehension.  Google
+Translate helped make translations for words.
+
+Appendix A Alphabets: IPA, X-SAMPA, SPEL Glyphs
+***********************************************
+
+This is an appendix of letters, and their representation.  Comma
+seperates them, starts with IPA, then X-sampa, UPSID, then glyph.
+
+   note that deviations are typically so that can type with lowercase.
+@ remains as is, since it's only implicitly used in the language,
+between consonants.
+Vowel              Front          Central        Back
+----------------------------------------------------------------
+Closed or Upper    i,i,i,i        ɨ,I\,i_,1     u,u,u,u
+Mid                e̞,e_o,"e,e    ə,@,"@,@       o̞,o_o,"o,o
+Open or Lower                     ä,6_o,a
+
+Consonants BilabialAlveolarPost-AlveolarPalatalVelarGlottal
+-----------------------------------------------------------
+Nasal      m,m,m,m n,n,n,n                 ŋ,N,N,q
+Stop       p,p,p,p t,t,t,t                 k,k,k,k ʔ,?,?,.
+           b,b,b,b d,d,d,d                 g,g,g,g
+Fricative  f,f,f,f s,s,s,s ʃ,S,S,c         x,x,x,x h,h,h,h
+           v,v,v,v z,z,z,z ʒ,Z,Z,j
+Approximantw,w,w,w l,l,l,l         j,j,j,y w,w,w,w
+Trill              r,r,r,r
+
+Appendix B Copyright
+********************
+
+Copyright (C) 2014 Logan Streondj
+     Documentation released under the Creative Commons
+     Attribution-ShareAlike license.
+     [cc-by-sa]  (http://creativecommons.org/licenses/by-sa/4.0) click to read
+     license text.
+
+TOC
+***
+
+Speakable Programming for Every Language (SPEL)
+1 Introduction
+  1.1 Mission
+  1.2 Features and Requirements
+    1.2.1 new in this release
+  1.3 License
+  1.4 Overview of Manual
+2 Download
+  2.1 Releases
+  2.2 Sources
+    2.2.1 Tar Ball
+    2.2.2 Git
+3 Installation
+  3.1 POSIX, POSIX compatible Systems
+  3.2 Windows
+  3.3 Binary
+    3.3.1 Portable Binary
+    3.3.2 Debian Binary
+    3.3.3 Windows Binary
+  3.4 Compile
+    3.4.1 Compilation Requirements
+    3.4.2 POSIX Compilation
+4 Usage
+  4.1 Run SPEL interpreter on your computer.
+  4.2 Try SPEL interpreter with some basic commands
+  4.3 Functionality
+    4.3.1 Turing Complete
+  4.4 Hiccups: known bugs
+5 Language
+  5.1 Linguistic Universals
+  5.2 Phonology
+    5.2.1 Bytecode Alphabet
+      5.2.1.1 1 Bit Alphabet: 2 Glyphs
+      5.2.1.2 2 Bit Alphabet: 4 Glyphs
+      5.2.1.3 3 Bit Alphabet: 8 Glyphs
+      5.2.1.4 4 Bit Alphabet: 16 Glyphs
+      5.2.1.5 5 Bit Alphabet
+      5.2.1.6 Larger Alphabets
+    5.2.2 Alphabet Encoding
+  5.3 Syntax: Grammar, or language glue
+    5.3.1 Word Order
+      5.3.1.1 Why not SVO?
+    5.3.2 Cases
+    5.3.3 Punctuation
+    5.3.4 Types
+    5.3.5 Numbers
+      5.3.5.1 Why Little Endian?
+      5.3.5.2 Hexadecimal Numerals
+    5.3.6 Quotes
+      5.3.6.1 Single Word Quotes
+      5.3.6.2 Multi Word Quotes
+      5.3.6.3 Free Word Quotes
+      5.3.6.4 Multi Sentence Quotes
+      5.3.6.5 Binary Quotes: For machine language instructions
+    5.3.7 Clauses
+      5.3.7.1 Conditionals:: If's and Comparisons
+  5.4 Vocabulary
+    5.4.1 Morphology: Word Form
+      5.4.1.1 Word Priority
+    5.4.2 Vocabulary Size
+    5.4.3 Vocabulary Selection
+      5.4.3.1 Earth Auxillary Language
+      5.4.3.2 Generated Auxillary Language
+  5.5 Universal Assembly Language
+    5.5.1 Mimk: smallest speakable programming language
+  5.6 Not Lojban: Why Not Lojban?
+6 Roadmap
+7 Contribute
+  7.1 Love
+    7.1.1 Learn
+    7.1.2 Review
+    7.1.3 Connect
+      7.1.3.1 Contact Us
+  7.2 Develop
+    7.2.1 directory structure
+    7.2.2 Design
+      7.2.2.1 Scanner
+      7.2.2.2 Parser
+      7.2.2.3 Compiler
+      7.2.2.4 Translater
+    7.2.3 API
+    7.2.4 search
+    7.2.5 Porting Guide
+      7.2.5.1 Port OS: Port to another operating system, i.e. Windows
+      7.2.5.2 Port Bit: Port to another bit base, i.e. 64 bit
+      7.2.5.3 Port Arch:: Port to another architecutre, i.e. ARM
+    7.2.6 Test
+  7.3 Donate
+8 Acknowledgements
+Appendix A Alphabets: IPA, X-SAMPA, SPEL Glyphs
+Appendix B Copyright
+TOC
+Index
+References
+Index
+*****
+
+* Menu:
+
+* Acknowledgements:                      Acknowledgements.   (line 2017)
+* alphabet encoding:                     Alphabet Encoding.  (line  885)
+* alphabet, 1 bit:                       1 Bit Alphabet.     (line  744)
+* alphabet, 2 bit:                       2 Bit Alphabet.     (line  753)
+* alphabet, 3 bit:                       3 Bit Alphabet.     (line  779)
+* alphabet, 4 bit:                       4 Bit Alphabet.     (line  805)
+* alphabet, 5 bit:                       5 Bit Alphabet.     (line  846)
+* alphabet, bytecode:                    Bytecode Alphabet.  (line  621)
+* alphabet, larger:                      Larger Alphabets.   (line  877)
+* API:                                   API.                (line 1824)
+* binary, debian:                        Debian Binary.      (line  297)
+* Binary, installation:                  Binary.             (line  267)
+* binary, portable:                      Portable Binary.    (line  274)
+* binary, windows:                       Windows Binary.     (line  310)
+* bugs:                                  Hiccups.            (line  469)
+* cases:                                 Cases.              (line  970)
+* clauses:                               Clauses.            (line 1206)
+* compile, POSIX:                        POSIX Compilation.  (line  346)
+* compiler:                              Compiler.           (line 1814)
+* conditionals:                          Conditionals.       (line 1221)
+* Contribute:                            Contribute.         (line 1708)
+* Design:                                Design.             (line 1774)
+* Develop:                               Develop.            (line 1762)
+* directory structure:                   directory structure.
+                                                             (line 1765)
+* Download:                              Download.           (line  159)
+* Features and Requirements:             Features and Requirements.
+                                                             (line   84)
+* Functionaltiy:                         Functionality.      (line  416)
+* Git:                                   Git.                (line  231)
+* hiccups:                               Hiccups.            (line  469)
+* Installation:                          Installation.       (line  239)
+* Introduction:                          Introduction.       (line   13)
+* Language:                              Language.           (line  483)
+* language, earth auxillary:             Earth Auxillary Language.
+                                                             (line 1390)
+* language, generated auxillary:         Generated Auxillary Language.
+                                                             (line 1434)
+* language, kimk:                        Mimk.               (line 1498)
+* License:                               License.            (line  140)
+* Linguistic Universals:                 Linguistic Universals.
+                                                             (line  512)
+* lojban, not:                           Not Lojban.         (line 1590)
+* Mission:                               Mission.            (line   48)
+* morphology:                            Morphology.         (line 1256)
+* numbers:                               Numbers.            (line 1071)
+* overview of manual:                    Overview.           (line  149)
+* parser:                                Parser.             (line 1808)
+* Phonology:                             Phonology.          (line  597)
+* Port Arch:                             Port Arch.          (line 1893)
+* Port Bit:                              Port Bit.           (line 1870)
+* Port OS:                               Port OS.            (line 1862)
+* Porting Guide:                         Porting Guide.      (line 1854)
+* POSIX:                                 POSIX.              (line  242)
+* punctuation:                           Punctuation.        (line 1028)
+* quote, binary:                         Binary Quotes.      (line 1195)
+* quote, free word:                      Free Word Quotes.   (line 1166)
+* quote, multi sentence:                 Multi Sentence Quotes.
+                                                             (line 1177)
+* quote, multi word:                     Multi Word Quotes.  (line 1146)
+* quote, single word:                    Single Word Quotes. (line 1138)
+* quotes:                                Quotes.             (line 1130)
+* Requirements, compilation:             Compilation Requirements.
+                                                             (line  329)
+* Roadmap:                               Roadmap.            (line 1623)
+* Run SPEL:                              Run.                (line  389)
+* scanner:                               Scanner.            (line 1802)
+* search:                                search.             (line 1829)
+* Sources:                               Sources.            (line  201)
+* Syntax:                                Syntax.             (line  920)
+* Tar Ball:                              Tar Ball.           (line  213)
+* Test:                                  Test.               (line 1902)
+* translater:                            Translater.         (line 1819)
+* Try SPEL:                              Try.                (line  402)
+* Turing Complete:                       Turing Complete.    (line  419)
+* types:                                 Types.              (line 1056)
+* Universal Assembly Language:           UAL.                (line 1475)
+* Usage:                                 Usage.              (line  386)
+* Vocabulary:                            Vocabulary.         (line 1240)
+* vocabulary selection:                  Vocabulary Selection.
+                                                             (line 1387)
+* vocabulary size:                       Vocabulary Size.    (line 1305)
+* Windows:                               Windows.            (line  256)
+* Word Order:                            Word Order.         (line  930)
+
+References
+**********
+

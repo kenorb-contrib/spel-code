@@ -1,0 +1,145 @@
+su li be ob li להיות ya
+su li ob ob li אוֹת ya
+su li su ob li נָתִי ya
+su li me ob li שלי ya
+su li what ob li מה ya
+su li and ob li ו ya
+su li it ob li זה ya
+su li if ob li אם ya
+su li this ob li זה ya
+su li ya ob li כן ya
+su li you ob li אתה ya
+su li of ob li של ya
+su li that ob li זֹאת ya
+su li did ob li עשיתי ya
+su li we ob li אנחנו ya
+su li or ob li או ya
+su li num ob li num ya
+su li now ob li עכשיו ya
+su li they ob li הם ya
+su li the ob li הֵ ya
+su li tha ob li כִּי ya
+su li to ob li ל ya
+su li thee ob li שלך ya
+su li li ob li li ya
+su li about ob li על ya
+su li wil ob li עתיד ya
+su li eh? ob li אה? ya
+su li memory ob li זיכרון ya
+su li maybe ob li אולי ya
+su li with ob li עם ya
+su li conditionally ob li תנאים ya
+su li aside ob li בצד ya
+su li yand ob li yand ya
+su li ha ob li חה ya
+su li yaor ob li yaor ya
+su li near ob li ליד ya
+su li plural ob li רבים ya
+su li for ob li ל ya
+su li jolly ob li עליז ya
+su li from ob li מ ya
+su li null ob li null ya
+su li for-example ob li לדוגמה- ya
+su li hello ob li שלום ya
+su li singular ob li יחיד ya
+su li clause-tail ob li סעיף-זנב ya
+su li then ob li לאחר-מכן ya
+su li ord ob li ORD ya
+su copy ob li עותק ya
+su wait ob li לחכות ya
+su past ob li האחרון ya
+su less ob li פחות ya
+su mom ob li אמא ya
+su word ob li מילה ya
+su size ob li גודל ya
+su think ob li חושב ya
+su mother ob li אמא ya
+su compare ob li להשוות ya
+su go ob li ללכת ya
+su begin ob li מתחיל ya
+su able ob li תוכל ya
+su head ob li ראש ya
+su know ob li יודע ya
+su cause ob li סיבה ya
+su get ob li לקבל ya
+su all ob li כל ya
+su trade ob li מסחר ya
+su buy ob li לקנות ya
+su small ob li קטן ya
+su negate ob li לשלול ya
+su say ob li אומר ya
+su point ob li נקודה ya
+su act ob li מעשה ya
+su good ob li טוב ya
+su body ob li גוף ya
+su more ob li יותר ya
+su dad ob li אבא ya
+su place ob li מקום ya
+su meet ob li נפגש ya
+su father ob li אב ya
+su many ob li רב ya
+su joy ob li שמחה ya
+su child ob li ילד ya
+su sell ob li למכור ya
+su time ob li זמן ya
+su tail ob li זנב ya
+su love ob li אוהב ya
+su speak ob li לדבר ya
+su big ob li גדול ya
+su number ob li מספר ya
+su present ob li הווה ya
+su three ob li שלוש ya
+su self ob li עצמי ya
+su pay ob li לשלם ya
+su one ob li אחד ya
+su help ob li לעזור ya
+su inside ob li בתוך ya
+su topic ob li נושא ya
+su thank ob li תודה ya
+su put ob li לשים ya
+su two ob li שני ya
+su four ob li ארבעה ya
+su glyph ob li גליף ya
+su future ob li עתיד ya
+su few ob li כמה ya
+su shout ob li צעקה ya
+su add ob li להוסיף ya
+su subtract ob li לחסר ya
+su rule ob li כלל ya
+su language ob li שפה ya
+su write ob li לכתוב ya
+su laugh ob li צחוק ya
+su clause ob li סעיף ya
+su pronoun ob li כִּנוּי ya
+su phrase ob li ביטוי ya
+su grammatical-object ob li דקדוקי-אובייקט ya
+su space ob li חלל ya
+su nearby ob li בקרבת-מקום ya
+su question ob li שאלה ya
+su example ob li דוגמא ya
+su translation-dictionary ob li תרגום-מילון ya
+su quote ob li ציטוט ya
+su shop ob li חנות ya
+su ordinal ob li סִדוּרִי ya
+su translation ob li תרגום ya
+su phrase ob li ביטוי ya
+su send ob li לשלוח ya
+su person ob li אדם ya
+su emotion ob li רגש ya
+su world ob li עולם ya
+su grammar ob li דקדוק ya
+su thing ob li דבר ya
+su grammatical-case ob li דקדוקי-מקרה ya
+su mood ob li מצב-רוח ya
+su ask ob li שואל ya
+su bread ob li לחם ya
+su sell ob li למכור ya
+su enjoy ob li ליהנות-מ ya
+su verb ob li פּוֹעַל ya
+su noun ob li שם-עצם ya
+su feel ob li מרגיש ya
+su sentence ob li משפט ya
+su grammatical-subject ob li דקדוקי-נושא ya
+su tense ob li מתוח ya
+su activity ob li פעילות ya
+su dictionary ob li מילון ya

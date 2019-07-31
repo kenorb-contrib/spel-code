@@ -1,0 +1,2515 @@
+berfenw: ddiddiwedd, anfeidredd, tarddiad, ffynhonnell
+enwolachos: arddodiadolachos
+accusativeachos: 
+pwncachos: pwncachos
+rhiant: rhieni, mawr, uwch, sbigoglys
+dad: tad
+mom: mom, mam, mamau
+Helo: bye, hi, hey
+hynafiad: rhagflaenydd, tad-cu
+cu: tad-cu, nain
+llwglyd: newyn, llwgu
+genidolachos: meddiannolachos
+ansoddair: 
+ac: swm, gan, yn
+mi: fyhun, ff, fy, rydym, llyfu
+chi: nhw, ti, ti, ya
+ni: rydym, ein, ni
+mae'n: ef, bod, hi, hwn, rhain, sy'n
+cyrchfanachos: amcanachos
+derbyniolachos: 
+realishwyliau: 
+deontichwyliau: 
+amodolhwyliau: ydibynnolhwyliau, damcaniaetholhwyliau
+epistemichwyliau: 
+offerynnolachos: 
+tucyd-destun: 
+personcyd-destun: 
+dibynnolcymal: 
+perfectiveagwedd: 
+gorffennolamser: 
+gwrywaiddrhyw: dirywrhyw
+comitativeachos: 
+ynbresennolamser: 
+benefactiveachos: 
+essiveachos: 
+Ni: dim, nadydyntyn, prin, methu, traw, byth, nac, dim, ynhytrach, nid, Niall, miss
+ei: eu, ei, hi, ef, yrhai, hers, o, ymaeei, annibynnol
+wynebcyd-destun: 
+adpositionalachos: 
+lleoliadachos: 
+gofodcyd-destun: 
+fforddachos: 
+gofynnolhwyliau: 
+acneu: 
+exclusive-neu: 
+ffynhonnellachos: 
+abladolachos: 
+dangosol: solid, sylweddol, concrid, argyhoeddiadol, gyfarwyddeb, dramatig, mynegi, ynamlwg, mynegi
+ond: eto, foddbynnag, er, erbod, serchhynny
+igyd: pawb, pawb, cyfanswm, cyfan, arycyfan, cyfan, popeth, unrhyw, yngynyddol, yngyfangwbl
+femininerhyw: 
+maent: nhw, hi, yrhai, eu, nhw, cyfenw, rhain, unfath, deg, tebyg, i
+pluralrhif: 
+un: sengl, a, imewni, eibeneihun, yn, dro, foddbynnag
+pwy: rhywun, pwybynnag, sy'n, ymaeei, fel, pwy, unrhywbeth, unrhywun, bod, eu, yrhai, canu, ya
+dyfodolamser: 
+cymdeithasolcyd-destun: 
+pryd: prydbynnag, erioed
+imperfectiveagwedd: 
+yno: ynbodoli, DyddIau
+mwy: dros, yrhanfwyafo, ymhellach, tuhwnt, ifyny, ifyny, aml, na, ynhytrach, hefyd, arbenhynny, ynogystal, dal, eto, arall, nifer, lluosog, eraill, felarall, arall, gorffwys
+allan: tuallan, allanol, allanol, awyragored, ynyrawyragored, off, ytuallan-o, tuhwnt, ifyny, ar, ymlaen, allan, rhoi'rgorauiddi, allanfa
+perthynasachos: perthynasachos
+illativeachos: 
+gwneud: gwneud, perfformio, ymgymrydâ, rendr, activate, gwnaeth, ymrwymo, rhoi, beth, ymateb, unrhywbeth, p'una, Bethbynnag, gweithio
+gyfarwyddebhwyliau: dangosolhwyliau
+cwestiwngair: 
+copula: cysylltydd, bond, criw, cyswllt
+person: dyn, pobl, unigol, rhywun, rhywun, guy, dynol, wyneb, personoliaeth, ef, nhw, ynbersonol, cerddwyr, gyd
+gwrywaidd: gwrywaidd, sôn, gŵrbonheddig, dyn, addfwyn, benywaidd
+gallai: gall, gallai, obosibl, Efallai, posibilrwydd, tebygolrwydd, gall, bosibl, gallu
+rhif: swm, swm, ffigur, rhifiadol, rhifolyn, maint, rhifau
+iawn: ynfawr, hynodo, ofnadwy, llawer, hefyd, ofnadwy, eang, iawn, 'nsylweddol, wael, aruthrol, ynsylweddol, llawer, aml, aruthrol, yrhanfwyafo, yneithaf, yndeg, ynhyn, 'nbert, iawn, iawn, iawn, eithafol, ddolurus, doreithiog, anarferol, anhygoel, rhagorol, wan, gryf, sydyn
+amser: tra, hynobryd, ynystod, amserol, hyd, tymhorol, amser, amserlen, cyfnod, tywydd, ailadrodd, awr, golwg
+amsercyd-destun: 
+tymhorolachos: 
+am: ynghylch, ynymwneud, bron, circa, o, gan, na, ogwmpas, argyfer, ar, bron, tua, beth, barch, pennod, cyffuriau
+llythrennol: llythrennol, goiawn, gwreiddiol, absoliwt, llafar, llenyddol, union, gywir, manwlgywir
+ynunig: dimond, ynunig, ynsyml, pwynt, ynunig, ynunig, cyfyngu, prin, bae, eibeneihun, moel
+ychydig: bach, bach, bychan, ychydig, bit, mân, mân, bachigol, cludadwy, ychydig, ysgafn, byr
+yna,: eto, ya, ers, ynôl, sedan, ynddiweddarach, wedihynny, serchhynny, wedyn, dilynol, wedihynny, arôl
+hortativehwyliau: 
+ôl-weithredolagwedd: 
+mawr: mawr, mawr, nobl, difrifol, helaeth, uchel, enfawr, cawr, aruthrol, dominyddol, dda, dirwy, sylweddol, enfawr, sylweddol, hyfryd, rhagorol, gorauposibl, grand, mawr, perffaith, rhyfeddol, gwych, cefnffyrdd, macro
+volitivehwyliau: 
+cyn: ymlaenllaw, cyn, ynôl, rhagflaenu, nes, til, blaen, gynt, erbyn, ynerbyn, ymlaen, ymlaenllaw, farther, ymlaen, blaenorol, ynflaenorol
+rhaidi: Dylai, oreidrwydd, diangen, gorfod, angen, rhaid, dylai, eisiau, dylai
+dau: deuol, ddau, arwahân, cwpl
+gweld: edrych, golygfa, golwg, rhybudd, canfod, Gwylio, syllu, gyfeirio, cwrdd
+yngwybod: canfod, ymwybodol, dysgu, flag, ynweladwy, deall
+ilawr: arilawr, tuagilawr, dan, isod, dan, odditano, llai, gwaelod, israddol, ilawrygrisiau
+yngyntaf: cyntaf, cychwynnol, ers, ymlaen, yngyntaf, ynyllecyntaf
+hun: eihun, eichhun, medduar, ynbersonol, ei, eihun, hunan, personol
+alienablemeddiant: 
+anaralladwymeddiant: 
+oed: addefnyddir, hynafol, oed, henoed, cyn-, ex, oed, ymlaenllaw, rhagflaenydd
+cydgynghorolhwyliau: 
+diwrnod: bobdydd, gadewch, gweithio, berthynas, swydd
+lle: llebynnagybo, lle, lle
+dod: i, til, cyrraedd, cyrraedd, cyrraedd, yndodyn, yndigwydd
+ffordd: dull, methodoleg, rhodfa, fodd, llwybr, llwybr, llwybr, llwybr, llwybr, modd, ffordd, stryd, siwgr, trac, taflwybr, arfer, sut, proses, modd, credo
+gwaith: swydd, aseiniad, weithgar, tasg, llafur, llafur, gyrfa, swyddogaeth, gweithredu, swyddogaethol, busnes, act, gwaith-allan, cyflogaeth, galwedigaethol, gweithio, gwaithcelf
+llafariad: enwog, bywyd, goroesi, symudiad, cynnig, traffig, wyddor, llwydni
+mynd: cerdded, pris, gadael, ymadawiad, ymfudo
+perlativeachos: 
+blaengaragwedd: 
+hir: hir, gwydn, tal, hyd, cyfnod, cyfnod, amser, iffwrdd, portreadu
+dweud: llafar, dweud, siarad, gynrychioli, berthnasol, gelwir
+hydynoed: hefyd, naillai, nes, til, arbenhynny, hefyd, ynyrunmodd, ymhellach, arbenhynny, eihun
+ynôl: ytuôl, cefn, ynôl, ynôl, dychwelyd, adfer, dadwneud, eto, ailadrodd, ynôl, ynôl, tynnu'nôl, adennill, adfer
+yma: ar
+meddwl: meddwl, meddwl, ystyried, dychmygu, beichiogi, meditate, byddai, gelwir, meddwl, teimlo, ymddengys, dangos, ystyriaeth
+pob: popeth, pobun, unrhyw, sy'n, tuagat, fesul, pawb, enwadur, cyfan, cyfartaledd
+diwethaf: diwedd, olaf, terfynol, ynypendraw, arall, arall, diweddaraf, diweddar, yndodiben, gorffennol, goddef, parhau, blaenorol, ynhwyr
+dancyd-destun: 
+cymryd: cyrchfan, meddiannu, nôl, mabwysiadu, chrafangia, cael, derbyn, ddewis, dal, dal, coditâl, derbyn, dodâ, cario, saethu, berthnasol, aseinio, gymhwysol
+dodohyd: dodohydi, darganfod, darganfyddiad, canfod, hygyrch, cael, cwrdd
+llaw: fraich, arddwrn, breichiau
+ifanc: ieuenctid, iau, glasoed, blentynyneiarddegau, newydd
+rhoi: rhoibenthyg, darparu, cynnig, ganddarparu, cyflwyno, rendr, fforddio, rhoi, rhoi, gadewch, grant, dyfarniad, cyfnodol, cylch, cyfaddef, ddyledus
+duw: ddwyfol
+delativeachos: 
+dimbyd: rhywbeth, gwrthrych, neb, unrhywbeth, dim, neb, rhai, ychydig, penodol, braidd
+hawl: pâr, gywir, yngywir, deg, cyfiawnder, cyfiawnhau, annheg, gymwys, hawl, gyfraith, yngywir, ynwir, penodol, ynsiwr, hawl, yndda, ardraws, ddyledus, priodol, ynbriodol, addas, briodol
+unwaith: arunwaith, ynbrydlon, dull, patrwm, methodoleg
+semelfactiveagwedd: 
+Gadawodd: iffwrdd, gadael, skip
+rhan: adran, ynrhannol, dogn, ynrhannol, parsel, ffracsiwn, segment, rhannu, bit, darn, darn, is-set, pennod, adran, bennod, rhannol, is-adran, ward, sector, cyfran, rhan, cymrydrhan, cwantwm
+tŷ: cartref, safleoedd, deml, tai, cartref
+byd: deyrnas, byd-eang, bydysawd
+pen: teitl, prif, prif, pennod, arweinydd, lywydd, gadeirydd, cyfarwyddwr, bos, pen, curpen, gwallt
+tri: trydydd, nawfed, treth
+ffocws: bwriedir, nod, nod, amcan, canolbwyntio, sylw, crynodiad, cydgyfeirio, gweledigaeth
+caru: anwyldeb, elusen, hoffi, malwch
+bobamser: ambyth, yngyson, erioed
+nos: gyda'rnos, cinio, p.m., heno
+Brenin: teyrnasu, arglwydd, teyrn, Tycoon, tywysog
+rhwng: ymhlith, ymysg, o, yn, imewni, ofewn, canol, canol, ynystod
+galon: hwyl, calonogol, topple, coronaidd
+paucalrhif: 
+achos: ddyledus, ers, achos, achos, rheswm
+achosolachos: 
+enw: cyfenw, enw, crefft
+priodolnoun: 
+gwlad: cenedl, tir, ddaear, wladwriaeth, ddaear, pridd, parti, cefngwlad
+gofynnwydi: gofyn, ymgynghori, annog, cwestiynau
+ynweladwytystiolaethol: 
+gwell: uwchraddol, gorau, rhagorol, ddelfrydol, rhagorol, ymhellach, farther, dda
+ochr: ochrol, ffafrio, ffafrio, rhan, dro, dudalen, agwedd, hanner, agwedd, tuagat, wrthochr, neilltu
+cwrs: cwricwlwm, gwers, darlith, ynsicr, ynsicr, ynbendant, cyfradd, llwybr, hyderus
+digon: digonol, ynddigonol, digonol, digon, yndeg, digonedd, annigonol, yneithaf, 'nbert, sylweddol, ynsylweddol, sylweddol, ynsylweddol, ynsylweddol, rhesymol, rhoi, llawn
+ynfuan: cynbohir, cyflym, prydlon, yngyflym, cyflym, arunwaith, cyflym, brysiwch, brys, felly, arunwaith, ynrhwydd, gerllaw, yngynnar, snap
+llawn: llawn, ynddigonol, absoliwt, cwblhau, amherffaith, cyfan, ynunion, union, llwyr, ynunion, drylwyr, cyfan, cynhwysfawr, maint, yngyfangwbl, yngyfangwbl, gwbl, gorffenedig, cyflawni, cyflawni, ymhlyg, cyflawni, darparuar
+ystafell: siambr, pedwerydd, ystafellwely, heddwch, compartment, seler, dyfnder
+dŵr: hylif, hylif, drobwynt
+desiderativehwyliau: 
+golau: glow, llachar, cannwyll, bychan, arddull, ysgafn, golau, glir, golaudydd, amlygiad
+gair: geiriadurol, sain, geirfa, ymadrodd, ferf, enw, geiriad, dymor
+drws: giât, drws, fynedfa, pennod, porthladd, porth
+defnydd: defnyddio, defnydd, bwyta, gwariant, defnyddwyr, ymgysylltu, cais, cyfleustodau, berthnasol, cyflogi, defnyddio
+bore: a.m., brecwast
+terminativeachos: 
+pŵer: cryfder, ynni, gallai, cryf, grym, pwerus, deinamig, salad, goruchafiaeth, awdurdod
+euhunain: einhunain, eichhun, eihun, fyhun, hieihun, eihun, hunan, ego, eibeneihun
+llais: sain, ynuchel, pleidlais, sain, bleidlais, eitem, si, si, sŵn
+gwyn: wag, gwyn
+arian: cyfoeth, arian, ariannol, arianparod, ariancyfred, cyllid, ariannol
+nesaf: wrthochr, ochrynochrâ, nesaf-i, canlynol, ynddiweddarach, dimensiwn, ymlaen, dilynol, arôl, wedyn, wedihynny, wedihynny, allan, ymlaen, farther, ymlaen, symudymlaen
+gwael: fraich, tlodi, drwg, wan
+marwolaeth: marwolaethau, marw, marw
+ffurflen: siâp, llwydni, fformat, cyfuchlin, patrwm, fferm, siâp, morffoleg
+inessiveachos: 
+gyda'ngilydd: aryrunpryd, hyd, arycyd, arycyd, set, ochrynochrâ, cyd, cyfuno
+mater: achos, berthynas, beth, ffenomen, problem, deunydd, sylwedd, pwnc, mater, cwestiwn, stwff, pwnc, ddiddorol
+ynaml: ynaml, yngyson, ynrheolaidd, ynaml, cyffredin, Felarfer,, felarfer
+ffrind: gynghreiriad, cariad, gyd, ffrind, cysylltiol
+gorchymyn: system, trefniant, trefnu, contract, arae, gorchymyn, dro, rhes, ciw, dilyniant, dilyniannol, gwahodd, felly, gadewch, osgoi, sillafu
+hanfodolhwyliau: 
+rownd: crwn, cylch, lap, sffêr
+cadw: cynnal, cynnal, lleyg, rhoi, set, past, cadw, gard, ymgysylltu, hoffi, cadwraeth, cadwraeth, cadw, cadw, cadw, aros, ynparhauifod, sefydlog, cynnalachadw
+gwraig: priod, benywaidd
+yncredu: ymddiriedaeth, cyfrif, dybio, ffydd, cred, hyder, hyderus, optimistiaeth, optimistaidd, dibyniaeth
+ger: pasio, wrthochr, bron, ogwmpas, cau, bron, cyfagos, bron, gerllaw, procsimol, cymydog, cymydog
+cyhoeddus: cyffredinol, cynulleidfa, cyffredin, cyffredin
+wladwriaethcyd-destun: 
+mab: haid, bachgen
+cant: canfed, wyneb, cant, ganrif
+plant: fyn, epil, plentyn, babi
+athrwyhynny: athrwyhynny, felly, felly, fath, ie, felly,
+gobeithio: dymuno, gobaith, rhagweld, optimistiaeth, optimistaidd, Disgwylir, disgwyl, disgwyliad
+uchod: ifyny, dros, ifyny'rgrisiau, uchel, top, uwch, uchaf, ardraws, ynymwneud, trwy, ar, uwchben, ymlaen, ymlaen
+annwyl: gariad, ddrud
+darllen: darllen, canu, lili, darllenydd
+dinas: tref, bwrdeistrefol, sir, trefol
+eisoes: barod, paratoi, barod, bethbynnag, cyn
+ffaith: gwirionedd, realiti, geirwiredd, ynwir, goiawn, gwirioneddol, ynwir, 'nsylweddol, mewngwirionedd, gwnaeth
+factivetystiolaethol: 
+merch: morwyn, merch, benywaidd, lady, gariad, eibeneihun
+clywed: gwrando, clyw, teimlo
+lleiaf: ychydigiawno, isafswm, lleihau, minws, llai, isaf, yrhanfwyafo, gorau, uchaf, gorauposibl
+efallai: ynôlpobtebyg, Efallai, ynôlpobtebyg, gallai, obosibl, bosibl, debygol, tebygol, sôn,
+agored: glir, plaen, ynglir, moel, ynamlwg, gwag, penodol, amlwg, awyragored, diffyg, agored, agored, llwyth, datgelu
+corff: cnawd, corfforol, corfforol, yngorfforol, corpws, organ, corff
+aer: gwynt, awel, hedfan, tywydd, cwmnihedfan, hedfan
+natur: naturiol, frodorol, ynnaturiol, tarddiad, disgyniad, cynhenid, bywydgwyllt, cymeriad
+helpu: cynorthwyo, ddefnyddiol, cymorth, cymorth, cynorthwy-ydd, lleyg, rhyddhad
+llythyr: bost, pennawd, ysgrifennu
+pedwar: pedwerydd
+eithhwyliau: ydibynnolhwyliau
+tân: poeth, fflam, twymyn, lletân, Buddha
+rhadacamddim: rhyddid, rhyddid, eithriedig, gratis, ofer, rhydd, gwag, llac, rhyddhau
+rhyfel: brwydr, frwydr, frwydr, gad, wrestle
+ail: eraill, ddau, ynôl, arall, ynail
+unedig: unigol, undod, gynhwysol, undeb, cysylltiedig, gynghreiriad, unigryw, unfrydol, arycyd, cyfansawdd, glymblaid, ffederasiwn
+galwad: her, oxidize, apêl, ar, cysylltiad, cyfuniad, arycyd, ymasiad, gwahoddiad, oes, sgwrs, ffôn
+pam: tebyg, ynyrunmodd
+gollwyd: colled, colli, argoll, diflannu
+mil: milfed, dillad, brethyn
+teulu: cartref, goroeswr
+enaid: ysbryd, ysbryd, Mastermind
+gofal: dansylw, pryder, sylw, myfyrdod, gwasanaeth, nawdd, gard, diogelwch, amddiffyn, diogelwch, amddiffyniad, cadwraeth, cadwraeth, sylw, amddiffyniad, rhybudd, gwella, triniaeth, yddalfa, poeni, poeni, peripryder
+golygu: awgrymu, synnwyr, golygu, ystyrlon, ddynodi, canol, asiant, canolig, cyfartaledd, cymedrol, ynybôn, deall
+gwahanol: arwahân, ynwahanol, amrywiol, amrywiol, lluosog, gwahaniaeth, arwahân, amrywiad, arwahân, amrywioldeb, gwahaniaethol, ynwahanoli, amrywiad, ynamrywio, amrywiol, eraill, arall, arall, nifer, ynwahanol, amrywiaeth
+potensialhwyliau: 
+allativeachos: 
+anthropicrhyw: 
+pump: pumed, blwyddyn, argyfer
+byw: bywyd, goroesi, ynymddwyn, byw, nyth, dosbarth, cymdogaeth, cymdogaeth, ynfyw, bywiog, amrwd, syth, syml, preswylydd, uniongyrchol
+gwahanolpwnc: 
+ateb: gogledd, ateb, ymateb, ateb, cyfateb, ymateb, gogleddol, dyblygu
+môr: cefnfor, morol, bwydmôr
+ofn: arswyd, ofni, arswyd, parchedigofn, ofnus, panig, pryder, angst, arswyd, dychryn, ofnus, ffobia
+caled: anodd, stiff, cymhleth, llym, uchel, dreisgar, ffyrnig, anodd, llym, heriol, anodd, solid, dynn
+termau: dymor, terminoleg, mater, ynseiliedig, tiroedd, sail, ynybôn, sylfaenol, ynybôn, eiddo
+amheuaeth: amheuaeth, diffygymddiriedaeth, petruso, sydddanamheuaeth, cyflenwr
+dubitativehwyliau: 
+du: bloc
+hardd: dda, 'nglws, hyfryd, hardd, 'nglws, 'nbert, ffansi, cwl, 'ngiwt
+tywyll: gwae, tywyllwch
+didoli: dosbarthiad, dosbarthu, classifier, math, rhywogaethau, amrywiaeth, eitem
+deg: degawd, degfed, deg
+sioe: arddangos, perfformio, perfformiad, arddangosiad, cyflwyniad, dangos, ddynodi, digwyddiad, amcanestyniad, arddangosyn, celf, image, braslun, screenshot
+stori: myth, hanes, naratif, ffuglen, plot, stori, sgwrs, pwnc
+llyfr: sgrolio, wrthgefn, punt, gwerslyfr
+electronig: electroneg, electron, mellt, trydan, trydan, trydanol, trydanwr, e-bost, cyn-
+cyfrif: rheswm, achos, cyfrifo, cyfrifiant, calcwlws, bil, cyfrifiad, cyfrif, cyfrif, rhifyddeg
+marc: marciwr, olrhain, llwybr, sgôr, logo, uchafbwynt, tic, tag, arwydd, signal, arwydd, ciw, brand, cymeriad, label, argraff, symbolaidd, effro, symbol, icon
+llog: blodyn, diddordeb, pryder
+ysgrifennu: cyfansoddi, ysgrifennu, math, ysgrifenedig, llonydd
+gwely: 
+angenrheidiol: hanfodol, pwysig, defnyddiol, beirniadol, hanfodol, arwyddocaol, ddibwys, annatod, hanfodol, bwysicach, angen, oreidrwydd, intransitive, intransitive, intransitive, brys, gludiog, rheidrwydd, ofynnol, eigwneudynofynnol
+syniad: meddwl, ystyriaeth, barn, syniad, Taflusyniadau, meddwl, dychmygu, dychymyg
+vialisachos: 
+brawd: brawdneuchwaer, chwaer, lletân, cydweithiwr
+weithiau: anaml, obrydi'wgilydd, rywbryd
+llinell: gwifren, edau, rhes, lôn, dargludiad, dash, streipen, treth, sgript, llinellau, pennawd
+tabl: desg, amserlen, catalog, catalog
+afon: gobennydd, clustog, fflwcs
+llygad: penodi, ogwmpas, eira
+gwybodaeth: neges, esboniad, disgrifiad, bwletin, gwybodaeth, data, rheng, llywio
+ynsydyn: sydyn, annisgwyl
+rhyfedd: rhyfedd, syndod, rhyfedd, od, Tybed, hyfryd, rhyfeddol, anghyffredin, anhygoel, anhygoel, rhyfedd, ddoniol, ddieithryn, egsotig, lletchwith, anarferol, 'nannaearol, dirgel, chwilfrydig
+dwfn: ddwfn, dyfnder, eang, bas, drylwyr, manwl, cynhwysfawr, feirniadol, dwys, ofewn, ytumewn, dando, mwydyn
+newid: addasu, amrywiad, trawsnewid, trawsnewid, treiglad, sifft, newid, diwygio, pontio, cydgyfeirio, amrywiadau, amrywiant, amrywioldeb
+teimlad: teimlo, teimlad, canfyddiad, argraff, emosiwn, hwyliau, argraff, emosiynol, synhwyraidd, sentiment, synnwyr, angerdd, ymwybodol, ymwybyddiaeth, impulse, syniad, beichiogi, cysyniad
+pwrpas: gwrthrych, nod, amcan, nod, cyrchfan, bwriad, bwriedir, cymhelliad, targed, mantais, budd-dal
+hapus: siriol, difyrru, pleser, falch, llawenydd, hapusrwydd, hyfrydwch, falchiawn, hwyl, hapus, lwcus, falch, emoticon, ynaml, mwynhau, Mae'nwell, anhapus
+gwaed: gwaedu, gwaedlyd, tywalltgwaed
+rhosyn: pinc
+de: deheuol, canoldydd, canoldydd
+oer: gaeaf, cwl, coldly
+sefyllfa: lleoliad, sefyllfa, statws, cyfle, cyfle, gofod, safiad, osgo, lle, swydd, eitem, cyfeiriadedd, lleyg, lleoli, locws
+sefyll: orsaf, fertigol, agwedd, safiad, rhoi'rgoraui, osgo, peri, stondin, fod, aros, ynparhauifod, ynbodoli, ynerbyn
+Mae'ndebyg: rhagdybiaeth, ddamcaniaeth, cymrydynganiataol, mabwysiadu, dybio, hypothesize, lleyg, cartref, sôn,
+mwynglawdd: fy
+torri: diffyg, ddiffygiol, gostyngiad, diffyg, gostwng, prinder, miss, torri, torriardraws, torri, slaes, cnwd, torri, torri, gynllwynio
+copi: atgynhyrchu, dyblygu, ailadrodd, trawsgrifio, llungopi, clôn, fersiwn, presgripsiwn, glasbrint, cyfoeth
+gŵr: dyn, priod
+chwech: rhyw
+isel: llai, byr, rhad, rhad, camesgoriad, ychydigiawno, gwaelod, bas, ddiflas, diffyg, rhwyddineb, lleihau, gostwng, lleihau
+cofiwch: Nodyn, dwynigof, atgoffa, cof
+effaith: dylanwad, yneffeithioar, argraff, effaith, goruchafiaeth, effeithlon, effeithiol, effeithiolrwydd, canlyniad, canlyniad, amlygiad, canlyniad, goblygiad
+syrthio: hydref, achos, lleoli, damwain, dillad, torrilawr, cwymp, gollwng, dirywiad, gostwng
+aceithrio: onibaibod, tuallan, arwahân, heblawam, ytuallan-o, arwahân, eithrio, neilltu-o, heb
+hawlfraint: 
+yfyddin: filwyr, milwyr, llu, milwr
+rhedeg: ffoi, draen, rhedeg, gweithredu, gweithredu, gyriant, gêr, gweithrediadau, gweithredol, amddiffyn
+ceffyl: pedol, ar, sylw, ymadrodd
+dyfodol: ynddiweddarach, wedyn, wedihynny, gaeaf
+orllewin: orllewin
+talu: cyflogau, cyflog, cyflog, byrdwn, taliad, talu, ffi, cost, gadewch
+Coch: gostyngiad
+aur: 
+dymuniad: wirfodd, awyddus, archwaeth, dymuno, dyheu, annog, chwant
+chwarae: dawnsio, Gamble, gêm, foch, tegan, ygofrestr, sbin, cylchdroi
+meistr: arglwydd, cynradd, prif, athro, dra-arglwyddiaethu, llywodraethu, mr, gŵrbonheddig, arwain, Mister, perchennog, Mastermind, rheoli
+swyddfa: asiantaethol, desg, gweinidogaeth
+llywodraeth: wladwriaeth, rhes
+eglwys: 
+hyd: uchder, uchder, span, hyd, hyd, tal
+cwmni: cwmni, gorfforaeth, cymdeithas, busnes, corfforaethol, endid, sefydliad, asiantaethol, sefydliad, menter, menter
+papur: taflen, cerdyn, siarter, papurnewydd
+tebygolrwydd: posibilrwydd, tebygolrwydd, debygol, obosibl, annhebygol, gobaith, cyfle, tebygol, newidynnau, ods
+ynenwedig: arbennig, arbennig, ynbenodol, ynenwedig, arbennig, ynunion, ynbennaf, ynbennaf, ynbennaf, penodol, bwysicach, felarfer
+arth: cario, goddef, goddefgarwch, goddefgarwch, cael, medduar, fforddio, goddef
+ffenestr: 
+cytundeb: protocol, anheddiad, cyfaddawd, consensws, cytuniad, cytuno, bargen, cyd-fynd, tendr, chord, contract, confensiwn, trefniant, fargen
+harddwch: hardd, disgleirdeb, esthetig
+dyletswydd: atebolrwydd, cyfrifoldeb, rhwymedigaeth, cyfrifol, tollau, tasg, aseiniad, dyled, ddyledus, gorfod, cyflogi, tynged
+anfon: trosglwyddo, cyflwyniad, swydd, darlledu, e-bost, trosglwyddo, Dylai, cyflwyno, 
+pellter: caelgwared, ystod, gwahanu, stryd, bwlch
+tawelwch: llonyddwch, dawel, dawel, unigrwydd, heddwch
+droed: goes, arosfa, clun, traed, chwarter, paw, rhedeg, ynbriodol, cam
+gwyllt: wyllt, anghyfreithlon, ffyrnig, bywydgwyllt, jyngl
+ynmarw: marw, marw, off, cau
+arbed: ganarbed, cadwraeth, adennill, gwarchod, cadwraeth, cof, siop, wneudiawn, achub, cofnod, amddiffyn, cadw, gwared
+gwyrdd: amrwd, crai
+trafferth: trafferthu, mater, problem, caledi, anhawster, dylino'n, dioddef, broblemus, rhwystr, godicywilydd, embaras
+gwenu: grin
+anghywir: camgymeriad, gwall, camgymryd, wael, gam-drin, ffug, fai, methiant, nam, anghywir, gaffe
+cysgu: cysgu, freuddwyd, nap
+quotativeachos: 
+dechrau: dechrau, cychwyn, ymgymrydâ, crafu, dechrau, yngynnar, cychwynnol, cychwyn, cyntaf, egwyddor, cychwyn, cychwyn
+gweithredu: tasg, pwynt, cam, cam, act, gweithdrefn, weithgar, llawdriniaeth, gweithredol, activate, actifydd, symud, arfer, ymarfer, gweithredu, stoc, gweithredu, gweithredu, ymddygiad
+ymweliad: mynediad, cyfweliad, hygyrch, teithio, taith, taith, taith, athroniaeth, beirniadu, cwrdd, rhodd
+dilyn: cydymffurfiaeth, cadw, canlynol, myndardrywydd, trac, gyd-fynd, ufuddhau, dilynol, parhau
+ceisiwch: ymgais, ymgais, ymdrech, menter, arbrawf, prawf, sampl, diwydrwydd, treial, arholiad, arholiad
+presenoldeb: bodolaeth, ynbodoli, endid, ased, digwyddiad, golwg, presenoldeb
+trwm: ailadrodd, drwm, anodd, difrifol, pwysau, oddifrif, enfawr, afu, enfawr, enfawr
+melys: pwdin, Candy, addfwyn, ddiafael, 'ngiwt
+geg: llafar, myg, sipian, wyneb
+gyfoethog: digonedd, doreithiog, cyfoethog, gwisg, hael
+gelyn: gelyniaethus, gwrthwynebydd, ynerbyn
+llong: cwch, hwylio, fflyd, hwylio, llestr, mordeithio, fferi, bol, llywio
+cyflwr: bet, betio, wladwriaeth, sefyllfa, amgylchiadau, statws, ffortiwn, cam, lefel, ffitrwydd, gofyniad
+Gangynnwys: cynnwys, cynnwys, cynnwys, ynperthyn, cynnwys, eithrio
+gynhwysolperson: 
+ymddangos: ymddangosiad, codi, yndodi'ramlwg, ymddangosiad, ynweladwy, ymddengys, edrych, haunt
+gyfrinach: dirgel, dirgelwch, pin, odanyddaear
+osgwelwchyndda: garedig, gofyn, gras
+precativehwyliau: 
+gwrtaisgofrestru: 
+drwg: niwed, cas, dieflig, drwg, wael, ofnadwy, sâl, waeth
+mawrth: gorymdaith, protest, arddangosiad, mars
+ynaraf: ynraddol, araf, ysgafn, dawel, ynhwyr, graddol
+ynllehynny: ynlle, ynhytrach, arwahân, amnewid, amnewid, felarall, rhan
+glas: cyan
+amhosibl: 
+ysgol: campws, ysgol
+achlysur: cyfle, digwyddiad, digwyddiad, cyfle, avenue, fargen, o'rgloch
+briod: priodas, priodi, priodas
+bwyd: prydofwyd, diet, dysgl, feed, bwyta
+ugain: 
+ynhawdd: debygol, ynrhwydd, atebol, hawdd, cyfleustra, bychan, ychydig, ysgafn, cyfleus, syml, ynfyr
+darparagwedd: 
+iaith: ieithyddol, tafod, sylfaen
+mynegiant: mynegi, datganiad, ymadrodd, mynegi, amlygiad, ymadrodd, hafaliad, cynrychiolaeth
+wythnos: DyddSul, wythnosol
+neuadd: theatr, cyntedd, gofod, siambr, salon, lolfa, eil, rhedwr, lobïo, twll, haul
+perygl: peryglus, risg, perygl, barch
+arferol: Yngyffredinol,, cyffredinol, cyffredin, arferol, generig, Felarfer,, cyffredin, anarferol, cyffredin, cymedrol, normal, afreolaidd, confensiynol, nodweddiadol, achlysurol, Felarfer,, felarfer, prifffrwd, rheolaidd, arferol, plaen, ynfras, syml, cymedrol
+eni: genedigaeth, ailenedigaeth, cynhenid
+llys: barnwrol, dysgl, fforwm, ymgyfreitha
+gnomicagwedd: 
+werth: haeddu, gwerth, werthfawr, dilysrwydd, teilyngdod, cost, pris
+coed: planhigion, pren, siafft, pren
+wal: 
+nefoedd: awyr
+inchoativeagwedd: 
+jussivehwyliau: 
+tôn: traw, alaw, tunnell, tunnell, cysgod, tiwna, sain
+sylw: barch, cymrydynganiataol, dybio, sylw, ystyriaeth, ystyried, perthynas, cymdeithas, perthynas, sylw, sylw, cysylltiadau, berthnasol, cysylltiedig, gysylltiedig, dansylw, ynperthyn, ynghylch, cyfatebol, cyfateb, perthnasol
+mis: lleuad
+profiad: empirig, drwybrofiad, profiadol, arbenigedd, croen, arbrawf
+amgylchiadau: senario, amgylchiadau, sefyllfa, llac
+ffres: ffres, pur, glân, glanach, newydd, newyddian, diweddaraf
+dug: prenmesur, tywysog, cyfoedion
+agwmpesir: yncwmpasu, sylw, off, argau, dando, clawr, llywodraethu
+rhwymo: raddau, cyfyngiad, terfyn, border, cyfyngiad, cyfyngedig, cysylltu, yndibynnu, rhwymo, ffin, cyfyngu
+ddwyrain: ddwyreiniol, ynôl, blaenorol, ymlaenllaw, cyn, Dwyrain
+carreg: marmor, graig, drysor
+cyfarwyddyd: cyfeiriadedd, dimensiwn, tuedd, agwedd, cyfarwyddyd
+cadeirydd: sedd, cadairfreichiau, stôl, lolfa
+cefnogaeth: cynnal, cymeradwyo, cymorth, cynorthwyo, braced, cymorth, sail, crutch
+dyddiad: hanes, yndodardraws
+pentref: pentrefan, cefngwlad
+maes: sffêr, deyrnas, rhanbarth, diriogaeth, ardal, parth, sector, parth, arena, stadiwm, gofod, ymyl, cefngwlad, gwersyll, fferm
+aros: disgwyl, cynnal, aros
+caniatâd: caniatáu, clust, trwydded, clirio, gadael, trwydded, trwydded, caniatâd, rhifyn, meddiant, cymeradwyaeth
+caniataolhwyliau: 
+llwyddiant: llwyddiannus, llwyddo, ffyniant, cyflawniad, buddugoliaeth, ennill, taro, ennill, enillydd, ffynnu
+bryn: mynydd, mount, llosgfynydd
+cerddoriaeth: cerddorol, clasurol
+distaldangosol: 
+prynhawn: p.m., canoldydd, canoldydd, gyda'rnos
+crio: galaru, gweiddi, sgrechian
+anrhydedd: anrhydedd, barch, urddas, parchus, anrhydeddus, anrhydeddus, cwrteisi, gogoniant, cyfradd, pris
+saith: 
+preifat: personol, hunan, ynbersonol, arbennig, preifatrwydd, penodol, exclusive
+eistedd: aros, setlo
+newyddion: neges
+olygfa: safle, golwg, cyd-destun, arddangos, gweledol, cam, golygfa, gobaith, pabell, ymddangosiad
+gardd: garddwr, parc
+hil: hiliol, rasio, rhedeg, gystadleuaeth, twrnamaint, tendr, bridio, gêm, cenedl, scramble, les
+dosbartholachos: 
+dysgu: astudiaeth, dysgu, bwriadol
+gwleidyddol: gwleidyddiaeth, wleidyddol, gwleidydd, polisi
+lleferydd: darlith, sgwrs, sgwrs, disgwrs, llafar
+gorwedd: ffug, twyllo, twyllo, trin
+bwrw: Hurl, taflu, fling, toss, fformat, llwydni, lansio, sied, rhoi'rgorauiddi
+bwyta: prydofwyd, feed, dysgl, bwyta, bwyta
+llawr: ryg, ddaear, gwaelod, pridd, cerdded, uchel, tal, cyrchfan
+haf: gwres, poeth, gwresogi
+crefydd: crefyddol, dyled, credo, maeth
+llun: portread, peintio, image, llun, ffotograffig, ffotograffiaeth, photo, llungopi, lluniadu, snap, ffilm, darlunio, portread, ffig, ffigur
+dianc: ffoi
+awdur: awdur, athro, golygydd
+brown: llwyd, llwyd, lliwhaul, efydd, siocled, gwenith
+benderfynir: penderfyniad, penderfynu, penderfynu, pendant, bendant, dylunydd, penodedig, canfod, sefydlog, penodol, penderfyniad, determiner, sefydlog
+poen: brifo, anguish, boenus, galar, ddolurus, agony
+gwanwyn: bluen, ein, ni
+meddal: concessive, llyfn, fân, tendr, ysgafn, dawel, addfwyn, ddiafael, ysgafn, cain, cynhenid
+cornel: ongl, eang
+: , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , y, yn, a, , , gwiriwchifyny, cotlaw, diffoddwr, derbynnydd, elihaul, cyflwynydd, taflunydd, sgrialu, trydanwr, ymolchi, centimetr, pwrs, petruso, cadarnhad, tacsi, cargo, arferol, achlysurol, perygl, teiliwr, ffidil, garddwr, saer, ffiol, gwm, cyfnodol, sidewalk, corwynt, sgarff, picnic, fanila, bathodyn, pwdin, arc, darpar, warws, ariannwr, pad, crwst, llyfrgellydd, campfa, craen, cogydd, generig, glanach, gweinyddes, cwnselydd, deunyddysgrifennu, tylino, becws, sedan, meicrodon, plymwr, gril, brocerstoc, llyfryn, hamburger, gwresogydd, cosmetig, barbeciw, popcorn, atblygol, logo, tiwna, Blasyn, timer, fferyllydd, gymudwyr, carton, glasbrint, briefcase, grisiausymudol, achubwrbywyd, pennawd, Peiriantgolchillestri, backpack, bwydmôr, cadairolwyn, rhodfa, pêl-foli, cyflyrydd, styffylwr, sawna, til, arlliw, diwydiant, ysgwyd
+cynhyrchu: cynhyrchu, cynhyrchu, cynhyrchiol, fabricate, gweithgynhyrchu, gweithgynhyrchu, cnwd, cnydau, cynnyrch, creu, ffurfiant
+chwerthin: chellwair, chwerthin
+anghofio: edrychdros, gwadu, gadwmewncof
+ewrop: 
+wyth: wythfed
+pasio: gan, drwy, pasio, trwy, myndheibio, darn, groesfan, sifft, pontio, eil
+ofnadwy: ofnadwy, erchyll, ofnadwy, brawychus, aruthrol, trasig, brawychus, dychryn, gwrthun, ofnadwy
+mwyn: cymhelliad, ffafrio, ffafrio
+anadl: anadlol, anadlu, anadlu, anadluallan, ego, gasp, sigh, sibrwd, anadlu, arogli
+ddoeth: rhesymol, synhwyrol, synhwyrol, meddylgar, clyfar, smart, deallus, aeddfed, gwych
+meddiannolmarciwr: 
+dymunol: braf, bleserus, ffafriol, gyfforddus, gyfforddus, ddiddorol, 'nglws, 'nglws, math, hardd, hwyl
+berffaith: yngyfangwbl, llawn, yngyfangwbl, gwbl, ynweithredol, perffaith, wirioneddol, yngyfangwbl, yneithaf, ynunion, gwbl, absoliwt
+cof: cof, cyfeirnod, cofeb, olrhain
+bedd: difrifol, difrifol, drwm, fynwent, beirniadol
+modern: cyfoes, soffistigedig, moderneiddio, ffasiynol, diweddar, disgwrs, olaf, uwch, dyddiauhyn
+fana'rlle: pwynt, dot, o'rgloch, lleoliad, staen, chlytia, lle, unman, safleoedd, locws, safle, lleol, ohyd, arwydd, colon
+egwyl: Torrimewn, brêc, cyrchfan, lolfa, ymyrraeth, cyfwng, bwlch, Smash, chwalu, rhoi'rgoraui, saib, torriardraws, aflonydd
+ynys: 
+cyffwrdd: cysylltu, tap
+cyfartal: cyfwerth, unfath, tebyg, yngywir, iawn, iawn, yrunmor, gradd, par, unionyrunfath
+lan: copiwrthgefn, fin, arfordir
+addewid: ymrwymo, ymrwymiad, addewid, penodiad, sicrwydd
+commissivehwyliau: 
+cynllun: cynllun, bargen, rhaglen, rhaglen, menter, cynllunydd, glasbrint, cynnig, prosiect, plot, braslun, amcanestyniad, cynllun, fflat, lluniadu, dylunio, cynnig, cynllunio, myfyrdod
+syndod: rhyfeddol, annisgwyl, damweiniol, syndod, Tybed, syndod, synnu
+munud: 
+ergyd: saethu, saethu, bullet, bwledi, llun, photo, ergyd, bang, coup, taflu, ffrâm, cic
+arwain: arweinyddiaeth, arwain, llywio, bullet, gyriant, arwain, dodâ, heblawerofraster
+gwydr: drych, grisial, jar, sbectol, dudalen, allforio
+bwrdd: slab, cyngor, ifyny, yncodi, taith, grŵp, bwyllgor, panel, cyngor, ymyl, comisiwn, tabled, rhifyn
+enghraifft: enghraifft, darlunio, model, patrwm, trosiad, prototeip, fel, gynrychioli, sbesimen, achos, cynsail, sampl, paradeim, dangos, ie
+ynddiogel: sicrhau, diogelwch, diogelwch, ynddiogel, hyderus, yswiriant, ynsiwr, ddiniwed, caelgwared
+meddyg: meddyg, therapydd, ymarferydd, meddygol, deintydd
+dosbarth: math, orbit, ystafellddosbarth, gradd, gwahanu, haen, categori, rheng, dosbarth
+completiveagwedd: 
+droarôltro: ynaml, rheolaidd, gyson, yngyson, obrydi'wgilydd, ynaml, ynrheolaidd, cyfnodol, ailadrodd, ailadrodd, ailadrodd, adolygu, iteriad
+milwrol: sir
+cynnes: poeth, gwres, cynhesrwydd, tymheredd, gwresogi, gram, muggy
+diod: diod, meddwdod
+dicter: ddig, rage, dicter, lidio'r, gwaethaf, digio, flin
+ynuniongyrchol: syth, uniongyrchol, anuniongyrchol, awtomatig, syml, arunwaith, sythu, arunwaith, llafar
+het: cap, helmed
+ci: 
+gwas: stiward, gweinydd, gweinyddes, morwyn, gaethweision, cartref
+balchder: drahaus, falch, ynfalch, hubris
+dorf: brwyn, gorlawn, mob, swm, maint, poblogaeth, llu, pentwr, llawer, llawer, niferus, oddifrif, digon, swmp, fuches
+trên: cerbyd, car, wagen, cert, rheilffordd, rheilffyrdd, addysgu
+moesol: moesoldeb, foesol, moesegol, moeseg, morâl, ysbrydol
+greek: 
+cyd-fynd: siwt, addas, addas, gydnaws, priodol, cyfleus, briodol, cyfateb, gymwys, perthnasol, cyd-fynd, addasu, union, manwlgywir, cyd-daro
+fyndimewn: log, mynediad, wladwriaeth, dangos, mewnosod, cynnwys, gofrestru, cofrestru
+rheol: gweinyddiaeth, domination, gyfundrefn, dyfarniad, rheithfarn, dyfarniad, canolwr, llywodraethu, gyfraith, deddfwriaeth, norm, wladwriaeth, rheoleiddio, teyrnasu, rheoleiddio, presgripsiwn
+cleddyf: llafn, cyllell
+ymosodiad: goresgyniad, ymosod, ymddygiadymosodol, trosedd, ymosodiad, trosedd, streic, dechrau, sarhaus, cyrch
+iechyd: iach, cyfarch
+paragraff: pennill, cymal, darn, pwynt, agwedd, safiad, par
+cymdeithasol: cymdeithas, yngymdeithasol
+ad-daliad: ateb, ymateb
+nchwith: difaru, polyn, pardwn, esgus, ymddiheuriad, biti, tristwch, yndioddef, dioddef, galar, anguish, alaru, tristwch, galaru, caledi
+dewrder: pluo'n, beiddgar, hyderus, nerf, gwroldeb, Dare, dewr, llestr
+swyddogol: ffurfiol, ynffurfiol, ynswyddogol, swyddog, clerc, fiwrocrataidd, awdurdodi
+addarperir: darparu, cynnig, ganddarparu, cyflwyniad, argael, cyflenwad, darpariaeth, darparuar, os
+cais: gweddi, galw, hawliad, eigwneudynofynnol, gofyniad, ymchwiliad, ymchwiliad, prydlon, cais, cais, dymuno
+Cipolwg: cipolwg, golygfa, agwedd, canfyddiad, outlook, golwg, edrych, amlwg, syllu, llacharedd
+lledaeniad: manylion, ymestyn, estyniad, ehangu, ehangu, eang, niferyrachosion, trylediad, gwasgariad, treiddio, osgled, cylchredeg
+gyferbyn: blaen, yngwrthwynebu, groes, gwrthwynebu, ynerbyn, ardraws, cownter, ynwahanoli, gwrth-ddweud, gwrthdro, fflip, erbyn, gwrthwynebiad, gwrth, cefn
+deuddeg: dwsin
+cymrydrhan: ymgysylltu, prysur, cymrydrhan, cymrydrhan, meddiannu, ymgysylltu, blygu, bragmatig, gwrthdro
+gwin: alcohol, alcoholaidd
+blas: blas, blas, blasus, abwyd, croen
+haearn: dur, metel
+dosbarthu: trosglwyddo, defnyddio, cyhoeddi, cyhoeddi, trylediad, cylchredeg, dosbarthu, dyrannu, rhannu, rhaniad, rhaniad, i-hollt, dosbarthu, dosbarthol, dosbarthiadau
+fasnach: masnachu, busnes, fasnach, nwyddau, rhyngrwyd, fargen, trafodiad, marchnata, masnachol
+barnwr: dyfarniad, dyfarniad, canolwr, rheithgor
+bryderus: argyfwng, brys, dansylw, dychryn, poeni, pryder, pryder, poeni, meddylgar, anghyfforddus, peripryder, ofni, awyddus, tarfu, brawychus, brwdfrydig, awyddus, aflonydd, anesmwyth, chwilfrydedd, aflonyddwch, angst
+capten: 
+rhoi'rgorauiagwedd: 
+tramor: dramor, estron, estron, egsotig, ddieithryn, allanol, dramor
+intensifier: dwysau
+pwysigrwydd: rheidrwydd, perthnasedd, golygu, arwyddocâd, hanfodol, pwyslais
+ynolaf: ynypendraw, ynypendraw, cyfyngedig, terfynol, ynypendraw, terfynell, fân, diwedd, dymchweliad
+profi: prawf, cadarnhau, cadarnhau, dangos, tystio, deall, Axiom
+atal: yndodiben, gwahardd, cadw, repress, cyfyngu, lesteirio, bloc, atal, atal, gwahardd, osgoi, atal, atal, arosfa
+gwddf: gwddf, eitem
+diddorol: hwyl, ddoniol, difyr, ddiddorol, deniadol, denu, trawiadol, tynnu, apêl, tynnu'nôl, cyffrous, chwilfrydig
+cyfreithiol: barnwrol, gyfraith, cyfreithlon, ffrâm, theoremau
+sych: coesyn, powdr
+gweini: gwasanaeth, ennill, darparuar, cynnig
+tystiolaeth: tystiolaethol, prawf, arwain, cliw, cyfeiriadur, arddangos, tyst, ynamlwg, tystio
+tystiolaetholachos: 
+bell: iffwrdd, ynhyn, off, arwahân, gliniadur, bell, oeraidd, pellaf, gaelgwared
+cynnydd: stride, dilyniant, datblygiad, blaengar, datblygiadol, ymlaenllaw, symudymlaen, gwella, codiad, twf, dyrchafiad, modd, proses
+cul: tenau, dynn, byr, cyfyngu, blino, lleihau, cyfyngedig
+adeilad: adeiladu, strwythur, adeiladu, adeiladu, safleoedd, sgerbwd
+chwilio: dodohydi, darganfod, darganfyddiad, hymgais, canfod, ceisio, ceisio, ymchwil, arolwg, myndardrywydd, ymchwiliad, ymchwiliad, ymchwiliad, archwilio, ddyfais
+drist: iseleuhysbryd, ynanffodus, ddiflas, gofidus, cynhyrfu, edifeirwch, anhapus
+pechod: euogrwydd, ynanffodus, ymrwymo
+sâl: sâl, ddolurus, salwch, claf, salwch
+onest: diffuant, ffyddlon, ynonest, gonest, syth, anonest
+banc: fainc, tun
+coedwig: jyngl, coedwigaeth
+mesur: medrydd, mesur, pwyso, metr, metr
+nant: llif, cymal, arhynobryd, trydan, fflwcs, jet
+ynofalus: ynagos, gofalus, ofalus
+bara: pobi, hwch, brechdan, damaid, padell
+ychwanegol: ychwanegol, sbâr, arbenhynny, drosben, gwarged, ymhellach, Hefyd, atodol, ychwanegu, atodiad, atodiad, ochrol, bonws
+dewis: dewis, detholiad, dewiswch, detholus, ddewis, ethol, deialu, bleidlais, arholiad, dewis, penodi
+anifeiliaid: creadur, diryw
+zoicrhyw: 
+eventivehwyliau: 
+lluosogolachos: 
+cael: ennill, caffael, caffael, derbyn, cael, dodohydi, sicrhau, cadw, cynnal, deillio, nôl, cael, cyflawni, cyflawni, priodi
+croesi: ardraws, groesfan, pasio, ynfwyna, treiddio
+trwchus: ordew, drwchus, trwchus, braster
+tyfu: meithrin, yncodi, twf
+glaw: gwlyb, glawiad, cawod, dyodiad, nadydyntyn, banadl
+yndawel: 
+wyneb: wyneb, lefel, awyren, ardal, swbstrad
+sanctaidd: sanctaidd, gogoneddus
+Gorffennaf: 
+ffasiwn: ffasiynol, modd, dull, ymagwedd, gweithdrefn
+adroddiad: penderfyniad, datganiad, cymhareb, perthynas, perthynas, deg, arddangosfa, traethawd, amlygiad
+ffeil: dogfen, porthdy, proffil, archif
+ysgwydd: siafft, echel, portread, crib, fraich
+brenhinol: imperial, frenhiniaeth, deyrnas, ymerodraeth, goiawn, gwirioneddol
+cân: dôn, trac, canu, cerdd, canu
+cysur: rhwyddineb, hamddenol, ymlacio, anogaeth, cyfleustra, gorffwys, rhyddhad, gyfleuster
+unrhywun: unrhywun, rhywun, rhywun, neb, pawb, pawb, pwybynnag
+glaswellt: gwair, chwyn, perlysiau, lawnt, gram, gwellt
+agor: rhagarweiniol, cychwynnol, darganfyddiad, bwlch, slot, agored, yngynnar
+Mehefin: 
+pysgod: acwariwm
+cyfalaf: pennod, cronfa, ased
+fron: frest, llaeth
+addysg: addysgu, gwers, addysgol, llythrennedd, ffurfiant, hyfforddiant, addysgedig, academaidd, cyfarwyddyd, dysgu, addysgu
+miniog: llachar, ffyrnig, llym, sydyn, sbeislyd, pigfain, acíwt, awyddus, creision, ynglir, llacharedd
+traul: ffi, gwariant, cost, rhifyn, allbwn, coditâl, treulio
+eichunchi: eich
+miliwn: filiynfed
+gweddïo: gofyn, gweddi, beg, benthyg
+wediblino: blinder, blinedig
+lladd: llofruddiaeth, lladd, dileu
+cysgod: cysgod
+màs: ansawdd, arycyd, maint, swmp, lluosog, llawer, lwmp, clwstwr, mob, trosedd, toes, pasta
+sefydlu: gorsedda, solid, yngadarn, sefydlog, creu, sefydlu, periglor, founds, sefydliad, ffurfiant, sefydlu
+bodlon: falch, boddhad, bodlonrwydd, falch, Bodloni, boddhaol, cynnwys
+gwiriwch: gwiriwch, edrych, Gwylio, gwiriwchifyny, dewis, archwilio, arolygu, arholiad, prawf, archwiliad, til, canolradd, arolwg, ymchwilio, canfod, adolygu, rheoli
+rhinwedd: caredigrwydd, daioni, haelioni, nodweddiadol, priodoledd, nodwedd
+euraidd: melyn
+cenedlaethol: cenedl, cenedligrwydd, ethnig, cartref, genedlaetholwr
+prif: cysefin, keyword, mawr, prif, prif, arwain, stwffwl
+cwm: basn
+dyfalu: casgliad, sydddanamheuaeth, dybio, amcangyfrif, amcangyfrif, rhagfynegiad, rhagfynegi, rhagolwg, dyfalu, ddwyfol, dyfalu, Disgwylir, asesiad, asesu, gwerthuso, brasamcan, rhagweladwy
+hapfasnacholhwyliau: damcaniaetholhwyliau
+melyn: golau, ambr, melyn
+gweddillion: gweddillion, gweddilliol, sy'nweddill, bwydsydddrosben, gorffwys
+plygu: crwm, plygu, tuedd, dirdroi, llethr, gogwydd, plygu, canfyddiad, rhagdybiaeth
+blwch: gês, drôr, cronfa, cit, gall, carton, bin, ariannwr, sgwâr, teils, grid
+tymor: tymhorol, pennod, orsaf, cyfnod
+gwyddoniaeth: gwyddonol, morffoleg, ieithyddiaeth
+ynôlpobgolwg: ynamlwg, glir, amlwg, agored, benodol, sôn,, ynglir, ynamlwg
+turio: twll, dril, ddiflas, ddiflas, pierce, cythruddo, fforwm, diflasu, sightsee
+ewythr: modryb
+rhestr: mynegai, catalog, catalog, dewislen, gofrestru
+Awst: 
+dawel: dawel, tawel, heddychlon, dawel, araf, hamddenol, llonyddwch, dawel
+poblogaidd: niferyrachosion, enwog, amlwg, gwerin, arwain, cyn-filwr
+anhysbys: ddieithryn
+cyfarwydd: gydnabod, llinach, disgynnydd, addefnyddir
+cyfarwyddgofrestru: 
+cerdded: cerdded, gwadn, symudymlaen, hike, dro, cerddwyr
+ddwywaith: dwbl
+deallusol: meddwl, cudd-wybodaeth, meddyliol, deallus, seiciatrig, meddyliwr, doethineb, ysbrydol
+offeiriad: clerigwyr
+glwyfo: hanafu, clwyf, brifo
+palas: 
+guro: trechu, pwnsh, slap, guro, gamp, rhythm, goresgyn, streic, bit, buddugoliaeth, ennill, ennill
+ffwl: gwirion, tric, twyllo, twyllo, dwp, ffôl, mad, crazy, wallgof, camarwain, anwybodus, anwybodus
+naw: nawfed, newydd
+cydymdeimlad: tosturi, empathi, biti, drugaredd, gydymdeimladol, tosturiol
+byrstio: chwyth, ffrwydrad, ffrwydro, cracio, ffyniant, ffit, bang
+nadd: gwisg, gown, gwisg, dillad, dillad
+llenyddiaeth: llenyddol, deunydd, gwisg
+casgliad: crynodiad, cronni, set, grŵp, cyfuniad, arae, oriel, suite, pecyn, portffolio, synthesis, repertoire, casgliad, casgliad, casgliad, casglu
+gwag: wag, gwag, drwm, hamdden, null, gwacter, gwactod, ofer, moel
+storm: corwynt, llywio
+poced: bag, paced
+dedfryd: dyfarniad, dyfarniad, cynnig, theorem, awgrym, cynnig, cosb, euogfarn, ymadrodd, condemnio, Gyfrannogymwrthod, cosb, cosbi
+Tachwedd: 
+Rhagfyr: 
+yndigwydd: yndigwydd, digwyddiad, fod, codi, beth, nac, nid, cyrraedd
+absenoldeb: absennol, diffyg, prinder
+diolch: diolchgarwch, ddiolchgar, diolch, Diolch, cyfaddef, cydnabod, ildio, gwerthfawrogi, archwilydd
+cyfres: cadwyn, llinyn, arae, dilyniant, set, dro, ystod, rhes
+cyfeiriad: dodohydi
+aderyn: hedfan, awyren, jet, awyrennau, awyren, cwmnihedfan, tylluan
+cot: gown, clawr, siaced, ffwr
+paratoi: barod, paratoi, trefnu, paratoi, llunio, bwriedir, barod, awyddus, amharod, sialc, arfogi, cynhyrchu, sefydlu, adeiladu, creu
+yngyflym: yngyflym, cyflym, cyflym, cyflym
+mwg: ysmygu, llosgi, ohirio
+Ionawr: 
+peiriant: peiriannau, peiriant, awyren
+symud: symud, ffônsymudol, Budge, symudiad, cynnig, ymfudo, tic
+dannedd: dant, gêr, hwn, lleuen
+cywilydd: warth, cywilydd, swil, embaras, embaras, embaras, moel, noeth, sarhad, dicter
+ymennydd: Mastermind, mêr
+ffoniwch: mân, deialu, cwrl, dolen, teiars, teiars
+ymadroddmarciwr: 
+dealltwriaeth: deall, deall, synnwyr, gafael, empathi, gwybodaeth, canfod, mewnwelediad, canfyddiad, ymwybyddiaeth
+ffrwythau: canlyniad, canlyniad
+te: dyheu, car, cwadratig
+eglurwch: esboniad, dangos, mynegi, mynegi, datgan, egluro, dehongli, sylwadau, dehongli, disgrifiwch, disgrifydd
+croeso: cyfarch, derbynfa, diddanu, hey, hi, cyfarch
+barddoniaeth: cerdd, pennill, bwrdeistrefol, o'rgloch
+prynu: prynu, caffael, fforddio, farchnad, siop, rhad, buddsoddi, siopa
+ffyddlon: anonest, ffyddlon, ffyddlon, ffyddlon, gywir, dibynadwy
+cyffro: symbyliad, gyffrous, ffwdan, tensiwn, pryfocio, llawenydd, cyffroad, fflysio, brwdfrydedd, zeal, brwdfrydig, brys, teimlad
+Ebrill: 
+Hydref: 
+chwerw: caledi, agony, anguish, chwerw, dioddef, boenus, Sting, ysgrifenedig
+rhydd: annibynnol, llac, datrys, datrys, gwag, rhydd
+testun: geiriad
+gwaethaf: drwg, waeth, garw, anffafriol, cas, gwaethaf, yrhanfwyafo, uchaf, isaf, sbwriel, sbwriel, garbage
+credyd: morgais, cerdyncredyd, dyled, rhoibenthyg, benthyg, benthyciad, bri, dilysrwydd, hygrededd
+Nodweddion: cydrannau, swyddogaethau, agweddau, nodwedd
+alluog: galluogi, gymwys, gallu, capasiti, gallu, analluog, potensial, fforddio, medrus, talentog, sgiliau, effeithiolrwydd, cymhwysedd, medrus, effeithlonrwydd, defnyddiol
+pymtheg: 
+creulon: ffyrnig, anodd, angharedig
+ymuno: cymrydrhan, mynychu, cymrydrhan, cychwyn, cadw, cyfranogwr, cyfranogiad, uno, cysylltu, newydd-ddyfodiad, integreiddio
+trosedd: euogrwydd, trosedd, trosedd, troseddol
+llwch: argae, powdr, baw
+ymarferol: swyddogaethol, bragmatig, ymarferol, cyfleus, bron, 'nhylaw, gymhwysol
+lliw: lliw, paent, llifyn, golau, lliw, lliwgar, fflysio, stryd, codio
+dinistrio: llongddrylliad, tanseilio, sabotage, diraddio, dymchwel, malwch, Smash, adfeiliedig, drysu, dileu, negyddu, dinistrio
+cynyddu: symudymlaen, gwella, mount, codi, ychwanegu, mewnosod, twf, chwyddo, hike, hwb
+trwyn: big
+gyfeillgar: addas, ffafriol, gyfath, garedig, diffuant, gynghreiriad, cyfeillgarwch, math
+ddoe: yfory, dyddiauhyn
+hesternalamser: 
+methu: methiant, aflwyddiannus, trechu, methu, drysu, siomi
+parhau: symudymlaen, parhaus, parhaus, parhad, yngyson, parhau, dyrannu, cynnal, ymlaen, cysylltu, dechrau, perfformio
+tynnu: gwared, tynnu'nôl, dileu, dileu, wipe, dileu, dileu, ddiddymu, tynnu, tynnu, tynnu, ddiarddel, amsugno
+gwisgo: cario, porthor
+ddall: 
+hedfan: hedfan, neidio, hedfan, hedfan
+canmoliaeth: edmygedd, edmygu, enwda, teilyngdod, longyfarch, llongyfarch
+genhadaeth: 
+aberth: dioddefwr, ysglyfaeth, anafedig, toll
+ymarfercorff: gwaith-allan, aseiniad, arfer, ymarfer, chwaraeon, ffitrwydd, ymarfer, dril, symudiad, cynnig, ymgyrch, athletaidd
+cydwybod: rhagenw, ymwybyddiaeth
+theori: egwyddor, damcaniaethwr, theorem, damcaniaethol
+gweinidog: 
+casineb: cas, ffiaidd, casineb, ddimyneihoffi, rhagfarn, dig, digio, ffieiddio, chasineb
+llyn: ynunig
+canolfan: canolog, canolfan, orsaf, pencadlys, canol
+llewygu: anymwybodol, anobaith, anobeithiol, wan, golau
+rhesymegolrhyw: 
+cryno: ynfyr, acronym, byr, cynbohir, cerdyn, compact, trosolwg, economaidd
+addoli: defodol
+nwyddau: cynnyrch, cargo, eitem, nwyddau, nwyddau, stwff, cludonwyddau, mall, gêm
+croen: lledr, amsugno, rhisgl, cragen, croen, ffwr, croen
+to: teras, nenfwd, yncwmpasu, sylw
+goron: 
+castell: cawell, cloi, cyfenw
+orsedd: 
+ynghlwm: ymgysylltu, amodol, atodi, cysylltu, dibynnol, cysylltiol, pâr
+filltir: tuedd, llethr, heblawerofraster, graddiant, barod
+carchar: carchar
+yndrylwyr: yndda, gyfforddus, ynbriodol, ynesmwyth, drylwyr, yneithaf, yngyfangwbl, yngyfangwbl, yngyfangwbl, yndeg, gwbl, llawn, gwbl, ynunig, ynunion, ynunion, yngywir
+cwpan: myg
+aelod: organ, aelodaeth, aelod, mewnol
+sifil: cartref, dinesydd, dinesig, sifil
+ymmhobman: drwygydol, rhywle
+cydymffurfio: gweithredu, gweithredu, gorfodi, cyfateb, gyd-fynd, cwrdd, ufuddhau, cynnwys, Bodloni, cadw, pwnc, cydymffurfiaeth
+tra: tra, er, foddbynnag, erbod, serchhynny, tra, serchhynny
+cyfaint: llawer, raddau, swm, gymharol, meintiol, bloc, modiwl, swmp, cylchedd, sylw, maint, cyfandir, cymal
+arfer: cleient, dewisol, gwisgoedd, arfer, arfer, arfer
+bwa: bwa, arc, nionyn, gromlin
+cig: cnawd, cigeidion
+vegetalrhyw: 
+prin: anaml, prin, anaml
+cefnder: perthynas
+bont: gradd, dec, goes, pwll
+gwarchod: amddiffyn, cadwraeth, gard, darian, amddiffyn, cadw, cynnal, gwarchod, sicrhau, amddiffyniad, amddiffyniad
+halen: gorliwio, gor-ddweud, hallt, morwr
+diniwed: glân
+brenhines: 
+dawns: drwm, dawnsio, neidio, skip
+gwesty: llety
+llenwi: cynnwys, cynnwys
+carcharor: euogfarnu
+grisiau: grisiau, grisiau, ysgol, drôr
+hoyw: cyfunrywiol
+tywod: 
+treisgar: trais, ffyrnig, aflonydd, hyfryd, difrifol, cryf, dwys, egnïol, wyllt, dwys
+Medi: 
+adfail: dinistrio, subversion, difrod, difetha, trychineb, llanast, llongddrylliad, dymchwel
+gwartheg: buwch
+offer: cyfarpar, dyfais, deunyddysgrifennu, cit, gêr, gwisg, myndi'rafaelâ, gyfleuster, gêm
+canfyddedig: canfyddiad, ymwybodol, canfod, cydnabod, cydnabyddiaeth, ymwybyddiaeth
+ynunrhywle: rhywle, llebynnagybo, unman, mewnmannaueraill
+cegin: coginio, popty
+gwerthu: gwerthu, lled, gwerthwr, bradychu
+cyflymder: cyflymder, cyflymder, momentwm, sydyn, deinameg, cynnig, cyflymu
+cyfrifiadur: cyfrifiadura
+tragwyddol: erioed, ambyth, ddiddiwedd, parhaol
+llyfrgell: llyfrgellydd, cwpwrddllyfrau
+dryswch: llanast, chaos, ffwdan, ddryslyd, ddryslyd, anarchiaeth
+erthygl: traethawd, eitem, adran, cymal, diamedr, peiriannydd
+cogydd: cogydd, coginio, pobi, berwi
+band: gwregys, rhuban, tâp, garfan, grŵp, stribed, streipen, parth, llinyn, criw, clwstwr, lôn
+anialwch: anialwch, anghyfannedd
+cusan: 
+iâ: hufenia, tâp, eira
+pêl: rwber, sffêr, bullet, grym, babanod, bilsen, gwacter, cyflwyno
+ffon: stoc, gansen, cadw, pren, pren, ystlumod, ciw, staff, polyn
+ddadl: rhesymeg, symud, ddadlau, trafodaeth, dadl, anghydfod, llwybr, honiad, cwestiwn, cwestiynau
+arsylwi: arolygu, archwilio, archwilio, ymchwilio, arsylwi
+bendithhwyliau: 
+trawiadol: rhagorol, syfrdanol, streic, sylweddol, arwyddocaol, sylweddol, amlwg, trawiadol, syndod, rhyfeddol, rhyfeddol
+yneuog: euogrwydd, ddyledus, troseddu, troseddwr, euogfarnu, condemnio
+gwn: reiffl, arf
+heddlu: gorfodi, goruchwylio
+cuddio: secretu, guddio
+alldaith: ymgyrch, gyriant, taith, taith, mordaith, taith, crwsâd
+cloud: seiberofod
+gwastraff: ddiwerth, diangen, gwrthod, gwrthod, gwrthod, garbage, sbwriel, sbwriel
+Chwefror: 
+clefyd: salwch, salwch, coronaidd, boddhaol, boddhaol, syndrom
+menterachos: 
+cyffredinol: 
+ystâd: yndda, planhigfa, ased, tir, eiddo, perchnogaeth, ffortiwn, cyfoeth
+ostyngedig: trechu, cymedrol
+oedi: ohirio, ynhwyr
+oedihanfodol: 
+adroddwydtystiolaethol: 
+anffodus: ynanffodus, anlwcus, cyd-ddigwyddiad, anhapus, ddiflas, annigonol, anghydweddol, amhriodol
+canolnos: gogledd
+arwr: rhyfelwr, pencampwr
+bys: traed, digid
+wasg: cyfryngau, cylchgrawn, cyfnodolyn, argraffu, math, fformiwla, gwthio
+Gwobr: gwobr, rhodd, dyfarniad, bonws, iawndal, wneudiawn
+bai: fai, nam, nam, dyled, euogrwydd, snub, erlyn, atebolrwydd, cyfrifoldeb, cyhuddo, honni, condemnio, Gyfrannogymwrthod
+diflastod: caledi, dioddef, anguish, ddiflas, diflastod, yndioddef, galar, eironi
+talcen: 
+ad: hysbyseb, hysbysebu, hysbysebu, hysbyseb, cyhoeddiad, cyhoeddusrwydd, rhybudd, datganiad, i, argyfer, datganiad, honiad, dyrchafiad, hyrwyddo
+angel: tirfeddiannwr, tylwythteg, anodd, anodd, negesydd
+enwogrwydd: gogoniant, enwda, si, si, hysbysebu, cyhoeddusrwydd, bri
+unigolrhif: 
+wawr: gyda'rhwyr
+maddau: esgus, pardwn, goddef, eithriedig, lleddfu, diswyddo, maddeuant
+defaid: cigoen, gafr, swm, cadarnhaol
+penderfyniad: datrys, ateb, penderfyniad, casgliad, dadansoddiad, torrilawr, torrilawr, penderfyniad, pydredd
+amynedd: gwroldeb, goddefgarwch, claf, ddiamynedd, goddefgar, goddefgarwch, ataliaeth
+cyfeiriadol: cyfeirnod, gyfeirio, pennu, gyfarwyddeb
+corn: gwenith, corn, grawn
+allweddol: bond, botwm, switsh, prif, hanfodol, amlwg, sensitif, mawr, arbenigol, prifffrwd, cliw, bod
+mwyafrif: llawer, yrhanfwyafo
+anwybodaeth: anwybodus, chwerthinllyd, dwp, anwybodus, bawd
+gwendid: anallu
+elw: mantais, ennill, budd-dal, hyfyw, buddugoliaeth, buddiolwr
+cloch: larwm, cloc, awr
+awyrgylch: amgylchedd, awyr, hedfan, gofodol, hinsawdd, amgylchoedd
+dynoliaeth: dynol
+disg: disg, tafell, cownter, silindr, plât, cofnod, hambwrdd
+unig: eibeneihun, unigrwydd, arwahân, sengl, ynunig, dawel, anghyfannedd
+artist: perfformiwr, peintiwr, diddanwr
+swyn: carismatig, atyniad, hud, sillafu, esthetig
+caethwasiaeth: gaethweision, bond
+llywodraethwr: ceidwadol, prenmesur
+gangen: 
+gwarediad: trefniant, cyfluniad, tuedd, tuedd, darpariaeth, cynllun, hwyliau, amserlen, amserlen, preswylio, cyrchfan
+lwc: ffortiwn, tynged, lwcus, hapusrwydd, cyfle, ffodus
+deillio: cael, derbyn, deillio, nôl, cyflawni, adfer
+anwytholhwyliau: casgliadolhwyliau, diddwytholhwyliau
+cymuned: cymdeithas, categori, pobl
+olew: braster, tanwydd, ffosil, mêr, thermol, menyn
+pibell: tiwb, tap, faucet, baw
+print: rhifyn, pwysau, argraffu, echel, llwydni, argraff
+oh: ya, arae
+disgwrscyd-destun: 
+vocativeachos: 
+caban: bwthyn, pabell, porthdy, siambr, cell, compartment
+nerfus: amser, ddryslyd, tarfu, cynhyrfu, embaras, tarfu, aflonyddu, gofidus, nerfol, poeni, nerf, cryf, pwerus, dwys
+gwahaniaeth: ynydrefnhonno, ynwahanol, amrywiadau, amrywiaeth, ynwahanol, gwahaniaethu, bwlch, gwahaniaethu, gwahaniaeth, cyferbynnu, amrywiad, amrywiant
+baich: canfod, llwyth
+sidan: gafael, gafael
+ddirmyg: dirmygu, casineb, ddimyneihoffi, ffieiddio, chasineb, snub, sarhad, dicter, esgeulustod
+uffern: 
+gwahanu: arwahân, neilltu, arwahân, arwahân, ynwahanol, arwahân, oeraidd, arwahanol, unigedd, diarddel, delimited, gwahanu, gwahaniaethu, ynysu, datgysylltiad
+cymysg: cymysgedd, cyfuniad, cyfansawdd, cymysgu, arycyd, ymasiad
+pren: pren, pren
+drin: triniaeth, therapi, gwella, proses, ystyried, therapydd, rhwymedi, bargen, gwella, ynymddwyn, cymorth, ên, ên
+rhybudd: rhybudd, rhybuddio, effro, cofeb, rhybudd
+admonitionhwyliau: 
+uchelgais: siomedig, siom, chwant, annogpoblibeidio, uchelgeisiol
+cynnyrch: effeithlonrwydd, atgynhyrchu, incwm
+rhywsut: braidd, rhywbeth
+cwnsler: ymgynghorydd, awgrym, cynghori, ymgynghori, cyngor, tip, cyfreithiwr, atwrnai, eiriolwr
+cyfansoddiad: siarter, cyfansoddiadol, digwyddiad, digwyddiad
+offeryn: teclyn, llestr, endid, organ, cynhwysydd, cyfleustodau, dyfais
+cyson: sefydlog, sefydlogi, rheolaidd, ynrheolaidd, sefydlog, gyson, yngyson, parhaus, cynaliadwy, safonol, statig, atgyweiria, cyson, parhaol, llonydd, hamddenol
+elfennau: ffactorau, elfen, cydran, cynhwysyn, cydrannau, hanfod, gynghreiriad, ffactor, paramedr
+parhausagwedd: 
+Ar-lein: 
+llanw: don, snap
+coleg: cyfadran, academi, campws, prifysgol
+cynffon: ciw, llwybr
+genhedlaeth: disgynnydd
+cath: 
+uniongyrcholtystiolaethol: 
+wedi'ugadael: esgeulustod, gadael, anghyfannedd, rhoi'rgorauiddi, rhoi'rgorau, hydoddi, canslo
+unarddeg: 
+greddf: digymell
+llwyth: cefnffyrdd, coesyn, llwyth, diffyg, ddiffygiol, diffyg, diffyg, prinder
+bryderushwyliau: 
+lloches: cyrchfan, preswylio, anheddiad, cynefin, preswyl, amddiffyn, dorm, lloches, harbwr
+anghwrtais: rudely, garw, angharedig, llym
+marchogaeth: taith, reidiwr
+proffesiwn: galwedigaethol, gyrfa, galwedigaeth, proffesiynol, galwedigaethol, busnes
+lamp: cannwyll
+coffi: caffi, digonol, ynddigonol, digonol
+nyrs: chwaer
+sicrhau: sicrwydd, gwarant, addewid, gwarant, yswirio, sicrhau, canfod, cadarnhau, darparu, darparuar, ynsiwr, argyhoeddi, cadarnhau, sicrhau, Palladium
+esgidiau: esgid, sandal
+criw: staff, fuches, tîm, criw, personél
+iard: cod, dudalen, carwriaeth
+amwys: amwysedd, aneglur, amwys, aneglur, dirgel, ansicr, amhenodol, don, gwag, annealladwy
+fflat: fflat, cylch, compartment, suite, wagen
+gweithgaredd: trafodiad, swyddogaeth, gweithrediadau
+DyddSadwrn: penwythnos
+deiliad: 
+heulwen: solar, elihaul, disgleirio, golaudydd
+gweddw: 
+cyfathrebu: cysylltu, gohebiaeth, cyfathrebol, cyfathrebu, rhyngweithio, rhyngweithio, perthynas, berthnasol, perthynas, cydberthynas, perthnasedd, rhybudd, cyhoeddiad, trafodiad, chwistrellu, galwedigaethol, deialog, rhyngwyneb, ymgom
+myfyrio: myfyrdod, reflex, dychymyg
+sefydliad: meinwe, sefydliad, trefnu, gwisg, gorfforaeth, cyfleustodau, asiantaethol, endid, system, strwythur, gwead, cynllun, sefydliad, sefydliad, cymdeithas, cwmni, menter, cwmnihedfan, drefnu
+seren: 
+gwestai: ddieithryn, ymwelwyr, estron, estron, newydd-ddyfodiad, cleient, cwsmer, llu
+bar: moel, tafarn, llwyth, cargo, cludonwyddau, caffi, bariwm, stribed, rhwymyn, gwregys
+potel: jar, salwch
+bendithia: bendith, cyfarch
+gynnwrf: trin, cymysgu, ennyn, terfysg, cyffroi
+cweryl: amrywiant, anghydfod, frwydr, ymgyfreitha, dadlau, anghytundeb
+mewnol: ofewn, ytumewn, tu, mewnol, lleol, cartref, dando, meddyliol, mewnol, prif, mawr
+ymwrthedd: gwrthwynebiad, gwrthwynebu, protest, resistant, gwrth, digio, gwrthwynebiad
+pant: plaen, moel, wag, cebl, twll
+talaith: taleithiol, dosbarth, sir, braster
+gwareiddiad: diwylliant
+hongian: goruchwylio
+sioc: ergyd, trawma, syfrdanol, gwrthdaro, effaith, syfrdanu
+eithriad: rhannol, gwahaniaethu, stereoteip, eithriad, gwrthdaro, rhagorol, eithriedig, didyniad
+straen: straen, tensiwn, llwyth, blinder, ymdrech, dwysedd, gofleidio, hiliol, ethnig
+gyrru: gyriant, gyrrwr, arwain, taith
+tyngu: rhegi, addewid
+trysor: em
+hadau: sberm, cnau, gronynnau, mr
+twr: 
+hoff: hoff
+Ynddiweddar,: diweddar, ffres, syddnewydd, dyddiauhyn, wedihynny
+effro: ymwybodol, morâl, deffro, effro, cyffroi
+dodrefn: 
+rhaff: llinyn, llinyn, strap, rhwymo
+antur: menter, perygl, Gamble
+breindal: teyrnasu
+gwledd: parti, dathliad, wledd, gwyliau, cinio
+blynyddol: blwyddyn, ynflynyddol
+graddfa: ffrâm, fframwaith, medrydd, cymhareb, ysgol, grisiau, grisiau, maint, maenprawf, dimensiwn, lefel, raddau, gyfrannol
+oganlyniad,: canlyniad, felly,
+sylfaen: sylfaen, sail, ynseiliedig, sylfaenol, cynradd, elfennol, craidd, sylfaenol, bas, israddedig, tiroedd, llwyfan, sylfeini, sylfaenol, wrthwraidd
+seremoni: defodol, swyddogaeth, dathliad, cyngerdd, fformiwla, ymwybyddiaeth
+hela: hela, dioddefwr, ysglyfaeth, hela, saethu
+rhyddfrydol: hael, rhydd
+iraddauhelaeth: ynsylweddol, ynsylweddol, yrhanfwyafo, ynbennaf, ynbennaf, ynfawr, eang, ynbennaf, ynwreiddiol, ynybôn, ynybôn, yngynyddol
+tywysoges: merch, briodferch
+allor: cysegr
+we: rhwydwaith, net, grid, meinwe, cynfas, gwau
+porffor: magenta
+casglu: casglu, cronni, crebachu, deialu, bwydsydddrosben
+etholiad: dewis, ethol, llwybr, pôl, morfil, detholiad, detholus
+feddw: alcoholaidd, meddwdod
+arllwys: topple, sied, arllwysiad, dymchweliad
+lifft: elevator, dyrchafu, codiad, codi, hike
+ystum: arwydd, signal, symbol, symbolaidd, agwedd, osgo, awgrym, arwydd
+rheoli: rheoli, goruchwylio, trin, gweinyddiaeth, llywodraethu, llywio, rheoli, gweithredu, byddai, trefnu, trefnu, ffurfweddu, perfformio, cynnal
+cyfnewid: cyfnewid, cilyddol, Gyfnewid, amnewid, cymudol, ariancyfred, ariannol, ynail, trawsblaniad
+pendanterthygl: 
+ymerawdwr: teyrn
+gorffen: gorffenedig, yndodiben, diwedd, plastr, dros, addurno, casgliad
+hyll: cas, ffiaidd, siriol, bleserus, ddoniol
+dilys: ynwir, goiawn, gwirioneddol, rhithwir, union, gwreiddiol, frodorol, cynhenid, cynhenid, penodol, hyderus, colofn, diffuant
+modfedd: tollau, bawd
+barf: ên
+rwygo: snatch, erydiad
+wrthsefyll: gwrth, gwrthwynebiad, cyferbynnu, protest, groes, yngwrthwynebu, torriardraws, gwrthwynebu, gwrthod, gwrthod, yngwrthwynebu, gwrthrych, goddef, gelyniaeth, gwrthddywediad
+masnachwr: ddeliwr, personbusnes, nwyddau
+annibyniaeth: annibynnol, rhyddid, rhydd, rhyddid, ymreolaeth, rhyddhau
+arogl: persawr, blas, blas
+deunaw: 
+hanesyddol: ynhanesyddol, hanes, hanesydd, hanesyddol
+gros: cyfanswm, cyfanred, budr, amrwd, crai, cyffroad, macro, awyddus, difrifol, dwys, dot, arycyfan
+gwraidd: coesyn, ffres, llwybr, gwreiddiol, tarddiad
+mwd: pridd, llysnafedd, clai, baw, blodyn
+symlrwydd: syml, gostyngeiddrwydd
+llen: llen, hwylio, hwylio, sgrin, pilen
+theatr: theatr
+cymhariaeth: cymharu, cymharol, cydberthynas, cymhareb, gwrthdaro, cymaradwy
+cyfansoddiad: cydran, strwythur, ffurfiant, adeiladu, gyfystyr, adeiladu, trefnu, cyfluniad, ffurfweddu
+wrthwynebydd: gwrthwynebydd, gwrthwynebol, cystadleuaeth, gystadleuol, cystadlu, cystadleuydd, cownter, gwrth-ddweud, gwrth
+sylweddoli: cyflawni, cydnabod, cydnabyddiaeth, nodi, diagnosis, anymwybodol, gweithredu, teimlo, canfod, deall, gafael, cyflawni, cof
+cydbwysedd: cydbwysedd, yrunmor, cydraddoldeb, llorweddol, gyfrannol, par, cyllideb
+hyfforddwr: hyfforddwr, ymarferydd, tiwtor, mentor
+hiwmor: hiwmor, doniol, hwyliau, comedi, jôc
+nofel: ffuglen, newydd, syddnewydd
+dial: dig
+adnoddau: ased, ffynhonnell, adnodd, fodd, cyflenwad
+genfigennus: cenfigen, eiddigedd
+olwyn: beic, cylch, cylch
+llosgi: llosgi
+fflach: mellt, glow, disgleirio, flashlight
+awgrymu: awgrym, argymhelliad, cynnig, argymell, cynnig, enwebu, awgrymu, adborth, dangos, cynnig
+imprecatoryhwyliau: 
+ddiymadferth: 
+grwpiau: grŵp, dec
+clwb: ystlumod
+llifogydd: gorlethu
+mwynhad: mwynhau, pleser, llawenydd, hyfrydwch, hapusrwydd, falch, falch, falchiawn, hwyl
+difaterwch: difaterwch, ddiofal, esgeulustod, anwybyddu, edrychdros
+gorwel: 
+assumptivehwyliau: damcaniaetholhwyliau
+serth: drychiad, berpendicwlar, llawer
+cytgord: cyfaddawd, dôn
+plentyndod: 
+pen-glin: lap
+cilyddol: eichgilydd, cilyddol, cyffredin, arycyd, rhyngweithio, rhyngweithiol
+meddalwedd: cais, repertoire
+anaf: brifo, niwed, difrod, anafu, clwyf, trawma, hanafu, groes
+derbynneb: derbyn, fynedfa, derbynfa, derbyn, derbyn, taleb
+disgyblaeth: pwnc
+slip: llithrig, sleid, gleidio, gaffe
+chwyldro: chwyldroadol, coup, cylchdro, gwrthryfel, gwrthryfel
+ffermwr: werin
+strôc: ergyd, coup, brwyn, scramble
+braint: breintiedig, dewis, cwota, fasnachfraint, cynnig, consesiwn
+myfyriwr: disgybl, ysgolhaig, israddedig, academaidd
+ogof: 
+traddodiad: traddodiadol, Yndraddodiadol,, tollau, ildio
+drasiedi: epidemig, tristwch, paradocs
+tafarn: tafarn
+virgin: morwyn
+ffarwel: Hwylfawr, bye, Hwylfawr
+beirniadaeth: beirniadu, beirniadaeth, adolygiad
+cotwm: gwlân
+ysbyty: lloches
+rhent: pris, llogi, treth, deyrnged, prydles, cyflogi, ymgysylltu, arrent, siarter
+nwy: 
+anochel: ynanochel
+marwol: hanfodol
+dail: taflen, llafn
+cyhoeddi: cyhoeddi, cyhoeddi, argraffu, cyhoeddi, darlledu, rhyddhau, allbwn, trylediad, cyhoeddi
+cyfieithu: cyfieithu, cyfieithu, dehongli, epidemig, trosglwyddo, fersiwn
+traeth: llinyn, arfordir
+angladd: claddu, fynwent, claddu
+blawd: powdr, toes, union, gywir, manwlgywir, prydofwyd
+ru: dramatig, gweiddi, sŵn
+rhamantus: canol, clun
+cwt: bwthyn, porthdy, sied
+mimetic: 
+doler: 
+unarbymtheg: trigain
+cynulliad: cwrdd, cynhadledd, gyngres, cyfluniad, rali
+nythfa: 
+adain: ward, suite, aelod, asgell, hedfan, hedfan
+llew: 
+cyfrwys: anodd, tric, medrus, clyfar, diplomyddol
+drama: esgus, dramatig
+niwl: niwl
+hyperdestun: hyperlink
+meddygaeth: cyffuriau, rhwymedi, chwistrellu, presgripsiwn
+pedwararddeg: heb, exclusive, sin
+asid: sur, asidig, mynydd, mount
+sef: unrhyw, h.y.
+defnyddiwr: buddiolwr, defnyddwyr
+esgob: 
+orange: 
+bath: ystafellymolchi, cawod, bathtub
+deilliadol: cyfansoddyn, trawsgrifio, deillio
+cyntefig: yngynnar, cychwynnol, hynafol
+basged: bin, bag, pêl-fasged
+ysgrifennydd: golygydd
+iachawdwriaeth: diogelwch, rhyddhau, hi, achub, adferiad, adfer
+heddiw: 
+hodiernalamser: 
+ynbwriadu: bwriedir, bwriad, diddordeb, awyddus, cymhelliad, amharod, neilltuo, gysegru, penderfyniad
+stêm: 
+gwenwyn: gwenwynig, wenwynig, chwynladdwr, poisson
+talent: disgleirdeb, talentog, cymhwyster, gallu, repertoire
+effeithiol: ddilys, effeithiol, effeithlon, effeithiolrwydd, ddylanwadol, defnyddiol, weithgar, argael, trawiadol
+golchi: golchi
+cyffes: cydnabod, credo, cydnabyddiaeth, derbyn, hawliad
+lol: sbwriel, afresymol, anghydweddol
+glo: carbon
+is: cysylltiadol, bye, dirprwy
+drosdro: cyfwng, hyd, tymhorol, achlysurol, damweiniol, timer, tra, cyfoes
+delimitativeagwedd: 
+asgwrn: goes, torasgwrn, sgerbwd
+DyddLlun: 
+DyddMawrth: trydydd
+DyddMercher: pedwerydd
+ffederal: ffederasiwn, canolog
+ddymunol: deniadol, ffafriol
+cynrychiolydd: gynrychioli, rhan, cynadleddwr, atwrnai, dirprwy, llefarydd
+llieiniau: dilladisaf
+sinc: boddi, basn, sinc, cydamseru
+nai: nith, ŵyr, wyres
+gwarchae: amgylchynu, sedd
+stumog: bol, abdomen, matrics
+copa: brig, top, tip, confensiwn, crib
+exclusiveperson: 
+atafaelu: myndi'rafaelâ, cyfyngu, cadw, neilltuad, snatch, meddiannu, meddiannu, gronni, chrafangia, gafael, canfod, cael, mynnu, meddiant
+ffens: gwrych
+cerflun: cerflunwaith
+moethus: 
+magnelau: eillio
+arestio: dal, dal, cadw, Caewch, arosfa, beichiogi
+pecyn: parsel, paced, pecyn, lapio, bwndel, argau, cau, lapio, pecynnu
+cyfagos: ogwmpas, cymdogaeth, cymydog, cymydog, cymdogaeth, ymylol, amgylchoedd, cyfagos, cynhwysfawr, amgylchedd, amgylcheddol
+llym: llym, cydlynol, yngywir, dynn, difrifol, ynsicr, gwbl, ynbendant, dynn, llym, ynsiwr, ynunion, ynunion
+gweddill: gorffwys, sy'nweddill, myndheibio, bwydsydddrosben
+ceirw: 
+llwyn: 
+Railroad: rheilffordd, rheilffyrdd
+rhyddhau: rhyddhau, dadlwytho, rhyddhau, rhoi'rgorau, ddiarddel, allyrru
+etifedd: etifeddu, medduar
+derw: 
+annymunol: hyfrydwch, braf, anesmwyth, flin, gofidus, cas, anghyfforddus
+piano: 
+perswadio: argyhoeddi, dathlu, goffáu
+anweledig: dirgel, diflannu
+dda-hysbys: enwog, drwg-enwog, amlwg
+creulondeb: 
+temtasiwn: temtio
+Telicagwedd: 
+rhyngwladol: byd-eang, amlwladol
+ymyrryd: ymyrraeth, ymyrraeth, ymyrryd, tarfu, trafferthu, tarfu, torriardraws, cythruddo, lidio'r, aflonyddu, gwrthdaro, blino, gadewch, aflonyddwch
+cynnil: micro, tric, crefft, cain, llyfn, fân, dirwy, tenau, synhwyrol, addfwyn
+athronydd: athronyddol
+cain: ffasiynol, cain, hyfryd, rhagorol, rhyfeddol, gogoneddus, anhygoel, ffantastig, pwysleisiol, rhyfeddol
+lles: haelioni, ffyniant, darpariaeth
+pysgota: 
+dwyn: lladrad, rob, lladrad, swipe, plagiarize, gam-drin
+gwefus: big, llafar, fin
+ymddeol: ymddeol, wediymddeol, ymddeol, encil, gorffwys, hamdden, tynnu'nôl, pensiwn
+economi: economaidd, yneconomaidd, economeg, dirwasgiad, ganarbed, cartref, economegydd
+darn: sythu, ymestyn, llwybr, nodwedd, darn, darn, darn, darn, segment, cyfran
+cyfochrog: ochrynochrâ, gydnaws, cysylltiol, affix, llorweddol
+atelicagwedd: 
+waharddolhwyliau: waharddolhwyliau
+tei: eryr
+wy: 
+artiffisial: synthetig
+ysbrydoliaeth: cymhelliad, cymhelliant, impulse, ysbrydoli, Taflusyniadau, anogaeth, cynefino, symbyliad, ysgogiad, cymell
+ynycyfamser: aryrunpryd
+argyfwng: perygl, cwymp, dyfarniad, dyfarniad, argyfwng
+gwrtais: cwrteisi, addysgedig, moesegol
+sêl: stamp, argraffu, argraff
+cinio: brecwast, cinio, ranch, prydofwyd, bwyta
+ergwaethaf: gwaethaf, er, erbod
+tirwedd: senario, amgylchoedd, amgylchedd, cyd-destun, amgylcheddol, cefngwlad, naturiol, golygfa, gweledigaeth, gobaith, outlook
+artistig: celf, gwaithcelf
+cynghrair: undeb, cynghrair, glymblaid, cyfuno, partneriaeth, names
+uchafswm: gwneudymwyaf, eithafol, ynypendraw, yrhanfwyafo, na, dros, ynfwyna
+wyrth: Tybed
+copr: efydd
+purdeb: chastity, cywirdeb, trachywiredd
+gweriniaeth: democratiaeth
+ffôn: ffôn, ffônsymudol
+chwip: strap
+shirt: crys-t
+cyflwyno: cyflwyniad, cyflwyniad, sefydlu, cychwyn, rendr, darpariaeth, argymell, atgyfeirio, chwistrellu, cyflwyno, cyflwyno, darlunio, portreadu, cysylltu, mewnosod
+soffa: cadairfreichiau
+ysgubo: wipe, sgan
+lleidr: 
+sianel: draen
+diwygio: gwella, cywiro, esblygiad, diwygio, diwygiad, mireinio, adolygu, diweddariad
+syched: sychedig
+bygythiol: bygythiad, bygwth, brawychus
+palmwydd: 
+annog: anogaeth, ysbrydoli, gyriant, gwthio, hyrwyddo, cymhelliant, annog, hwyl
+siaradwr: llefarydd, darlithydd
+trothwy: fynedfa, derbyn
+cymell: lobïo, annog, achos, rhybuddio, cyffroi, peri, temtio, ennyn, socian, deillio, cynefino, affix
+daclus: daclus, glân, dda, hyfryd, ffansi, hardd, 'nglws
+sesiwn: cwrdd, cynhadledd, semester
+artaith: dioddef, anguish, trais, rac, ymgynghorydd
+llaith: baw, gwlyb, muggy
+teithiwr: ymwelwyr, teithiwr, twristiaeth, teithwyr, mordaith, teithio
+felin: ffatri, gweithgynhyrchu, planhigion, faucet, bragdy, gwenith
+map: cerdyn, diagram, graff, pris, tocyn, symbol, icon, arweinyddiaeth
+ffynnon: ffynhonnell, rhaeadr, ffracsiwn
+coler: amgylchynu, parth
+cymrydlle: amnewid, dadleoli, sbâr, amgen, rhodder, amnewid, dadleoliad, newid, ynamrywio, diwygio, is, addasu, switsh, lleddfu, addasu, wneudiawn
+ynfwriadol: bwriadol, bwriadol, ymwybodol, ymwybodol, bwriadus, damweiniol
+cwrw: peint
+melfed: 
+yngadarnhaol: cadarnhaol, ynweithredol, ffafrio, ffafrio, yngyfangwbl, gwbl
+disgyrchiant: atyniad, malwch, oddifrif
+bregeth: pregethu, disgwrs, darlith
+partner: gyd, cysylltiol, gariad, cariad, pâr, ffrind, cyffredin, arycyd, cyfranddaliwr, cydweithiwr, priod
+cam-drin: camgymryd, anghywir, damn
+ddiadell: grŵp, fuches, haid, Tycoon
+triarddeg: degarhugain
+cyfiawnhau: gwarant, pledio'n, eiriolwr, cyfiawnhad, cyfiawnhau, cyfreithlon, addasu
+llawysgrif: bil, sgript, plaintiff
+DyddGwener: arian, gwener
+brwsh: crib
+download: llwythoifyny
+hufen: hufenia
+anghenfil: cawr, gwrthun
+rhewi: rhewi
+pot: padell, ffiol, jar, cynhwysydd, popty, pat, llestr
+reis: 
+ymddygiad: ymddygiad, ymddygiadol, cymeriad, arfer, nodweddiadol, tuedd, ymddygiad
+darnarian: ariancyfred, ceiniog
+refeniw: incwm
+mynnu: uchel, byrdwn, mynnu, tanlinellu, pwysleisio, parhau, mynnu, eigwneudynofynnol, pwyslais, traction, Pwysleisiodd, dadlau, honni
+naid: 
+afal: ymddiheuriad, ynymddiheuro
+trafod: trafodaeth, trafod, dadlau, hash, sgwrs
+cefndir: 
+drawsgrifio: addasu, ailysgrifennu, efelychu
+adloniant: hamdden, diddanwr, hamdden, difyr, diddanu, hwyl, hobi, ymlacio, difyrru, lletygarwch
+firws: 
+plentynnaidd: soprano
+gwisg: dilledyn, gwisg, gown, gwisg, gwisg, cwpwrdddillad
+adlewyrchu: myfyrdod, myfyrdod, meditate, datgelu, amcanestyniad, darlunio
+trosi: newid, trawsnewid, switsh, treiglad, pontio, trawsnewid
+amlinelliad: proffil, cyfuchlin, crynodeb, braslun, agored, trosolwg, drafft
+opera: 
+penelin: braced
+atodiad: atodiad, cysylltiad, chlytia, cyswllt, cysylltydd
+trwsio: adfer, gwella, ail-greu, cywiro, diwygio, diwygiad
+dwrn: pwnsh, gafael
+amheus: amheuaeth, sydddanamheuaeth
+ysgrythur: Beibl, ffurfdeip, sgript
+pwll: twll, cloddio, pwll, ffos, boron
+anhrefn: chaos, anarchiaeth, aflonyddwch, aflonyddwch, llanast, gofidus, ymyrraeth, fai, rhwystr
+cymeradwyaeth: clap, yncymeradwyo, cymeradwyaeth
+deuaidd: Dyadig
+abaty: mynachlog
+arrow: 
+yntueddu: atebol, Felarfer,, Felarfer,, cyfeiriadedd, digonedd, cynnwys, amddiffyn, tuedd
+ymhelaethu: manwl, ddiffinio, egluro, datblygu, cymhleth, anodd, gwaith-allan
+teyrngarwch: ffyddlon, ffyddlon, ymddiriedaeth, ffyddlon, ynonest, diffygymddiriedaeth, hygrededd, ffydd, cred
+crynu: ias, dirgryniad
+alltudiaeth: saethu, dramor, lloches
+mecanyddol: peiriannau, mecanic, mecaneg, peiriannydd
+ynllwyddiannus: 'nglws, llwyddo, aflwyddiannus, canlyniad
+trap: gafael, euogfarnu
+cacen: crwst, pei, cwci, toes
+syr: mr, Mister, arglwydd, gŵrbonheddig
+petruso: petruso, guro, haunt, amledd, hofran
+undegsaith: 
+feminine: feminine, benywaidd, lady, cain
+mêl: 
+fantol: bet, cyfran, pentwr, rhannu, ffracsiwn, cyfraniad, Gamble, cyfranddaliwr
+brics: teils
+chwedl: myth
+cynhaeaf: cnwd, cnydau
+stôf: popty, slab, popty, lletân
+rebel: gwrthryfel, gwrthryfel, coup
+hen-ffasiwn: hynafol
+chwyddo: chwyddo, wedichwyddo, chwyddiant, chwyddo, chwyddo
+gwella: codi, gwella, atgyweiria, rhwymedi, gwella, gwella, gwella, ychwanegu, ychwanegwch, cylchredeg
+powlen: 
+syllu: atgyweiria, syllu
+diwydiannol: gweithgynhyrchu, ddiwydiannu, diwydiant
+dresin: saws, rhwymyn
+thema: pwnc, motiff, pwnc, mater, cymhelliad
+asgetig: 
+rheolwr: stiward, prif, bos, gweinyddwr, cyfarwyddwr, safonwr, arweinydd, gweithredol
+llusgo: tynnu, tynnu, haul, tynnu'nôl, dirymu, siswrn, traction, drôr, cyffuriau
+corws: gyriant
+rhesymegol: cyfiawnhau, rhesymeg, rhesymegol, afresymol, synhwyrol, rhesymol, rhesymol, ynamlwg
+prosesu: golygu, prosesydd, proses, prosesau, gweithdrefn
+Blaidd: 
+carped: ryg
+hynafiaeth: hynafol, cyfnod
+ffrwythlon: Fourier
+chwiban: ffliwt
+caws: 
+brathu: torri, gerfio, Sting, damaid, sipian, niwed, amddifadedd
+eglwysgadeiriol: 
+crwydro: dro, ymfudo, hike, gadael, afluniad
+nefi: morol, fflyd
+mwgwd: ffasâd, mwydyn
+pensil: pen
+llysiau: llysieuol
+trowsus: trowsus, pants
+llygredd: sgandal, llygredd
+cabinet: cwpwrdd, closet, cwpwrdddillad, toiled
+cawl: 
+llawfeddyg: llawdriniaeth, llawfeddygol, llawdriniaeth, dadansoddwr
+lwfans: amnewid, rhodder, iawndal, apposition, dyraniad, atodiad
+sbïo: canfod
+di-hid: ddiofal, anniben, esgeulustod, afresymol
+clecs: si, si, sgwrsio
+systemau: system
+tocyn: 
+haniaethol: crynodeb, maesllafur
+acen: ynganu, ynganiad, tafodiaith, pwyslais
+ddiffuant: ynonest, oddifrif, diffuant, ffyddlon
+cymeradwyo: mabwysiadu, awdurdodi, cymeradwyo, cadarnhau, cadarnhau, caniatâd, cymeradwyaeth, cymeradwyo, derbyn, grant, ffafriol, sancsiwn
+pensaernïaeth: strwythur, adeiladu, gwead
+crac: agennau, cracio, gadael, rhoi'rgorauiddi, torasgwrn
+palmant: cwrbyn, traw, llysnafedd, sidewalk, rhodfa, pecynnu
+bendant: hanfodol, hanfodol, penderfynu, penderfynu, bendant, aseinio, pennu, terfynol, beirniadol, coup
+negyddol: anffafriol, gwadu, negyddu, negyddu
+wyl: cyngerdd, Ystwyll, dathliad
+brad: 
+helwyr: ysglyfaethwr
+neidr: ymlusgiaid
+batri: 
+ditectif: didyniad, ymchwilydd
+nofio: nofio
+amlen: amgylchiadau, adferf
+sigarét: ysmygu, chwyn
+modur: Automobile, peiriant, cymhelliad, beicmodur, beicmodur
+gwirfoddolwr: gysegru, gwirfoddol, elusen
+adwaith: adweithiol, ymateb, ymateb, ymateb, adborth, amlygiad, adweithydd
+bagiau: bagiau, cludonwyddau, cefnffyrdd, gês, logistaidd
+byddar: 
+sudd: dyfyniad
+rhywiol: rhyw, rhywioldeb
+diemwnt: drysor
+echo: 
+hunaniaeth: nodi, adnabod, symbolaidd, gydnabod, adnabyddadwy, cydnabyddiaeth
+llysgennad: negesydd, diplomydd, metaboledd
+ddiog: pwdr
+momentaneagwedd: 
+drifft: llawdriniaeth, gwyriad, tuedd, tuedd, llif, safiad
+dychmygol: ffansi, dychmygu, dychymyg, ffuglen, ffantasi, goddrychol
+ray: trawst, eil, radiws, cronfa
+dringo: yncodi, planhigion, hwch, dringo, ymgripiad
+inc: arlliw
+cofiadwy: amlwg
+swnllyd: sŵn, gweiddi, uchel, ynuchel
+senedd: senedd
+cludiant: cerbyd, cludiant, haul, traffig, gwennol, trosglwyddo, trosiad, dargludiad
+arch: llwybr
+llyncu: sipian, llawer
+fwynhau: myndardrywydd, Bodloni, ymgorffori, gwreiddio, defnyddio
+amaethyddol: amaethyddiaeth, ffermio, fferm
+swing: 
+dôl: tirpori, cyn, lawnt
+cymhleth: cymhleth, cymhlethu, soffistigedig, cyfansoddyn, anodd
+ymddiswyddiad: ymddiswyddo, ymddeol, ynôl, encil, rhoi'rgorauiddi
+ostyngediggofrestru: 
+pupur: 
+merlyn: 
+ymgeisydd: ymgeisydd, darpar, recriwtio
+llwynog: 
+simnai: lletân, pentwr
+awdurdodaeth: awdurdod, dyfarniad, dyfarniad, cymhwysedd
+cynymadawedig: 
+democrataidd: democratiaeth
+blanced: nenfwd, clawr, ryg, sylw
+mochyn: hwch
+ifori: eliffant
+ysgafnach: awdur
+arsylwr: goruchwyliwr, ymwelwyr, arolygydd
+hoelion: ewinedd, grafanc
+gwenyn: 
+actor: actores, perfformiwr, plaintiff
+chwys: pwyth
+sglein: tafodiaith, disgleirio
+rhith: twyll
+ansicrwydd: ansicr, amwysedd
+eilaidd: mân
+gwledig: taleithiol, cefngwlad, pentrefwr
+cylchrediad: dolen, beicio, cylchol, niferyrachosion, trylediad, cylch, cylch, amledd, cylchdro, cylchdroi, traffig, sightsee, dargludiad
+ochneidio: 
+yndebyg: tebyg, tebygrwydd, atgoffa, cyfatebol, hoffi
+quote: dyfyniad, dyfyniad, unquote, rhoibenthyg, benthyg, benthyciad, cyfeirnod, amcangyfrif, ddyfynnu
+sach: diswyddo, diswyddo, bag
+annifyrrwch: aflonyddwch, ymyrraeth, ymyrraeth, caledi, diflastod, trafferthu, sŵn, tarfu
+nodwydd: pigiad, pin, pwyntydd
+danreolaeth: rheoli
+rhwystr: cyfyngiad, cyfyngiad, cyfyngedig, gwaharddiad, gwahardd, rhwystr, bloc, ymyrraeth, handicap, tarfu
+yndibynnu: cyfrif, cyfrif, yndibynnu, ymddiriedaeth, sicrwydd, ddibyniaeth, dibynnol, dibyniaeth
+cywiâr: iâr
+gasgen: bwced
+arferolagwedd: 
+arbenigwr: arbenigol, profiadol, arbennig, penodol, arbenigo
+greuargraff: yneffeithioar, argraff, denu, argraff
+van: falf
+nodio: nap
+diffiniad: sylwebaeth, adnabod, disgrifiad, penderfyniad, connotation, cyfiawnder
+pen-blwydd: pen-blwydd
+morthwyl: 
+persawrus: persawr
+ddibwys: mân, ddibwys, bychan, ymylol
+gloddfa: cloddio, dril, cloddio
+anifeiliaidanwes: hanfod, maeth
+penglog: 
+deddfwrfa: senedd, deddfwriaeth, deddfwriaethol
+sawdl: neidio, ffêr
+gwgu: 
+patent: trwydded, trwydded
+biliwn: 
+cemegol: cemeg, cemegolion, fferyllydd, cemotherapi
+pwls: impulse, arddwrn, momentwm, les
+peilot: arbrawf, arbrofol, gyrrwr
+cwlwm: lwmp, nod, cynnal, contract, casgliad, degawd, wau, cyffordd, amrwd, crai, rhagfarn
+sgert: graig
+iselder: dirwasgiad, cwymp, tristwch, galar, tristwch, iseleuhysbryd, straen
+technegol: techneg, technoleg, dechnegol, tech, uwch
+gerbyd: gyriant, car, cert, fodd, Automobile
+cwmpas: ehangiadau, parth, deyrnas, ystod, cyrraedd, raddau
+llystyfiant: planhigion
+sunrise: 
+cyfrannu: cyfraniad, rhoi, partneriaeth
+bachyn: berthnasol, cysylltu, cydberthyn, braced
+teigr: 
+llawes: fraich, manwerthu
+priffyrdd: ffordd
+milisia: 
+uniondeb: crynodiad
+tryloyw: tryloywder, glir, ynglir, ynamlwg, amlwg, ynamlwg, aneglur, penodol, syml
+pedwararbymtheg: 
+cyfrif: cyfrif, cyfanred, cyfrifiad, cyfrifiant
+cymwysedig: gymwys, cymhwyster, gallu, teilyngdod, haeddu, yngymwys, medrus, gymwys, ddilys, cymhwysedd
+organig: ffosil, hanfodol
+diwinyddiaeth: 
+arnofio: cwch, hofran, fflyd
+wrach: 
+stiwdio: label, gweithdy, astudiaeth
+siampên: 
+banner: flag, poster, tocyn
+ysgariad: wediysgaru
+bollt: mellt, ewinedd, Twist, sgriw
+gwythïen: nerf
+goddefol: cynulleidfa, anabl
+graean: cyfanred
+blaned: cynradd, names
+silff: rac, cwpwrdd
+gefnogwr: 
+trofannol: angerddol
+cam: ffotograffig, cam, cyfnod, adeiladu, cam
+mympwyol: digymell, dewisol, cytuniad, cyd-fynd, hebeireoli
+ecstasi: trance, brwdfrydedd, pleser, hapusrwydd
+mercwri: tymheredd
+hunanladdiad: 
+gohebydd: newyddiadurwr
+amddifadu: amddifadedd, dirymu, cauallan, tynnu, negyddu, rob
+balconi: teras, atig
+fforc: gwerin
+cyflogai: gweithiwr, labrwr, gweithio, ffactor, dibynnol, clerc, personél, llafur, llafur, staff
+cyflogwr: bos, landlord, perchennog
+lled: ynfras, cyflenwad, eang, lled
+flaming: 
+llidiog: flin, gyffrous, lidio'r, pryfocio, symbyliad, diflasu, ysgogiad, ysgogi, cymhelliant, cymhelliant
+clasurol: clasurol, gorauposibl
+mwnci: tsimpansî
+derbyniol: derbyn, derbyn, credadwy
+llofnod: 
+canwr: darllenydd
+uniongred: ceidwadol, confensiynol, traddodiadol
+meithrinfa: planhigfa
+mabwysiadu: cyflogi, mabwysiadu, derbyn, rhagdybiaeth, cymeradwyaeth, parti, derbynfa, derbyn, lap, cwantwm
+amharodrwydd: petruso, ddimyneihoffi
+mewnforio: cyflwyniad, incwm
+tortsh: 
+gramadeg: gramadegol
+blaendal: cronni
+trefedigaethol: mewnfudwr
+cwchhwylio: fferi, cwch
+dychryn: dychryn, dychryn, atal, larwm, dychryn, haunt
+ganlyniadol: canlyniad, bennod, pwysig, sylweddol, arwain, amlwg, ynsylweddol, arwyddocaol, sylweddol, ystyrlon, anuniongyrchol
+diflannu: argoll, diflannu, marw
+cromen: 
+trwch: 
+styfnig: bendant
+cyhyrau: 
+maint: maint, swmp, osgled, medrydd, maint, dwysedd
+rhwbio: 
+tost: byrbryd
+llygoden: llygodenfawr
+sillaf: ffurfdeip, wyddor
+niwtral: diryw, deg, seciwlar
+canfod: asesu, adnabod, cydnabod, nodi, canfod, ohyd, adfer, dodohydi
+ffynnu: ffyniant, ffynnu, ffyniant, em, drysor, blodyn
+gosod: grym, gorfodi, penderfynu
+dienw: 
+ffurfiolgofrestru: 
+llo: brysiwch
+llawlyfr: arwain, glasbrint, canllaw, llyfryn, brand, arweinyddiaeth, gwerslyfr, cyfarwyddyd, arweinydd, goruchwyliwr, dogfen, dogfennaeth, llawdriniaeth, gweithgynhyrchu
+ragweld: Disgwylir, darpar, disgwyl, disgwyliad, rhagweld, rhagfynegiad, rhagfynegi, rhagolwg, darpariaeth
+toddi: anweddu, dadmer, ymasiad, uno, hydawdd
+ymbarél: parasiwt, ffwng
+lesewch: esgid, cefnffyrdd
+mwynau: ïodin, maetholion, metel, manganîs
+cadoediad: cadoediad
+hwyaden: 
+sebon: 
+ddol: babi, tegan
+fila: tylwythteg, porthdy
+gwnïo: pwyth, gwnïo
+cysoni: cyfryngu, uno, uno, addasu, addasiad
+tegell: 
+cwningen: 
+arweinydd: ysgol, uwch-arolygydd, gyrrwr, arweinydd
+chwaraewr: perfformiwr
+pryfed: pla, mwydyn, bug
+bwyty: 
+radical: milwriaethus, eithafol, blaengar, chwyldroadol, eithafol, cyfan, drwygydol, cyfan, absoliwt, integreiddio
+preswylydd: preswylydd, frodorol, cartref, cynhenid, tenant, preswyl
+dragon: barcud
+clywedoltystiolaethol: 
+Linger: hir
+caead: clawr, cap, dec, falf
+maer: farchnad
+caledwedd: deunydd
+creadigol: 
+lleiafrifol: ychydig, degol
+ffos: ffos, cloddio
+gerddorfa: 
+cigmoch: 
+erlyniad: erlyn, achos, siwt, ymgyfreitha, myndardrywydd, hawliad, plaintiff
+anfantais: colled, amddifadedd, anffafriol, nam, handicap, anhawster
+ffabrig: brethyn, dillad, tywel, cynfas, meinwe, rhyddhad, strwythur
+cerddor: cyfansoddwr, cerddorol
+ynfeddyliol: ysbrydol, meddyliol, morâl, mana, goddrychol, seicolegol, gwybyddol, seiciatrig
+amhriodol: camgymryd, annerbyniol, ddiffygiol, anghydweddol, Disgwylir, anghyfreithlon, annigonol, amhriodol, annheg
+pensaer: 
+Mer: 
+lemon: 
+peswch: pesychu
+ffrwythlondeb: atgynhyrchu, bridio, organaurhywiol
+arhap: arhap, randomize, damweiniol, achlysurol, digymell, stochastic
+llwy: bwced
+dyddiadur: bobdydd, papurnewydd, cyfnodolyn, calendr
+balŵn: 
+casgliadoltystiolaethol: 
+cyhoeddwr: golygydd, cyhoeddi
+lludw: llwyd, llwyd
+expletive: rhegi
+adfywio: adfywiad
+dueddol: agorediniwed, sensitif, synhwyrol, emosiynol, atebol
+twnnel: isffordd
+pos: drysu, ddryslyd
+mecanwaith: gweithdrefn, arferol, systematig, peiriannau, cyfarpar, ymagwedd, polisi
+mathemateg: mathemateg, mathemategol, anfeidredd
+pylu: 
+cytbwys: cymhareb, cydberthynas, cyfran, cyson, cynaliadwy
+sublativeachos: 
+dip: plymio, gwreiddio, gollwng, dillad, niferyrachosion, llethr, inclein, graddiant, socian, dirywiad, cwymp, gogwydd
+uned: undod, endid, modiwl, big, unigol
+monopoli: exclusive
+gamblo: Gamble, gêm, gêm, clirio, betio
+llongdanfor: 
+bethbynnag: 
+daeargryn: ffit
+labordy: lab
+sylwadau: sylwadau, sylw, sylwebaeth, ateb
+cael: pasio, profiadol, derbyn
+hunanrheoli: 
+llysgenhadaeth: 
+cadeirydd: gadeirydd, lywydd
+dyfeisio: ddyfais
+declarativehwyliau: 
+maneg: 
+penlinio: 
+daearyddiaeth: 
+buddsoddiad: buddsoddi, menter
+cyfatebiaeth: cydraddoldeb, tebygrwydd, affinedd, carennydd, cymhareb
+hebog: eryr, darnia
+seicoleg: ffisiolegol, seicolegol
+sgrap: canslo, sbwriel, garbage, darn, fling, Hurl
+môr-leidr: haciwr
+rôl: rhannu, stoc, cyfranogwr, cyflwyniad, cymeriad, safiad
+dos: maint, diet, cyniferydd, dogn
+eog: 
+pwdin: pwdin
+magnetig: deniadol, fyhun
+pwmp: bom, gwactod
+ocsigen: 
+ymylol: ymyl, fin, ymylol, ymyl, ymylol, border, ffin
+tystysgrif: cadarnhad
+medal: 
+rhethreg: 
+gris: grisiau, gwadn, cam
+crafu: crafu, pori, troseddu
+Mewngofnodi: goresgyniad, log
+telesgop: microsgop
+mwclis: trechu, past, cadwyn
+sillafu: sillafu
+syrffio: 
+wisgi: 
+camel: 
+amatur: 
+oedolion: aeddfed, oed, oed
+bywgraffiad: trydan
+asyn: 
+persbectif: outlook
+pro: proffesiynol, cadarnhaol, ymaddasol
+misol: cylchgrawn
+ystodygwyliau: gadael, gwyliau, gorffwys
+cliciwch: clic, snap, guro
+hirgrwn: 
+elastig: rwber, hyblyg
+geiriadur: geiriadurol, geirfa, cyn
+partition: rhaniad, is-adran, torrilawr, torrilawr, cyfrif, compartment, adran, darn, cydran, cydrannau
+ham: clun
+enfys: 
+organeb: creadur, creu
+tafod: ffrind, tafod
+allfa: allanfa, soced, allbwn, ymadawiad, gafael, slot
+tanc: cronfaddŵr, cynhwysydd, TAW
+glöynbyw: 
+siart: diagram, graff, graffeg, graffeg, cynllun, catalog, catalog
+dauwely: dwbl, deuol, cwpl, pâr
+sarhaus: sarhad, warth, trosedd, troseddu, trosedd, llafar, sarhaus
+ynannibynnol: annibynnol, rhydd, arwahân, llac, arwahân
+gors: 
+hunllef: freuddwyd
+jam: jeli, cywasgu
+gwrandäwr: gwrando
+amgueddfa: 
+sefydlogrwydd: sefydlogi
+datgelu: cyhoeddi, datgelu, canfod, agored, dadwneud, cyhoeddi, darganfod, gwahaniaethu, ynamlwg
+ymosodol: tarfu, llanast, galwedigaeth, ymddygiadymosodol, sarhaus, awyrenfomio
+ffrithiant: gwrthdaro
+cyfranogiad: presenoldeb, cymrydrhan, cyfranogiad
+pier: llwybr
+prycop: Fisher
+tatws: 
+gwneuthurwr: manufacturer, cynhyrchydd, paratoi, gweithgynhyrchu, gweithgynhyrchu
+trachwant: newyn, archwaeth
+cynamserol: yngynnar
+lluoswch: taro, bridio, lluosi, dwbl
+ystadegau: ystadegol, ffigur, ystadegyn
+enwebiad: enwebu, penodiad, detholiad, ymgysylltu
+triliwn: 
+gadarnhaolhwyliau: 
+ceisiadau: app, prosesau, berthnasol, cais
+nominal: pori, penodedig, par
+anfodlonrwydd: 
+haint: heintio, heintio, pontio, trosglwyddo, heintus
+shrug: twitch
+pêl-droed: pêl-droed, cic, calsiwm
+arloeswr: mawr, avant-garde
+annormal: anarferol, anarferol, crackpot, anghyffredin, gorliwio, rhyfeddol, ddelfrydol, unigol
+hepgoriad: ddiofyn, gaffe, diffyg, esgeulustod, esgeulustod, dileu
+gwasgfa: gorlawn, gwthio, dylino'n, gostyngiad, byrdwn, pwysau, malwch, gafael, gafael
+canran: cant, ycant
+idiophone: 
+lifer: 
+tynnu'nôl: dychwelyd, atchweliad, encil, soced, dwynigof, casgliad, casgliad, allbwn, goblygiad, tynnu'nôl, cyfanswm
+seneddwr: 
+ant: 
+feichiog: mamau, beichiogi
+pobdydd: bobdydd
+gwaddod: dyodiad, gwaddod, cyflymder, brys, cyflymu
+newidyn: ynamrywio, newidynnau, byd-eang, ffônsymudol
+cyrliog: cwrl, Hurl, sgrolio, helics
+sylffwr: sylffwr, torri
+cyfandirol: cyfandir
+arddweud: cyfarwyddyd, gorchymyn
+llyffant: 
+gormodolachos: 
+falu: hanner, lled
+irrealishwyliau: 
+dando: dando, ytumewn, ofewn
+manteisio: defnyddio, amsugno, cyflawniad, archwilio, lladrad, amsugno
+daearegol: odanyddaear
+pasbort: 
+anfoesol: dieflig, pwdr
+bisged: cwci
+cydweithredu: cydweithredu, partneriaeth, integreiddio, cynorthwyo, cyfraniad
+efail: gwneud, llwyr, ffurfiant, creu, cyfansoddi, cynhyrchu, ffugio, ffont, ailadrodd
+atom: atomig, gronynnau, unigol
+cymhorthion: cymorth, rhyddhad
+fastidious: cain, blino
+pyramid: 
+anghyfreithlon: anghyfreithlon, nadydyntyn
+swildod: swil, cyfangiad
+liwt: gogwydd
+seryddiaeth: 
+ddrysfa: amwysedd
+ysgoloriaeth: nawdd, dyfarniad
+ffibr: ffibr, bwndel, rhagfarn
+criced: 
+colomen: 
+addasu: addasu, gêm, cydymffurfiaeth, addasu, addasu, Optimization, ymaddasol, llety
+anghymeradwyaeth: anghymeradwyo, disapproving, gwrthwynebiad, yngwrthwynebu, protest, cownter, gwrthwynebydd, gwrthwynebu, gwrthod, olrhain, gwrthod, diswyddo, feto, troseddu, tiwtor, cytuno, anghytuno
+gweithredydd: cludwr
+triongl: 
+trysorydd: ariannwr
+hydrogen: 
+argraffydd: 
+tagu: sialc
+cronig: resistant, difrifol, difrifol, ynfawr, eithafol, acíwt, dwysau
+ymdopi: yndodardraws, addasu, wynebu, wrthbwyso, goresgyn, myndi'rafaelâ, gyferbyniol, bargen, cyflawni
+penbleth: ddryslyd, ddryslyd
+symptom: arwydd, cynnig, arddangos, arddangosyn, cyflwyniad, ffenomen, diagnostig, syndrom, nodweddiadol
+beic: beic, beicio, cylch, taith
+peirianneg: techneg, dechnegol, mecaneg
+troellog: helics, sbin
+camera: siambr
+dawnsiwr: 
+mudo: ymfudo, mewnfudo
+tennis: 
+gaeth: dibynnol, dibyniaeth, ddibyniaeth, gaethweision
+gwehyddu: Braid, wau, gwau, meinwe, gwead
+asgwrncefn: 
+ffrio: berwi
+hwyluso: hyrwyddo, symbyliad, cyflymiad, maeth, rhwyddineb, symleiddio, gyfleuster, cyfleustodau, lleddfu
+stab: Sting, pierce, chrafangia, ymgais, ymgais
+cyfrinair: signal, ciw, slogan, fy, cod
+hemisffer: pigfain, tip
+ddigalon: siomedig, iseleuhysbryd, annogpoblibeidio, galar, pryfocio
+strategaeth: strategol, strategaethau, polisi
+patrôl: cyfnodol, petrol
+rhewlif: 
+hannerffordd: hanner, ynrhannol, lled
+memorandwm: cytuniad, contract, confensiwn, cyd-fynd, gwarant, cynrychiolaeth
+côn: 
+cymesuredd: 
+diffynnydd: eiriolwr, gwrthwynebu
+mosg: 
+gwacáu: allyriadau, ddiarddel
+gwyddbwyll: 
+cnewyllyn: niwclear, cell, hanfod, craidd, canolog, embryo, ffetws, cnewyllyn, sylwedd
+ceirios: 
+baglu: dillad
+lori: lori, lori, trac
+di-wifr: radio
+arwerthiant: gwerthu
+ridyll: dadfygio
+anwastad: ansefydlog, ansefydlogrwydd, ansicr, anesmwyth, aflonydd
+sugno: amsugno, socian
+anghyfeillgar: angharedig, gelyniaethus, anffafriol, niweidiol
+cyfrifiad: cyfrifiad
+flaenaueichtraed: traed, barod, barod
+ymlacio: ymlacio, hamddenol, ymlacio, hamdden, lleddfu
+parhad: yngyson, parhad, cyd
+swigen: 
+gitâr: acati
+rhagfarn: dewis, rhagfarn, gwyriad
+sgleiniog: llachar, a.m., gwych
+paunbynnag: unrhyw, Bethbynnag, sy'n, pwybynnag, ymhlith, odanydŵr
+gwau: gwau, wau, Braid
+esgyn: hike, hofran, gwddf, hedfan, enwog, awyren, awyrennau, awyren, cwmnihedfan
+rhagenwmarciwr: 
+sbeis: croen
+mechnïaeth: bond, sicrwydd, addewid, gwarant, noddwr, em, drysor
+hudo: temtio, cythruddo, lidio'r, hudo
+java: 
+rysáit: dull, ysgogiad, presgripsiwn, fformiwla, cyfarwyddyd, cytsain
+aradr: datrys, herwgipio
+gwter: draen
+comed: troseddwr
+arloesedd: darganfyddiad, ddyfais
+ganoloesol: canol
+addurnol: addurno, addurno, cosmetig
+plastig: 
+troednodyn: 
+llaeth: llaeth, cyffredin, rheolaidd
+golff: 
+sero: null, gwag
+zip: cywasgu
+sbardun: 
+sglodion: darn, darn, tafell, darn
+orthrymu: atal, repress, ostwng, gorlethu, gam-drin
+yawn: anweddu
+anghydraddoldeb: 
+mangeni: clai
+crochenwaith: pridd, clai
+gwraigtŷ: 
+afresymol: afresymol
+glöwr: mân
+burum: ensym, toes, crwst
+intercept: lesteirio, myndi'rafaelâ
+premiwm: bonws, gwobr, dyfarniad
+opsiwn: amgen, rhodder, ynail, ciwcymbr, dewis, detholiad, amrywiad, Mae'nwell, dewis, dewisol, amnewid, difyrru
+raddedig: arholiad, pasio
+methdaliad: methiant
+dyfrhau: 
+gyfalafol: cyfalafiaeth
+elastigedd: hyblygrwydd
+geometreg: geometrig
+siarc: 
+storio: cadw, gwarchod, siop, ganarbed
+gobeithio,: gobaith, disgwyliad, optimistiaeth
+realaeth: 
+ambiwlans: 
+waled: pwrs, portffolio
+grimace: myg, grin, sleifio
+gwyddonydd: gwyddonol, ysgolhaig, ymchwilydd, ymchwilydd, biolegydd
+perfedd: coluddyn
+equanimity: 
+realistig: gwirioneddol, ynwir, 'nsylweddol, mewngwirionedd, wirioneddol, diffuant, bragmatig, goiawn, penodol
+amherthnasol: gwrth-ddweud, amhriodol, anghydweddol, ddibwys
+ffa: cnau, pysgnau, grawnfwyd
+anffurfiol: ffurfiol, ynffurfiol
+wyres: ŵyr, wyres, nith, disgynnydd
+stêc: torri
+nitrogen: 
+sibrwd: sibrwd
+aeron: pluo'n, bae
+dadansoddi: dosrannu, dadansoddol, dadansoddi, dadansoddiad
+cyferbyniol: cyferbynnu, gyferbyniol, gwrth-ddweud, yngwrthwynebu, groes, gwahaniaethu, wahaniaethu, gwahaniaethu, arwahân, amrywiol
+tângwyllt: bet, betio, fflam
+pop: snap, bang
+dadwisgo: stribed, dillad
+ategu: atodol, arfogi, Hefyd, cyflenwol
+pegativeachos: 
+canser: 
+gwystlo: morgais, milwr, addewid
+gollwng: arllwysiad, colled, gollwng
+dwysedd: gorlawn, dwysedd
+cnoi: 
+cymhlethdod: cymhlethdod
+siaradus: cyfathrebol, ystwyth
+ddieuog: eithriedig, rhyddhau, gwared, lleddfu, teilyngdod
+polar: eithafol, polyn
+disgownt: eithriad, gwerthu, consesiwn, rhagdybiaeth
+tacsi: tacsi
+hierarchaeth: arweinyddiaeth, system, recursion
+ychwyrn: 
+naïf: llinol, plaen
+llywyddiaeth: arlywyddol
+prynwr: cwsmer
+galwyn: 
+mosgito: 
+yngresynu: galaru, condemnio, difaru
+gwyriad: gwyriad, afluniad, wrthbwyso, rhywbeth
+mosaic: amrywiol
+plwg: cysylltydd, taleb
+beichiogrwydd: beichiogi, beichiogi, cario, llwyth
+groser: 
+gomiwnyddol: 
+amaze: syndod, anhygoel, syfrdanol, camarwain, drysu, syfrdanu, drysu, rhyfeddu
+prosecutiveachos: 
+unben: 
+pwyslaismawr: cyflogaeth, pryder, poeni, pryder
+lloeren: probe
+bras: brasamcan, tua, approximative, bron, ymarferol, circa, ynfras
+ynddi-waith: cyflogaeth
+gweithredu: gweithredu, gorfodi, gorfodi, gweithredu, gweithredu
+bwlb: nionyn, falf
+cefnogwr: cynorthwy-ydd, goddef, braced
+Lotus: lili
+clorid: 
+bacteria: ffwng, bacteriol
+dellt: patrwm
+biolegol: creadur, bioleg
+feign: esgus, efelychu
+beit: 
+secretiad: secretu
+bale: asgell, pleidlais
+wrin: piss
+garlleg: 
+dosbarthcanol: 
+golchidillad: golchi
+nodweddu: gwahaniaethu, cymeriadu
+mefus: 
+llyfrnodiadau: gliniadur
+transcendental: 
+albwm: 
+pêlfas: 
+fôr-ladrad: 
+bwffe: 
+rhangymeriad: cyfranogwr, cystadleuydd
+garej: 
+diagnosis: diagnostig, diagnosis, gwybyddol, cydnabod
+extort: blacmel, pluo'n, cyfyngu, gorfodi
+ffosfforws: 
+strwythurol: strwythur, cyfluniad, config, sefydliadol
+glud: gwm
+thesis: traethawdhir
+grefftwr: mecanic, plymwr
+Banana: meinwe
+asen: gêr
+nicel: 
+Arhynobryd: bellach, bresennol, arhynobryd, dyddiauhyn, ciw
+bws: gadewch
+sensro: sensoriaeth, beirniad
+taflegryn: roced
+selsig: cipoeth
+trin: gweithredu, trin, gweithredol, tric, twyllo, trin, llawdriniaeth, twyll
+tomato: 
+atgyfnerthu: atgyfnerthu, dwysau, cadarnhau, cryf, 
+amgrwm: 
+potasiwm: 
+algebra: algebraidd
+gemwaith: 
+optegol: gweledol
+diweithdra: becws
+ddiarfogi: breichiau, arf, arfog
+solo: arwahân, rhyfeddol, arwahanol, pridd, eibeneihun
+porwr: sganiwr
+hanesyddolamser: 
+gallu: effeithlonrwydd, obosibl, capasiti, cyniferydd, gallu, cymhwysedd, llythrennedd
+sbectrwm: 
+sodiwm: 
+hysteria: ffit
+ymddiriedolwr: gweinyddwr, ffyddlon
+gwystl: morgais, addewid
+athletwr: mathemategol, athletaidd
+wrinkle: nam, ymrwymo
+cynnwys: ymgorffori, cynnwys, gyfystyr, adeiladu, cymrydrhan, ymgysylltu, cynnwys, cynhwysiant, cynnwys, cynnwys, cyflawni, cynnwys
+clip: stwffwl, braced, styffylwr
+blaenoriaeth: sylw, dewis, Mae'nwell
+treisio: dicter, ynfwyna, ymddygiadymosodol
+monitor: trac, goruchwylio, Gwylio, myndardrywydd
+etholaeth: pleidleisiwr, etholwyr, ysgafn
+diwylliannol: diwylliant
+rhyw: cyfrifiannu, rhyw, pidyn, rhywogaethau, rhywioldeb
+platinwm: 
+deuolrhif: 
+arbenigedd: galwedigaethol, nodweddiadol, nodwedd, arbennig, arbennig, arbenigedd, arbenigol, arwahân, exclusive, arbenigo
+ysgyfaint: 
+super: rhyfeddol, aruthrol, anhygoel, goruchwyliwr
+troli: cerbyd, cert, wagen
+madarch: ffwng, llwydni
+ynlleol: lleol
+ysgogi: cyffroi, cythruddo
+gasoline: petrol
+pwmpen: sboncen, mêr
+yrarennau: uchder, estyniad
+loot: lladrad, ysbeilio, ysglyfaeth, difetha, rob, haul
+arsenig: 
+Malwoden: helics
+orfychan: 
+sosialaidd: carennydd
+hidlo: 
+ehangu: ehangu, eang, ychwanegu, codi, gwella, ymestyn, ynfras, ehangu
+ddadleuol: ddadlau, gwrthddywediad, amwys, ddryslyd, amwysedd, gwrth-ddweud
+dennyn: prydles, strap
+joci: 
+niwmonia: 
+leoli'r: rhoi
+groesffordd: groesfan, cyffordd, trefnol
+undod: uno, rali, affinedd, undod, tebygrwydd, cyfnod
+colfach: manwl, dolen, echel
+hydredol: fertigol, hir, rhywogaethau
+difidend: dyraniad
+aflem: araf
+sglefrio: sgïo
+Crouch: plygu
+ddehonglwr: mynegai, esbonyddol, darn
+anabledd: handicap, anallu, nam, amherffaith, anabl, nam
+bencampwriaeth: pencampwr, enillydd, twrnamaint
+ffotograffydd: ffotograffig
+digidol: ffigur, rhifolyn, rhifiadol
+ast: 
+amrant: 
+subconscious: 
+ael: 
+tisian: 
+doniol: siriol, hwyl, falch, ddoniol, difyrru, ddoniol, difyr, doniol, chwerthinllyd, braf
+ffoaduriaid: mewnfudwr
+protein: wy-gwyn
+dymp: pentwr, pentwr, gaelgwared, sbwriel, garbage, Hurl
+esblygu: esblygiad, datblygu
+cyfog: 
+genyn: ynenetig, genetig
+freshman: 
+uno: ymasiad, uno, uno, cyfuno, atgyfnerthu, integreiddio, cydgyfeirio, cysylltu
+cymdeithaseg: 
+symudedd: ffônsymudol, cludadwy, symudiad, cynnig
+rhanbarthol: sir, ardal, parth, ward, sffêr, sector, ymylol, taleithiol
+cynnigifyny'rallt: 
+gwanhau: tenau, ysgafn
+ôl-weithredol: gorffennol, introspection
+gwrthdroad: gwrthdro, groes, cilyddol, gwrthdro, trychineb, dargludiad
+tv: teledu, ffilm
+ciwb: solid
+cystrawen: cystrawennol, pensiwn, cynllun
+cynhyrchiant: perfformiad, allbwn
+moron: 
+moleciwlaidd: moleciwl, rhifiadur, swbstrad, niwclear, atomig
+conglomerate: clic, grŵp, clwstwr
+cyfrifydd: archwilydd
+gwahaniaethu: gwahaniaethu, wahaniaethu, gwahaniaethu, gwahaniaethu, torrilawr, gwahaniaeth, cyferbynnu, amrywiadau, amrywiant
+argaeledd: mynediad, caffael, cael, argael, presenoldeb, effeithiolrwydd
+orgy: 
+toddydd: hydoddi
+ffosffad: 
+primer: abwyd, gydnabod, cyflwyniad, yngyntaf
+coma: coma, parti
+rhagosodiad: 
+cynnigilawryrhiw: 
+rhoddwr: cyflwynydd
+seicolegydd: 
+clorin: gafr
+bysellfwrdd: 
+elitaidd: uwchraddol
+parenthesis: braced
+rygbi: 
+wlser: ddolurus, clwyf, trawma, berwi
+ffurfdroëdig: 
+cnoi: 
+erthyliad: camesgoriad
+siwmper: siaced
+esblygiadol: datblygiadol, esblygiad, datblygiad, dilyniant
+nodiant: arwydd, symbol, Nodyn
+bownsio: ffyniant, neidio
+dyrannu: dyrannu, adran, is-adran, rhaniad
+cache: llechu
+antimoni: 
+superessiveachos: 
+tiwmor: tiwmor, swmp
+alffa: 
+navel: bol, polyn
+imiwnedd: anadlu, resistant
+talfyrru: terfyn, cyfyngu, cyfyngu, crynhoi, compact
+swyno: dal, hudo, hela, denu
+hosan: 
+ffilm: ffilm, sinema, rhuban, tâp, streipen
+cosmos: bydysawd
+llygru: llygredd, heintio
+heidiol: 
+alwminiwm: alwminiwm
+osgiliad: amrywiad, dirgryniad
+wyddor: wyddor
+horoscope: 
+tangiad: 
+dolffin: 
+llofrudd: 
+cyseiniant: dirgryniad
+dangosydd: osgo, mynegai, meiniprawf, mynegai-bys, medrydd
+deuocsid: 
+biwrocratiaeth: fiwrocrataidd
+ystumio: camarwain, scramble, dirywio, ffugio, gogwydd, afluniad
+galaeth: names
+clinigol: 
+radiwm: radio
+oergell: oergell
+harmonig: cerddorol, cydymffurfiaeth
+archeolegol: archaeoleg, archaeoleg, ffosil
+fanyleb: norm, safoni, manylion
+rhyngosodiad: 
+taflen: llyfryn, bwletin, taflen, taflen
+anghyflawnder: amherffaith
+anthropoleg: 
+blasus: blasus
+transitive: esgus
+cower: 
+efelychiad: efelychu, bathodyn
+fagina: bae, cell
+ion: 
+twristiaeth: twristiaeth, teithio, picnic
+trigonometreg: 
+herwgipio: herwgipio, dargludiad, snatch
+gorgyffwrdd: rhyngweithio, rhyngweithiol
+darganfyddwr: 
+oust: dadleoli, ddiarddel, ddiarddel, alltudio, gaelgwared
+tringwallt: 
+llêngwerin: gwenith, gwerin
+capilari: 
+cenedlaetholdeb: cenedligrwydd
+pen-ôl: clun
+sublimate: pur, mireinio
+byffer: 
+rhwystredigaeth: anobaith, siom, ddryslyd, canslo, trechu, siomedig, siomi, siomedig
+cobalt: 
+tynnu: tynnu
+cynnigfyny'rafon: 
+cyfesurynnau: gordio, cydlynu, cydlynu
+anws: 
+diswyddo: digonedd, gweddilliol, drosben, diswyddo, diswyddo, eithriad, gwarged
+'nfideo: 
+boicot: sir, diarddel, esgeulustod
+cwis: ymgais, arholiad, holiadur
+gerila: 
+magnesiwm: 
+radar: 
+ansoddol: ansawdd, nodweddiadol
+dibynadwyedd: hygrededd
+petryal: 
+cyffredinoli: cyffredinoli, adeiladu, creu, cyfansoddi
+anymore: bellach, eto
+cyrffyw: 
+llunio: adeiladu, adeiladu, adeiladol, geiriad, creu, ffurfiant, llunio, sefydliad
+ailymgnawdoliad: ailenedigaeth
+tanio: 
+wraniwm: 
+trethdalwr: treth
+integredig: annatod
+Mynegwydbarngan: golygfa, barn, sylw
+gama: 
+gweinydd: 
+cynniglawryrafon: 
+cyfernod: gradd, ffactor, modwlws
+bismwth: 
+cerdynpost: swydd, ôl-raddedig
+digress: encil, gadael
+morffolegol: genetig, morffoleg
+gwerthuso: asesu, asesiad, gwerthuso, ymchwiliad, ymchwilio, ymchwiliad, probe, par
+jîns: 
+Cronfaddata: 
+cyfrifiannell: cyfrifiadura
+buddsoddwr: 
+pelydr-x: 
+agenda: rhaglen, rhaglen, cwricwlwm
+fisa: 
+seilwaith: sylfaenol, sylfaenol, sylfaenol
+synhwyrydd: 
+sbleis: affix, diwygio, atodi, cysylltu
+bromin: 
+silicon: pi
+faglu: 
+pastel: golau
+sw: 
+clinig: 
+ioga: swm
+sioplyfrau: cwpwrddllyfrau, siop
+manwerthwr: ddeliwr, gwerthwr, siop, gerllaw
+behead: amserol
+yeah: ie, ya, diffuant
+jazz: 
+twngsten: 
+terfysgol: milwriaethus, arswyd, eithafol
+cysyniadol: ffansi, syniad, cysyniad, rhagdybiaeth, paradeim, beichiogi, drafft
+Cartesaidd: 
+driblo: llysnafedd
+alimoni: 
+rhaglennydd: app
+mewnbwn: 
+colur: colur, cosmetig, tric, wneudiawn
+brechlyn: sylwebaeth, sylw, pigiad
+wirebol: 
+heroin: 
+ffolder: 
+catod: 
+ffliw: twymyn, dylanwad
+ideoleg: meddwl
+parcio: 
+ciplun: 
+disgynneb: siom
+seleniwm: 
+cortecs: rhisgl, cragen, croen
+cywerthedd: cydraddoldeb
+vertex: 
+maesawyr: 
+trychu: torriardraws
+imposter: 
+cromiwm: 
+litr: litr
+dangosfwrdd: panel, dash
+hormon: 
+dyllu'r: pierce
+animism: 
+polygon: ongl
+ffeministaidd: 
+cyfun: inclein, cysylltu, llywio
+ewro: 
+algorithm: 
+laser: 
+drugstore: 
+milimedr: milimedr
+flex: plygu, crwm, hyblyg, ffafriol, cebl
+anod: 
+naws: cysgod
+snuggle: gofleidio
+rhanamser: 
+sensitifrwydd: 
+prifgyfrifiadur: 
+arddangoswr: ymddangosiad, arddangos, perfformiad, arddangosiad, cyflwyniad
+heliwm: 
+dwyieithog: 
+gerund: 
+plasma: 
+cromosom: 
+cyfanrif: digid, rhifolyn
+cilometr: cilometr
+ffacs: 
+geneteg: genetig, ynenetig
+freckle: 
+brocoli: 
+permutation: fformat, arae, cynllun, apposition
+sbam: 
+fector: cludwr
+dacteg: dyfais, ymagwedd, techneg, methodoleg, nôl
+iawn: adennill, yngywir, Caewch, ddilys, iawn
+fitamin: 
+cadmiwm: 
+graffigol: graffeg, graffeg
+âllaw: eihun
+titaniwm: 
+afradlon: Brag
+hofrennydd: 
+tellurium: scandiwm, Lanthanwm:
+dyddiadcau: dymor
+alinio: cyson, arae
+analog: 
+centimetr: centimetr
+molybdenwm: 
+lithiwm: 
+amlgyfrwng: 
+calorïau: 
+robot: 
+gwaithCartref: cyfoedion
+logarithm: 
+instal: mount, gorsedda, synthesis
+glyph: rhyddhad
+ecoleg: ecolegol, amgylcheddol
+sophisticate: difetha
+templed: llwydni
+Ewclidaidd: 
+cilogram: 
+gorfwyta: 
+rhannydd: 
+radwedd: 
+eavesdrop: 
+haircut: 
+iridium: 
+hiliaeth: hiliol
+lledband: bandeang
+optimaidd: top, gorauposibl, ffafriol, addas, addasu, addasu, gydnaws, ymaddasol, priodol, gywir, synhwyrol
+hypotenws: chord, gogwydd
+nben-desg: 
+pencadlys: pencadlys, sedd
+colli'ch: embaras, colli
+Ceriwm: 
+partitiveachos: 
+casét: tâp
+archfarchnad: mall
+grymewyllys: wirfodd, bydd
+dimensiwn: maint, siâp, dimensiwn, gofodol
+offline: 
+amgryptio: cryptography, amgryptio, codio
+Cydamseru: cydamseru, integreiddio, cyfoes
+seminar: 
+semantig: golygu, connotation, pwnc, gwrthrych, deunydd, sylwedd, synnwyr, ystyrlon
+disgo: 
+neon: 
+goiawnamser: 
+osmiwm: 
+fforddofyw: bywyd, oes, goroesi, byw, gyrfa
+firewall: 
+cosin: cyfrifiad, cyfrifiant
+artifact: 
+plwtoniwm: 
+gweithfan: 
+Ytriwm: 
+cynyddol: 
+enwdefnyddiwr: 
+asgelldde: 
+argon: 
+cymdeithasu: cyfathrebu, rhyngweithio
+globaleiddio: 
+secant: 
+tonfedd: don
+amgodio: cod
+ailgylchu: 
+asymptote: 
+dadgodio: Bodloni, datrys
+Ail-ddechrau: reboot, gweithredol
+hepatitis: 
+proton: 
+ddisgen: disg
+milligram: 
+picsel: 
+tantalum: 
+hydoddyn: 
+hil-laddiad: 
+gallium: 
+popifyny: 
+sirconiwm: 
+aflinol: 
+plaleiddiaid: 
+polynomial: 
+beryliwm: 
+neuron: 
+predicative: bendant
+llwybrydd: 
+ffactoraidd: cyfadran
+teclyn: atodiad
+niwtronau: 
+niobium: 
+germaniwm: 
+metalloid: nadydyntynmetel
+prolativeachos: 
+bioamrywiaeth: 
+industrialize: ddiwydiannu, diwydiant
+ffonreoli: 
+gwrthfiotig: 
+actiniwm: 
+gofodwr: gofod
+decompress: ehangu, gwella
+allosod: 
+allfydol: estron
+wythawd: 
+agoredffynhonnell: 
+marathon: 
+plwgyn: 
+topoleg: 
+gigabeit: 
+ionize: 
+siunedau: 
+gwersylla: gwersyll
+cyfyngedigferf: 
+crypton: 
+gnomichwyliau: 
+sifftallweddol: 
+sgwariau: sgwâr
+gwerthwr: ddeliwr, gwerthwr, clerc
+rheniwm: 
+FfônSymudol: FfônSymudol, FfônSymudol, cludadwy, gliniadur, cell
+i'rochr: neilltu
+foddolachos: 
+sothachbost: 
+railcar: 
+clipcelf: 
+nodtudalen: 
+Haffniwm: 
+cartrefdudalen: 
+lativeachos: 
+nfed-gwraidd: 
+siartllif: 
+canolllais: 
+hen-oed: henoed
+talgrynnu: crwn
+Rhodiwmatom: terbiwmatom, Thwliwm:atom, thoriwmatom, fflworinatom, rwbidiwmatom, thaliwmatom, fanadiwmatom, poloniwmatom, strontiwmatom, rutheniumatom
+drwg-tymer: garw
+obliqueachos: 
+clafachos: 
+cynhodiernal: 
+moel: moel, amrwd
+nodsbardun: 
+praseodymiwm: 
+barlysu: 
+cwyno: gwyn
+iachos: ynachos, arhap, oachos
+ymbelydredd: glow, allyriadau
+indium: 
+actorrôl: 
+ewfforia: brwdfrydedd, zeal, boddhad, caniatâd, pleser, llawenydd, hapusrwydd, hyfrydwch
+capiaucloi: 
+gofodgwyn: 
+ynddramatig: dramatig
+chauvinist: 
+gwefan: gwefan, safle
+planhigiontŷ: 
+sifilarhawliau: 
+protactiniwm: 
+tafluniol: 
+gwerthdeuaidd: 
+gôl-geidwad: 
+manwerthusiop: 
+statwsbar: 
+meicroffon: micro
+dynol-gorff: 
+rhegi-mewn: 
+bost-cludwr: 
+ganologachos: 
+trojanceffyl: 
+sgroliobar: 
+triphlyg-bwynt: 
+darllenynunig: 
+wisecrack: jôc, llafar
+byrhoedledd: ansefydlog, ansefydlogrwydd
+bardd: 
+ffonolegol: 
+hypnotize: 
+treialrhif: 
+derbynnydd: derbynnydd
+berf-ddodiad: 
+nadydyntyndynol: 
+llif-gyfredol: 
+hynny-aoedd: bod, sy'n, pwy, ymaeei
+cymal-gynffon: 
+wynebiwaered: gwrthdro, cefn
+erenghraifft: 
+ipcyfeiriad: 
+yn-iaith: 
+ynunigol: ynbersonol, unigol, personol, arwahân, arwahân, arwahân, ynwahanol, ynwahanol, gofodol
+prodedfryd: proymadrodd
+epidemioleg: mecaneg, deinameg
+ddeddfu: deddfwriaeth, deddfwriaethol, trefnu, trefnu
+streipiog: streipen, cynllun, cynllunydd, glasbrint
+strikebreaker: 
+astatin: 
+overcharge: 
+arall-os: 
+onglau: ongl, pigfain
+gwisgo-allan: 
+dyfyniadffurflen: 
+ergativeachos: 
+maestref: pentrefan, gymudwyr, cefngwlad
+cyffredinrhyw: 
+uwchgyfrifiadur: 
+uniongyrcholgwrthrych: anuniongyrcholgwrthrych
+modurwr: gyrrwr
+ynystadegol: ystadegol, rhifiadol
+Lwtetiwm: 
+rhesymoledd: ymwybyddiaeth, rhesymeg
+goddefolllais: 
+causative: 
+caesiwm: 
+chwiliopeiriant: 
+baroffer: 
+ynawtomatig: awtomatig
+Califforniwm: 
+mendelevium: 
+asiantsbardun: 
+lliw-ddall: 
+comic-stribed: 
+terfynell: terfynell
+dotmatrics: 
+Samarium: 
+-Cylchedbyr: 
+llunio: casglu
+agentiveachos: 
+damwain: damwain, anafedig, damweiniol, digwyddiad, llongddrylliad
+fractals: 
+multalrhif: 
+i-ben: argau, cau, cau, cauallan
+eang: helaeth, eang, cynhwysfawr, eang, ynfras, digon, eang, eang, mawr, ongl
+adessiveachos: 
+cydweithredol: cydweithiwr, cydweithredu, gyd, cysylltiol
+euler's-rif: 
+laserargraffydd: 
+transrhifolyn: 
+blog: blogger
+combinatorial: Cyfuniadeg
+pythagoras: 
+abessiveachos: 
+locativeachos: 
+pwllNofio: pwll, basn
+Seiberdrosedd: peryglus, niweidiol
+ôl-swyddfa: swydd, bost
+malware: 
+ataliad: atal, cwrbyn, lesteirio, gwahardd, feto, atal, gwahardd
+spyware: 
+cofnodi: cofnod, cynhwysiant, gofrestru, cofrestru, mynediad, log
+cyfwelydd: cyfweliad
+clipbwrdd: 
+xenon: 
+taenlen: 
+nfedpŵer: 
+ffilm-theatr: sinema
+mewnflwch: 
+y-cant: ycant, cant
+aerosol: chwistrellu
+dosbarthwr: 
+dynamical: deinameg, mecaneg, deinamig
+un-eiliad: 
+subtend: wrthwraidd
+brownian: 
+serenrhyw: 
+galaethrhyw: 
+cardfwrdd: cerdyn, carton
+Computability: 
+Eigilydd: arall, eichgilydd, arall
+heddluswyddog: 
+cynraddgwrthrych: 
+animeiddiorhyw: 
+evitativeachos: 
+cerbydrhyw: 
+datamwyngloddio: 
+medduachos: 
+Americiwm: 
+mwynaurhyw: 
+parthenw: 
+dychmygol-uned: 
+neptwniwm: 
+llafarnoun: 
+mathemategwyr: 
+meddiannolachos: meddiannolachos
+modelu: 
+terfynolgronynnau: 
+fflachgyriant: 
+disghyblygdisg: 
+diffoddwrtân: 
+ynfeirniadol-bwynt: 
+empathetigllawenydd: 
+gairprosesydd: 
+PrifWeinidog: 
+rhithwircof: 
+adferfolachos: 
+ethidium: 
+siorts: 
+ffwl-ogwmpas: 
+hafaliadau: hafaliad
+subessiveachos: 
+logallan: 
+spammer: 
+antessiveachos: 
+crosswalk: llwybr, rhodfa
+defnyddiwrrhyngwyneb: 
+ghostwriter: 
+cyfrifiadur-firws: 
+hwylusydd: cyflwynydd, safonwr
+adsefydlu: 
+ategolferf: 
+uniongyrchol: uniongyrchol
+motherboard: p'una
+clafsbardun: 
+Rhedeg: 
+arycydnoun: 
+Koran: papurnewydd
+busnesperson: personbusnes
+transitiveferf: 
+cloudcyfrifiadura: 
+rhithwirpeiriant: 
+absolutiveachos: 
+rhithwirrealiti: 
+gorffennolperfective: 
+amhersonolferf: 
+crastinalamser: 
+atblygolllais: 
+haniaetholrhyw: 
+gwahanoldigwyddiad: 
+exocentricachos: 
+ailiaith: 
+artistigrhyw: 
+hunanhyder: 
+ymchwilrhyw: 
+anuniongyrchollleferydd: 
+ardalrhyw: 
+ffiseg: corfforol, yngorfforol
+bydysawdrhyw: 
+cau: cau, argau, cau, off, yndodiben, rhoi'rgorauiddi, arosfa
+raddeithafachos: 
+paru: gêm, bleidlais, pleidlais, siwt, briodol, cyd-fynd, cyfateb, addas, addas, cyd-daro, bost, cyfatebol, gydnaws
+cyfrifiadurrhaglen: 
+gwrthgyrff: 
+llawnamser: 
+propositivehwyliau: 
+cysylltiadolachos: 
+difywydrhyw: 
+testungolygydd: 
+planedolrhyw: 
+gweithredusystem: 
+gramadegol-achos: 
+trydanarhynobryd: 
+cilyddolllais: 
+flatware: 
+craiddbenefactive: 
+wellu: 
+radian: 
+applicativellais: 
+ffonem: 
+olynolcymal: 
+llyfrnodiadaucyfrifiadur: 
+nwy-bedal: 
+antipassivellais: 
+werin-cerddoriaeth: 
+terabeit: 
+cymdeithasolrhwydweithio: 
+negodi: trafod, sgwrs, sgwrs, sgwrsio, rhyngweithio, rhyngweithio, ymgynghori, cyfathrebu, deialog
+noncommittal: fflat, aneglur, amwys
+morpheme: 
+linker: cyswllt, cyd
+neodymiwm: 
+ymbelydredd-salwch: 
+ynbresennolrhangymeriad: 
+necessitativehwyliau: 
+dirfodolcymal: 
+gormodolhyd: 
+goddefolrhangymeriad: 
+gramadegol-gwrthrych: 
+continuativeagwedd: 
+singulativerhif: 
+luminousdwysedd: 
+raddeithafradd: 
+glas-jean: 
+dewisolquantifier: 
+supercritical-hylif: 
+epentheticmorpheme: 
+postpositionalachos: 
+negydduquantifier: 
+cysylltiolgronynnau: 
+nerium: 
+cyffredinolquantifier: 
+lluAwyr: 
+allocutioncytundeb: 
+cyfrifiadurrhaglennu: 
+bendantquantifier: 
+frequentativeagwedd: 
+dosbartholrhagenw: 
+amgenquantifier: 
+gwe-rwydo: 
+sgalar: 
+gwrthffeithiolamodol: 

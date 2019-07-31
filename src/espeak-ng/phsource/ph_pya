@@ -1,0 +1,10 @@
+
+phoneme 7   //  tone: mid-high level
+  stress
+  Tone(40, 40, envelope/p_level, NULL)
+endphoneme
+
+phoneme 0   //  tone: mid-low level
+  stress
+  Tone(20, 20, envelope/p_level, NULL)
+endphoneme

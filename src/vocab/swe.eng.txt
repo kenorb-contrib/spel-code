@@ -1,0 +1,145 @@
+su li be ob li vara ya
+su li ob ob li ob ya
+su li su ob li su ya
+su li me ob li mig ya
+su li what ob li vad ya
+su li and ob li och ya
+su li it ob li det ya
+su li if ob li om ya
+su li this ob li detta ya
+su li you ob li ni ya
+su li ya ob li ya ya
+su li of ob li av ya
+su li that ob li det-där ya
+su li did ob li åtgärd ya
+su li we ob li vi ya
+su li or ob li eller ya
+su li num ob li num ya
+su li they ob li de ya
+su li now ob li now ya
+su li tha ob li att ya
+su li to ob li till ya
+su li thee ob li du ya
+su li li ob li rally ya
+su li wil ob li wil ya
+su li about ob li om ya
+su li eh? ob li eh? ya
+su li memory ob li minne ya
+su li with ob li med ya
+su li maybe ob li kanske ya
+su li conditionally ob li villkor ya
+su li aside ob li åt-sidan ya
+su li yand ob li yand ya
+su li the ob li den ya
+su li ha ob li HA ya
+su li near ob li i-närheten-av ya
+su li plural ob li Plural ya
+su li yaor ob li yaor ya
+su li for ob li för ya
+su li jolly ob li jolly ya
+su li null ob li void ya
+su li from ob li från ya
+su li for-example ob li för-exempel ya
+su li singular ob li Singular ya
+su li hello ob li Hallå ya
+su li clause-tail ob li Klausul-tail ya
+su li then ob li sedan ya
+su li ord ob li Ord ya
+su copy ob li kopia ya
+su wait ob li vänta ya
+su past ob li över ya
+su mom ob li Mom ya
+su less ob li mindre ya
+su word ob li ord ya
+su mother ob li Mor ya
+su think ob li tror ya
+su size ob li storlek ya
+su compare ob li jämför ya
+su go ob li gå ya
+su begin ob li börja ya
+su able ob li kapabel ya
+su head ob li huvud ya
+su know ob li vet ya
+su cause ob li Root-Cause ya
+su get ob li motta ya
+su all ob li allt ya
+su trade ob li Handel ya
+su buy ob li köpa ya
+su small ob li liten ya
+su negate ob li negera ya
+su say ob li säga ya
+su point ob li punkt ya
+su act ob li handling ya
+su good ob li bra ya
+su body ob li kropp ya
+su dad ob li Pappa ya
+su more ob li mer ya
+su place ob li plats ya
+su father ob li Far ya
+su many ob li många ya
+su meet ob li möts ya
+su joy ob li glädje ya
+su child ob li barn ya
+su sell ob li sälja ya
+su future ob li framtid ya
+su time ob li tid ya
+su love ob li älskar ya
+su tail ob li svans ya
+su speak ob li tala ya
+su big ob li stor ya
+su number ob li nummer ya
+su three ob li tre ya
+su self ob li själv ya
+su pay ob li betala ya
+su present ob li närvarande ya
+su inside ob li inom ya
+su help ob li hjälpa ya
+su topic ob li Ämne ya
+su one ob li en ya
+su put ob li uppsättning ya
+su thank ob li tack ya
+su four ob li fyra ya
+su two ob li två ya
+su glyph ob li Glyph ya
+su few ob li få ya
+su shout ob li Cry ya
+su add ob li lägga-till ya
+su subtract ob li subtrahera ya
+su rule ob li Regel ya
+su language ob li språk ya
+su write ob li skriva ya
+su laugh ob li skratt ya
+su clause ob li klausul ya
+su pronoun ob li pronomen ya
+su phrase ob li fras ya
+su grammatical-object ob li grammatisk-objekt ya
+su nearby ob li in-the-close ya
+su space ob li plats ya
+su question ob li Fråga ya
+su example ob li exempel ya
+su translation-dictionary ob li translation-dictionary ya
+su quote ob li Erbjudande ya
+su shop ob li Affärs ya
+su translation ob li översätta ya
+su ordinal ob li ordningstal ya
+su phrase ob li fras ya
+su send ob li skicka ya
+su person ob li person ya
+su emotion ob li känslor ya
+su world ob li värld ya
+su grammar ob li grammatik ya
+su thing ob li sak ya
+su grammatical-case ob li grammatisk-fallet ya
+su mood ob li humör ya
+su ask ob li fråga ya
+su bread ob li Bröd ya
+su sell ob li sälja ya
+su enjoy ob li njuta ya
+su verb ob li verb ya
+su noun ob li subst ya
+su feel ob li känna ya
+su sentence ob li meningen ya
+su grammatical-subject ob li grammatisk-ämne ya
+su tense ob li grammatisk-spänd ya
+su activity ob li aktivitet ya
+su dictionary ob li lexikon ya

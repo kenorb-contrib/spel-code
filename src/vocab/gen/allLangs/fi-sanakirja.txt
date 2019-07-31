@@ -1,0 +1,2515 @@
+infinitiivi: ääretön, äärettömyys, alkuperä, lähde
+nominatiivitapaus: prepositio-tapaus
+akkusatiivitapaus: 
+aihetapaus: aihetapaus
+vanhempi: vanhempien, merkittävä, vanhempi, pinaatti
+isä: isä
+äiti: äiti, äiti, äidin
+Hei: bye, Moi, Hei
+kantaisä: edeltäjä, isoisä
+isovanhempi: isoisä, isoäiti
+nälkäinen: nälkä, nähdänälkää
+genetiivitapaus: omistushaluinentapaus
+adjektiivi: 
+ja: summa, mukaan, 
+minulle: itse, minä, minun, me, nuolla
+sinä: niitä, sinua, sinä, ya
+meille: me, meidän, meidän
+se: hän, että, hän, tämä, nämä, joka
+määränpäätapaus: tavoitetapaus
+datiivitapaus: 
+REALISmieliala: 
+deonticmieliala: 
+ehdollinenmieliala: konjunktiivimieliala, hypoteettinenmieliala
+episteemisetmieliala: 
+instrumentaalinentapaus: 
+sisustakonteksti: 
+henkilökonteksti: 
+riippuvainenlauseke: 
+perfektiivinennäkökohta: 
+ohijännittynyt: 
+maskuliini-sukupuoli: neutrisukupuoli
+komitatiivitapaus: 
+esittääjännittynyt: 
+benefactivetapaus: 
+essiivitapaus: 
+ei: ei, ei, tuskin, kykenemätön, piki, eiikinä, eikämyöskään, eimitään, pikemminkin, eikä, eipysty, neiti
+sen: niiden, hänen, hänen, häntä, ne, hänen, of, jonka, itsenäinen
+pinta-konteksti: 
+adpositionaltapaus: 
+sijaintitapaus: 
+tilakonteksti: 
+tapatapaus: 
+kysyvämieliala: 
+jatai: 
+XOR-: 
+lähdetapaus: 
+ablatiivitapaus: 
+demonstratiivinen: vankka, merkittävä, betoni, vakuuttava, direktiivi, dramaattinen, ilmaista, näennäinen, artikuloitu
+mutta: vielä, kuitenkin, vaikka, vaikka, siitähuolimatta
+kaikki: jokainen, jokainen, kaikkiyhteensä, koko, yleinen, koko, kaikki, kaikki, yhäuseammin, yhteensä
+naisellinensukupuoli: 
+ne: niitä, hän, ne, niiden, heidän, sukunimi, nämä, sama, oikeudenmukainen, samanlainen, että
+monikkomäärä: 
+yksi: yksittäinen, , osaksi, yksin, , vuoro, kuitenkin
+Kuka: joku, kukatahansa, joka, jonka, kuten, jonka, mitätahansa, kukaan, että, niiden, ne, laulaa, ya
+tulevaisuusjännittynyt: 
+sosiaalinenkonteksti: 
+milloin: ainakun, koskaan
+imperfectivenäkökohta: 
+siellä: olla, torstai
+lisää: yli, suurinosa, edelleen, ulkopuolella, ylöspäin, ylöspäin, multi, kuin, pikemminkin, myös, lisäksi, plus, edelleen, vielä, muu, useat, moninkertainen, muut, muuten, toinen, levätä
+ulos: ulkopuolella, ulompi, ulkoinen, ulko-, ulkona, pois, ulkopuolella, ulkopuolella, ylös, päälle, päälle, eteenpäin, lopettaa, poistua
+suhteellinentapaus: suhteellinentapaus
+illatiivitapaus: 
+tehdä: tehdä, suorittaa, sitoutuvat, tehdä, aktivoida, teki, sitoutua, laittaa, mitä, suhtautua, mitätahansa, onko, aivansama, työskentely
+direktiivimieliala: ohjeellinenmieliala
+kysymyssana: 
+copula: liitin, side, nippu, linkki
+henkilö: mies, ihmiset, yksittäinen, joku, joku, kaveri, ihmisen, kasvot, persoonallisuus, häntä, niitä, henkilökohtaisesti, jalankulkija, stipendiaatti
+uros-: maskuliini-, mainita, herrasmies, mies, lempeä, naaras-
+voisi: voida, voima, mahdollisesti, voiolla, mahdollisuus, todennäköisyys, Toukokuu, mahdollinen, pystyvät
+määrä: määrä, summa, kuvio, numeerinen, numero, määrä, numerot
+erittäin: suuresti, erittäin, kauhean, paljon, liian, kamalan, laajalti, erittäin, ihanoikeesti, huonosti, valtava, huomattavasti, erä, multi, valtavasti, suurinosa, melko, melko, pitkälle, melko, kunnossa, Okei, selvä, äärimmäinen, kipeä, runsas, epätavallisen, uskomattoman, erinomainen, heikko, voimakkaasti, jyrkästi
+aika: silläaikaa, hetki, aikana, ajankohtainen, kesto, ajallinen, jännittynyt, aikataulu, aika, sää-, toistuva, tunnin, näky
+aikakonteksti: 
+ajallinentapaus: 
+noin: suhteen, koskevat, lähes, noin, of, mukaan, kuin, noin, varten, päällä, melkein, suunnilleen, asia, kunnioittaminen, luku, lääke
+kirjaimellinen: kirjaimellisesti, todellinen, alkuperäinen, absoluuttinen, sanallinen, kirjallisuuden-, tarkka, tarkka, tarkka
+vain: vain, vain, yksinkertaisesti, kohta, pelkkä, puhtaasti, rajoitettu, Tuskin, lahti, yksin, paljas
+vähän: pieni, pienenpieni, hienoinen, hieman, bitti, vähäinen, pikkumainen, pikkuriikkinen, kannettava, harvat, kevyesti, lyhyt
+sitten: uudelleen, ya, koska, sitten, sedan, myöhemmin, jälkeenpäin, kuitenkin, jälkeenpäin, myöhempi, myöhemmin, jälkeen
+hortativemieliala: 
+takautuvanäkökohta: 
+suuri: suuri, iso, jalo, vakava, valtava, äänekäs, valtava, jättiläinen, valtava, hallitseva, hyvä, hieno, huomattava, valtava, merkittävä, ihana, erinomainen, optimaalinen, suuri, merkittävä, täydellinen, huomattava, loistava, runko, makro
+tahallisuuttamieliala: 
+ennen: ennen, pre, sitten, edeltää, asti, asti, etuosa, ennen, vastaan, vastaan, eteenpäin, edetä, kauemmas, eteenpäin, edellinen, aiemmin
+täytyy: pitäisi, välttämättä, tarpeeton, täytyy, tarve, on, pitäisi, haluta, pitäisi
+kaksi: kaksois-, molemmat, erilleen, pari
+nähdä: Katso, näkymä, näky, ilmoitus, havaita, katsella, tuijottaa, katso, tavata
+tietää: varmistaa, tietoinen, opettaa, lippu, näkyvä, ymmärtää
+alas: alaspäin, alaspäin, alle, alla, alla, alla, Vähemmän, pohja, huonompi, alakerrassa
+ensimmäinen: debyytti, alustava, koska, lähtien, ensiksi, ensin
+oma: itse, sinäitse, omistaa, henkilökohtaisesti, hänen, itse, itse, henkilökohtainen
+riistäähallinta: 
+luovuttamatonhallinta: 
+vanha: käytetty, muinainen, ikäinen, vanhukset, entinen, entinen, ikä, ennen, edeltäjä
+neuvottelevamieliala: 
+päivä: päivittäin, päästää, työskentely, asia, Job
+missä: minnetahansa, jonkamukaan, paikka
+tulla: että, asti, tavoittaa, saapuminen, saapua, tulla, tapahtua
+tapa: menetelmä, metodologia, kävelytie, välineet, polku, reitti, alue, polku, polku, tapa, tie, katu, sokeri, seurata, lentorata, tapa, miten, käsitelläasiaa, tila, uskontunnustus
+tehdätyötä: Job, toimeksianto, aktiivinen, tehtävä, työ, työ, ura, toiminto, toimia, toiminnallinen, liike, toimia, treenata, työllisyys, työperäinen, työskentely, kuvamateriaali
+vokaali: kuuluisa, elämä, eloonjääminen, liike, liike, liikenne, aakkoset, muotti
+mennä: kävellä, hinta, lähteä, lähtö, siirtyä
+perlativetapaus: 
+etenevänäkökohta: 
+pitkä: pitkittynyt, kestävä, pitkä, pitkin, aika, aikakausi, jännittynyt, pois, kuvata
+sanoa: suullinen, kertoa, puhua, edustaa, koskevat, nimeltään
+jopa: myös, jompikumpi, asti, asti, lisäksi, liian, samoin, edelleen, lisäksi, itse
+takaisin: takana, taka-, taaksepäin, taaksepäin, palata, palauttaa, purkaa, uudelleen, toistaa, sitten, mukaan, peruuttaa, toipua, hakea
+tässä: at
+ajatella: ajattelu, ajatus, harkita, kuvitella, ajatella, mietiskellä, olisi, nimeltään, mieli, tuntea, näyttää, osoittaa, harkinta
+joka: kaikki, kukin, kaikki, joka, kohti, kohti, jokainen, nimittäjä, koko, keskimäärin
+kestää: pää, jälkimmäinen, lopullinen, perimmäinen, toinen, muu, viimeisin, viimeaikainen, pääte, ohi, kestää, jatkua, edellinen, myöhään
+allekonteksti: 
+ottaa: lomakeskus, miehittää, noutaa, hyväksyä, napata, saada, ottaavastaan, valita, saalis, kaapata, veloittaa, hyväksyä, tuoda, kuljettaa, ammu, käyttää, luovuttaa, soveltava
+löytyi: löytää, löytää, löytö, havaitseminen, pääsy, saada, tavata
+käsi: varsi, ranne, aseet
+nuori: nuoret, nuorempi, nuori, teini-ikäinen, uusi
+antaa: lainata, säätää, tarjous, tarjoaminen, toimittaa, tehdä, antaa, laittaa, lahjoittaa, päästää, myöntää, myöntää, ajoittainen, sykli, myöntää, velkaa
+jumala: jumalallinen
+delativetapaus: 
+eimitään: jotain, esine, eikukaan, mitätahansa, eimitään, eikukaan, jotkut, harvat, tietty, jokseenkin
+oikea: pari, korjata, tarkasti, oikeudenmukainen, oikeudenmukaisuus, perusteltu, epäoikeudenmukainen, oikeutettu, oikeus, laki, oikein, totta, tietty, kaikinmokomin, oikeuttavat, hyvin, poikki, maksettava, asianmukainen, asianmukaisesti, sopiva, tarkoituksenmukainen
+kerran: heti, viipymättä, menetelmä, kuvio, metodologia
+semelfactivenäkökohta: 
+vasen: pois, jättää, hyppiä
+osa: jakso, osittain, osa, osittain, paketti, jae, segmentti, jakaa, bitti, pala, kulku, alaryhmä, luku, osasto, episodi, osittainen, jako, osasto, sektori, osa, puolesta, osallistua, kvantti
+talo: kotiin, tilat, temppeli, kotelo, talous
+maailman-: valtakunta, maailmanlaajuinen, maailmankaikkeus
+pää-: otsikko, tärkein, päällikkö, luku, johtaja, presidentti, puheenjohtaja, johtaja, pomo, kynä, päänsärky, hiukset
+kolme: kolmas, yhdeksäs, verottaa
+fokus: tarkoitettu, tavoite, tavoite, tavoite, keskittää, Huomio, keskittyminen, yhtyä, visio
+rakkaus: tunteet, hyväntekeväisyys, pitää, murskata
+aina: ikuisesti, alituisesti, koskaan
+yö-: ilta, päivällinen, iltapäivällä, tänäiltana
+kuningas: vallita, herra, hallitsija, pohatta, prinssi
+välillä: keskuudessa, keskuudessa, of, sisään, osaksi, sisällä, keskimmäinen, keski-, aikana
+sydän: eläköön, rohkaiseva, kaataa, sepelvaltimo-
+paucalmäärä: 
+koska: maksettava, koska, tapaus, aiheuttaa, syy
+kausaalinentapaus: 
+nimi: sukunimi, substantiivi, alus
+asianmukainensubstantiivi: 
+maa: kansakunta, maa, maa, osavaltio, maa, maaperä, osapuoli, maaseutu
+pyysi: kysyä, konsultoida, halu, kysymykset
+näkyvätodistusarvo: 
+paremmin: esimies, parhaat, erinomainen, ihanteellinen, maksamatta, edelleen, kauemmas, hyvä
+puoli: sivu-, suosia, suosia, puolesta, vuoro, sivu, näkökohta, puoli, puoli, kohti, vieressä, syrjään
+kurssi: opetussuunnitelma, oppitunti, luento, varmasti, varmasti, ehdottomasti, hinta, polku, luottavainen
+tarpeeksi: riittävä, riittävästi, riittävä, runsas, melko, paljon, riittämätön, melko, melko, huomattava, huomattavasti, merkittävä, merkittävästi, merkittävästi, kohtuullinen, laittaa, täysin
+pian: pian, nopea, nopea, nopeasti, nopeasti, välitön, nopea, kiire, kiireellinen, niin, heti, helposti, lähistöllä, varhainen, napsahtaa
+koko: täysin, riittävästi, absoluuttinen, täydellinen, epätäydellinen, koko, täsmälleen, tarkka, täydellinen, tarkasti, perusteellinen, koko, kattava, koko, täysin, täysin, täysin, päättynyt, aikaan, suorittaa, implisiittinen, täyttää, tyydyttää
+huone: kammio, neljäs, makuuhuone, rauha, lokero, kellari, syvyys
+vesi: neste, neste, vedenjakaja
+desiderativemieliala: 
+valo: hehku, kirkas, kynttilä, hienoinen, tyyli, kevyesti, kalpea, kirkas, päivänvalo, valotus
+sana: leksikaalinen, ääni, sanasto, lauseke, verbi, substantiivi, sanamuoto, termi
+ovi: portti, oviaukko, sisäänkäynti, luku, portti, portaali
+käyttää: käyttää, käyttö, kulutus, menot, kuluttaja, sitoutua, hakemus, apuohjelma, käyttää, käyttää, kuluttaa
+aamu: aamupäivällä, aamiainen
+terminativetapaus: 
+teho: vahvuus, energia, voima, vahva, pakottaa, voimakas, dynaaminen, salaatti, valta-asema, auktoriteetti
+itse: itse, sinäitse, itse, itse, itse, itse, itse, ego, yksin
+ääni: ääni, ääneen, äänestys, audio-, äänestää, erä, huhu, huhu, melu
+valkoinen: tyhjä, valitus
+raha: rikkaus, hopea-, taloudellinen, kassa, valuutta, rahoittaa, raha-
+seuraava: vieressä, rinnalla, vieressä, jälkeen, myöhemmin, ulottuvuus, lähtien, myöhempi, jälkeen, jälkeenpäin, myöhemmin, jälkeenpäin, eteenpäin, eteenpäin, kauemmas, eteenpäin, edetä
+huono: varsi, köyhyys, huono, heikko
+kuolema: kuolleisuus, kuoleva, kuollut
+muoto: muoto, muotti, muoto, muoto, kuvio, maatila, muotoinen, morfologia
+inessiivitapaus: 
+yhdessä: samanaikaisesti, pitkin, yhteinen, kollektiivinen, sarja, rinnalla, luettuna, yhdistää
+asia: tapaus, asia, asia, ilmiö, ongelma, materiaali, aine, aihe, ongelma, kysymys, jutut, aihe, kiinnostavaa
+usein: usein, alituisesti, säännöllisesti, tiheä, yleisesti, yleensä, tyypillisesti
+ystävä: liittolainen, poikaystävä, stipendiaatti, perämies, kumppani
+tilata: järjestelmä, järjestely, järjestää, sopimus, ryhmä, komento, vuoro, rivi, jonottaa, järjestys, peräkkäinen, kutsu, niin, päästää, välttää, loitsu
+pakottavamieliala: 
+pyöristää: pyöristetty, ympyrä, kierros, pallo
+pitää: pitää, ylläpitää, asettaa, laittaa, sarja, tahna, säilyttää, vartija, sitoutua, pitää, säilytys, säilyttäminen, säilyttää, pidättää, noudattaa, pysyä, jäädä, kiinteä, kunnossapito
+vaimo: puoliso, naaras-
+uskoa: luottamus, arvella, olettaa, usko, usko, luottamus, luottavainen, optimismi, optimistinen, riippuvuus
+lähellä: syöttö, vieressä, melkein, noin, lähellä, lähes, viereiset, käytännössä, lähistöllä, proksimaalinen, naapuri, naapuri-
+julkinen: yleinen, yleisö, yhteinen, yleisesti
+osavaltiokonteksti: 
+poika: parvi, poika
+sata: sadasosa, kasvot, sentti, vuosisata
+lapset: lapsi, jälkeläiset, lapsi, vauva
+siten: siten, niin, siten, sellainen, kyllä, siksi
+toivoa: haluta, näkymä, ennakoida, optimismi, optimistinen, odotettu, odottaa, odotus
+edellä: ylös, yli, yläkerrassa, korkea, ylin, kehittynyt, ylempi, poikki, koskevat, kautta, päälle, yläpuolella, päälle, eteenpäin
+rakas: rakastaja, kallis
+lukea: lukeminen, laulaa, lilja, lukija
+kaupunki: kaupunki, kunnallinen, lääni, kaupunki-
+jo: valmis, valmis, halukas, jokatapauksessa, pre
+tosiasia: totuus, todellisuus, totuudellisuus, totta, todellinen, todellinen, todellakin, ihanoikeesti, todella, teki
+factivetodistusarvo: 
+tyttö: neito, tytär, naaras-, nainen, tyttöystävä, yksin
+kuulla: kuunnella, kuulo, tuntea
+vähiten: minimaalinen, minimi, minimoida, miinus, Vähemmän, alin, suurinosa, parhaat, korkeimmat, optimaalinen
+ehkä: todennäköisesti, voiolla, oletettavasti, voima, mahdollisesti, mahdollinen, todennäköisesti, todennäköinen, muka
+avata: kirkas, tavallinen, selvästi, paljas, ilmeisesti, vapaa, täsmällinen, ilmeinen, ulko-, alijäämä, avoimesti, paljastaa, ladata, paljastaa
+elin: liha, ruumiillinen, fyysinen, fyysisesti, corpus, elin, ruumis
+ilma: tuuli, tuulahdus, ilmailu, sää-, lentoyhtiön, lento
+luonto: luonnollinen, syntyperäinen, luonnollisesti, alkuperä, laskeutuminen, kotoperäinen, villieläimet, merkki
+auttaa: auttaa, hyödyllinen, tuki, apu, avustaja, asettaa, helpotus
+kirje: posti, kirjepapereissa, kirjoittaminen
+neljä: neljäs
+optativemieliala: konjunktiivimieliala
+antaapotkut: kuuma, liekki, kuume, takka, buddha
+ilmaiseksi: vapaus, vapaus, vapauttaa, ilmaiseksi, turha, vapaasti, vapaa, löyhästi, julkaisu
+sota-: taistelu, taistelu, taistella, taistelukenttä, painia
+toinen: muut, molemmat, mukaan, toinen, toiseksi
+yhdistynyt: yksikkö, yhtenäisyys, täydellinen, liitto, liittoutunut, liittolainen, ainutlaatuinen, yksimielinen, yhteinen, yhdistelmä, koalitio, liittovaltio
+puhelu: haaste, hapettua, valitus, päällä, liitäntä, yhdistelmä, yhteinen, fuusio, kutsu, elinikä, keskustelu, puhelin
+Miksi: samanlainen, samoin
+menetetty: menetys, menettää, puuttuva, kadota
+tuhat: tuhannesosa, vaatteet, kangas
+perhe: talous, perhe
+sielu: henki, aave, sielu
+hoito: huolestunut, koskea, Huomio, meditaatio, palvelu, sponsorointi, vartija, turvallisuus, suojaus, turvallisuus, puolustus, säilytys, säilyttäminen, kattavuus, puolustus, varovaisuus, parantaa, hoito, huolto, huoli, huolestunut, huolestuttava
+tarkoittaa: vihjata, tunne, merkitys, mielekäs, tarkoittaa, keskimmäinen, agentti, keskikokoinen, keskimäärin, kohtalainen, olennaisesti, ymmärtää
+eri: selvä, erota, eri, vaihteleva, moninkertainen, ero, erillinen, vaihtelu, erikseen, vaihtelevuus, ero, toisinkuin, variantti, vaihdella, monipuolinen, muut, muu, toinen, useat, eritavalla, lajike
+mahdollinenmieliala: 
+allativetapaus: 
+ihmisentoiminnastasukupuoli: 
+viisi: viides, vuosi, varten
+elää: elämä, hengissä, käyttäytyä, elävä, pesä, piiri, naapuruus, naapuruus, elossa, vilkas, raaka, suoraan, suora, asukas, suoraan
+eriaihe: 
+vastaus: pohjois-, vastata, vastaus, ratkaisu, vastata, vastata, pohjoinen, replikointi
+meri: valtameri, meren-, merenelävät
+pelko: pelätä, peloissaan, kauhu, awe, pelästynyt, paniikki, levottomuus, angst, kauhu, pelästyttää, pelästynyt, fobia
+kova: vaikea, jäykkä, monimutkainen, ankara, äänekäs, väkivaltaisesti, raju, kova, tiukka, haastava, hankala, vankka, tiukka
+ehdot: termi, terminologia, ongelma, pohjainen, perustein, perusta, olennaisesti, pohjimmiltaan, pohjimmiltaan, omaisuus
+epäillä: epäilys, epäluottamus, epäröinti, epäilty, toimittaja
+dubitativemieliala: 
+musta: lohko
+kaunis: hyvä, kiva, ihana, kauniisti, kauniisti, melko, mieltymys, viileä, söpö
+tumma: synkkyys, pimeys
+järjestellä: luokittelu, luokitella, luokittelija, ystävällinen, laji, lajike, erä
+kymmenen: vuosikymmen, kymmenes, oikeudenmukainen
+show: näyttö, suorittaa, suorituskyky, esittely, esittely, osoittaa, tarkoittaa, tapahtuma, projektio, näyttely, taide, kuva, luonnos, kuvakaappaus
+tarina: myytti, historia, kerronta, kaunokirjallisuus, juoni, tarina, puhua, aihe
+kirja: vierittää, varata, punta, oppikirja
+elektroninen: elektroniikka, elektroni, salama, sähköinen, sähkö, sähköinen, sähköasentaja, email, entinen
+tili: syy, aiheuttaa, laskea, laskeminen, laskenta, laskuttaa, laskeminen, laskea, arvella, aritmeettinen
+merkki: merkki, jäljittää, polku, pisteet, logo, kohokohta, rasti, tag, merkki, signaali, osoitus, vihje, merkki, merkki, etiketti, vaikutus, symbolinen, hälytys, symboli, ikoni
+kiinnostaa: kukka, kiinnostunut, koskea
+kirjoittaa: säveltää, kirjoittaminen, tyyppi, kirjallinen, kiinteä
+vuode: 
+välttämätön: olennainen, tärkeä, hyödyllinen, kriittinen, elintärkeä, merkittävä, merkityksetön, olennainen, ratkaiseva, merkittävästi, tarve, välttämättä, intransitiivinen, intransitiivinen, intransitiivinen, kiireellinen, tahmea, välttämättömyys, edellytetään, vaatia
+ajatus: ajatus, harkinta, lausunto, käsite, neronleimaus, ajattelu, kuvitella, mielikuvitus
+Vialistapaus: 
+veli: sisar, sisko, takka, kollega
+joskus: harvoin, sillointällöin, jonkinaikaa
+linja: johdin, kierre, rivi, kaista, johtuminen, kojelauta, raita, verottaa, käsikirjoitus, linjat, otsikko
+taulukko: vastaanotto, ajoittaa, luettelo, luettelo
+joki: tyyny, tyyny, virtaus
+silmä: nimittää, noin, lumi
+tiedot: viesti, selitys, kuvaus, tiedotuslehti, tuntemus, tiedot, arvo, ilmoittaa
+yhtäkkiä: äkillinen, odottamaton
+outo: omituisesti, yllättävä, omituisesti, pariton, ihme, ihana, huomattava, ylimääräinen, uskomaton, hämmästyttävä, outo, hauska, muukalainen, eksoottinen, hankala, epätavallinen, outo, salaperäinen, utelias
+syvä: syvään, syvyys, laaja, matala, perusteellinen, yksityiskohtainen, kattava, kriittisesti, syvällinen, sisällä, sisällä, sisä-, mato
+muuttaa: muutos, vaihtelu, muutos, muuttaa, mutaatio, siirtää, muuttaa, muuttaa, siirtyminen, lähentyminen, muunnelmat, vaihtelu, vaihtelevuus
+tunne: tuntea, tunne, havaitseminen, vaikutus, tunne, mieliala, vaikuttunut, tunteellinen, aisti-, näkemys, tunne, intohimo, tajuissaan, tajunta, impulssi, käsite, käsitys, käsite
+tarkoitus: esine, tavoite, tavoite, tavoite, määränpää, aikomus, tarkoitettu, motiivi, tavoite, etu, hyöty
+onnellinen: iloinen, huvittunut, ilo, iloinen, ilo, onnellisuus, ilahduttaa, iloinen, hauska, onneksi, onnekas, tyytyväinen, hymiö, usein, nauttia, mieluummin, onneton
+veri: vuotaaverta, verinen, verenvuodatus
+ruusu-: vaaleanpunainen
+etelä: eteläinen, keskipäivä, keskipäivä
+kylmä: talvi-, viileä, kylmästi
+sijainti: sijainti, tilanne, status, mahdollisuus, tilaisuus, tila, asenne, ryhti, paikka, lähettää, erä, suuntautuminen, asettaa, sijaitsevat, paikka
+seistä: asema, pystysuora, asenne, asenne, Stop, ryhti, aiheuttaa, pilttuu, olla, pysyä, jäädä, olla, vastaan
+olettaa: olettamus, hypoteesi, olettaa, hyväksyä, olettaa, hypothesize, asettaa, talous, muka
+minun: minun
+leikata: puute, puuttuva, vähentäminen, puute, vähentää, puute, neiti, leikkaus, keskeyttää, pilkkoa, kauttaviiva, sato, rikki, rikkoa, salaliitto
+kopioida: jäljentää, replikointi, toistaa, transkriptio, valokopio, klooni, versio, resepti, suunnitelma, rikkaus
+aviomies: mies, puoliso
+kuusi: sukupuoli
+matala: Vähemmän, lyhyt, halpa, halvalla, keskenmeno, minimaalinen, pohja, matala, tylsä, puute, helppous, vähentää, vähentää, minimoida
+muistaa: Huomautus, muistaa, muistuttaa, muistaa
+vaikutus: vaikutus, vaikuttaa, vaikutus, vaikutus, valta-asema, tehokas, tehokkaasti, tehokkuuden, seuraus, tulos, valotus, tulokset, epäsuorasti
+pudota: syksy, tapaus, sijaitsevat, romahdus, rojahtaa, hajota, romahdus, pudota, aleneminen, vähentää
+paitsi: ellei, ulkopuolella, lisäksi, paitsi, ulkopuolella, erilleen, lukuunottamatta, lukuunottamatta, ilman
+tekijänoikeus: 
+armeija: joukot, joukko, isäntä, sotilas
+ajaa: pakenevat, valua, juoksu, suorittaa, toimia, ajaa, vaihde, toiminnot, toiminta-, puolustaa
+hevonen: hevosenkenkä, at, huomautus, lausahdus
+tulevaisuus: myöhemmin, jälkeenpäin, jälkeenpäin, talvi-
+länsi: western
+maksaa: palkat, palkka, palkkaus, työntövoima, maksu, palkita, maksu, maksaa, päästää
+punainen: vähentäminen
+kulta-: 
+halu: tahto, innokas, ruokahalu, haluta, kaivata, halu, himo
+pelata: tanssi, uhkapeli, peli, poski, lelu, rulla, kierre, kiertää
+hallita: herra, ensisijainen, tärkein, professori, hallita, hallita, Herra, herrasmies, johtava, herra, omistaja, sielu, ohjaus
+toimisto: toimisto, vastaanotto, ministeriö
+hallitus: osavaltio, rivi
+kirkko: 
+pituus: korkeus, korkeus, jänneväli, pitkin, kesto, pitkä
+yritys: yritys, yhtiö, yhteiskunta, liike, yritys-, kokonaisuus, laitos, toimisto, instituutti, hanke, yritys
+paperi: arkki, kortti-, vuokrata, sanomalehti
+todennäköisyys: mahdollisuus, todennäköisyys, todennäköisesti, mahdollisesti, epätodennäköinen, näkymä, mahdollisuus, todennäköinen, muuttujat, todennäköisyys
+erityisesti: erityinen, erityisesti, erityisesti, erityisesti, erityinen, täsmälleen, pääasiallisesti, enimmäkseen, pääasiallisesti, erityinen, merkittävästi, tyypillisesti
+karhu: kuljettaa, kestää, kärsivällisyys, toleranssi, olla, omistaa, antaa, sietää
+ikkuna: 
+sopimus: protokolla, tilitys, vaarantaa, konsensus, sopimus, ollasamaamieltä, sopimus, sopimus, hellä, sointu, sopimus, sopimus, järjestely, tinkiä
+kauneus: kauniisti, loisto, esteettinen
+tulli: vastuu, vastuu, velvollisuus, vastuullinen, tulli, tehtävä, toimeksianto, velka, velkaa, täytyy, käyttää, kohtalo
+lähettää: lähettää, jättämisestä, lähettää, lähettää, email, lähetys, pitäisi, toimittaa, esittää
+etäisyys: poistaminen, alue, erottaminen, katu, aukko
+hiljaisuus: hiljaisuus, hiljainen, hiljainen, yksinäisyys, rauha
+jalka: jalka, pysäyttää, reisi, varvas, neljännes, tassu, juoksu, asianmukaisesti, vaihe
+villi: villisti, laiton, raju, villieläimet, viidakko
+kuolla: kuollut, kuoleva, pois, kiinni
+tallentaa: säästö, säilytys, toipua, säästää, säilyttäminen, muistaa, kauppa, lunastaa, pelastaa, tallentaa, suojaus, säilyttää, eroon
+vihreä: raaka, raakaöljy
+vaivata: vaivautua, ongelma, ongelma, vaikeus, vaikeus, vaivata, kärsimys, ongelmallinen, este, nolata, hämmennys
+hymy: virne
+väärässä: virhe, virhe, virheellinen, huonosti, kohdellahuonosti, väärä, vika, vika, virhe, väärin, tahdittomuus
+nukkua: unessa, unelma, torkut
+quotativetapaus: 
+alku: alkaa, alku, sitoutuvat, naarmu, puhkeaminen, varhainen, alustava, aloittamista, debyytti, periaate, alukseen, aloittaa
+toiminta: tehtävä, kohta, vaihe, vaihe, toimia, menettely, aktiivinen, toiminta, toiminta-, aktivoida, aktivisti, liikkua, harjoitella, harjoitella, toimia, kalusto, suoritus, suorittaa, käytös
+vierailla: pääsy, haastatella, pääsy, matkustaa, matka, matka, kiertue, filosofia, arvostella, kokous, lahja
+seurata: noudattaminen, noudattaa, jälkeen, harjoittaa, seurata, seurata, totella, myöhempi, jatkua
+yrittää: yrittää, yritettiin, ponnistus, aloite, kokeilu, testata, näyte, ahkeruus, oikeudenkäynti, tutkimus, tentti
+läsnäolo: olemassaolo, olla, kokonaisuus, etu, esiintyminen, näky, läsnäolo
+raskas: toisto, raskaasti, vaikea, vaikea, paino, vakavasti, valtava, maksa, valtava, massiivinen
+makea: jälkiruoka, karamelli, lempeä, mitäänsanomaton, söpö
+suu: oraalinen, muki, siemailla, kasvot
+rikas: paljon, runsas, varakas, pukeutua, antelias
+vihollinen: vihamielinen, vastustaja, vastaan
+laiva: vene, purjehtia, laivasto, purjehdus, alus, risteily, lautta, vatsa, ohjata
+kunto: veto, vedonlyönti, osavaltio, tilanne, seikka, status, onni, vaihe, taso, kunto, vaatimus
+mukaanlukien: sisältää, sisältää, sisältää, kuulua, muodostuvat, lukuunottamatta
+täydellinenhenkilö: 
+näyttää: ulkoinenolemus, nousta, ilmaantua, syntyminen, näkyvä, näyttää, Katso, kummitella
+salaisuus: salaperäinen, mysteeri, tappi, maanalainen
+Olehyvä: ystävällisesti, kysyä, armo
+precativemieliala: 
+kohteliasilmoittautua: 
+paha: vahingoittaa, ikävä, häijy, huono, huonosti, hirveä, sairas, huonompi
+maaliskuu: paraati, protestoida, esittely, Mars
+hitaasti: vähitellen, hidas, kevyesti, pehmeästi, myöhään, asteittainen
+sensijaan: sijasta-of, pikemminkin, lisäksi, korvaaminen, korvaaminen, vaihtoehtoisesti, puolesta
+sininen: syaani
+mahdoton: 
+koulu: kampus, tikapuut
+tilaisuus: tilaisuus, tapahtuma, esiintyminen, mahdollisuus, katu, tinkiä, kello
+naimisissa: avioliitto, naittaa, häät
+ruoka: ateria, ruokavalio, ruokalaji, rehu, ruokailla
+kaksikymmentä: 
+helposti: todennäköisesti, helposti, velvollinen, helppo, sopivuus, hienoinen, hieman, kevyesti, mukava, suora, lyhyesti
+mahdollinennäkökohta: 
+kieli: kielellinen, kieli, pohja
+ilmaisu: ilmaista, selvitys, lauseke, artikuloitu, valotus, lausahdus, yhtälö, edustus
+viikko: sunnuntai, viikoittain
+sali: teatteri, käytävä, tila, kammio, salonki, aula, käytävä, juoksija, aula, reikä, saalis
+vaara: vaarallinen, riski, vaara, kunnioittaminen
+tavallinen: yleisesti, yleinen, yhteinen, rutiini, yleinen, yleensä, tavallinen, epätavallinen, yleisesti, vaatimaton, normaali, epäsäännöllinen, tavanomainen, tyypillinen, rento, yleensä, tyypillisesti, valtavirta, säännöllinen, tavanomainen, tavallinen, karkeasti, yksinkertainen, kohtalainen
+syntynyt: syntymä, uudestisyntyminen, synnynnäinen
+tuomioistuin: oikeus-, ruokalaji, foorumi, oikeudenkäynti
+genomisennäkökohta: 
+arvoinen: ansaita, arvo, arvokas, voimassaolo, ansio, maksaa, hinta
+puu: kasvi, puu-, akseli, puutavara
+seinä: 
+taivas: taivas
+inchoativenäkökohta: 
+jussivemieliala: 
+sävy: piki, melodia, tonni, tonni, sävy, tonnikala, ääni
+ottaahuomioon: kunnioittaminen, olettaa, olettaa, Huomio, harkinta, harkita, suhde, yhdistys, yhteys, huomautus, kattavuus, suhteet, koskevat, liittyvä, liittyvä, huolestunut, kuulua, suhteen, vastaava, vastata, merkityksellinen
+kuukausi: kuu
+kokea: empiirinen, kokemusperäinen, kokenut, asiantuntemus, kuori, kokeilu
+olosuhteet: skenaario, seikka, tilanne, löyhästi
+tuore: juuri, puhdas, puhdas, siivooja, uusi, noviisi, viimeisin
+herttua: hallitsija, prinssi, pääri
+katettu: päällyste, kattavuus, pois, suljettu, sisä-, kansi, hallita
+sidottu: laajuus, rajoitus, rajoittaa, raja, rajoitus, rajoitettu, kytketty, riippua, sitoa, raja, rajoittaa
+itään: itäinen, sitten, edellinen, ennen, pre, suunnata
+kivi: marmori, rock, helmi
+suunta: suuntautuminen, ulottuvuus, suuntaus, puoli, opetus
+tuoli: istuin, nojatuoli, jakkara, aula
+tuki: pitääyllä, hyväksyä, apu, auttaa, kannatin, tuki, perusta, kainalosauva
+päivämäärä: historia, kohdata
+kylä: Hamlet, maaseutu
+ala: pallo, valtakunta, alue, alue, alue, vyöhyke, sektori, verkkotunnuksen, areena, stadion, tila, marginaali, maaseutu, leiri, maatila
+Odota: odottaa, pitää, pysyä
+lupa: antaalupa, korva, lupa, raivaaminen, jättää, lisenssi, lisenssi, suostumus, painos, hallinta, hyväksyminen
+sallivamieliala: 
+menestys: onnistunut, onnistua, vauraus, saavutus, voitto, voittaa, osuma, voittoisa, voittaja, menestyä
+mäki: vuori, asentaa, tulivuori
+musiikki: musikaali, klassinen
+distaalinendemonstratiivinen: 
+iltapäivällä: iltapäivällä, keskipäivä, keskipäivä, ilta
+itkeä: surra, huutaa, huutaa
+kunnia: kunnia, kunnioittaminen, arvokkuus, kunniallinen, kunniallinen, kunniavirat, kohteliaisuus, kunnia, hinta, hinta
+seitsemän: 
+yksityinen: henkilökohtainen, itse, henkilökohtaisesti, erityinen, yksityisyys, erityinen, yksinomainen
+istua: pysyä, asettua
+uutiset: viesti
+näkymä: paikka, näky, konteksti, näyttö, visuaalinen, vaihe, näkymä, näkymä, teltta, ulkoinenolemus
+puutarha: puutarhuri, pysäköidä
+rotu: rodullinen, kilpa-, juoksu, kilpailu, turnaus, hellä, rotu, ottelu, kansakunta, ryntäily, pitsi
+jakelutapaus: 
+oppia: tutkimus, opettaa, tahallinen
+poliittinen: politiikka, poliittisesti, poliitikko, politiikka
+puhe: luento, puhua, keskustelu, esitelmä, suullinen
+valhe: väärä, pettää, huijata, manipuloida
+heittää: heittää, heittää, sinkauttaa, nakata, muoto, muotti, käynnistää, vuodattaa, lopettaa
+syödä: ateria, rehu, ruokalaji, ruokailla, kulutus
+lattia: matto, maa, pohja, maaperä, kävellä, korkea, pitkä, määränpää
+kesä: lämpö, kuuma, lämmitys
+uskonto: uskonnollinen, velka, uskontunnustus, edistää
+kuva: muotokuva, maalaus, kuva, valokuva, valokuvaus-, valokuvaus, kuva, valokopio, piirustus, napsahtaa, elokuva, kuva, kuvaus, kuva, kuvio
+paeta: pakenevat
+kirjailija: kirjailija, opettaja, toimittaja
+ruskea: harmaa, harmaa, rusketus, pronssi, suklaa, vehnä
+määritetty: määritys, päättää, määrätä, selvä, itsevarma, suunnittelija, määritetty, varmistaa, vakaa, tietty, päätös, määritin, kiinteä
+kipu: satuttaa, ahdistus, tuskallinen, suru, kipeä, tuska
+kevät: sulka, meidän, meidän
+pehmeä: konsessiivinen, sileä, hienoksi, hellä, kevyesti, pehmeästi, lempeä, mitäänsanomaton, lievä, herkkä, synnynnäinen
+nurkka: kulma, leveä
+: , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , esittää, vahvistaa, tarkistaa, sadetakki, sammutin, vastaanottovirkailija, aurinkovoide, juontaja, projektori, rullalauta, sähköasentaja, toiletry, senttimetri, kukkaro, epäröinti, vahvistus, ohjaamo, lasti, tavanomainen, rento, vaara, räätälöidä, viulu, puutarhuri, puuseppä, maljakko, purukumi, aikakauslehti, jalkakäytävä, hurrikaani, huivi, piknikki, vanilja, kunniamerkki, jälkiruoka, kaari, mahdollinen, varasto, kassanhoitaja, tyyny, leivonnainen, kirjastonhoitaja, kuntosali, nosturi, kokki, yleinen, siivooja, tarjoilija, neuvonantaja, paperitavara, hieronta, leipomo, sedan, mikroaaltouuni, putkimies, grilli, osakevälittäjä, kirjanen, hampurilainen, lämmitin, kosmeettinen, grilli, popcorn, refleksiivinen, logo, tonnikala, alkuruoat, ajastin, farmaseutti, työmatkalainen, kartonki, suunnitelma, salkku, liukuportaat, hengenpelastaja, kirjepapereissa, astianpesukone, reppu, merenelävät, pyörätuoli, kävelytie, lentopallo, hoitoaine, nitoja, sauna, Tarkista, kasvovesi, teollisuus, ravistaa
+tuottaa: tuotanto, synnyttää, tuottava, valmistaa, valmistus, valmistus, sato, viljelykasvien, tuote, luominen, muodostus
+nauraa: pila, nauru
+unohtaa: unohtaa, kieltää, tietoinen
+Eurooppa: 
+kahdeksan: kahdeksas
+ohimenevä: mukaan, kautta, syöttö, kautta, kulunut, kulku, ylitys, siirtää, siirtyminen, käytävä
+kauhea: hirveä, kamala, kamalan, pelottava, valtava, traaginen, hälyttävä, pelästyttää, hirvittävä, kauhean
+tähden: motiivi, suosia, suosia
+hengitys: hengitys-, hengittää, hengittäminen, hengittää, ego, huohottaa, huokaus, kuiskaus, hengittääsisään, haistella
+viisas: kohtuullinen, järkevä, hienovarainen, huomaavainen, taitava, fiksu, älykäs, kypsä, loistava
+omistushaluinenmerkki: 
+miellyttävä: miellyttävä, nautittava, suotuisa, mukava, mukavasti, kiinnostavaa, kiva, kauniisti, ystävällinen, kauniisti, hauska
+täysin: täysin, täysin, täysin, täysin, aktiivisesti, täydellinen, todella, yhteensä, melko, täsmälleen, täysin, absoluuttinen
+muisti: muistaa, viite, muistomerkki, jäljittää
+hauta: vakava, vaikea, raskaasti, hautausmaa, kriittinen
+moderni: nykyajan, hienostunut, nykyaikaistaa, muodikas, viimeaikainen, esitelmä, jälkimmäinen, kehittynyt, nykyään
+paikka: kohta, piste, kello, sijainti, tahra, läikkä, paikka, eimihinkään, tilat, paikka, paikka, paikallinen, paikantaa, merkki, kaksoispiste
+tauko: murtautuasisään, jarru, lomakeskus, aula, keskeytys, intervalli, aukko, murskata, särkeä, Stop, tauko, keskeyttää, levoton
+saari: 
+koskettaa: yhteyshenkilö, hana
+yhtäläinen: vastaava, sama, samanlainen, oikeutetusti, kunnossa, selvä, yhtä, aste, par, identtinen
+ranta: varmuuskopio, Brink, rannikko
+lupaus: sitoutua, sitoutuminen, pantti, nimittäminen, varmuus
+commissivemieliala: 
+suunnitelma: järjestelmä, sopimus, ohjelmoida, ohjelmoida, aloite, suunnittelija, suunnitelma, ehdotus, hanke, juoni, luonnos, projektio, layout, litteä, piirustus, design, ehdotus, suunnittelu, miettiminen
+yllätys: hämmästyttävä, odottamaton, satunnainen, yllättävä, ihme, yllättävän, yllättynyt
+minuutti: 
+laukaus: ammu, ammunta, luoti, ammukset, valokuva, kuva, isku, pamaus, vallankaappaus, heittää, kehys, potkia
+johtaa: johto, johtava, ohjata, luoti, ajaa, opas, tuoda, nojata
+lasi-: peili, kristalli-, purkki, lasit, sivu, viedä
+lauta: laatta, neuvosto, ylös, nousta, ratsastaa, ryhmä, valiokunta, paneeli, neuvot, reuna, komissio, tabletti, painos
+esimerkki: esimerkki, kuva, malli-, kuvio, metafora, prototyyppi, kuten, edustaa, yksilö, tapaus, ennakkotapaus, näyte, paradigma, valaista, kyllä
+turvallinen: turvallinen, turvallisuus, turvallisuus, turvallisesti, luottavainen, vakuutus, kaikinmokomin, harmiton, poistaminen
+lääkäri: lääkäri, terapeutti, lääkäri, lääketieteellinen, hammaslääkäri
+luokka: ystävällinen, kiertorata, luokkahuone, luokka, erottaminen, kerros, luokka, arvo, piiri
+completivenäkökohta: 
+toistuva: usein, säännöllinen, jatkuva, alituisesti, sillointällöin, tiheä, säännöllisesti, aikakauslehti, toisto, toistaa, toistuva, tarkistus, iteraatio
+sotilaallinen: lääni
+lämmin: kuuma, lämpö, lämpö, lämpötila, lämmitys, gramma, hiostava
+juoda: juoma, juoppous
+suututtaa: suuttunut, raivo, skandaali, ärsyttää, huolimatta, paheksua, vihainen
+suoraan: suoraan, suoraan, epäsuora, automaattinen, suora, välitön, suoristaa, heti, sanallinen
+hattu: korkki, kypärä
+koira: 
+palvelija: stuertti, Tarjoilija, tarjoilija, neito, orja, kotimainen
+ylpeys: ylimielinen, ylpeä, ylpeänä, ylimielisyys
+väkijoukko: kiire, tungosta, väkijoukko, määrä, määrä, väestö, isäntä, kasa, paljon, monet, lukuisia, vakavasti, runsas, irto-, lauma
+kouluttaa: kuljetus, auto, vaunut, kärry, rautatie, rautatie, kouluttaa
+moraalinen: moraali, moraalisesti, eettinen, etiikka, moraali, henkinen
+kreikkalainen: 
+sovittaa: puku, sopiva, sopiva, yhteensopiva, asianmukainen, mukava, tarkoituksenmukainen, vastata, oikeutettu, merkityksellinen, sopimus, säätää, tarkka, tarkka, samaanaikaan
+astua: loki, merkintä, osavaltio, osoittaa, lisätä, sisältää, ilmoittautua, rekisteröinti
+sääntö: hallinto, ylivalta, järjestelmä, tuomio, tuomio, tuomio, tuomari, hallita, laki, lainsäädäntö, normi, osavaltio, säännellä, vallita, säätö, resepti
+miekka: terä, veitsi
+hyökkäys: invaasio, hyökätä, aggressio, rikkomus, hyökkäys, rikkomus, lakko, puhkeaminen, hyökkäys, ratsia
+terveys: terve, tervehtiä
+kohta: jae, lauseke, kimpale, kohta, asenne, asenne, par
+sosiaalinen: yhteiskunta, sosiaalisesti
+maksunpalautus: vastata, vastata
+anteeksi: pahoitella, napa, Anteeksi, tekosyy, anteeksipyyntö, sääli, suru, kärsiä, kärsimys, suru, ahdistus, suruaika, surullisuus, surra, vaikeus
+rohkeus: nyppiä, rohkea, luottavainen, hermo, rohkeus, uskaltaa, rohkea, alus
+virallinen: muodollinen, muodollisesti, virallisesti, upseeri, virkailija, byrokraattinen, valtuuttaa
+mikäli: säätää, tarjous, tarjoaminen, käyttöönotto, saatavissa, toimittaa, säännös, tyydyttää, jos
+pyyntö: rukous, kysyntä, väite, vaatia, vaatimus, tiedustelu, tiedustelu, nopea, tarjous, hakemus, haluta
+silmäys: vilaus, näkymä, asenne, havaitseminen, näkymät, näky, Katso, huomattava, tuijottaa, mulkoilla
+levitä: yksityiskohta, pidentää, laajentaminen, laajeneminen, laajentaa, laajallelevinnyt, yleisyys, diffuusio, hajottaa, läpäistä, amplitudi, kiertää
+vastapäätä: etuosa, vastakkainen, päinvastainen, vastakkainen, vastaan, poikki, laskuri, toisinkuin, ristiriidassa, inverttisokeri, kääntää, vastaan, vastustus, anti, käänteinen
+kaksitoista: tusina
+kihloissa: sitoumus, kiireinen, osallistuva, osallistua, miehitetty, sitoutua, taittaa, käytännöllinen, käänteinen
+viini: alkoholi, alkoholisti
+maku: maku, maku, herkullinen, syötti, kuori
+rauta-: teräs, metalli-
+jakaa: lähettää, sijoittaa, julkaista, kustannustoiminta, diffuusio, kiertää, jakelu, jakaa, jakaa, jakaa, jakaa, jakaa, luokitella, jakelu, jakaumat
+käydäkauppaa: kaupankäynti, liike, kaupankäynti, kauppatavara, Internet, tinkiä, kauppa, markkinointi, kaupallinen
+tuomari: tuomio, tuomio, tuomari, tuomaristo
+ahdistunut: hätä-, kiireellisyys, huolestunut, huolissaan, huolestunut, levottomuus, koskea, huoli, huomaavainen, epämiellyttävä, huolestuttava, peloissaan, innokas, järkyttävä, hälyttävä, innostunut, innokas, levoton, levoton, uteliaisuus, levottomuus, angst
+kapteeni: 
+lakkaaminennäkökohta: 
+ulkomainen: ulkomailla, ulkomaalainen, ulkomaalainen, eksoottinen, muukalainen, ulkoinen, ulkomailla
+vahvistussana: tehostaa
+merkitys: välttämättömyys, merkityksellisyys, merkitys, merkitys, ratkaiseva, painotus
+vihdoin: lopulta, lopulta, rajallinen, lopullinen, perimmäinen, terminaali, hienoksi, pää, kaataa
+todistaa: todiste, vahvistaa, vakuuttaa, osoittaa, todistaa, ymmärtää, selviö
+estää: lopettaa, kieltää, pidättää, tukahduttaa, rajoittaa, estää, lohko, hillitä, estää, kieltää, välttää, tukahduttaa, keskeyttää, pysäyttää
+kaula: kurkku, erä
+mielenkiintoinen: hauska, huvittava, viihteellinen, kiinnostavaa, houkutteleva, vetääpuoleensa, vaikuttava, piirtää, valitus, peruuttaa, jännittävä, utelias
+oikeudellinen: oikeus-, laki, laillinen, kehys, lauseet
+kuiva: varsi, jauhe
+palvella: palvelu, ansaita, tyydyttää, tarjous
+näyttö: todistusarvo, todiste, opas, vihje, hakemisto, näyttö, todistaja, ilmeinen, todistaa
+todistusarvotapaus: 
+kaukainen: pois, pitkälle, pois, erilleen, kannettavatietokone, kauko-, syrjässä, kauimpana, karkottaamaasta
+edistyminen: harppaus, eteneminen, kehitys, etenevä, kehitys-, edetä, edetä, parannus, kohottaa, kasvu, edistäminen, tapa, käsitelläasiaa
+kapea: ohut, tiukka, lyhyt, rajoittaa, ärsyttävä, minimoida, rajallinen
+rakentaminen: rakentaa, rakenne, rakentaa, rakentaminen, tilat, luuranko-
+haku: löytää, löytää, löytö, etsintä, havaitseminen, etsivät, etsiä, tutkimus, tutkimus, pyrkimys, tiedustelu, tutkimus, tiedustelu, tutkiminen, keksintö
+surullinen: masentunut, valitettavasti, kurja, järkyttävä, allapäin, katumus, onneton
+synti: syyllisyys, valitettavasti, sitoutua
+sairas: sairas, kipeä, sairaus, potilas, sairaus
+rehellinen: vilpitön, uskollinen, rehellisesti, vilpitön, suoraan, epärehellinen
+pankki: penkki, tina
+metsä: viidakko, metsänhoito
+mitata: arvioida, mittaus, punnita, metri, metri
+virta: virtaus, lauseke, nykyinen, sähkö, virtaus, suihku-
+huolellisesti: tarkasti, varovainen, varovainen
+leipä: leipoa, kylvää, voileipä, suupala, panoroida
+lisä-: ylimääräinen, vapaa, lisäksi, ylimäärä, ylijäämä, edelleen, lisäys, lisä-, lisätä, liite, täydentää, sivu-, bonus
+valita: valinta, valinta, valita, valikoiva, valita, valita, valitsin, äänestää, tutkimus, etusija, nimittää
+eläin: olento, neutri
+ZoicKahvisukupuoli: 
+eventivemieliala: 
+multiplikatiivinentapaus: 
+saada: saada, hankkia, hankinta, ottaavastaan, saada, löytää, turvallinen, säilyttää, pitääyllä, johtua, noutaa, olla, suorittaa, saavuttaa, naittaa
+ylittää: poikki, ylitys, syöttö, ylittää, läpäistä
+paksu: liikalihava, paksusti, tiheä, rasva
+kasvaa: viljellä, nousta, kasvu
+sade: märkä, sademäärä, suihku, sademäärä, ei, luuta
+hiljaa: 
+pinta-: kasvot, taso, kone, alue, alustan
+pyhä: pyhä, loistava
+heinäkuu: 
+muoti: muodikas, tapa, menetelmä, lähestyä, menettely
+kertomus: määritys, selvitys, suhde, suhde, yhteys, oikeudenmukainen, näyttely, essee, valotus
+tiedosto: asiakirja, jättää, profiili, arkisto
+olkapää: akseli, akseli, kuvaus, kampa, varsi
+kuninkaallinen: keisarillinen, monarkia, kuningaskunta, imperiumi, todellinen, todellinen
+laulu: virittää, seurata, laulu, runo, laulaa
+mukavuus: helppous, rento, rentouttava, rohkaisu, sopivuus, levätä, helpotus, laitos
+kukaan: kukaan, joku, joku, eikukaan, jokainen, jokainen, kukatahansa
+ruoho: heinä, rikkaruoho, yrtti, nurmikko, gramma, olki
+aukko: alustava, alustava, löytö, aukko, aukko, avoimesti, varhainen
+kesäkuu: 
+kalastaa: akvaario
+pääoma: luku, rahoittaa, etu
+rinta: rinta, maito
+koulutus: kouluttaa, oppitunti, koulutus-, lukutaito, muodostus, koulutus, sivistynyt, akateeminen, opetus, opettaa, opetus
+terävä: kirkas, raju, tiukka, jyrkästi, mausteinen, terävä, akuutti, innokas, terävä, selvästi, mulkoilla
+kulu: maksu, menot, maksaa, painos, ulostulo, veloittaa, viettää
+sinun: sinun
+miljoona: miljoonas
+rukoilla: kysyä, rukous, kerjätä, lainata
+väsynyt: väsymys, rasittava
+tappaa: murhata, tappaminen, poistaa
+varjo: sävy
+massa-: laatu, kollektiivinen, määrä, irto-, monikko, erä, kyhmy, rykelmä, väkijoukko, rikkomus, taikina, pasta
+vakiintunut: asentaa, vankka, lujasti, vakaa, luominen, perustaa, vakiintunut, loisi, perustaminen, muodostus, perustaa
+vakuuttunut: tyytyväinen, tyytyväisyys, tyytyväisyys, iloinen, tyydyttää, tyydyttävä, pitoisuus
+tarkistaa: tarkistaa, Katso, katsella, tarkistaa, valinta, tutkia, tarkastaa, tutkimus, testata, tarkastaa, Tarkista, väli-, tutkimus, tutkia, varmistaa, tarkistaa, ohjaus
+hyve: ystävällisyys, hyvyys, hyväntahtoisuus, ominainen, ominaisuus, piirre
+kultainen: vaalea
+kansallinen: kansakunta, kansalaisuus, etninen, kotimainen, nationalistinen
+pääasiallinen: tärkein, avainsana, merkittävä, tärkein, päällikkö, johtava, nitoa
+laakso: pesuallas
+arvaus: päättely, epäilty, olettaa, arvio, arviointi, ennustus, ennustaa, ennuste, spekuloida, jumalallinen, otaksuma, odotettu, arviointi, arvioida, arvioida, likiarvo, ennustettavissa
+keinottelevamieliala: hypoteettinenmieliala
+keltainen: kalpea, keltainen, vaalea
+jäännökset: jäännös, jäljellejäävä, jäljelläoleva, ruoantähteet, levätä
+taipunut: kaareva, mutka, suuntaus, kierretty, rinne, näkökulma, taitto, havaitseminen, olettamus
+laatikko: matkalaukku, laatikko, rahoittaa, pakki, voida, kartonki, astia, kassanhoitaja, neliö-, laatta, ruudukko
+kausi: kausiluonteinen, luku, asema, aikakausi
+tiede: tieteellinen, morfologia, kielitiede
+ilmeisesti: ilmeisesti, kirkas, ilmeinen, avoimesti, nimenomaisesti, muka, selvästi, ilmeinen
+porausreikä: reikä, porata, tylsä, tylsä, puhkaista, ärsyttää, foorumi, kyllästynyt, sightsee
+setä: täti
+lista: indeksi, luettelo, luettelo, valikko, ilmoittautua
+elokuu: 
+tyyni: hiljainen, rauhallinen, rauhallinen, hiljainen, hidas, rento, hiljaisuus, pehmeästi
+suosittu: yleisyys, kuuluisa, näkyvä, kansa, johtava, veteraani-
+tuntematon: muukalainen
+tuttu: tuttavuus, sukuperä, jälkeläinen, käytetty
+tuttuilmoittautua: 
+kävely: kävellä, askelma, edetä, vaellus, kävely, jalankulkija
+kahdesti: kaksinkertainen
+henkinen: mieli, älykkyys, henkinen, älykäs, psykiatrinen, ajattelija, viisaus, henkinen
+pappi: papisto
+haavoittunut: loukkaantunut, haava, satuttaa
+palatsi: 
+lyödä: voittaa, booli, läimäys, lyödä, läimäyttää, rytmi, voittaa, lakko, bitti, voitto, voittaa, voittoisa
+typerys: typerä, temppu, pettää, huijata, tyhmä, typerä, vihainen, hullu, mielenvikainen, johtaaharhaan, oppimaton, oppimaton
+yhdeksän: yhdeksäs, uusi
+myötätunto: myötätunto, empatia, sääli, armo, sympaattinen, myötätuntoinen
+räjähtää: räjähdys, räjähdys, räjähtää, säröillä, puomi, puuska, pamaus
+pukeutunut: pukeutua, puku, yhdenmukainen, vaatteet, vaatteet
+kirjallisuus: kirjallisuuden-, materiaali, asu
+kokoelma: keskittyminen, kertymä, sarja, ryhmä, yhdistelmä, ryhmä, galleria, sviitti, paketti, salkku, synteesi, ohjelmisto, johtopäätös, solmia, päättely, kerätä
+tyhjä: tyhjä, vapaa, rumpu, vapaa-, tyhjä, tyhjyys, tyhjiö, turha, paljas
+myrsky: hurrikaani, ohjata
+tasku-: laukku, paketti
+tuomita: tuomio, tuomio, ehdotus, lause, ehdotus, ehdotus, rankaiseminen, vakaumus, lauseke, tuomita, tuomita, rangaistus, rangaista
+marraskuu: 
+joulukuu: 
+tapahtua: tapahtua, esiintyminen, olla, nousta, mitä, eikämyöskään, eikä, saapua
+poissaolo: poissa, puute, puute
+kiittää: kiitollisuus, kiitollinen, Kiitos, Kiitos, myöntää, tunnustaa, myöntää, arvostaa, tilintarkastaja
+sarja: ketju, jono, ryhmä, järjestys, sarja, vuoro, alue, rivi
+osoite: löytää
+lintu: lento, kone, suihku-, lentokone, lentokone, lentoyhtiön, pöllö
+takki: puku, kansi, takki, turkis
+valmistella: valmis, valmis, järjestää, valmistelu, muotoilla, tarkoitettu, halukas, innokas, haluton, liitu-, varustaa, synnyttää, perustaa, rakentaa, luoda
+nopeasti: nopeasti, nopeasti, nopea, nopea
+polttaatupakkaa: tupakointi-, polttaa, lykätä
+tammikuu: 
+kone: koneet, moottori, kone
+liikkuva: liikkua, mobile, perääntyä, liike, liike, siirtyä, rasti
+hampaat: hammas, vaihde, tämä, täi
+häpeä: häpeä, häpeissään, ujo, hämmentynyt, kiusallinen, hämmennys, paljas, alasti, loukkaus, skandaali
+aivot: sielu, kurpitsa
+rengas: pikkumainen, valitsin, kiemura, silmukka, rengas, rengas
+lausekemerkki: 
+ymmärtäminen: ymmärtää, ymmärtäminen, tunne, ymmärtää, empatia, tuntemus, havaita, oivallus, havaitseminen, tietoisuus
+hedelmä: tulos, seuraus
+tee: kaivata, auto, neliöllinen
+selittää: selitys, valaista, ilmaista, artikuloitu, julistaa, selventää, tulkita, kommentti, tulkinta, kuvata, avainsana
+Tervetuloa: tervehdys, vastaanotto, viihdyttää, Hei, Moi, tervehtiä
+runous: runo, jae, kunnallinen, kello
+ostaa: ostaa, hankkia, antaa, markkinoida, myymälä, halvalla, investoida, ostokset
+luotettava: epärehellinen, uskollinen, uskollisesti, omistautunut, korjata, luotettava
+jännitys: stimulaatio, innoissaan, hälinä, jännitys, provosoida, ilo, kiihottumisen, väri, innostusta, into, innostunut, kiireellisyys, tunne
+huhtikuu: 
+lokakuu: 
+katkera: vaikeus, tuska, ahdistus, karvaasti, kärsimys, tuskallinen, pisto, kirjallinen
+löysä: itsenäinen, löyhästi, ratkaista, ratkaista, vapaa, vapaasti
+teksti: sanamuoto
+pahin: huono, huonompi, karkea, haitallinen, ikävä, huolimatta, suurinosa, korkeimmat, alin, roskat, roska, roskat
+luotto: kiinnitys, luottokortti, velka, lainata, lainata, lainata, arvovalta, voimassaolo, uskottavuus
+ominaisuudet: komponentit, tehtävät, näkökohdat, ominaisuus
+kykenee: mahdollistaa, pätevä, pystyvät, kapasiteetti, kyky, kyvytön, mahdollinen, antaa, taitava, lahjakas, taito, tehokkuuden, pätevyys, taitava, tehokkuus, hyödyllinen
+viisitoista: 
+julma: raju, kova, epäystävällinen
+liittyäseuraan: osallistua, käydä, osallistuva, alukseen, noudattaa, osallistuja, osallistuminen, yhdistää, kytkeä, tulokas, yhdistää
+rikollisuus: syyllisyys, rikkomus, rikkomus, rikollinen
+pöly: pato, jauhe, lika
+käytännön: toiminnallinen, käytännöllinen, käytännössä, mukava, käytännössä, kätevä, soveltava
+väri: väri-, maali-, väriaine, kalpea, värillinen, värikäs, väri, katu, koodaus
+tuhota: tuhota, heikentää, sabotoida, hajota, purkaa, murskata, murskata, pilalla, hämmentää, pyyhkiä, kieltää, tuho
+lisätä: edetä, parantaa, asentaa, korottaa, lisätä, lisätä, kasvu, suurentaa, vaellus, edistää
+nenä: nokka
+ystävällinen: sopiva, suotuisa, yhtenevä, ystävällisesti, vilpitön, liittolainen, ystävyys, ystävällinen
+eilen: huomenna, nykyään
+hesternaljännittynyt: 
+epäonnistua: vika, epäonnistunut, voittaa, kykenemätön, hämmentää, pettää
+jatkaa: edetä, jatkuva, sinnikäs, jatkaminen, alituisesti, jatkua, jakaa, pitää, lähtien, kytkeä, alkaa, suorittaa
+poistaa: eroon, peruuttaa, poistaa, eliminointi, pyyhkiä, pyyhkiä, poistaa, poistaa, vähentää, piirtää, Vedä, karkottaa, omaksua
+pitääpäällä: kuljettaa, portteri
+sokea: 
+lentää: lentävä, hypätä, lento, ilmailu
+kehua: ihailu, ihailla, maine, ansio, onnitella, onnittelu
+tehtävä: 
+uhrata: uhri, saalis, uhri, tietulli
+liikunta: treenata, toimeksianto, harjoitella, harjoitella, urheilu, kunto, harjoitus, porata, liike, liike, kampanja, urheilu-
+omatunto: pronomini, tajunta
+teoria: periaate, teoreetikko, lause, teoreettinen
+ministeri: 
+vihata: ikävä, inhottava, viha, vastenmielisyys, ennakkoluulo, kauna, paheksua, tympääntynyt, inho
+järvi: pelkkä
+keskusta: keskeinen, keskusta, asema, päämaja, keskimmäinen
+heikko: tajuton, epätoivo, epätoivoinen, heikko, kalpea
+järkeväsukupuoli: 
+lyhyt: lyhyesti, akronyymi, lyhyt, pian, kortti-, kompakti, yleiskatsaus, taloudellinen
+palvonta: rituaali-
+tavarat: tuote, lasti, erä, kauppatavara, hyödyke, jutut, rahti, ostoskeskus, telineeseen
+iho: nahka-, imeytyminen, haukkua, kuori, kuori, turkis, kuori
+katto: terassi, katto, päällyste, kattavuus
+kruunu: 
+linna: häkki, lukko, sukunimi
+valtaistuin: 
+liitteenä: sitoutua, ehdollinen, liittää, kytketty, riippuvainen, kumppani, pari
+maili: suuntaus, rinne, nojata, kaltevuus, halukas
+vankila: vankila
+perinpohjin: hyvin, mukava, asianmukaisesti, sujuvasti, perusteellinen, melko, täysin, yhteensä, täysin, melko, täysin, täysin, täysin, puhtaasti, täsmälleen, tarkasti, tarkasti
+kuppi: muki
+jäsen: elin, jäsenyys, raaja, sisäpiirin
+siviili-: kotimainen, kansalainen, kansalais-, siviili-
+kaikkialla: kauttaaltaan, jonnekin
+noudatettava: suoritus, suorittaa, valvoa, vastata, seurata, tavata, totella, pitoisuus, tyydyttää, noudattaa, aihe, noudattaminen
+kuntaas: silläaikaa, vaikka, kuitenkin, vaikka, siitähuolimatta, kuntaas, kuitenkin
+tilavuus: paljon, laajuus, määrä, suhteellisesti, määrällinen, lohko, moduuli, irto-, ympärysmitta, kattavuus, koko, maanosa, lauseke
+asiakassuhde: asiakas, valinnainen, puku, harjoitella, tapa, tottunut
+keula-: kaari, kaari, sipuli, käyrä
+liha: liha, naudanliha
+kasviperäistäsukupuoli: 
+harvinainen: harvoin, tuskin, harvoin
+serkku: suhteellinen
+silta: luokka, kansi, jalka, pool
+suojella: suojaus, säilyttäminen, vartija, kilpi, puolustaa, säilyttää, ylläpitää, säästää, turvallinen, puolustus, puolustus
+suolaa: liioiteltu, liioitella, suolainen, merimies
+viaton: puhdas
+kuningatar: 
+tanssi: rumpu, tanssi, hypätä, hyppiä
+hotelli: majoitus
+täyttää: pitoisuus, sisällys
+vanki: tuomittu
+portaat: portaikko, rappu, tikapuut, laatikko
+homo: homoseksuaalinen
+hiekka: 
+väkivaltainen: väkivalta, raju, turbulentti, ihana, vaikea, vahva, voimakas, voimakas, villisti, intensiivinen
+syyskuu: 
+pilata: tuho, kumouksellisuus, vahingoittaa, pilata, katastrofi, hylky, tuhota, purkaa
+nautakarja: lehmä
+laitteet: laitteet, laite, paperitavara, pakki, vaihde, asu, puuttua, laitos, telineeseen
+koettu: havaitseminen, tietoinen, havaita, tunnustaa, tunnustaminen, tietoisuus
+missätahansa: jonnekin, minnetahansa, eimihinkään, muualla
+keittiö: ruoanlaitto, liesi
+myydä: myynti, puoliperävaunu, myyjä, pettää
+nopeus: nopeus, vauhti, vauhti, jyrkästi, dynamiikka, liike, kiihdyttää
+tietokone: tietojenkäsittely
+ikuinen: koskaan, ikuisesti, ääretön, pysyvä
+kirjasto: kirjastonhoitaja, kirjahylly
+sekaannus: sotku, kaaos, hälinä, sekava, sekava, anarkia
+artikla: essee, erä, jakso, lauseke, halkaisija, insinööri
+kokki: kokki, ruoanlaitto, leipoa, kiehua
+bändi: vyö, nauha, nauha, ryhmä, ryhmä, kaistale, raita, vyöhyke, säie, nippu, rykelmä, kaista
+aavikko: erämaa, autio
+suudella: 
+jää: jäätelö, nauha, lumi
+pallo: kumi, pallo, luoti, pakottaa, lapsi, pilleri, tyhjyys, toimitus
+tikku: kalusto, ruoko, noudattaa, puu-, puutavara, maila, vihje, henkilöstö, napa
+perustelu: logiikka, liikkua, kiista, keskustelu, keskustelu, riita, alue, väite, kysymys, kysymykset
+tarkkailla: tarkastaa, tutkia, tutkia, tutkia, havainto
+siunausmieliala: 
+huomiotaherättävä: maksamatta, upeita, lakko, huomattava, merkittävä, merkittävä, huomattava, vaikuttava, yllättävä, hämmästyttävä, huomattava
+syyllinen: syyllisyys, velkaa, loukata, rikollinen, tuomittu, tuomita
+ase: kivääri, ase
+valvoa: valvoa, valvoa
+piilottaa: erittää, peittää
+retkikunta: kampanja, ajaa, matka, matka, matka, kiertue, ristiretki
+pilvi: kyberavaruudessa
+jätteet: hyödytön, tarpeeton, kieltäytyä, epääminen, hylkäys, roskat, roskat, roska
+helmikuu: 
+tauti: sairaus, sairaus, sepelvaltimo-, tyydyttävä, tyydyttävä, oireyhtymä
+aloitetapaus: 
+yleismaailmallinen: 
+omaisuus: hyvin, plantaasi, etu, maa, omaisuus, omistaminen, onni, rikkaus
+nöyrä: voittaa, vaatimaton
+viive: lykätä, myöhään
+myöhässäpakottava: 
+raportoitutodistusarvo: 
+valitettava: valitettavasti, onneton, sattuma, onneton, kurja, riittämätön, sopimaton, sopimaton
+keskiyö: pohjois-
+sankari: soturi, mestari
+sormi: varvas, numero
+lehdistö: tiedotusvälineet, aikakauslehti, aikakauslehti, painaminen, tyyppi, kaava, Työnnä
+palkinto: palkinto-, lahja, myöntää, bonus, korvaus, hyvittää
+syyttää: vika, vika, virhe, velka, syyllisyys, tölväistä, syyttää, vastuu, vastuu, moittia, väittää, tuomita, tuomita
+kurjuus: vaikeus, kärsimys, ahdistus, kurja, ikävystyminen, kärsiä, suru, ironia
+otsa: 
+ilmoitus: mainos, mainonta, mainostaa, ilmoitus, ilmoitus, julkisuus, ilmoitus, ilmoitus, että, varten, selvitys, väite, edistäminen, edistää
+enkeli: maanomistaja, keijukainen, kova, hankala, sanansaattaja
+kuuluisuus: kunnia, maine, huhu, huhu, mainonta, julkisuus, arvovalta
+yksikkömäärä: 
+valjeta: iltahämärä
+antaaanteeksi: tekosyy, Anteeksi, sietää, vapauttaa, lievittää, erottaa, anteeksianto
+lammas: lammas, vuohi, määrä, positiivinen
+päätöslauselma: ratkaista, ratkaisu, päätös, johtopäätös, analyysi, hajota, hajota, määritys, rappeutuminen
+kärsivällisyys: rohkeus, kärsivällisyys, potilas, kärsimätön, suvaitseva, toleranssi, rajoitus
+viite: viite, katso, eritellä, direktiivi
+maissi: vehnä, sarvi, jyvä
+avain: side, nappi, kytkin, tärkein, elintärkeä, näkyvä, herkkä, merkittävä, markkinarako, valtavirta, vihje, että
+enemmistö: monet, suurinosa
+tietämättömyys: oppimaton, naurettava, tyhmä, oppimaton, peukalo
+heikkous: kykenemättömyys
+voitto: etu, saada, hyöty, kannattava, voitto, edunsaaja
+soittokello: hälytys, kello, tunnin
+ilmapiiri: ympäristö, taivas, ilmailu, tila, ilmasto, ympäristö
+ihmiskunta: ihmisen
+levy: levy, viipale, laskuri, sylinteri, levy, tallentaa, tarjotin
+yksinäinen: yksin, yksinäisyys, erikseen, yksittäinen, vain, hiljainen, autio
+taiteilija: esiintyjä, taidemaalari, viihdyttäjä
+viehätys: karismaattinen, nähtävyys, taika-, loitsu, esteettinen
+orjuus: orja, side
+kuvernööri: konservatiivinen, hallitsija
+haara: 
+luonteenlaatu: järjestely, kokoonpano, suuntaus, suuntaus, säännös, layout, mieliala, ajoittaa, aikataulu, asuinpaikka, määränpää
+onni: onni, kohtalo, onnekas, onnellisuus, mahdollisuus, onnekas
+johdettu: saada, ottaavastaan, johtua, noutaa, saavuttaa, hakea
+induktiivinenmieliala: inferentialmieliala, deduktiivinenmieliala
+yhteisö: yhteiskunta, luokka, ihmiset
+öljy: rasva, polttoaine, fossiilinen, kurpitsa, lämpö-, voi
+putki: putki, hana, hana, perä
+painaa: painos, paine, painaminen, akseli, muotti, vaikutus
+Oi: ya, ryhmä
+esitelmäkonteksti: 
+vocativetapaus: 
+hytti: mökki, teltta, jättää, kammio, solu, lokero
+hermostunut: jännittynyt, sekava, häiritä, allapäin, hämmentynyt, järkyttävä, häiritä, järkyttävä, hermo-, huolestunut, hermo, vahva, voimakas, intensiivinen
+ero: vastaavasti, eritavalla, muunnelmat, monimuotoisuus, erota, erottaa, aukko, eriyttää, ero, kontrasti, vaihtelu, vaihtelu
+taakka: havaita, ladata
+silkki: ymmärtää, pito
+ylenkatse: halveksia, viha, vastenmielisyys, inho, inho, tölväistä, loukkaus, skandaali, huolimattomuus
+helvetti: 
+erotetaan: erillinen, syrjään, erilleen, selvä, erota, erikseen, syrjässä, erillinen, eristäminen, häpeäpaaluun, rajattu, erottaminen, erottaa, eristää, disjunktio
+sekoitettu: seos, yhdistelmä, yhdistelmä, sekoittaa, yhteinen, fuusio
+puinen: puu-, puutavara
+kohdella: hoito, terapia, parantaa, käsitelläasiaa, harkita, terapeutti, parannuskeino, sopimus, parantaa, käyttäytyä, tuki, leuka, leuka
+varoitus: varovaisuus, varoittaa, hälytys, muistomerkki, ilmoitus
+kehotusmieliala: 
+kunnianhimo: pettynyt, pettymys, himo, lannistaa, kunnianhimoinen
+tuotto: tehokkuus, jäljentää, tulo
+jollakintavalla: jokseenkin, jotain
+neuvo: konsultti, vihje, neuvoa, neuvottelu, neuvot, kärki, lakimies, asianajaja, puolestapuhuja
+perustuslaki: vuokrata, perustuslaillinen, tapaus, esiintyminen
+väline: työkalu, alus, kokonaisuus, elin, säiliö, apuohjelma, laite
+vakaa: vakaa, vakauttaa, säännöllinen, säännöllisesti, kiinteä, jatkuva, alituisesti, jatkuva, kestävä, standardi, staattinen, korjata, johdonmukainen, pysyvä, kiinteä, rento
+elementit: tekijät, elementti, komponentti, ainesosa, komponentit, olemus, liittolainen, tekijä, parametri
+jatkuvanäkökohta: 
+verkossa: 
+vuorovesi: aalto, napsahtaa
+college: tiedekunta, akatemia, kampus, yliopisto
+pyrstö: jonottaa, polku
+sukupolvi: jälkeläinen
+kissa: 
+suoraantodistusarvo: 
+hylätty: laiminlyödä, jättää, autio, lopettaa, luopua, liueta, peruuttaa
+yksitoista: 
+vaisto: spontaani
+heimo: runko, varsi, ladata, puute, puuttuva, puute, alijäämä, puute
+levotonmieliala: 
+suoja: lomakeskus, asuinpaikka, tilitys, elinympäristö, asuin-, suojaus, ylioppilasasuntola, turvapaikka, satama
+töykeä: tylysti, karkea, epäystävällinen, ankara
+ratsastus: ratsastaa, ratsastaja
+ammatti: työperäinen, ura, ammatti, ammattilainen, ammatillinen, liike
+lamppu: kynttilä
+kahvi: kahvila, riittävä, riittävästi, riittävä
+sairaanhoitaja: sisko
+vakuuttaa: varmuus, oikeuttaa, pantti, takuu, taata, varmistaa, varmistaa, vahvistaa, säätää, tyydyttää, kaikinmokomin, vakuuttaa, vakuuttaa, turvallinen, palladium
+kengät: kenkä, sandaali
+miehistö: henkilöstö, lauma, joukkue-, nippu, henkilöstö
+piha: koodi, sivu, kosiskelu
+epämääräinen: epäselvyys, hämärä, epäselvä, epäselvä, salaperäinen, epävarma, epämääräinen, aalto, vapaa, käsittämätön
+huoneisto: litteä, ympyrä, lokero, sviitti, vaunut
+toimintaa: kauppa, toiminto, toiminnot
+lauantai: viikonloppu
+pidike: 
+auringonpaiste: aurinko-, aurinkovoide, loistaa, päivänvalo
+leski: 
+viestintä: yhteyshenkilö, kirjeenvaihto, communicative, ilmoittaa, vuorovaikutus, ollavuorovaikutuksessa, suhde, koskevat, yhteys, korrelaatio, merkityksellisyys, ilmoitus, ilmoitus, kauppa, spray, työperäinen, vuoropuhelu, liitäntä, dialogi
+heijastus: miettiminen, refleksi, mielikuvitus
+organisaatio: kudos, organisaatio, järjestää, asu, yhtiö, apuohjelma, toimisto, kokonaisuus, järjestelmä, rakenne, rakenne, layout, laitos, instituutti, yhdistys, yritys, yritys, lentoyhtiön, järjestäytynyt
+tähti: 
+vieras: muukalainen, vierailija, ulkomaalainen, ulkomaalainen, tulokas, asiakas, asiakas, isäntä
+baari: paljas, pub, ladata, lasti, rahti, kahvila, barium, kaistale, side, vyö
+pullo: purkki, sairaus
+siunata: siunaus, tervehtiä
+herättää: manipuloida, sekoittaa, herättää, mellakka, kiihottaa
+riidellä: vaihtelu, riita, taistella, oikeudenkäynti, väitellä, erimielisyys
+sisempi: sisällä, sisällä, sisusta, sisäinen, paikallinen, kotimainen, sisä-, henkinen, sisäpiirin, tärkein, merkittävä
+vastus: vastustus, vastakkainen, protestoida, kestävä, anti, paheksua, vastalause
+ontto: tavallinen, paljas, tyhjä, kaapeli, reikä
+maakunta: maakunta-, piiri, lääni, rasva
+sivistys: kulttuuri
+ripustaa: valvoa
+järkyttää: isku, trauma, järkyttävä, yhteentörmäys, vaikutus, tainnuttaa
+poikkeus: osittainen, syrjintä, stereotypia, vapautus, konflikti, maksamatta, vapauttaa, vähennys
+rasitus: korostaa, jännitys, ladata, väsymys, ponnistus, intensiteetti, omaksua, rodullinen, etninen
+ajo-: ajaa, kuljettaja, opas, ratsastaa
+vannoa: kiroilua, pantti
+aarre: helmi
+siemen: sperma, mutteri, hiukkanen, Herra
+torni: 
+suosikki: suosikki-
+äskettäin: viimeaikainen, juuri, hiljattain, nykyään, jälkeenpäin
+hereillä: tajuissaan, moraali, herätä, hälytys, kiihottaa
+huonekalut: 
+köysi: johto, jono, hihna, sitoa
+seikkailu: hanke, vaara, uhkapeli
+royalty: vallita
+juhla: osapuoli, juhla, banketti, loma-, päivällinen
+vuotuinen: vuosi, vuosittain
+asteikko: kehys, puitteet, arvioida, suhde, tikapuut, portaikko, rappu, koko, kriteeri, ulottuvuus, taso, laajuus, verrannollinen
+siis: seuraus, siksi
+perusta: pohja, perusta, pohjainen, perusteellinen, ensisijainen, alkeis-, ydin, perustiedot, matala, opiskelija, perustein, foorumi, perustukset, pohjimmiltaan, taustalla
+seremonia: rituaali-, toiminto, juhla, konsertti, kaava, tajunta
+metsästys: metsästää, uhri, saalis, ajaatakaa, ammunta
+liberaali: antelias, vapaasti
+enimmäkseen: merkittävästi, merkittävästi, suurinosa, pääasiallisesti, enimmäkseen, suuresti, laajalti, pääasiallisesti, alunperin, olennaisesti, pohjimmiltaan, yhäuseammin
+prinsessa: tytär, morsian
+alttari: pyhäkkö
+verkko: verkko, netto, ruudukko, kudos, kangas, neulominen
+violetti: purppura
+kerätä: kerätä, kerätä, kutistua, valitsin, ruoantähteet
+vaalit: valinta, valita, polku, äänestys, valas, valinta, valikoiva
+humalassa: alkoholisti, juoppous
+kaataa: kaataa, vuodattaa, läikkyminen, kaataa
+hissi: hissi, ylentää, kohottaa, korottaa, vaellus
+ele: merkki, signaali, symboli, symbolinen, asenne, ryhti, vihje, osoitus
+hoitaa: johto, valvoa, kahva, hallinto, hallita, ohjata, ohjaus, toimia, olisi, järjestää, järjestää, konfiguroida, suorittaa, ylläpitää
+vaihtaakeskenään: vaihtaa, vastavuoroinen, vaihtokauppa, korvaaminen, kommutatiivinen, valuutta, raha-, vaihtoehtoinen, siirto
+selväartikla: 
+keisari: hallitsija
+saadavalmiiksi: päättynyt, pääte, pää, kipsi, yli, koristelu, johtopäätös
+ruma: ikävä, inhottava, iloinen, nautittava, huvittava
+aito: totta, todellinen, todellinen, virtuaali-, tarkka, alkuperäinen, syntyperäinen, synnynnäinen, kotoperäinen, tietty, luottavainen, sarake, vilpitön
+tuuma: tulli, peukalo
+parta: leuka
+repiä: siepata, eroosio
+vastustaa: anti, vastustus, kontrasti, protestoida, päinvastainen, vastustaa, keskeyttää, vastakkainen, kieltäytyä, hylätä, vastakkainen, esine, kestää, vihamielisyys, ristiriitaisuus
+kauppias: kauppias, Bisneshenkilö, kauppatavara
+itsenäisyys: itsenäinen, vapaus, vapaasti, vapaus, autonomia, vapauttaminen
+haju: hajuvesi, maku, maku
+kahdeksantoista: 
+historiallinen: historiallisesti, historia, historioitsija, historiallinen
+brutto: kaikkiyhteensä, aggregaatti, likainen, raaka, raakaöljy, kiihottumisen, makro, innokas, vaikea, voimakas, piste, yleinen
+juuri: varsi, juuri, reitti, alkuperäinen, alkuperä
+muta: maaperä, lima, savi, lika, kukka
+yksinkertaisuus: yksinkertainen, nöyryys
+huntu: verho, purjehtia, purjehdus, kuvaruutu, kalvo
+teatteri: teatteri
+vertailu: vertailla, vertaileva, korrelaatio, suhde, yhteenotto, vertailukelpoinen
+sävellys: komponentti, rakenne, muodostus, rakentaminen, muodostaa, rakentaa, järjestää, kokoonpano, konfiguroida
+kilpailija: vastustaja, toisinajattelija, kilpailu, kilpailukykyinen, kilpailla, kilpailija, laskuri, ristiriitainen, anti
+ymmärtää: saavuttaa, tunnustaa, tunnustaminen, tunnistaa, määrittää, tietämätön, suorittaa, tuntea, havaita, ymmärtää, ymmärtää, suorittaa, muistaa
+saldo: tasapaino, yhtä, tasa-arvo, vaakasuora, verrannollinen, par, talousarvio
+valmentaja: kouluttaja, lääkäri, tutor, opastaja
+huumori: huumori, humoristinen, mieliala, komedia, vitsi
+romaani: kaunokirjallisuus, uusi, hiljattain
+kosto: kauna
+voimavarat: etu, lähde, resurssi, välineet, toimittaa
+mustasukkainen: mustasukkaisuus, kateus
+pyörä: pyörä, ympyrä, sykli
+palanut: polttaa
+salama: salama, hehku, loistaa, taskulamppu
+ehdottaa: ehdotus, suositus, ehdottaa, suositella, ehdotus, nimittää, vihjata, palaute, osoittaa, ehdotus
+imprecatorymieliala: 
+avuton: 
+ryhmät: ryhmä, kansi
+maila: maila
+tulva: musertaa
+nauttiminen: nauttia, ilo, ilo, ilahduttaa, onnellisuus, iloinen, tyytyväinen, iloinen, eläköön
+välinpitämättömyys: apatia, varomaton, laiminlyödä, jättäähuomiotta, unohtaa
+horisontti: 
+assumptivemieliala: hypoteettinenmieliala
+jyrkkä: korkeus, kohtisuora, paljon
+harmonia: vaarantaa, virittää
+lapsuus: 
+polvi: kierros
+keskinäinen: toisiaan, vastavuoroinen, yhteinen, yhteinen, vuorovaikutus, interaktiivinen
+ohjelmisto: hakemus, ohjelmisto
+vahinko: satuttaa, vahingoittaa, vahingoittaa, vahingoittaa, haava, trauma, loukkaantunut, rikkominen
+kuitti: ottaavastaan, sisäänkäynti, vastaanotto, sisäänpääsy, hyväksyminen, tosite
+kuri: aihe
+lipsahdus: liukas, dia, liukua, tahdittomuus
+vallankumous: vallankumouksellinen, vallankaappaus, kierto, kapina, kapina
+maanviljelijä: talonpoika
+tahti: isku, vallankaappaus, kiire, ryntäily
+etuoikeus: etuoikeutettu, etusija, kiintiö, toimilupa, tarjous, myönnytys
+opiskelija-: oppilas, tutkija, opiskelija, akateeminen
+luola: 
+perinne: perinteinen, perinteisesti, tulli, antautuminen
+tragedia: epidemia, surullisuus, paradoksi
+majatalo: pub
+neitsyt-: neito
+jäähyväiset: Hyvästi, bye, byeBye
+kritiikki: arvostella, kritiikki, arvostelu
+puuvilla: villa-
+sairaala: turvapaikka
+vuokrata: hinta, vuokraus, verottaa, kunnianosoitus, vuokrata, käyttää, sitoutua, vuokrattu, vuokrata
+kaasu: 
+väistämätön: väistämättä
+tappava: elintärkeä
+lehti: arkki, terä
+julkaisu: julkaista, kustannustoiminta, painaminen, julistaa, lähettää, julkaisu, ulostulo, diffuusio, ilmoittaa
+käännös: kääntää, kääntää, tulkinta, epidemia, siirtää, versio
+ranta: säie, rannikko
+hautajaiset: hautaaminen, hautausmaa, haudata
+jauhot: jauhe, taikina, tarkka, tarkka, tarkka, ateria
+karjaisu: dramaattinen, huutaa, melu
+romanttinen: vyötärö, lonkka
+kota: mökki, jättää, vuodattaa
+miiminen: 
+dollari: 
+kuusitoista: kuusikymmentä
+kokoonpano: kokous, konferenssi, kongressi, kokoonpano, ralli
+siirtomaa: 
+siipi: osasto, sviitti, raaja, evä, lento, ilmailu
+leijona: 
+ovela: hankala, temppu, taitava, taitava, diplomaattinen
+draama: teeskennellä, dramaattinen
+sumu: sumu
+hypertext: hyperlinkki
+lääketiede: lääke, parannuskeino, spray, resepti
+neljätoista: ilman, yksinomainen, sini
+happo: hapan, hapan, vuori, asentaa
+nimittäin: kaikki, toisinsanoen
+käyttäjä: edunsaaja, kuluttaja
+piispa: 
+oranssi: 
+kylpy: kylpyhuone, suihku, kylpyamme
+johdannainen: yhdiste, transkriptio, johtua
+primitiivinen: varhainen, alustava, muinainen
+kori: astia, laukku, koripallo
+sihteeri: toimittaja
+pelastus: turvallisuus, vapauttaminen, Moi, pelastaa, elpyminen, hakea
+tänään: 
+hodiernaljännittynyt: 
+aikovat: tarkoitettu, aikomus, kiinnostunut, innokas, motiivi, haluton, omistaa, omistaa, määritys
+höyry: 
+myrkyttää: myrkyllinen, myrkyllinen, rikkaruohomyrkky, poisson
+lahjakkuus: loisto, lahjakas, pätevyys, kyky, ohjelmisto
+tehokas: pätevä, tehokkaasti, tehokas, tehokkuuden, vaikutusvaltainen, hyödyllinen, aktiivinen, saatavissa, vaikuttava
+pestä: pesu
+tunnustus: tunnustaa, uskontunnustus, tunnustaminen, sisäänpääsy, väite
+järjettömyys: roskat, kohtuuton, sopimaton
+kivihiili: hiili
+vara-: assosiatiivinen, bye, sijainen
+väliaikainen: intervalli, kesto, ajallinen, rento, satunnainen, ajastin, silläaikaa, nykyajan
+delimitativenäkökohta: 
+luu: jalka, murtuma, luuranko-
+maanantai: 
+tiistai: kolmas
+keskiviikko: neljäs
+liittovaltion-: liittovaltio, keskeinen
+toivottava: houkutteleva, suotuisa
+edustaja: edustaa, puolesta, valtuutettu, asianajaja, sijainen, tiedottaja
+liinavaatteet: alusvaatteet
+pesuallas: hukkua, pesuallas, sinkki, synkronoida
+veljenpoika: veljentytär, pojanpoika, lapsenlapsi
+piiritys: ympäröidä, istuin
+vatsa: vatsa, vatsan-, matriisi
+huippukokous: huippu, ylin, kärki, sopimus, harjanne
+yksinomainenhenkilö: 
+takavarikoida: puuttua, rajoittaa, pidättää, varaus, siepata, miehitetty, miehittää, takavarikoida, napata, ymmärtää, havaita, saada, puolustaa, hallinta
+aita: hedge
+patsas: veistos
+ylellisyys: 
+tykistö: parranajo
+pidätys: saalis, kaapata, pidättää, kiinnittyä, pysäyttää, käsitys
+pakata: paketti, paketti, paketti, kietoa, nippu, suljettu, kiinni, kääre, pakkaus
+ympäröivä: noin, naapuruus, naapuri, naapuri-, naapuruus, perifeerinen, ympäristö, viereiset, kattava, ympäristö, ympäristö-
+tiukasti: tiukka, johdonmukainen, tarkasti, tiukka, vaikea, varmasti, täysin, ehdottomasti, tiukasti, ankara, kaikinmokomin, täsmälleen, tarkasti
+loput: levätä, jäljelläoleva, kulunut, ruoantähteet
+peura: 
+pensas: 
+rautatie: rautatie, rautatie
+päästö: vapauttaminen, purkaa, julkaisu, luovuttaa, karkottaa, päästää
+perillinen: periä, omistaa
+tammi-: 
+epämiellyttävä: ilahduttaa, miellyttävä, levoton, vihainen, järkyttävä, ikävä, epämiellyttävä
+piano: 
+suostutella: vakuuttaa, juhlia, muistoksi
+näkymätön: salaperäinen, kadota
+tunnettu: kuuluisa, pahamaineinen, näkyvä
+julmuus: 
+houkutus: houkutella
+telicnäkökohta: 
+kansainvälinen: maailmanlaajuinen, monikansallinen
+häiritä: häiriö, interventio, puuttua, häiritä, vaivautua, järkyttävä, keskeyttää, ärsyttää, ärsyttää, häiritä, yhteentörmäys, ärsyttävä, päästää, häiriö
+hienovarainen: mikro, temppu, alus, herkkä, sileä, hienoksi, hieno, ohut, hienovarainen, lempeä
+filosofi: filosofinen
+tyylikäs: muodikas, herkkä, ihana, erinomainen, huomattava, loistava, uskomaton, fantastinen, painokas, ilmiömäinen
+hyvinvointi: hyväntahtoisuus, vauraus, säännös
+kalastus: 
+varastaa: varkaus, ryöstää, ryöstö, napata, plagioida, kohdellahuonosti
+huuli: nokka, oraalinen, Brink
+jäädäeläkkeelle: eläke, eläkkeellä, eläkeläinen, vetäytyä, levätä, vapaa-, peruuttaa, eläke
+talous: taloudellinen, taloudellisesti, taloustiede, lama, säästö, talous, ekonomisti
+venyttää: suoristaa, pidentää, alue, piirre, pala, kulku, katkelma, kimpale, segmentti, osa
+yhdensuuntainen: rinnalla, yhteensopiva, kumppani, kiinnittää, vaakasuora
+atelicnäkökohta: 
+ehkäisevämieliala: ehkäisevämieliala
+solmio: kotka
+muna: 
+keinotekoinen: synteettinen
+inspiraatio: motiivi, motivaatio, impulssi, innostaa, neronleimaus, rohkaisu, induktio, stimulaatio, ärsyke, motivoida
+sillävälin: samanaikaisesti
+kriisi: vaara, lama, tuomio, tuomio, hätä-
+kohtelias: kohteliaisuus, sivistynyt, eettinen
+tiiviste: leima, painaminen, vaikutus
+lounas: aamiainen, päivällinen, karjatila, ateria, ruokailla
+huolimatta: huolimatta, vaikka, vaikka
+maisema: skenaario, ympäristö, ympäristö, konteksti, ympäristö-, maaseutu, luonnollinen, näkymä, visio, näkymä, näkymät
+taiteellinen: taide, kuvamateriaali
+liitto: liitto, liiga, koalitio, yhdistää, kumppanuus, tähdistö
+maksimi: maksimoida, äärimmäinen, perimmäinen, suurinosa, kuin, yli, ylittää
+ihme: ihme
+kupari-: pronssi
+puhtaus: siveys, tarkkuus, tarkkuus
+tasavalta: demokratia
+puhelin: puhelin, mobile
+ruoska: hihna
+paita: t-paita
+esitellä: käyttöönotto, esittely, perustaa, aloittaa, tehdä, säännös, suositella, lähete, pistää, toimittaa, toimitus, kuvata, kuvata, yhteyshenkilö, lisätä
+sohva: nojatuoli
+lakaista: pyyhkiä, skannata
+varas: 
+kanava: valua
+uudistaa: parannus, korjaus, evoluutio, muuttaa, muutos, jalostaa, tarkistus, päivittää
+jano: janoinen
+uhkaava: uhkaus, uhata, pelottava
+palmu: 
+kannustaa: rohkaisu, innostaa, ajaa, Työnnä, edistää, kannustin, halu, eläköön
+kaiutin: tiedottaja, lehtori
+kynnys: sisäänkäynti, sisäänpääsy
+aiheuttaa: aula, halu, aiheuttaa, varoittaa, kiihottaa, aiheuttaa, houkutella, herättää, liota, johtua, induktio, kiinnittää
+siisti: siisti, puhdas, hyvä, ihana, mieltymys, kauniisti, kauniisti
+istunto: kokous, konferenssi, lukukausi
+kiduttaa: kärsimys, ahdistus, väkivalta, teline, neuvonantaja
+kostea: lika, märkä, hiostava
+matkustaja: vierailija, matkustaja, turisti, matkustaja, matka, matkustaa
+mylly: tehdas, valmistus, kasvi, hana, panimo, vehnä
+kartta: kortti-, kaavio, kaavio, hinta, lippu, symboli, ikoni, johto
+suihkulähde: lähde, vesiputous, jae
+kaulus: ympäröidä, vyöhyke
+korvata: korvaaminen, syrjäyttää, vapaa, vaihtoehto, korvike, korvaaminen, siirtymä, muuttaa, vaihdella, muuttaa, sub, muuttaa, kytkin, lievittää, sopeuttaa, hyvittää
+tarkoituksella: tahallinen, tarkoituksellinen, tietoinen, tajuissaan, päättäväinen, satunnainen
+olut: pint
+sametti: 
+positiivisesti: positiivinen, aktiivisesti, suosia, suosia, täysin, täysin
+painovoima: nähtävyys, murskata, vakavasti
+saarna: saarnata, esitelmä, luento
+kumppani: stipendiaatti, kumppani, tyttöystävä, poikaystävä, pari, perämies, yhteinen, yhteinen, osakas, kollega, puoliso
+väärinkäyttö: virheellinen, väärin, pahuksen
+parvi: ryhmä, lauma, parvi, pohatta
+kolmetoista: kolmekymmentä
+perustella: oikeuttaa, anoa, puolestapuhuja, oikeutus, perusteltu, laillinen, säätää
+käsikirjoitus: laskuttaa, käsikirjoitus, kantaja
+perjantai: hopea-, Venus
+harjata: kampa
+download: lataa
+kerma: jäätelö
+hirviö: jättiläinen, hirvittävä
+jäädytetty: jäädyttää
+pannu: panoroida, maljakko, purkki, säiliö, liesi, nokare, alus
+riisi: 
+käytös: käytös, käyttäytymiseen, merkki, tapa, ominainen, suuntaus, käytös
+kolikko: valuutta, penni
+tulot: tulo
+vaatia: äänekäs, työntövoima, puolustaa, korostaa, painottaa, jatkua, vaatimus, vaatia, painotus, veto, stressaantunut, väitellä, väittää
+harppaus: 
+omena: anteeksipyyntö, pyydäanteeksi
+pohtia: keskustelu, neuvotella, väitellä, hash, puhua
+tausta: 
+litteroida: sopeuttaa, kirjoittaauudelleen, simuloida
+viihde: virkistys, viihdyttäjä, vapaa-, viihteellinen, viihdyttää, hauska, harraste, rentoutuminen, huvittaa, vieraanvaraisuus
+virus: 
+lapsellinen: sopraano
+kaapu: vaate, pukeutua, puku, yhdenmukainen, asu, vaatekaappi
+heijastaa: miettiminen, meditaatio, mietiskellä, paljastaa, projektio, kuvata
+muuntaa: muuttaa, muuttaa, kytkin, mutaatio, siirtyminen, muutos
+ääriviivat: profiili, muoto, yhteenveto, luonnos, paljastaa, yleiskatsaus, luonnos
+ooppera: 
+kyynärpää: kannatin
+liite: liite, liitäntä, läikkä, linkki, liitin
+korjaus: palauttaminen, parannus, rekonstruoida, korjaus, muuttaa, muutos
+nyrkki: booli, pito
+epäilyttävä: epäilys, epäilty
+kirjoitusten: raamattu, kirjasin, käsikirjoitus
+kuoppa: reikä, kaivanto, pool, oja, boori
+häiriö: kaaos, anarkia, levottomuus, häiriö, sotku, järkyttävä, häiriö, vika, este
+suosionosoitukset: taputtaa, kiitellä, hyväksyminen
+binaarinen: dyadic
+luostarikirkko: luostari
+nuoli: 
+yleensä: velvollinen, yleensä, yleensä, suuntautuminen, paljon, muodostuvat, puolustaa, suuntaus
+kehittää: yksityiskohtainen, määritellä, selventää, kehittää, monimutkainen, hankala, treenata
+uskollisuus: omistautunut, uskollinen, luottamus, uskollisesti, rehellisesti, epäluottamus, uskottavuus, usko, usko
+vapista: väristys, värähtely
+maanpakolaisuus: ammu, ulkomailla, turvapaikka
+mekaaninen: koneet, mekaanikko, mekaniikka, insinööri
+onnistuneesti: kauniisti, onnistua, epäonnistunut, tulokset
+ansa: pito, tuomittu
+kakku: leivonnainen, piirakka, pikkuleipä, taikina
+sir: Herra, herra, herra, herrasmies
+epäröidä: epäröinti, lyödä, kummitella, taajuus, leijua
+seitsemäntoista: 
+naisellinen: naisellinen, naaras-, nainen, herkkä
+hunaja: 
+panos: veto, osa, kasa, jakaa, jae, panos, uhkapeli, osakas
+tiili: laatta
+legenda: myytti
+sato: sato, viljelykasvien
+liesi: liesi, laatta, uuni, takka
+kapinallinen: kapina, kapina, vallankaappaus
+vanhanaikainen: muinainen
+turvota: paisuttaa, turvonnut, inflaatio, turvotus, suurentaa
+parantaa: korottaa, parantaa, korjata, parannuskeino, parantaa, parantaa, parannus, lisätä, lisätä, kiertää
+kulho: 
+tuijottaa: korjata, tuijottaa
+teollinen: valmistus, teollistuminen, teollisuus
+pukeutuminen: kastike, side
+teema: aihe, motiivi, aihe, ongelma, motiivi
+askeettinen: 
+johtaja: stuertti, päällikkö, pomo, ylläpitäjä, johtaja, hidastin, johtaja, johtaja
+vetää: piirtää, Vedä, saalis, peruuttaa, peruuttaa, sakset, veto, laatikko, lääke
+kertosäe: ajaa
+järkevä: perusteltu, logiikka, looginen, kohtuuton, järkevä, kohtuullisen, kohtuullinen, näennäinen
+jalostus: muokata, suoritin, käsitelläasiaa, prosesseja, menettely
+susi: 
+matto: matto
+antiikin: muinainen, aikakausi
+hedelmällinen: Fourier
+pilli: huilu
+juusto: 
+purra: pilkkoa, paloitella, pisto, suupala, siemailla, vahingoittaa, riistäminen
+katedraali: 
+vaeltaa: kävely, siirtyä, vaellus, lähteä, vääristymä
+laivasto: meren-, laivasto
+naamio: julkisivu, mato
+lyijykynä: kynä
+vihannes: kasvissyöjä
+housut: housu-, housut
+korruptio: skandaali, saastuminen
+kaappi: kaappi, komero, vaatekaappi, WC
+keitto: 
+kirurgi: leikkaus, kirurginen, toiminta, analyytikko
+avustus: korvaaminen, korvike, korvaus, appositio, jako, liite
+vakooja: havaita
+holtiton: varomaton, epäsiisti, huolimattomuus, kohtuuton
+juoru: huhu, huhu, jutella
+järjestelmät: järjestelmä
+symbolinen: 
+abstrakti: yhteenveto, opetussuunnitelma
+aksentti: lausua, ääntäminen, murre, painotus
+vilpittömästi: rehellisesti, vakavasti, vilpitön, uskollisesti
+hyväksyä: hyväksyä, valtuuttaa, hyväksyvä, vahvistaa, vakuuttaa, suostumus, hyväksyminen, hyväksyä, hyväksyä, myöntää, suotuisa, sanktio
+arkkitehtuuri: rakenne, rakentaminen, rakenne
+crack: rako, säröillä, lähteä, lopettaa, murtuma
+jalkakäytävä: hillitä, piki, lima, jalkakäytävä, kävelytie, pakkaus
+ratkaiseva: ratkaiseva, elintärkeä, määrätä, päättää, itsevarma, luovuttaa, eritellä, lopullinen, kriittinen, vallankaappaus
+negatiivinen: haitallinen, kieltäminen, negaatio, kieltää
+festivaali: konsertti, loppiainen, juhla
+maanpetos: 
+metsästäjä: petoeläin
+käärme: matelija
+akku: 
+etsivä: vähennys, tutkija
+uida: uima-
+kirjekuori: seikka, adverbi
+savuke: tupakointi-, rikkaruoho
+moottori: auto, moottori, motiivi, moottoripyörä, moottoripyörä
+vapaaehtoinen: omistaa, vapaaehtoinen, hyväntekeväisyys
+reaktio: reagoiva, vastaus, vastata, suhtautua, palaute, valotus, reaktori
+matkatavarat: matkatavarat, rahti, runko, matkalaukku, logistinen
+kuuro: 
+mehu: ote
+seksuaalinen: sukupuoli, seksuaalisuus
+timantti-: helmi
+kaiku: 
+identiteetti: tunnistaa, henkilöllisyystodistus, symbolinen, tuttavuus, tunnistettavissa, tunnustaminen
+suurlähettiläs: sanansaattaja, diplomaatti, aineenvaihdunta
+laiska: mätä
+momentanenäkökohta: 
+ajelehtia: toiminta, poikkeama, suuntaus, suuntaus, virtaus, asenne
+kuvitteellinen: mieltymys, kuvitella, mielikuvitus, kaunokirjallisuus, fantasia, subjektiivinen
+säde: palkki, käytävä, säde, rahoittaa
+kiipeily: nousta, kasvi, kylvää, kiivetä, hiipiä
+muste: kasvovesi
+mieleenpainuva: näkyvä
+meluisa: melu, huutaa, äänekäs, ääneen
+senaatti: eduskunta
+kuljetus: kuljetus, kuljetus, saalis, liikenne, sukkula, siirtää, metafora, johtuminen
+ruumisarkku: alue
+niellä: siemailla, erä
+langeta: harjoittaa, tyydyttää, sisällyttää, upottaa, sijoittaa
+maatalous-: maatalous, viljely, maatila
+swing: 
+niitty: laidun, pre, nurmikko
+monimutkainen: monimutkainen, hankaloittaa, hienostunut, yhdiste, hankala
+eroaminen: erota, eläke, taaksepäin, vetäytyä, lopettaa
+nöyräilmoittautua: 
+pippuri: 
+poni: 
+ehdokas: hakija, mahdollinen, rekrytoida
+kettu: 
+savupiippu: takka, pino
+toimivalta: auktoriteetti, tuomio, tuomio, pätevyys
+entinenkuollut: 
+demokraattinen: demokratia
+viltti: katto, kansi, matto, kattavuus
+sika: kylvää
+norsunluu: norsu
+sytytin: kirjailija
+tarkkailija: ohjaaja, vierailija, tarkastaja
+kynnet: naulata, kynsiä
+mehiläinen: 
+näyttelijä: näyttelijä, esiintyjä, kantaja
+hiki: ommel
+kiillottaa: murre, loistaa
+illuusio: petos
+epävarmuus: epävarma, epäselvyys
+toissijainen: vähäinen
+maaseudun: maakunta-, maaseutu, kyläläinen
+verenkierto: silmukka, pyöräily, syklinen, yleisyys, diffuusio, ympyrä, sykli, taajuus, kierto, kiertää, liikenne, sightsee, johtuminen
+notkua: 
+muistuttaa: samanlainen, samankaltaisuus, muistuttaa, vastaava, pitää
+lainata: ote, lainaus, lainauspäättyy, lainata, lainata, lainata, viite, arvio, siteerata
+säkki: erottaa, hylkääminen, laukku
+harmi: häiriö, häiriö, keskeytys, vaikeus, ikävystyminen, vaivautua, melu, järkyttävä
+neula: injektio, tappi, osoitin
+ohjattu: ohjaus
+este: rajoitus, rajoitus, rajoitettu, kieltää, kieltää, este, lohko, keskeytys, haitta, häiritä
+luottaa: laskea, arvella, riippua, luottamus, varmuus, riippuvuus, riippuvainen, riippuvuus
+kana: kana
+tynnyri: ämpäri
+tavanomainennäkökohta: 
+asiantuntija: asiantuntija, kokenut, erityinen, erityinen, erikoistuneet
+tehdävaikutus: vaikuttaa, vaikutus, vetääpuoleensa, vaikuttunut
+pakettiauto: venttiili
+nyökkäys: torkut
+määritelmä: selostus, henkilöllisyystodistus, kuvaus, määritys, konnotaatio, oikeudenmukaisuus
+syntymäpäivä: vuosipäivä
+vasara: 
+tuoksuva: hajuvesi
+triviaali: pikkumainen, merkityksetön, hienoinen, marginaalinen
+kaivaa: kaivaa, porata, kaivanto
+lemmikki-: olemus, edistää
+kallo: 
+lainsäätäjä: eduskunta, lainsäädäntö, lainsäädännöllinen
+kantapää: hypätä, nilkka
+rypistääotsaansa: 
+patentti-: lisenssi, lisenssi
+miljardi: 
+kemiallinen: kemia, kemikaalit, kemisti, kemoterapiaa
+pulssi: impulssi, ranne, vauhti, pitsi
+lentäjä: kokeilu, kokeellinen, kuljettaja
+solmu: kyhmy, solmu, pitää, sopimus, solmia, vuosikymmen, neuloa, liittymä, raaka, raakaöljy, ennakkoluulo
+hame: rock
+masennus: lama, lama, suru, suru, surullisuus, masentunut, korostaa
+tekninen: tekniikka, teknologia, teknisesti, teknologia, kehittynyt
+ajoneuvo: ajaa, auto, kärry, välineet, auto
+laajuus: laajennukset, verkkotunnuksen, valtakunta, alue, tavoittaa, laajuus
+kasvillisuus: kasvi
+auringonnousu: 
+myötävaikuttaa: panos, lahjoittaa, kumppanuus
+koukku: koskevat, kytkeä, korreloida, kannatin
+tiikeri: 
+hiha: varsi, jälleenmyynti
+valtatie: tie
+miliisi: 
+eheys: keskittyminen
+läpinäkyvä: läpinäkyvyys, kirkas, selvästi, ilmeinen, ilmeinen, ilmeisesti, epäselvä, täsmällinen, suora
+yhdeksäntoista: 
+laskenta: laskea, aggregaatti, laskeminen, laskeminen
+pätevä: oikeutettu, pätevyys, pystyvät, ansio, ansaita, pätevöityä, taitava, pätevä, pätevä, pätevyys
+orgaaninen: fossiilinen, olennainen
+teologia: 
+kellua: vene, leijua, laivasto
+noita: 
+studio: etiketti, työpaja, tutkimus
+samppanja: 
+lippu: lippu, juliste, lippu
+avioero: eronnut
+pultti: salama, naulata, kierre, ruuvi
+suoni: hermo
+passiivinen: yleisö, vammaiset
+sora: aggregaatti
+planeetta: ensisijainen, tähdistö
+hylly: teline, kaappi
+tuuletin: 
+trooppinen: intohimoinen
+vaihe: valokuvaus-, vaihe, aika, rakentaa, vaihe
+mielivaltainen: spontaani, valinnainen, sopimus, sopimus, kontrolloimaton
+ekstaasi: transsi, innostusta, ilo, onnellisuus
+elohopea: lämpötila
+itsemurha: 
+reportteri: toimittaja
+riistää: riistäminen, peruuttaa, sulkea, vähentää, kieltää, ryöstää
+parveke: terassi, ullakko
+haarukka: kansa
+työntekijä: työntekijä, työmies, työskentely, tekijä, riippuvainen, virkailija, henkilöstö, työ, työ, henkilöstö
+työnantaja: pomo, vuokraisäntä, omistaja
+leveys: laajalti, toimittaa, leveä, puoliperävaunu
+liekehtivä: 
+ärtynyt: vihainen, innoissaan, ärsyttää, provosoida, stimulaatio, kyllästynyt, ärsyke, stimuloida, kannustin, motivaatio
+klassinen: klassinen, optimaalinen
+apina: simpanssi
+hyväksyttävä: hyväksyä, hyväksyminen, uskottava
+allekirjoitus: 
+laulaja: lukija
+ortodoksinen: konservatiivinen, tavanomainen, perinteinen
+lastentarha: plantaasi
+hyväksyminen: käyttää, hyväksyä, hyväksyminen, olettamus, hyväksyminen, osapuoli, vastaanotto, sisäänpääsy, kierros, kvantti
+haluttomuus: epäröinti, vastenmielisyys
+tuodamaahan: käyttöönotto, tulo
+soihtu: 
+kielioppi: kieliopin
+tallettaa: kerätä
+siirtomaa-: maahanmuuttaja
+jahti: lautta, vene
+pelotella: pelästyttää, kauhistuttaa, estää, hälytys, huolissaan, kummitella
+johtuva: seuraus, episodi, tärkeä, huomattava, johtava, näkyvä, huomattavasti, merkittävä, merkittävä, mielekäs, epäsuora
+Sukupuuttoonkuollut: puuttuva, kadota, kuollut
+kupoli: 
+paksuus: 
+itsepäinen: itsevarma
+lihas: 
+suuruus: koko, irto-, amplitudi, arvioida, määrä, intensiteetti
+hieroa: 
+malja: välipala
+hiiri: rotta
+tavu: kirjasin, aakkoset
+neutraali: neutri, oikeudenmukainen, maallinen
+havaita: arvioida, henkilöllisyystodistus, tunnustaa, tunnistaa, havaitseminen, paikantaa, hakea, löytää
+kukoistaa: vauraus, menestyä, puomi, helmi, helmi, kukka
+määrätä: pakottaa, valvoa, määrätä
+anonyymi: 
+muodollinenilmoittautua: 
+vasikka: kiire
+manuaalinen: opas, suunnitelma, ohje, kirjanen, merkki, johto, oppikirja, opetus, johtaja, ohjaaja, asiakirja, dokumentointi, toiminta, valmistus
+ennakointi: odotettu, mahdollinen, odottaa, odotus, ennakoida, ennustus, ennustaa, ennuste, säännös
+sulaa: haihtua, sulaa, fuusio, yhdistää, liukeneva
+sateenvarjo: laskuvarjo, sieni
+tavaratila: kenkä, runko
+mineraali: jodi, ravintoaine, metalli-, mangaani
+aselepo: tulitaukoa
+ankka: 
+saippua: 
+nukke: vauva, lelu
+huvila: keijukainen, jättää
+ompelu: ommel, ommella
+sovittaayhteen: sovitella, yhdistää, yhtenäistää, säätää, säätö
+kattila: 
+kani: 
+kapellimestari: tikapuut, tarkastaja, kuljettaja, johtaja
+pelaaja: esiintyjä
+hyönteinen: tuhoeläin, mato, vika
+ravintola: 
+radikaali: militantti, äärimmäinen, etenevä, vallankumouksellinen, äärimmäinen, koko, kauttaaltaan, koko, absoluuttinen, yhdistää
+asukas: asukas, syntyperäinen, kotimainen, kotoperäinen, vuokralainen, asuin-
+lohikäärme: leija
+auditiivinentodistusarvo: 
+viipyä: pitkittynyt
+kansi: kansi, korkki, kansi, venttiili
+pormestari: markkinoida
+laitteisto: materiaali
+luova: 
+vähemmistö: harvat, desimaalin
+kaivanto: oja, kaivanto
+orkesteri: 
+pekoni: 
+syyte: syyttää, tapaus, puku, oikeudenkäynti, pyrkimys, väite, kantaja
+haitta: menetys, riistäminen, haitallinen, virhe, haitta, vaikeus
+kangas: kangas, vaatteet, pyyhe, kangas, kudos, helpotus, rakenne
+muusikko: säveltäjä, musikaali
+henkisesti: henkinen, henkinen, moraali, mana, subjektiivinen, psykologinen, kognitiivinen, psykiatrinen
+sopimaton: virheellinen, mahdotonhyväksyä, virheellinen, sopimaton, odotettu, laiton, riittämätön, sopimaton, epäoikeudenmukainen
+arkkitehti: 
+keskiviikko: 
+sitruuna: 
+yskä: yskä
+hedelmällisyys: jäljentäminen, rotu, sukupuolielinten
+satunnainen: satunnaisesti, Satunnaista, satunnainen, rento, spontaani, stokastinen
+lusikka: ämpäri
+päiväkirja: päivittäin, sanomalehti, aikakauslehti, kalenteri
+ilmapallo: 
+inferentialtodistusarvo: 
+kustantaja: toimittaja, kustannustoiminta
+tuhka: harmaa, harmaa
+voimasana: kiroilua
+elvyttää: elpyminen
+altis: haavoittuva, herkkä, järkevä, tunteellinen, velvollinen
+tunneli: metro
+palapeli: sekoittaa, sekava
+mekanismi: menettely, rutiini, systemaattinen, koneet, laitteet, lähestyä, politiikka
+matematiikka: matematiikka, matemaattinen, äärettömyys
+häivyttää: 
+tasapainoinen: suhde, korrelaatio, osa, johdonmukainen, kestävä
+sublativetapaus: 
+sukeltaa: sukeltaa, upottaa, pudota, rojahtaa, esiintyvyys, rinne, rinne, kaltevuus, liota, aleneminen, lama, näkökulma
+yksikkö: yhtenäisyys, kokonaisuus, moduuli, nokka, yksikkö
+monopoli: yksinomainen
+uhkapeli: uhkapeli, peli, ottelu, raivaaminen, vedonlyönti
+sukellusvene: 
+riippumatta: 
+maanjäristys: puuska
+laboratorio: laboratorio
+kommentit: kommentti, huomautus, selostus, vastata
+läpikäydä: syöttö, kokenut, ottaavastaan
+itseohjaus: 
+suurlähetystö: 
+puheenjohtaja: puheenjohtaja, presidentti
+keksiä: keksintö
+declarativemieliala: 
+käsine: 
+polvistua: 
+maantiede: 
+investointi: investoida, hanke
+analogia: tasa-arvo, samankaltaisuus, affiniteetti, sukulaisuus, suhde
+haukka: kotka, hakata
+psykologia: fysiologinen, psykologinen
+romu: peruuttaa, roskat, roskat, katkelma, sinkauttaa, heittää
+merirosvo: hakkeri
+rooli: jakaa, kalusto, osallistuja, käyttöönotto, merkki, asenne
+annos: määrä, ruokavalio, osamäärä, säännöstellä
+lohi: 
+vanukas: jälkiruoka
+magneettinen: houkutteleva, itse
+pumppu: pommi, tyhjiö
+happi: 
+hapsut: reuna, Brink, marginaalinen, marginaali, perifeerinen, raja, raja
+todistus: vahvistus
+mitali: 
+retoriikka: 
+askelma: rappu, askelma, vaihe
+kaapia: naarmu, laiduntaa, loukata
+Kirjaudusisään: invaasio, loki
+teleskooppi: mikroskooppi
+kaulakoru: voittaa, tahna, ketju
+oikeinkirjoitus: loitsu
+aallokko: 
+viski: 
+kameli: 
+amatööri: 
+aikuinen: kypsä, ikä, ikäinen
+elämäkerta: sähkö
+aasi: 
+näkökulma: näkymät
+ammattilainen: ammattilainen, positiivinen, mukautuva
+kuukausittain: aikakauslehti
+loma: jättää, loma-, levätä
+napsauttaa: klikki, napsahtaa, lyödä
+soikea: 
+joustava: kumi, joustava
+sanakirja: leksikaalinen, sanasto, pre
+väliseinä: jakaa, jako, hajota, hajota, laskea, lokero, jakso, katkelma, komponentti, komponentit
+kinkku: reisi
+sateenkaari: 
+organismi: olento, luominen
+sylkeä: perämies, kieli
+pistorasia: poistua, pistorasia, ulostulo, lähtö, pito, aukko
+säiliö: varasto, säiliö, alv
+perhonen: 
+kartoittaa: kaavio, kaavio, graafinen, grafiikka, järjestelmä, luettelo, luettelo
+twin: kaksinkertainen, kaksois-, pari, pari
+loukkaavia: loukkaus, häpeä, rikkomus, loukata, rikkomus, sanallinen, hyökkäys
+itsenäisesti: itsenäinen, vapaasti, erilleen, löyhästi, erikseen
+marsh: 
+painajainen: unelma
+hillo: hyytelö, puristaa
+kuuntelija: kuunnella
+museo: 
+vakavuus: vakauttaa
+paljastaa: ilmoittaa, paljastaa, havaitseminen, paljastaa, purkaa, julkaista, löytää, erottaa, näennäinen
+aggressiivinen: häiritä, sotku, ammatti, aggressio, hyökkäys, pommikone
+kitka: yhteenotto
+osallistuminen: läsnäolo, osallistua, osallistuminen
+laituri: polku
+hämähäkki: kalastaja
+peruna: 
+valmistaja: valmistaja, tuottaja, valmistelu, valmistus, valmistus
+ahneus: nälkä, ruokahalu
+ennenaikainen: varhainen
+moninkertaistaa: osuma, rotu, kertolasku, kaksinkertainen
+tilastotiedot: tilastollinen, kuvio, tilastollinen
+nimitys: nimittää, nimittäminen, valinta, sitoumus
+biljoona: 
+myöntävämieliala: 
+sovellukset: sovellus, prosesseja, käyttää, hakemus
+nimellinen: laiduntaa, määritetty, par
+tyytymättömyys: 
+infektio: tartuttaa, tartunnan, siirtyminen, lähetys, tarttuva
+olankohautus: nykiä
+jalkapallo: jalkapallo, potkia, kalsium
+pioneeri: merkittävä, avantgarden
+poikkeava: epätavallinen, epätavallisen, hullu, ylimääräinen, liioiteltu, ilmiömäinen, ihanteellinen, yksikkö
+laiminlyönti: oletusarvo, tahdittomuus, puute, huolimattomuus, laiminlyödä, eliminointi
+puristaa: tungosta, Työnnä, vaivata, vähentäminen, työntövoima, paine, murskata, ymmärtää, pito
+prosenttimäärä: sentti, prosentti
+idiofoni: 
+vipu: 
+vetäytyminen: palata, regressio, vetäytyä, pistorasia, muistaa, johtopäätös, päättely, ulostulo, epäsuorasti, peruuttaa, kaikkiyhteensä
+senaattori: 
+muurahainen: 
+raskaana: äidin, ajatella
+jokapäivä: päivittäin
+saostaa: sademäärä, sedimentti, nopeus, kiireellinen, kiihdyttää
+muuttuja: vaihdella, muuttujat, maailmanlaajuinen, mobile
+kihara: kiemura, heittää, vierittää, helix
+rikki: rikki, rikki
+mannermainen: maanosa
+sanella: opetus, komento
+sammakko: 
+liiallinentapaus: 
+jauhaa: puoli, puoliperävaunu
+irrealismieliala: 
+sisällä: sisä-, sisällä, sisällä
+hyödyntää: käyttää, omaksua, saavutus, tutkia, ryöstö, imeytyminen
+geologinen: maanalainen
+passi: 
+moraaliton: häijy, mätä
+keksi: pikkuleipä
+yhteistyö: tehdäyhteistyötä, kumppanuus, integraatio, auttaa, panos
+väärentää: tehdä, täydellinen, muodostus, luoda, säveltää, synnyttää, väärentää, kirjasinlaji, toistaa
+atomi: atomi-, hiukkanen, yksittäinen
+aids: tuki, helpotus
+nirso: herkkä, ärsyttävä
+pyramidi: 
+laiton: laiton, ei
+ujous: ujo, supistuminen
+luuttu: näkökulma
+tähtitiede: 
+sokkelo: epäselvyys
+apuraha: sponsorointi, myöntää
+kuitu: kuitu, nippu, ennakkoluulo
+kriketti: 
+kyyhkynen: 
+sovittaminen: sopeuttaa, telineeseen, noudattaminen, muutos, säätää, optimointi, mukautuva, majoitus
+paheksunta: hylkää, tuomitseva, vastustus, vastakkainen, protestoida, laskuri, vastustaja, vastakkainen, kieltäytyä, jäljittää, hylätä, erottaa, veto, loukata, tutor, ollasamaamieltä, ollaerimieltä
+operaattori: kantaja
+kolmio: 
+rahastonhoitaja: kassanhoitaja
+vety: 
+kirjoitin: 
+tukehtua: liitu-
+krooninen: kestävä, vakava, vaikea, suuresti, äärimmäinen, akuutti, tehostaa
+selviytyä: kohdata, sopeuttaa, kohdata, offset, voittaa, puuttua, contrastive, sopimus, suorittaa
+dilemma: sekava, sekava
+oire: osoitus, tarjous, näyttö, näyttely, esittely, ilmiö, diagnostinen, oireyhtymä, ominainen
+polkupyörä: pyörä, pyöräily, sykli, ratsastaa
+tekniikka: tekniikka, teknisesti, mekaniikka
+kierre-: helix, kierre
+kamera: kammio
+tanssija: 
+muutto: siirtyä, maahanmuutto
+tennis: 
+riippuvainen: riippuvainen, riippuvuus, riippuvuus, orja
+kutoa: punos, neuloa, neulominen, kudos, rakenne
+selkä: 
+paistaa: kiehua
+helpottaa: edistää, stimulaatio, kiihtyvyys, edistää, helppous, yksinkertaistaa, laitos, apuohjelma, lievittää
+puukottaa: pisto, puhkaista, napata, yrittää, yritettiin
+salasana: signaali, vihje, iskulause, minun, koodi
+aivopuolisko: terävä, kärki
+masentava: ikävä, masentunut, lannistaa, suru, provosoida
+strategia: strateginen, strategiat, politiikka
+partio: aikakauslehti, bensiini
+jäätikkö: 
+puolitiessä: puoli, osittain, puoliperävaunu
+muistio: sopimus, sopimus, sopimus, sopimus, oikeuttaa, edustus
+kartio: 
+symmetria: 
+vastaaja: puolestapuhuja, vastakkainen
+moskeija: 
+pakokaasu: emissio, eject
+shakki: 
+tuma: ydinaseiden, solu, olemus, ydin, keskeinen, alkio, sikiö-, ydin, aine
+kirsikka: 
+kompastella: rojahtaa
+kuorma-auto: kuorma-auto, rahtialus, seurata
+langaton: radio
+huutokaupata: myynti
+seula: debug
+epävakaa: epävakaa, epävakaisuus, epävarma, levoton, levoton
+imeminen: omaksua, liota
+epäystävällinen: epäystävällinen, vihamielinen, haitallinen, haitallinen
+väestönlaskenta: laskeminen
+hiipiävarpaisillaan: varvas, valmis, halukas
+ottaarennosti: rentouttava, rento, rentoutuminen, vapaa-, lievittää
+jatkuvuus: alituisesti, jatkaminen, luettuna
+kupla: 
+kitara: jne.
+puolueellisuus: etusija, ennakkoluulo, poikkeama
+kiiltävä: kirkas, aamupäivällä, loistava
+kumpi: kaikki, aivansama, joka, kukatahansa, keskuudessa, vedenalainen
+kudottu: neulominen, neuloa, punos
+liidellä: vaellus, leijua, kurkku, lento, kuuluisa, kone, lentokone, lentokone, lentoyhtiön
+pronominimerkki: 
+mauste: kuori
+takaus: side, varmuus, pantti, takuu, sponsori, helmi, helmi
+härnätä: houkutella, ärsyttää, ärsyttää, hurmata
+Jaava: 
+resepti: menetelmä, ärsyke, resepti, kaava, opetus, konsonantti
+aura: ratkaista, kaapata
+räystäskouru: valua
+komeetta: rikollinen
+innovaatio: löytö, keksintö
+keskiaikainen: keski-
+koriste-: koristelu, koristella, kosmeettinen
+muovi-: 
+alaviite: 
+meijeri: maito, tavallinen, säännöllinen
+golf: 
+nolla-: tyhjä, vapaa
+postinumero: puristaa
+laukaista: 
+siru: pala, katkelma, viipale, kimpale
+sortaa: tukahduttaa, tukahduttaa, masentaa, musertaa, kohdellahuonosti
+haukotus: haihtua
+eriarvoisuus: 
+mooli: savi
+keramiikka: maaperä, savi
+kotiäiti: 
+irrationaalinen: kohtuuton
+kaivosmies: vähäinen
+hiiva: entsyymi, taikina, leivonnainen
+siepata: estää, puuttua
+palkkio: bonus, palkinto-, myöntää
+vaihtoehto: vaihtoehto, korvike, vaihtoehtoinen, kurkku, valinta, valinta, variantti, mieluummin, etusija, valinnainen, korvaaminen, huvittunut
+valmistua: tentti, syöttö
+konkurssi: vika
+kastelu: 
+kapitalisti: kapitalismi
+jousto: joustavuus
+geometria: geometrinen
+hai: 
+varastointi: säilyttää, säästää, kauppa, säästö
+Toivonmukaan: näkymä, odotus, optimismi
+realismi: 
+ambulanssi: 
+lompakko: kukkaro, salkku
+irvistys: muki, virne, kiemurrella
+tiedemies: tieteellinen, tutkija, tutkija, tutkija, biologi
+tyhjentää: suoli
+mielentyyneys: 
+realistinen: todellinen, totta, ihanoikeesti, todella, todella, vilpitön, käytännöllinen, todellinen, täsmällinen
+merkityksetön: ristiriitainen, sopimaton, sopimaton, merkityksetön
+papu: mutteri, maapähkinä, vilja
+epävirallinen: muodollinen, muodollisesti
+tyttärentytär: pojanpoika, lapsenlapsi, veljentytär, jälkeläinen
+pihvi: pilkkoa
+typpi: 
+mutista: kuiskaus
+marja: nyppiä, lahti
+analysoida: jäsentää, analyyttinen, analysoida, analyysi
+erottuva: kontrasti, contrastive, ristiriitainen, vastakkainen, päinvastainen, erottaa, syrjiä, eriyttää, selvä, monipuolinen
+ilotulitus: veto, vedonlyönti, liekki
+pop-: napsahtaa, pamaus
+riisua: kaistale, vaatteet
+täydentää: lisä-, varustaa, lisäys, täydentävä
+pegativetapaus: 
+syöpä: 
+sotilas: kiinnitys, sotilas, pantti
+vuotaa: läikkyminen, menetys, pudota
+tiheys: tungosta, intensiteetti
+pureskella: 
+monimutkaisuus: komplikaatio
+puhelias: communicative, ketterä
+vapauttaa: vapauttaa, vapauttaminen, eroon, lievittää, ansio
+polaarinen: äärimmäinen, napa
+alennus: vapautus, myynti, myönnytys, olettamus
+Taksi: ohjaamo
+hierarkia: johto, järjestelmä, rekursio
+sotkea: 
+naiivi: lineaarinen, tavallinen
+puheenjohtajuus: presidentin-
+ostaja: asiakas
+gallona: 
+hyttynen: 
+valittaa: surra, tuomita, pahoitella
+poikkeama: poikkeama, vääristymä, offset, jotain
+mosaiikki: monipuolinen
+pistoke: liitin, tosite
+raskaus: käsitys, ajatella, kuljettaa, ladata
+ruokakauppa: 
+kommunistinen: 
+hämmästyttää: yllättävä, hämmästyttävä, upeita, johtaaharhaan, sekoittaa, tainnuttaa, hämmentää, hämmästynyt
+prosecutivetapaus: 
+diktaattori: 
+huoli: työllisyys, levottomuus, huoli, koskea
+satelliitti: koetin
+lähentää: likiarvo, suunnilleen, likimääräinen, melkein, käytännössä, noin, karkeasti
+työtön: työllisyys
+toteuttaa: täytäntöönpano, valvoa, täytäntöönpano, suoritus, suorittaa
+polttimo: sipuli, venttiili
+tukija: avustaja, kestää, kannatin
+lootus: lilja
+kloridi: 
+bakteerit: sieni, bakteeri-
+ristikko: kuvio
+biologinen: olento, biologia
+teeskennellä: teeskennellä, simuloida
+tavu: 
+eritys: erittää
+baletti: evä, äänestys
+virtsa: kusta
+valkosipuli: 
+keskiluokka: 
+pesula: pesu
+kuvata: erottaa, luonnehdinta
+mansikka: 
+muistikirja: kannettavatietokone
+transsendenttinen: 
+albumi: 
+baseball: 
+piratismi: 
+noutopöytä: 
+partisiippi: osallistuja, osanottaja
+autotalli: 
+diagnoosi: diagnostinen, määrittää, kognitiivinen, tunnustaa
+kiristää: kiristää, nyppiä, rajoittaa, hallitapakolla
+fosfori: 
+rakenteellinen: rakenne, kokoonpano, config, institutionaalinen
+liima: purukumi
+tutkielma: väitöskirja
+käsityöläinen: mekaanikko, putkimies
+banaani: kudos
+kylkiluu: vaihde
+nikkeli: 
+tällähetkellä: nyt, esittää, nykyinen, nykyään, jonottaa
+bussi: päästää
+sensuroida: sensuuri, kriitikko
+ohjus: raketti
+makkara: kuumakoira
+manipulointi: toimia, manipuloida, toiminta-, temppu, huijata, kahva, toiminta, petos
+tomaatti: 
+vahvistaa: lujittaa, tehostaa, vahvistaa, vahva, vahvistaa
+kupera: 
+kalium: 
+algebra: algebran
+korut: 
+optinen: visuaalinen
+työttömyys: leipomo
+riisuaaseista: aseet, ase, aseistettu
+yksin: erillinen, ilmiömäinen, erillinen, maaperä, yksin
+selain: skanneri
+historiallinenjännittynyt: 
+valmiudet: tehokkuus, mahdollisesti, kapasiteetti, osamäärä, kyky, pätevyys, lukutaito
+spektri: 
+natrium: 
+hysteria: puuska
+edunvalvoja: ylläpitäjä, uskollinen
+panttivanki: kiinnitys, pantti
+urheilija: matemaattinen, urheilu-
+rypistyä: vika, sitoutua
+käsittää: sisällyttää, sisällys, muodostaa, rakentaa, osallistuva, sitoutua, sisältää, sisällyttäminen, muodostuvat, sisältää, saavuttaa, sisältää
+klipsi: nitoa, kannatin, nitoja
+prioriteetti: Huomio, etusija, mieluummin
+raiskata: skandaali, ylittää, aggressio
+monitori: seurata, valvoa, katsella, harjoittaa
+vaalipiiri: äänestäjä, äänestäjät, lievä
+kulttuurinen: kulttuuri
+sukupuoli: laskea, sukupuoli, penis, laji, seksuaalisuus
+platina: 
+kaksois-määrä: 
+erikoisuus: ammatillinen, ominainen, piirre, erityinen, erityinen, asiantuntemus, asiantuntija, erillinen, yksinomainen, erikoistuneet
+keuhko: 
+Super: ilmiömäinen, valtavasti, uskomattoman, ohjaaja
+johdinauto: kuljetus, kärry, vaunut
+sieni: sieni, muotti
+paikallisesti: paikallinen
+yllyttää: kiihottaa, ärsyttää
+bensiini: bensiini
+kurpitsa: squash, kurpitsa
+munuainen: korkeus, laajentaminen
+ryöstää: ryöstö, ryöstelyä, saalis, pilata, ryöstää, saalis
+arsenikki: 
+etana: helix
+äärettömänpieni: 
+sosialistinen: sukulaisuus
+suodattaa: 
+laajentaa: laajentaa, leveä, lisätä, korottaa, parantaa, pidentää, laajalti, laajeneminen
+kiistanalainen: kiista, ristiriitaisuus, epäselvä, sekava, epäselvyys, ristiriitainen
+talutushihna: vuokrata, hihna
+kuski: 
+keuhkokuume: 
+sijoittaa: laittaa
+leikkauspiste: ylitys, liittymä, järjestysluku
+solidaarisuus: yhdistää, ralli, affiniteetti, yhtenäisyys, samankaltaisuus, aikakausi
+sarana: yksityiskohtainen, silmukka, akseli
+pitkittäinen: pystysuora, pitkittynyt, laji
+osinko: jako
+tylppä: hidas
+luistella: hiihtää
+kyhjöttää: mutka
+eksponentti: indeksi, räjähdysmäinen, katkelma
+vammaisuus: haitta, kykenemättömyys, vika, epätäydellinen, vammaiset, virhe
+mestaruus: mestari, voittaja, turnaus
+valokuvaaja: valokuvaus-
+digitaalinen: kuvio, numero, numeerinen
+narttu: 
+silmäluomi: 
+alitajunta: 
+kulmakarva: 
+aivastus: 
+hilpeä: iloinen, hauska, iloinen, hauska, huvittunut, huvittava, viihteellinen, humoristinen, naurettava, miellyttävä
+pakolainen: maahanmuuttaja
+proteiini: munanvalkuainen
+kaatopaikka: kasa, pino, karkottaamaasta, roskat, roskat, heittää
+kehittää: evoluutio, kehittää
+oksentaa: 
+geeni: geneettisesti, geneettinen
+fuksi: 
+yhdistää: fuusio, yhdistää, yhtenäistää, yhdistää, lujittaa, integraatio, yhtyä, kytkeä
+sosiologia: 
+liikkuvuus: mobile, kannettava, liike, liike
+alueellinen: lääni, alue, vyöhyke, osasto, pallo, sektori, perifeerinen, maakunta-
+liikeylämäkeä: 
+laimentaa: ohut, lievä
+takautuva: ohi, itsetutkiskelun
+inversio: inverttisokeri, päinvastainen, vastavuoroinen, käänteinen, katastrofi, johtuminen
+TV: televisio, elokuva
+kuutio: vankka
+syntaksi: syntaktinen, eläke, layout
+tuottavuus: suorituskyky, ulostulo
+porkkana: 
+molekyyli-: molekyyli, osoittaja, alustan, ydinaseiden, atomi-
+monialayritys: klikki, ryhmä, rykelmä
+kirjanpitäjä: tilintarkastaja
+erilaistuminen: syrjintä, syrjiä, erottaa, eriyttää, hajota, ero, kontrasti, muunnelmat, vaihtelu
+saatavuus: pääsy, hankinta, saada, saatavissa, läsnäolo, tehokkuuden
+vimma: 
+liuotin: liueta
+fosfaatti: 
+pohjamaali: syötti, tuttavuus, käyttöönotto, ensiksi
+pilkku: kooma, osapuoli
+lähtökohta: 
+liikealamäkeä: 
+luovuttaja: juontaja
+psykologi: 
+kloori: vuohi
+näppäimistö: 
+eliitti: esimies
+sulkumerkki: kannatin
+Rugby: 
+haava: kipeä, haava, trauma, kiehua
+taivutettu: 
+napostella: 
+abortti: keskenmeno
+villapaita: takki
+evoluutio-: kehitys-, evoluutio, kehitys, eteneminen
+merkintätapa: merkki, symboli, Huomautus
+pomppia: puomi, hypätä
+leikkely: jakaa, jakso, jako, jakaa
+kätkö: väijyvä
+antimoni: 
+superessivetapaus: 
+kasvain: kasvain, irto-
+alpha: 
+napa: vatsa, napa
+immuuni: hengittäminen, kestävä
+lyhentää: rajoittaa, rajoittaa, rajoittaa, yhteenveto, kompakti
+valloittaa: kaapata, hurmata, metsästää, vetääpuoleensa
+sukka: 
+elokuva: elokuva, elokuva, nauha, nauha, raita
+maailmankaikkeus: maailmankaikkeus
+saastuttaa: saastuminen, tartuttaa
+seuraarakastava: 
+alumiini: alumiini
+värähtely: vaihtelu, värähtely
+aakkosellinen: aakkoset
+horoskooppi: 
+tangentti: 
+delfiini: 
+tappaja: 
+resonanssi: värähtely
+osoitin: ryhti, indeksi, kriteerit, etusormi, arvioida
+dioksidi: 
+byrokratia: byrokraattinen
+vääristää: johtaaharhaan, ryntäily, heiketä, väärentää, vinossa, vääristymä
+galaksi: tähdistö
+kliininen: 
+radium: radio
+jääkaappi: jääkaappi
+harmoninen: musikaali, noudattaminen
+arkeologinen: arkeologia, arkeologia, fossiilinen
+määrittely: normi, standardisoida, yksityiskohta
+interpolointi: 
+esite: kirjanen, tiedotuslehti, luentomoniste, arkki
+epätäydellisyys: epätäydellinen
+antropologia: 
+maukas: herkullinen
+transitiivinen: tekosyy
+kyyristyä: 
+simulointi: simuloida, kunniamerkki
+vagina: lahti, solu
+ioni: 
+matkailu: turisti, matkustaa, piknikki
+trigonometria: 
+siepata: kaapata, johtuminen, siepata
+päällekkäisyys: vuorovaikutus, interaktiivinen
+löytäjä: 
+syrjäyttää: syrjäyttää, karkottaa, eject, karkottaa, karkottaamaasta
+kampaaja: 
+kansanperinne: vehnä, kansa
+kapillaari: 
+nationalismi: kansalaisuus
+takapuoli: lonkka
+sublimoida: puhdas, jalostaa
+puskuri: 
+pettymys: epätoivo, pettymys, sekava, peruuttaa, voittaa, pettynyt, pettää, ikävä
+koboltti: 
+vähennyslasku: vähentää
+liikeyläjuoksulle: 
+koordinaatit: koordinoimaan, koordinoida, koordinaatio
+peräaukko: 
+irtisanominen: paljon, jäljellejäävä, ylimäärä, erottaa, hylkääminen, vapautus, ylijäämä
+video-: 
+boikotoida: lääni, häpeäpaaluun, laiminlyödä
+tietokilpailu: yrittää, tentti, kyselylomake
+sissi: 
+magnesium: 
+tutka: 
+laadullinen: laatu, ominainen
+luotettavuus: uskottavuus
+suorakulmio: 
+yleistää: yleistys, rakentaa, luoda, säveltää
+enää: nyt, uudelleen
+ulkonaliikkumiskielto: 
+muotoilu: rakentaa, rakentaa, rakentava, sanamuoto, luominen, muodostus, muotoilla, perustaminen
+reinkarnaatio: uudestisyntyminen
+sytyttää: 
+uraani: 
+veronmaksaja: verottaa
+integroitu: olennainen
+opined: näkymä, lausunto, huomautus
+gamma: 
+palvelin: 
+liikealajuoksulla: 
+kerroin: luokka, tekijä, moduuli
+vismutti: 
+postikortti: lähettää, jatko
+eksyä: vetäytyä, lähteä
+morfologiset: geneettinen, morfologia
+arviointi: arvioida, arviointi, arvioida, tiedustelu, tutkia, tiedustelu, koetin, par
+farkut: 
+tietokanta: 
+laskin: tietojenkäsittely
+sijoittaja: 
+röntgen: 
+esityslista: ohjelmoida, ohjelmoida, opetussuunnitelma
+Visa: 
+infrastruktuuri: perusteellinen, perustiedot, pohjimmiltaan
+ilmaisin: 
+liitos: kiinnittää, muuttaa, liittää, kytkeä
+bromi: 
+pii: pii
+hikka: 
+pastellityö: kalpea
+eläintarha: 
+klinikka: 
+jooga: summa
+kirjakauppa: kirjahylly, myymälä
+jälleenmyyjä: kauppias, myyjä, myymälä, lähistöllä
+mestata: ajankohtainen
+Joo: kyllä, ya, vilpitön
+jazz: 
+volframi: 
+terroristi: militantti, kauhu, äärimmäinen
+käsitteellinen: mieltymys, käsite, käsite, olettamus, paradigma, käsitys, luonnos
+karteesinen: 
+tiputtaa: lima
+elatusapu: 
+ohjelmoija: sovellus
+panos: 
+meikki: meikki, kosmeettinen, temppu, hyvittää
+rokote: selostus, kattavuus, injektio
+itsestäänselvää: 
+heroiini: 
+kansio: 
+katodi: 
+flunssa: kuume, vaikutus
+ideologia: ajatus
+pysäköinti: 
+kuva: 
+antikliimaksi: pettymys
+seleeni: 
+aivokuori: haukkua, kuori, kuori
+vastaavuus: tasa-arvo
+kärki: 
+lentokenttä: 
+amputoida: keskeyttää
+huijarin: 
+kromi: 
+litra: litra
+kojelauta: paneeli, kojelauta
+hormoni: 
+lävistää: puhkaista
+animismista: 
+monikulmio: kulma
+feministi: 
+konjugaatti: rinne, kytketty, ohjata
+euro: 
+algoritmi: 
+laser: 
+apteekki: 
+millimetri: millimetri
+flex: mutka, kaareva, joustava, suotuisa, kaapeli
+anodi: 
+vivahde: sävy
+käpertyä: omaksua
+osa-aikainen: 
+herkkyys: 
+keskuskone: 
+mielenosoittaja: ulkoinenolemus, näyttö, suorituskyky, esittely, esittely
+helium: 
+kaksikielinen: 
+gerundi: 
+plasma: 
+kromosomi: 
+kokonaisluku: numero, numero
+kilometri: kilometri
+faksi: 
+genetiikka: geneettinen, geneettisesti
+pisama: 
+parsakaali: 
+vaihtelu: muoto, ryhmä, layout, appositio
+spam: 
+vektori: kantaja
+taktiikka: laite, lähestyä, tekniikka, metodologia, noutaa
+kunnossa: toipua, oikein, kiinnittyä, pätevä, Okei
+vitamiini: 
+kadmium: 
+graafinen: graafinen, grafiikka
+käsin: itse
+titaani: 
+törsätä: kerskailla
+helikopteri: 
+telluuria: skandium, lantaani
+takaraja: termi
+kohdista: johdonmukainen, ryhmä
+analoginen: 
+senttimetri: senttimetri
+molybdeeni: 
+litium: 
+multimedia: 
+kalori: 
+robotti: 
+kotitehtävät: pääri
+logaritmi: 
+asentaa: asentaa, asentaa, synteesi
+glyph: helpotus
+ekologia: ekologinen, ympäristö-
+hienoihminen: pilata
+sapluuna: muotti
+euklidinen: 
+kilogramma: 
+syödäliikaa: 
+jakaja: 
+freeware: 
+kuunnellasalaa: 
+hiustyyli: 
+iridium: 
+rasismi: rodullinen
+kaistanleveys: laajakaista
+optimaalinen: ylin, optimaalinen, suotuisa, sopiva, säätää, sopeuttaa, yhteensopiva, mukautuva, asianmukainen, korjata, järkevä
+hypotenuusa: sointu, näkökulma
+pöytä-: 
+pääkonttori: päämaja, istuin
+pannavääräänpaikkaan: hämmentynyt, menettää
+cerium: 
+partitiivitapaus: 
+kasetti: nauha
+supermarket: ostoskeskus
+tahdonvoima: tahto, tahtoa
+ulotteinen: koko, muoto, ulottuvuus, tila
+offline: 
+salaus: salakirjoitus, salaa, koodaus
+synkronoida: synkronoida, yhdistää, nykyajan
+seminaari: 
+semanttinen: merkitys, konnotaatio, aihe, esine, materiaali, aine, tunne, mielekäs
+disko: 
+neon: 
+todellinenaika: 
+osmium: 
+elämäntapa: elämä, elinikä, eloonjääminen, elävä, ura
+palomuuri: 
+kosini: laskeminen, laskeminen
+artefakti: 
+plutonium: 
+työasema: 
+yttrium: 
+puhettatukevaa: 
+käyttäjätunnus: 
+oikeisto: 
+argon: 
+seurustella: ilmoittaa, ollavuorovaikutuksessa
+globalisaatio: 
+secant: 
+aallonpituus: aalto
+koodittaa: koodi
+kierrättää: 
+asymptootti: 
+tulkita: tyydyttää, ratkaista
+uudelleenkäynnistää: reboot, toiminta-
+maksatulehdus: 
+protoni: 
+levyke: levy
+milligramma: 
+pixel: 
+tantaali: 
+liuenneenaineen: 
+kansanmurha: 
+gallium: 
+pop-ylös: 
+zirkonium: 
+epälineaarinen: 
+torjunta-aine: 
+polynomi: 
+beryllium: 
+neuroni: 
+predikatiivinen: itsevarma
+reititin: 
+kertoma: tiedekunta
+vekotin: täydentää
+neutroni: 
+niobia: 
+germanium: 
+metalloidi: eimetalliset
+prolativetapaus: 
+biodiversiteetti: 
+teollistaa: teollistuminen, teollisuus
+peliohjain: 
+antibiootti: 
+aktinium: 
+astronautti: tila
+purkaa: laajentaa, parantaa
+ekstrapolointi: 
+avaruusolento: ulkomaalainen
+oktetti: 
+avatalähde: 
+maraton-: 
+pistokesisään: 
+topologia: 
+gigatavun: 
+ionisoi: 
+siyksiköt: 
+telttailu: leiri
+rajallinenverbi: 
+krypton: 
+genomisenmieliala: 
+siirtääavain: 
+neliöt: neliö-
+myyjä: kauppias, myyjä, virkailija
+renium: 
+kännykkä: kännykkä, kännykkä, kannettava, kannettavatietokone, solu
+sivuttain: syrjään
+modaalinentapaus: 
+romuposti: 
+junavaunujen: 
+klipsitaide: 
+kirjanmerkki: 
+hafnium: 
+kotiinsivu: 
+dännöntapaus: 
+nnen-root: 
+vuokaavio: 
+keskimmäinenääni: 
+vanhuus: vanhukset
+pyöristys: pyöristetty
+rodiumatomi: terbiumatomi, tuliumatomi, toriumatomi, fluoriatomi, rubidiumatomi, talliumatomi, vanadiiniaatomi, poloniumatomi, strontiumatomi, ruteniumatomi
+pahantuulinen: karkea
+vinotapaus: 
+potilastapaus: 
+prehodiernal: 
+kalju: paljas, raaka
+tavoitelaukaista: 
+praseodyymi: 
+halvaantunut: 
+kannella: valitus
+ettätapaus: attapaus, satunnaisesti, alkaentapaus
+säteily: hehku, emissio
+indium: 
+näyttelijärooli: 
+euforia: innostusta, into, tyytyväisyys, suostumus, ilo, ilo, onnellisuus, ilahduttaa
+capsLukko: 
+valkoinentila: 
+dramaattisesti: dramaattinen
+shovinisti: 
+verkkosivusto: verkkosivusto, paikka
+huonekasvi: 
+siviili-oikeudet: 
+Protaktinium: 
+projektiivinen: 
+binary-arvo: 
+maalivahti: 
+jälleenmyyntikauppa: 
+statusbaari: 
+mikrofoni: mikro
+ihmiskehon: 
+vannon-in: 
+postimies: 
+centrictapaus: 
+troijalainenhevonen: 
+vierittääbaari: 
+triple-piste: 
+lukeavain: 
+vitsailla: vitsi, oraalinen
+väliaikaisuuden: epävakaa, epävakaisuus
+runoilija: 
+fonologisten: 
+hypnotisoida: 
+oikeudenkäyntimäärä: 
+reseptoriin: vastaanottovirkailija
+verbi-pääte: 
+eiihmisen: 
+flow-virta: 
+senoita: että, joka, jonka, jonka
+lausekehännän: 
+ylösalaisin: käänteinen, käänteinen
+esimerkiksi: 
+iposoite: 
+in-kielellä: 
+erikseen: henkilökohtaisesti, yksittäinen, henkilökohtainen, erikseen, erillinen, selvä, erota, eritavalla, tila
+ammattilainentuomita: ammattilainenlauseke
+epidemiologia: mekaniikka, dynamiikka
+säätäälakeja: lainsäädäntö, lainsäädännöllinen, järjestää, järjestää
+raidallinen: raita, järjestelmä, suunnittelija, suunnitelma
+rikkuri: 
+astatiini: 
+ylihinta: 
+muu-jos: 
+kulmat: kulma, terävä
+kulua: 
+lainausmuoto: 
+ergativetapaus: 
+lähiö: Hamlet, työmatkalainen, maaseutu
+yhteinensukupuoli: 
+supertietokone: 
+suoraanesine: epäsuoraesine
+autoilija: kuljettaja
+tilastollisesti: tilastollinen, numeerinen
+lutetium: 
+järkevyys: tajunta, logiikka
+passiivinenääni: 
+syynäoleva: 
+cesium: 
+hakumoottori: 
+toolbar: 
+automaattisesti: automaattinen
+kalifornium: 
+mendelevium: 
+agenttilaukaista: 
+värisokea: 
+sarjakuva: 
+terminaali: terminaali
+pistematriisi: 
+samarium: 
+oikosulku: 
+koota: kerätä
+agentivetapaus: 
+onnettomuus: romahdus, uhri, satunnainen, tapaus, tuhota
+fraktaalit: 
+multalmäärä: 
+sulkea: suljettu, kiinni, lähellä, sulkea
+laaja: valtava, laaja, kattava, leveä, laajalti, runsas, laajalti, laajallelevinnyt, iso, kulma
+adessiivitapaus: 
+osuuskunta: kollega, tehdäyhteistyötä, stipendiaatti, kumppani
+euler's-numero: 
+laserkirjoitin: 
+transnumero: 
+blogi: bloggaaja
+kombinatorisista: kombinatoriikkaa
+Pythagoras: 
+abessiivitapaus: 
+locativetapaus: 
+uima-allas: pool, pesuallas
+verkkorikollisuuden: vaarallinen, haitallinen
+postitoimisto: lähettää, posti
+haittaohjelmat: 
+esto: hillitä, hillitä, estää, kieltää, veto, estää, kieltää
+spyware: 
+äänitys: tallentaa, sisällyttäminen, ilmoittautua, rekisteröinti, merkintä, loki
+haastattelija: haastatella
+klipsilauta: 
+xenon: 
+taulukkolaskentaohjelma: 
+nnenteho: 
+elokuvateatteri: elokuva
+postilaatikkoon: 
+per-sentin: prosentti, sentti
+aerosoli: spray
+jakelija: 
+dynaaminen: dynamiikka, mekaniikka, dynaaminen
+yksisekunti: 
+subtend: taustalla
+Brownin: 
+tähtisukupuoli: 
+galaxysukupuoli: 
+pahvi: kortti-, kartonki
+laskettavuus: 
+yksitoinen: toinen, toisiaan, muu
+valvoaupseeri: 
+ensisijainenesine: 
+elävöittääsukupuoli: 
+evitativetapaus: 
+ajoneuvosukupuoli: 
+datakaivos-: 
+riivattutapaus: 
+amerikium: 
+mineraalisukupuoli: 
+verkkotunnuksennimi: 
+kuvitteellinen-yksikkö: 
+neptunium: 
+sanallinensubstantiivi: 
+matemaatikot: 
+omistushaluinentapaus: omistushaluinentapaus
+mallintaminen: 
+lopullinenhiukkanen: 
+salamaajaa: 
+velttolevy: 
+palomies: 
+Kriittinenpiste: 
+empaattinenilo: 
+sanasuoritin: 
+pääministeri: 
+virtuaali-muisti: 
+adverbiaalitapaus: 
+eti-: 
+shortsit: 
+pelleillä: 
+yhtälöt: yhtälö
+subessivetapaus: 
+lokiulos: 
+roskapostittaja: 
+antessivetapaus: 
+suojatie: polku, kävelytie
+käyttäjäliitäntä: 
+haamukirjoittaja: 
+tietokone-virus: 
+helpottajana: juontaja, hidastin
+kuntoutus: 
+apu-verbi: 
+ensikäden: suoraan
+emolevy: onko
+potilaslaukaista: 
+runtime: 
+kollektiivinensubstantiivi: 
+Koraani: sanomalehti
+liiketoimintahenkilö: Bisneshenkilö
+transitiivinenverbi: 
+pilvitietojenkäsittely: 
+virtuaali-kone: 
+absolutivetapaus: 
+virtuaali-todellisuus: 
+ohiperfektiivinen: 
+persoonatonverbi: 
+crastinaljännittynyt: 
+refleksiivinenääni: 
+abstraktisukupuoli: 
+eritapahtuma: 
+exocentrictapaus: 
+toinenkieli: 
+taiteellinensukupuoli: 
+itseluottamus: 
+tutkimussukupuoli: 
+epäsuorapuhe: 
+sijaintisukupuoli: 
+fysiikka: fyysinen, fyysisesti
+maailmankaikkeussukupuoli: 
+päättäminen: lähellä, suljettu, kiinni, pois, lopettaa, lopettaa, pysäyttää
+superlatiivi-tapaus: 
+matching: ottelu, äänestää, äänestys, puku, tarkoituksenmukainen, sopimus, vastata, sopiva, sopiva, samaanaikaan, posti, vastaava, yhteensopiva
+tietokoneohjelmoida: 
+vasta-aine: 
+täysaikainen: 
+propositivemieliala: 
+assosiatiivinentapaus: 
+elotonsukupuoli: 
+tekstitoimittaja: 
+planeettojensukupuoli: 
+käyttö-järjestelmä: 
+kieliopin-tapaus: 
+sähköinennykyinen: 
+vastavuoroinenääni: 
+flatware: 
+ydinbenefactive: 
+verkkoisäntä: 
+radiaani: 
+applicativeääni: 
+foneemi: 
+peräkkäinenlauseke: 
+muistikirjatietokone: 
+kaasupedaali: 
+antipassiveääni: 
+kansanmusiikki: 
+teratavu: 
+sosiaalinenverkottuminen: 
+neuvottelu: neuvotella, puhua, keskustelu, jutella, vuorovaikutus, ollavuorovaikutuksessa, neuvottelu, ilmoittaa, vuoropuhelu
+välttelevä: litteä, hämärä, epäselvä
+morfeemi: 
+linkkeri: linkki, luettuna
+neodyymi: 
+säteily-sairaus: 
+esittääpartisiippi: 
+necessitativemieliala: 
+eksistentiaalinenlauseke: 
+liiallinenkesto: 
+passiivinenpartisiippi: 
+kieliopin-esine: 
+continuativenäkökohta: 
+singulativemäärä: 
+valoisaintensiteetti: 
+superlatiivi-aste: 
+blue-jean: 
+valinnainenkvantisointi: 
+ylikriittinen-neste: 
+epentheticmorfeemi: 
+postpositionaltapaus: 
+negatorykvantisointi: 
+yhdistävähiukkanen: 
+nerium: 
+yleismaailmallinenkvantisointi: 
+ilmavoimat: 
+allocutionsopimus: 
+tietokoneohjelmointi: 
+itsevarmakvantisointi: 
+frequentativenäkökohta: 
+jakelupronomini: 
+vaihtoehtokvantisointi: 
+phishing: 
+skalaari: 
+vaihtoehtoisenehdollinen: 

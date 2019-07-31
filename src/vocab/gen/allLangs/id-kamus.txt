@@ -1,0 +1,2515 @@
+infinitif: takterbatas, angkatakterbatas, asal, sumber
+nominatifkasus: berpreposisikasus
+akusatifkasus: 
+temakasus: subyekkasus
+induk: orangtua, utama, senior, bayam
+ayah: ayah
+mama: mama, ibu, keibuan
+Halo: bye, Hai, Hei
+leluhur: pendahulu, kakek
+eyang: kakek, nenek
+lapar: kelaparan, kelaparan
+genitifkasus: posesifkasus
+katasifat: 
+dan: jumlah, oleh, sebuah
+saya: diri, saya, saya, kami, menjilat
+kamu: mereka, engkau, engkau, ya
+kami: kami, kami, milikkita
+sayat: ia, bahwa, dia, ini, ini, yang
+tujuankasus: tujuankasus
+datifkasus: 
+realissuasanahati: 
+deontissuasanahati: 
+bersyaratsuasanahati: bentukpengandaiansuasanahati, hipotetissuasanahati
+epistemiksuasanahati: 
+instrumentalkasus: 
+pedalamankonteks: 
+orangkonteks: 
+tergantungayat: 
+perfektifaspek: 
+lalutegang: 
+maskulinjeniskelamin: netraljeniskelamin
+komitatifkasus: 
+menyajikantegang: 
+benefaktifkasus: 
+essivekasus: 
+tidak: tidak, non, tidak, tidak, nada, takpernah, maupun, taksatupun, agak, jugatidak, tidakbisa, kehilangan
+-nya: mereka, -nya, -nya, dia, itu, dia, dari, yang, independen
+permukaankonteks: 
+adpositionalkasus: 
+tempatkasus: 
+ruangkonteks: 
+carakasus: 
+interogatifsuasanahati: 
+danatau: 
+eksklusif-atau: 
+sumberkasus: 
+ablatifkasus: 
+demonstratif: padat, besar, beton, kuat, direktif, dramatis, mengekspresikan, semu, pandaiberbicara
+tapi: namun, namun, meskipun, meskipun, namun
+semua: semuaorang, semuaorang, total, seluruh, secarakeseluruhan, seluruh, segalasesuatu, apasaja, makin, samasekali
+wanitajeniskelamin: 
+mereka: mereka, dia, itu, mereka, mereka, namakeluarga, ini, sama, adil, serupa, untuk
+jamakjumlah: 
+satu: tunggal, Sebuah, ke, sendirian, sebuah, berbelok, namun
+siapa: seseorang, siapapun, yang, yang, sebagai, siapa, apapun, siapasaja, bahwa, mereka, itu, bernyanyi, ya
+masadepantegang: 
+sosialkonteks: 
+kapan: kapansaja, pernah
+tdksempurnaaspek: 
+sana: ada, Kamis
+lebih: lebih, paling, lebihlanjut, luar, keatas, keatas, multi, dari, agak, juga, bahkan, plus, masih, namun, lain, beberapa, kelipatan, lain, sebaliknya, lain, beristirahat
+diluar: diluar, luar, luar, luarruangan, diluarrumah, lepas, diluar, luar, naik, atas, atas, seterusnya, berhenti, keluar
+relatifkasus: relatifkasus
+terakhirkasus: 
+melakukan: membuat, melakukan, melakukan, memberikan, mengaktifkan, melakukan, melakukan, menempatkan, apa, bereaksi, apapun, apakah, apapun, kerja
+direktifsuasanahati: indikatifsuasanahati
+pertanyaankata: 
+katakerjapenghubung: konektor, obligasi, ikat, link
+orang: manusia, masyarakat, individu, seseorang, someone, orang, manusia, menghadapi, kepribadian, dia, mereka, sendiri, pejalankaki, sesama
+pria: maskulin, menyebut, pria, manusia, lemahlembut, perempuan
+bisa: bisa, mungkin, mungkin, mungkin, kemungkinan, kemungkinan, Mei, mungkin, sanggup
+jumlah: jumlah, jumlah, angka, menurutangka, angka, kuantitas, nomor
+sangat: sangat, sangat, sangat, banyak, terlalu, sangat, sangat, sangat, sangat, sangat, sangat, sangat, banyak, multi, secarasangatbesar, paling, agak, cukup, jauh, cantik, oke, baik, Baiklah, ekstrim, sakit, berlimpah-limpah, luarbiasa, luarbiasa, unggul, lemah, dengankuat, tajam
+waktu: sementara, saat, selama, tepatwaktu, lamanya, sementara, tegang, jadwal, periode, cuaca, mengulangi, jam, melihat
+waktukonteks: 
+sementarakasus: 
+tentang: mengenai, tentang, hampir, sekitar, dari, oleh, dari, sekitar, untuk, pada, hampir, sekitar, benda, menghormati, bab, obat
+harfiah: secaraharfiah, nyata, asli, mutlak, lisan, sastra, tepat, tepat, tepat
+hanya: hanya, hanya, hanya, titik, belaka, semata-mata, terbatas, barusaja, teluk, sendirian, telanjang
+sedikit: kecil, mungil, sedikit, sedikit, sedikit, kecil, picik, kecil, portable, beberapa, enteng, pendek
+kemudian: lagi, ya, sejak, silam, sedan, kemudian, kemudian, namun, setelahitu, berikut, kemudian, setelah
+ygmenegursuasanahati: 
+retrospektifaspek: 
+besar: besar, besar, mulia, serius, luas, keras, besarsekali, raksasa, sangat, dominan, baik, baik, besar, besar, besar, hebat, unggul, optimum, agung, utama, sempurna, luarbiasa, cemerlang, bagasi, makro
+volitivesuasanahati: 
+sebelum: sebelumnya, pra, silam, mendahului, sampai, sampai, depan, dahulu, terhadap, melawan, meneruskan, muka, lebihjauh, didepan, sebelumnya, sebelumnya
+harus: harus, perlu, yangtidakperlu, harus, perlu, akan, seharusnya, ingin, seharusnya
+dua: rangkap, kedua, selain, sepasang
+melihat: melihat, melihat, melihat, melihat, melihat, menonton, tatapan, lihat, memenuhi
+tahu: memastikan, sadar, mengajar, bendera, terlihat, memahami
+turun: kebawah, kebawah, bawah, dibawah, dibawah, dibawah, kurang, bagianbawah, rendahan, dibawah
+pertama: debut, awal, sejak, kedepan, pertama, mulanya
+sendiri: diri, diri, memiliki, sendiri, -nya, diri, diri, pribadi
+alienablemilik: 
+tidakdapatdicabutmilik: 
+tua: bekas, kuno, berumur, tua, bekas, ex, usia, sebelumnya, pendahulu
+konsultatifsuasanahati: 
+hari: harian, membiarkan, kerja, peristiwa, pekerjaan
+dimana: dimanapun, dimana, tempat
+datang: untuk, sampai, mencapai, kedatangan, tiba, menjadi, terjadi
+cara: metode, metodologi, gang, cara, path, rute, sistem, jalan, jejak, cara, jalan, jalan, gula, jalur, lintasan, kebiasaan, bagaimana, proses, mode, kepercayaan
+bekerja: pekerjaan, tugas, aktif, tugas, tenagakerja, tenagakerja, karier, fungsi, beroperasi, fungsional, bisnis, bertindak, bekerja, pekerjaan, kerja, kerja, karyaseni
+vokal: terkenal, kehidupan, kelangsunganhidup, gerakan, gerakan, lalulintas, alfabet, cetakan
+pergi: berjalan, tarif, berangkat, keberangkatan, bermigrasi
+perlativekasus: 
+progresifaspek: 
+panjang: berkepanjangan, tahanlama, tinggi, sepanjang, periode, era, tegang, jauh, menggambarkan
+mengatakan: lisan, menceritakan, berbicara, mewakili, menghubungkan, bernama
+bahkan: juga, salahsatu, sampai, sampai, bahkan, terlalu, juga, lebihlanjut, selanjutnya, diri
+kembali: dibelakang, belakang, kebelakang, kebelakang, kembali, mengembalikan, membuka, lagi, ulangi, silam, Menurut, menarik, memulihkan, mendapatkankembali
+sini: di
+berpikir: berpikir, pikir, mempertimbangkan, membayangkan, memahami, merenungkan, akan, bernama, pikiran, merasa, kelihatan, menunjukkan, pertimbangan
+setiap: segalasesuatu, setiap, apasaja, yang, terhadap, per, semuaorang, penyebut, seluruh, rata-rata
+terakhir: akhir, terakhir, terakhir, terakhir, lain, lain, terbaru, baru, akhir, lalu, menanggung, bersikeras, sebelumnya, terlambat
+dibawahkonteks: 
+mengambil: resort, menempati, mengambil, mengambil, mengambil, mendapatkan, menerima, memilih, menangkap, menangkap, biaya, menerima, membawa, membawa, menembak, berlaku, menetapkan, terapan
+ditemukan: menemukan, menemukan, penemuan, deteksi, diakses, mendapatkan, memenuhi
+tangan: lengan, pergelangantangan, senjata
+muda: pemuda, muda, remaja, pemuda, baru
+memberikan: meminjamkan, menyediakan, menawarkan, menyediakan, menyampaikan, memberikan, mampu, menempatkan, menyumbangkan, membiarkan, hibah, menghadiahkan, berkala, sepeda, mengakui, berhutang
+Allah: ilahi
+delativekasus: 
+tidakada: sesuatu, obyek, tidakada, apapun, taksatupun, takseorangpun, beberapa, beberapa, tertentu, agak
+kanan: pasangan, benar, akurat, adil, keadilan, dibenarkan, tidakwajar, memenuhisyarat, hak, hukum, benar, benar, tertentu, yakin, memberijudul, baik, di, karena, tepat, tepat, cocok, sesuai
+sekali: segera, tepat, metode, pola, metodologi
+semelfactiveaspek: 
+kiri: jauh, meninggalkan, melewatkan
+bagian: bagian, sebagian, bagian, sebagian, paket, pecahan, ruas, Bagikan, sedikit, bagian, bagian, bagian, bab, departemen, episode, sebagian, divisi, menangkal, sektor, proporsi, kepentingan, ikut, kuantum
+rumah: rumah, tempat, candi, perumahan, rumahtangga
+dunia: dunia, global, alamsemesta
+kepala: judul, utama, kepala, bab, pemimpin, presiden, ketua, direktur, bos, pena, sakitkepala, rambut
+tiga: ketiga, kesembilan, pajak
+fokus: dimaksudkan, tujuan, tujuan, tujuan, konsentrat, perhatian, konsentrasi, bertemu, penglihatan
+cinta: kasihsayang, amal, seperti, menghancurkan
+selalu: selama-lamanya, selalu, pernah
+malam: malam, makanmalam, sore, malamini
+raja: memerintah, raja, raja, raja, pangeran
+antara: antara, antara, dari, di, ke, dalam, tengah, pertengahan, selama
+jantung: bersorak, menggembirakan, menjatuhkan, seranganjantung
+paucaljumlah: 
+karena: karena, sejak, kasus, menyebabkan, alasan
+kausalkasus: 
+nama: namakeluarga, katabenda, kerajinan
+tepatkatabenda: 
+negara: bangsa, tanah, bumi, negara, tanah, tanah, pesta, pedesaan
+tanya: meminta, berkonsultasi, dorongan, pertanyaan
+terlihatygberdasarataskenyataan: 
+lebihbaik: unggul, terbaik, unggul, ideal, terkemuka, lebihlanjut, lebihjauh, baik
+sisi: rusuk, kebaikan, kebaikan, kepentingan, berbelok, halaman, aspek, setengah, segi, terhadap, disamping, kesamping
+kuliah: kurikulum, pelajaran, kuliah, pasti, pasti, pasti, menilai, path, yakin
+cukup: cukup, cukup, memadai, cukup, cukup, cukup, cukup, agak, cantik, besar, sangat, besar, secarasignifikan, substansial, masukakal, menempatkan, sepenuhnya
+segera: segera, cepat, cepat, segera, cepat, segera, cepat, buru-buru, mendesak, begitu, segera, segera, dekat, awal, jepret
+penuh: sepenuhnya, cukup, mutlak, lengkap, cacat, seluruh, persis, tepat, mengucapkan, tepat, teliti, seluruh, luas, ukuran, sepenuhnya, samasekali, samasekali, jadi, ulung, menyelesaikan, implisit, memenuhi, melayani
+kamar: ruang, keempat, kamartidur, perdamaian, kompartemen, gudangdibawahtanah, kedalaman
+air: cair, cairan, batasair
+Desiderativesuasanahati: 
+cahaya: cahaya, cerah, lilin, sedikit, gaya, enteng, pucat, jelas, sianghari, pencahayaan
+kata: leksikal, suara, kosakata, frasa, katakerja, katabenda, susunankata, istilah
+pintu: gerbang, pintukeluarmasuk, jalanmasuk, bab, pelabuhan, pintugerbang
+menggunakan: memanfaatkan, pemakaian, konsumsi, pengeluaran, konsumen, menggunakan, aplikasi, kegunaan, berlaku, mempekerjakan, memakan
+pagi: pagi, sarapan
+terminativekasus: 
+kekuasaan: kekuatan, energi, mungkin, kuat, memaksa, kuasa, dinamis, salad, kekuasaan, kewenangan
+diri: diri, diri, diri, diri, diri, diri, diri, diri, sendirian
+suara: suara, nyaring, suara, audio, memilih, barang, isu, isu, kebisingan
+putih: kosong, keluhan
+uang: kekayaan, perak, finansial, kas, matauang, keuangan, moneter
+berikutnya: disamping, disamping, disamping, berikut, kemudian, dimensi, kedepan, berikut, setelah, setelahitu, kemudian, kemudian, seterusnya, meneruskan, lebihjauh, didepan, berjalan
+miskin: lengan, kemiskinan, buruk, lemah
+kematian: kematian, hampirmati, mati
+untukm: bentuk, cetakan, format, kontur, pola, bertani, berbentuk, morfologi
+inessivekasus: 
+bersama: serentak, sepanjang, bersama, kolektif, set, disamping, konjungsi, menggabungkan
+masalah: kasus, peristiwa, benda, gejala, masalah, bahan, zat, subyek, isu, pertanyaan, barang, tema, menarik
+sering: sering, selalu, secarateratur, sering, umum, biasanya, khas
+teman: sekutu, pacar, sesama, pasangan, rekan
+memesan: sistem, pengaturan, mengatur, kontrak, susunan, perintah, berbelok, baris, antre, urutan, sekuensial, mengundang, begitu, membiarkan, menghindari, mengeja
+sangatpentingsuasanahati: 
+bulat: bulat, lingkaran, putaran, bola
+menjaga: memegang, mempertahankan, awam, menempatkan, set, pasta, menahan, menjaga, menggunakan, seperti, kelestarian, konservasi, mempertahankan, menahan, mengikuti, tinggal, tinggal, tetap, pemeliharaan
+istri: istri, perempuan
+percaya: kepercayaan, memperhitungkan, menganggap, iman, keyakinan, kepercayaan, yakin, optimisme, optimis, ketergantungan
+dekat: lulus, disamping, hampir, sekitar, dekat, hampir, berdekatan, sebenarnya, dekat, proksimal, tetangga, tetangga
+publik: umum, hadirin, umum, umum
+negarakonteks: 
+putra: kawanan, anaklaki-laki
+ratus: keseratus, menghadapi, sen, abad
+anak-anak: anak, keturunan, anak, bayi
+demikian: dengandemikian, begitu, karenanya, sepertiitu, iyanih, karenaitu
+berharap: ingin, prospek, mengharapkan, optimisme, optimis, diharapkan, mengharapkan, harapan
+atas: naik, lebih, diatas, tinggi, puncak, maju, atas, di, tentang, melalui, atas, atas, atas, didepan
+sayang: kekasih, mahal
+Bacabaca: pembacaan, bernyanyi, bungabakung, pembaca
+kota: kota, kota, daerah, perkotaan
+sudah: siap, siap, rela, bagaimanapun, pra
+fakta: kebenaran, realitas, keadaanygsebenarnya, benar, nyata, sebenarnya, memang, sangat, sebenarnya, melakukan
+faktifygberdasarataskenyataan: 
+gadis: pembantu, putri, perempuan, wanita, pacarperempuan, sendirian
+mendengar: mendengarkan, pendengaran, merasa
+palingsedikit: minimal, minimum, memperkecil, kurang, kurang, termurah, paling, terbaik, palingtinggi, optimum
+mungkin: mungkin, mungkin, agaknya, mungkin, mungkin, mungkin, mungkin, mungkin, menurutdugaan
+Buka: jelas, polos, jelas, telanjang, jelas, kosong, eksplisit, jelas, luarruangan, defisit, secaraterbuka, membuka, beban, mengungkapkan
+tubuh: daging, jasmani, fisik, secarajasmani, badan, organ, mayat
+udara: angin, anginsepoi-sepoi, penerbangan, cuaca, perusahaanpenerbangan, penerbangan
+alam: alam, asli, tentusaja, asal, keturunan, asli, margasatwa, karakter
+membantu: membantu, bermanfaat, membantu, bantuan, asisten, awam, bantuan
+surat: surat, kop, penulisan
+empat: keempat
+optatifsuasanahati: bentukpengandaiansuasanahati
+api: panas, api, demam, perapian, Budha
+gratis: kebebasan, kebebasan, membebaskan, gratis, sia-sia, bebas, kosong, longgar, melepaskan
+perang: pertempuran, perjuangan, pertarungan, medanperang, bergulat
+kedua: lain, kedua, Menurut, lain, kedua
+serikat: tunggal, kesatuan, inklusif, serikat, sejenis, sekutu, unik, sepakat, bersama, gabungan, koalisi, federasi
+panggilan: tantangan, mengoksidasi, menarik, pada, koneksi, kombinasi, bersama, fusi, undangan, seumurhidup, percakapan, telepon
+Mengapa: serupa, demikianpula
+kalah: kerugian, kehilangan, hilang, menghilang
+ribu: keseribu, pakaian, kain
+keluarga: rumahtangga, selamat
+jiwa: semangat, hantu, dalang
+peduli: prihatin, perhatian, perhatian, meditasi, layanan, sokongan, menjaga, keselamatan, perlindungan, keamanan, pertahanan, kelestarian, konservasi, liputan, pertahanan, peringatan, menyembuhkan, pengobatan, tahanan, kuatir, cemas, mengkhawatirkan
+berarti: berarti, merasakan, makna, berarti, menunjukkan, tengah, agen, medium, rata-rata, moderat, dasarnya, memahami
+berbeda: berbeda, berbeda, berbagai, bermacam-macam, kelipatan, perbedaan, terpisah, variasi, terpisah, variabilitas, diferensial, seperti, variasi, berbeda, berbeda, lain, lain, lain, beberapa, berbeda, variasi
+potensisuasanahati: 
+allativekasus: 
+antropikjeniskelamin: 
+lima: kelima, tahun, untuk
+hidup: kehidupan, bertahan, bertingkah, hidup, sarang, distrik, lingkungan, lingkungan, hidup, lincah, mentah, lurus, mudah, penduduk, langsung
+berbedasubyek: 
+menjawab: utara, balasan, tanggapan, larutan, sesuai, menanggapi, utara, sahutan
+laut: lautan, laut, hidanganlaut
+takut: ketakutan, takut, teror, perasaankagum, takut, panik, kegelisahan, kecemasan, kengerian, ketakutan, ketakutan, fobi
+keras: sulit, kaku, rumit, keras, keras, keras, sengit, sulit, ketat, menantang, rumit, padat, ketat
+hal: istilah, terminologi, isu, berdasarkan, pekarangan, dasar, dasarnya, fundamental, padadasarnya, milik
+keraguan: kecurigaan, ketidakpercayaan, keraguan, tersangka, pemasok
+dubitativesuasanahati: 
+hitam: blok
+indah: baik, bagus, indah, indah, baik, cantik, indah, keren, imut
+gelap: kesuraman, kegelapan
+menyortir: klasifikasi, menggolongkan, penggolong, jenis, jenis, variasi, barang
+sepuluh: dasawarsa, kesepuluh, adil
+menunjukkan: pameran, melakukan, prestasi, demonstrasi, presentasi, menunjukkan, menunjukkan, peristiwa, proyeksi, pameran, seni, gambar, sketsa, screenshot
+cerita: mitos, sejarah, cerita, fiksi, merencanakan, kisah, berbicara, tema
+Book: gulir, cadangan, pound, bukupelajaran
+elektronik: elektronik, elektron, petir, listrik, listrik, elektris, montirlistrik, e-mail, bekas
+rekening: alasan, menyebabkan, menghitung, komputasi, hitungan, tagihan, perhitungan, menghitung, memperhitungkan, hitung
+menandai: penanda, jejak, jejak, skor, logo, menyoroti, kutu, menandai, tanda, sinyal, indikasi, isyarat, merek, karakter, label, kesan, simbolis, waspada, simbol, icon
+bunga: bunga, tertarik, perhatian
+menulis: menyusun, penulisan, mengetik, tertulis, stasioner
+tempattidur: 
+perlu: penting, penting, berguna, kritis, vital, penting, tidakpenting, integral, sangatpenting, penting, perlu, perlu, intransitif, intransitif, intransitif, mendesak, lengket, kebutuhan, wajib, memerlukan
+ide: pikir, pertimbangan, pendapat, gagasan, ilham, berpikir, membayangkan, imajinasi
+vialiskasus: 
+saudara: saudarakandung, saudara, perapian, rekan
+terkadang: jarang, kadang, beberapawaktu
+garis: kawat, benang, baris, jalur, konduksi, garis, garis, pajak, naskah, baris, membintangi
+meja: mejatulis, susunanacara, Katalog, Katalog
+sungai: bantal, bantal, aliran
+mata: menunjuk, sekitar, salju
+informasi: pesan, penjelasan, deskripsi, buletin, pengetahuan, data, pangkat, memberitahu
+mendadak: mendadak, tiba-tiba
+aneh: anehnya, menakjubkan, dgnaneh, aneh, heran, hebat, luarbiasa, luarbiasa, luarbiasa, menakjubkan, aneh, lucu, orangasing, eksotik, canggung, luarbiasa, aneh, gaib, ingintahu
+dalam: dalam, kedalaman, luas, dangkal, teliti, terperinci, luas, kritis, mendalam, dalam, dalam, dalam, cacing
+perubahan: modifikasi, variasi, transformasi, mengubah, mutasi, bergeser, mengubah, merubah, transisi, konvergensi, variasi, perbedaan, variabilitas
+perasaan: merasa, sensasi, persepsi, kesan, emosi, suasanahati, kagum, emosional, indrawi, sentimen, merasakan, gairah, sadar, kesadaran, impuls, gagasan, pembuahan, konsep
+tujuan: obyek, tujuan, tujuan, tujuan, tujuan, niat, dimaksudkan, motif, target, keuntungan, manfaat
+senang: riang, geli, kesenangan, senang, kegembiraan, kebahagiaan, menyenangkan, gembira, kesenangan, gembira, beruntung, senang, emoticon, sering, menikmati, lebihsuka, takbahagia
+darah: berdarah, berdarah, pertumpahandarah
+mawar: berwarnamerahmuda
+Selatan: selatan, tengahhari, pagimenjelangsiang
+dingin: musimdingin, keren, dingin
+posisi: tempat, situasi, status, kesempatan, kesempatan, ruang, pendirian, sikap, tempat, pos, barang, orientasi, awam, terletak, tempat
+berdiri: stasiun, vertikal, sikap, pendirian, berhenti, sikap, pose, kios, menjadi, tinggal, tinggal, ada, melawan
+mengira: anggapan, hipotesa, menganggap, mengambil, menganggap, mengadakanhipotesa, awam, rumahtangga, menurutdugaan
+ranjau: saya
+memotong: kekurangan, kurang, pengurangan, kekurangan, mengurangi, kekurangan, kehilangan, pemotongan, mengganggu, memotong, memotong, tanaman, rusak, melanggar, konspirasi
+salinan: meniru, sahutan, mengulangi, turunan, fotokopi, klon, versi, resep, denah, kekayaan
+suami: manusia, istri
+enam: seks
+murah: kurang, pendek, murah, murah, keguguran, minimal, bagianbawah, dangkal, membosankan, kekurangan, meringankan, menurunkan, mengurangi, memperkecil
+ingat: catatan, penarikan, mengingatkan, menghafal
+efek: mempengaruhi, mempengaruhi, kesan, dampak, kekuasaan, efisien, efektif, efektivitas, konsekuensi, hasil, pencahayaan, hasil, implikasi
+jatuh: musimgugur, kasus, terletak, jatuh, jatuh, jatuh, runtuh, penurunan, menurun, mengurangi
+kecuali: kecualikalau, diluar, selain, Selain, diluar, selain, Tidaktermasuk, selain-dari, tanpa
+hakcipta: 
+tentara: pasukan, kelompok, tuanrumah, tentara
+menjalankan: melarikandiri, menguras, menjalankan, menjalankan, beroperasi, mendorong, gigi, operasi, operasional, membela
+kuda: sepatukuda, di, ucapan, ucapan
+masadepan: kemudian, setelahitu, kemudian, musimdingin
+barat: barat
+membayar: upah, upah, gaji, dorongan, pembayaran, membayar, biaya, biaya, membiarkan
+merah: pengurangan
+emas: 
+keinginan: kemauan, asyik, nafsumakan, ingin, merindukan, dorongan, nafsu
+bermain: tarian, berjudi, permainan, pipi, mainan, gulungan, berputar, memutar
+menguasai: raja, utama, utama, profesor, mendominasi, memerintah, Bapak, pria, terkemuka, tuan, pemilik, dalang, kontrol
+kantor: agen, mejatulis, kementerian
+pemerintah: negara, baris
+gereja: 
+panjangnya: tinggi, tinggi, menjangkau, sepanjang, lamanya, tinggi
+perusahaan: perusahaan, perusahaan, masyarakat, bisnis, perusahaan, kesatuan, lembaga, agen, lembaga, usaha, perusahaan
+kertas: lembar, kartu, piagam, koran
+kemungkinan: kemungkinan, kemungkinan, mungkin, mungkin, tidakmungkin, prospek, kesempatan, mungkin, variabel, kesempatan
+terutama: khusus, khususnya, secarakhusus, terutama, khusus, persis, terutama, kebanyakan, terutama, spesifik, penting, khas
+beruang: membawa, menanggung, kesabaran, toleransi, memiliki, memiliki, mampu, mentolerir
+jendela: 
+perjanjian: protokol, penyelesaian, kompromi, konsensus, perjanjian, setuju, berurusan, sesuai, lembut, senar, kontrak, konvensi, pengaturan, tawar
+keindahan: indah, kecemerlangan, estetis
+tugas: kewajiban, tanggungjawab, kewajiban, tanggungjawab, beacukai, tugas, tugas, hutang, berhutang, harus, mempekerjakan, nasib
+mengirim: mengirimkan, pengajuan, pos, siaran, e-mail, transmisi, harus, menyampaikan, menyerahkan
+jarak: pemindahan, jarak, pemisahan, jalan, celah
+Diam: keheningan, diam, diam, kesendirian, perdamaian
+kaki: kaki, berhenti, paha, kaki, perempat, mengais, menjalankan, tepat, langkah
+liar: liar, liar, sengit, margasatwa, rimba
+mati: mati, hampirmati, lepas, menutup
+menyimpan: penghematan, kelestarian, memulihkan, melestarikan, konservasi, menghafal, menyimpan, menebus, menyelamatkan, merekam, perlindungan, mempertahankan, membersihkan
+hijau: mentah, mentah
+kesulitan: mengganggu, isu, masalah, kesulitan, kesulitan, meremas, penderitaan, bermasalah, hambatan, memalukan, kejengahan
+tersenyum: menyeringai
+salah: kesalahan, kesalahan, salah, sangat, menganiaya, Salah, kesalahan, kegagalan, cacat, salah, kejanggalan
+tidur: sedangtidur, mimpi, tidursebentar
+quotativekasus: 
+awal: mulai, mulai, melakukan, menggaruk, serangan, awal, awal, inisiasi, debut, prinsip, memulai, memulai
+tindakan: tugas, titik, langkah, tahap, bertindak, prosedur, aktif, operasi, operasional, mengaktifkan, aktivis, bergerak, praktek, praktek, beroperasi, saham, eksekusi, menjalankan, mengadakan
+mengunjungi: mengakses, wawancara, diakses, perjalanan, perjalanan, perjalanan, wisata, filsafat, mengkritik, pertemuan, hadiah
+mengikuti: pemenuhan, mengikuti, berikut, mengejar, jalur, menemani, mematuhi, berikut, bersikeras
+mencoba: mencoba, berusaha, upaya, prakarsa, percobaan, menguji, mencicipi, ketekunan, percobaan, pemeriksaan, ujian
+kehadiran: adanya, ada, kesatuan, aset, kejadian, melihat, kehadiran
+berat: pengulangan, berat, sulit, parah, berat, sungguh-sungguh, besarsekali, hati, besar, besar-besaran
+manis: pencucimulut, permen, lemahlembut, lunak, imut
+mulut: lisan, mangkok, menyesap, menghadapi
+kaya: cukup, berlimpah-limpah, kaya, gaun, murahhati
+musuh: bermusuhan, lawan, melawan
+kapal: perahu, berlayar, armadakapal, pelayaran, kapal, pelayaran, feri, perut, menyetir
+kondisi: bertaruh, pertaruhan, negara, situasi, keadaan, status, nasib, tahap, tingkat, kebugaran, kebutuhan
+termasuk: berisi, memasukkan, melibatkan, termasuk, terdiri, Tidaktermasuk
+inklusiforang: 
+muncul: penampilan, timbul, muncul, munculnya, terlihat, kelihatan, melihat, menghantui
+rahasia: gaib, misteri, pin, bawahtanah
+silahkan: silakan, meminta, rahmat
+precativesuasanahati: 
+sopandaftar: 
+jahat: membahayakan, buruk, ganas, buruk, sangat, mengerikan, sakit, lebihburuk
+Maret: parade, protes, demonstrasi, Mars
+pelan-pelan: bertahap, lambat, lembut, lembut, terlambat, bertahap
+sebagaigantinya: daripada, agak, selain, penggantian, substitusi, kalautidak, kepentingan
+biru: cyan
+mustahil: 
+sekolah: kampus, tangga
+kesempatan: kesempatan, peristiwa, kejadian, kesempatan, kesempatan, tawar, pukul
+menikah: pernikahan, kawin, pernikahan
+makanan: makan, diet, hidangan, makan, makanmalam
+duapuluh: 
+mudah: mungkin, segera, cenderung, mudah, kenyamanan, sedikit, sedikit, enteng, mudah, mudah, secarasingkat
+bakalaspek: 
+bahasa: linguistik, lidah, mendasarkan
+ekspresi: mengekspresikan, pernyataan, frasa, pandaiberbicara, pencahayaan, ucapan, persamaan, perwakilan
+minggu: Minggu, mingguan
+ruang: teater, lorong, ruang, ruang, salon, santai, lorong, pelari, lobi, lubang, mengangkut
+bahaya: berbahaya, risiko, bahaya, menghormati
+biasa: umumnya, umum, umum, rutin, umum, biasanya, biasa, luarbiasa, umum, sederhana, normal, luarbiasa, biasa, khas, lepas, biasanya, khas, arusutama, biasa, biasa, polos, kuranglebih, sederhana, moderat
+ygdibawalahir: kelahiran, kebangkitan, asli
+pengadilan: yudisial, hidangan, forum, prosespengadilan
+ygbersifatperibahasaaspek: 
+bernilai: pantasmenerima, nilai, berharga, keabsahan, pantas, biaya, harga
+pohon: menanam, kayu, batang, kayu
+dinding: 
+surga: langit
+inkoatifaspek: 
+jussivesuasanahati: 
+nada: nada, melodi, ton, ton, naungan, ikantongkol, suara
+menganggap: menghormati, menganggap, menganggap, perhatian, pertimbangan, mempertimbangkan, hubungan, asosiasi, hubungan, ucapan, liputan, hubungan, menghubungkan, terkait, terkait, prihatin, termasuk, mengenai, sesuai, sesuai, relevan
+bulan: bulan
+pengalaman: empiris, experiential, berpengalaman, keahlian, semangat, percobaan
+keadaan: skenario, keadaan, situasi, longgar
+segar: barusaja, murni, bersih, pembersih, baru, bibit, terbaru
+duke: penggaris, pangeran, mengintai
+tercakup: penutup, liputan, lepas, tertutup, dalam, penutup, memerintah
+terikat: tingkat, keterbatasan, membatasi, berbatasan, larangan, terbatas, Koneksi, tergantung, mengikat, batas, membatasi
+timur: timur, silam, sebelumnya, sebelumnya, pra, mengorientasikan
+batu: marmer, batu, batupermata
+arah: orientasi, dimensi, kecenderungan, segi, petunjuk
+kursi: kursi, kursitangan, bangku, santai
+mendukung: menopang, mengesahkan, bantuan, membantu, mengurung, membantu, dasar, kruk
+tanggal: sejarah, pertemuan
+desa: dukuh, pedesaan
+bidang: bola, dunia, wilayah, wilayah, daerah, daerah, sektor, domain, arena, stadion, ruang, batas, pedesaan, kamp, bertani
+Tunggu: mengharapkan, memegang, tinggal
+izin: mengizinkan, telinga, izin, izin, meninggalkan, lisensi, lisensi, persetujuan, edisi, milik, persetujuan
+serbamembolehkansuasanahati: 
+keberhasilan: sukses, berhasil, kemakmuran, prestasi, kemenangan, menang, memukul, kemenangan, pemenang, menjadimakmur
+bukit: gunung, meningkat, gunungberapi
+musik: musikal, klasik
+distaldemonstratif: 
+sore: sore, tengahhari, pagimenjelangsiang, malam
+menangis: meratapi, berteriak, berteriak
+menghormati: menghormati, menghormati, martabat, terhormat, terhormat, sebutankehormatan, kesopanan, kejayaan, menilai, harga
+tujuh: 
+pribadi: pribadi, diri, sendiri, khusus, pribadi, spesifik, eksklusif
+duduk: tinggal, menetap
+berita: pesan
+tempatkejadian: situs, melihat, konteks, pameran, visual, tahap, melihat, prospek, tenda, penampilan
+taman: tukangkebun, taman
+ras: rasial, balap, menjalankan, kontes, turnamen, lembut, berkembangbiak, pertandingan, bangsa, berebut, renda
+distributifkasus: 
+belajar: belajar, mengajar, disengaja
+politik: politik, politik, politikus, polis
+pidato: kuliah, berbicara, percakapan, ceramah, lisan
+berbohong: Salah, menipu, menipu, menggerakkan
+melemparkan: melemparkan, melemparkan, melemparkan, melemparkan, format, cetakan, meluncurkan, gudang, berhenti
+makan: makan, makan, hidangan, makanmalam, konsumsi
+lantai: permadani, tanah, bagianbawah, tanah, berjalan, tinggi, tinggi, tujuan
+musimpanas: panas, panas, pemanasan
+agama: keagamaan, hutang, kepercayaan, membantuperkembangan
+gambar: potret, lukisan, gambar, foto, fotografi, fotografi, foto, fotokopi, gambar, jepret, film, ilustrasi, lukisan, ara, angka
+melarikandiri: melarikandiri
+penulis: penulis, guru, editor
+coklat: kelabu, kelabu, warnacoklatkarenaberjemur, perunggu, cokelat, gandum
+bertekad: penentuan, memutuskan, menentukan, pasti, tegas, perancang, ditentukan, memastikan, stabil, tertentu, keputusan, penentu, tetap
+rasasakit: menyakiti, derita, menyakitkan, kesedihan, sakit, penderitaanmendalam
+musimsemi: bulu, kami, milikkita
+lembut: ygmengizinkan, halus, halus, lembut, lembut, lembut, lemahlembut, lunak, ringan, halus, asli
+sudut: sudut, lebar
+: , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , itu, sebuah, Sebuah, menyerahkan, memperkuat, memeriksa, jashujan, pemadam, resepsionis, tabirsurya, presenter, proyektor, skateboard, montirlistrik, perlengkapanmandi, sentimeter, tas, keraguan, konfirmasi, taksi, muatan, biasa, lepas, bahaya, menyesuaikan, biola, tukangkebun, tukangkayu, vas, gusi, berkala, trotoar, badai, syal, piknik, vanila, lencana, pencucimulut, busur, bakal, gudang, kasir, bantalan, kue-kue, pustakawan, ruangolahraga, derek, koki, umum, pembersih, pelayan, konselor, kertassurat, pijat, tokoroti, sedan, microwave, tukangledeng, panggangan, brokersaham, bukukecil, hamburger, pemanas, kosmetik, panggang, jagungmeletus, refleksif, logo, ikantongkol, hidanganpembuka, Timer, apoteker, komuter, karton, denah, taskantor, eskalator, perenangpenyelamat, kop, pencucipiring, ransel, hidanganlaut, kursiroda, gang, bolavoli, conditioner, jepretan, sauna, Periksa, toner, industri, menggoyang
+menghasilkan: produksi, menghasilkan, produktif, membuat, pembuatan, pabrik, tanaman, tanaman, produk, penciptaan, pembentukan
+tertawa: bersendagurau, tawa
+lupa: mengabaikan, menyangkal, sadar
+Eropah: 
+delapan: kedelapan
+lewat: oleh, melalui, lulus, melalui, berlalu, bagian, persimpangan, bergeser, transisi, lorong
+mengerikan: mengerikan, mengerikan, sangat, menakutkan, sangat, tragis, menggelisahkan, ketakutan, raksasa, sangat
+Sake: motif, kebaikan, kebaikan
+nafas: pernafasan, bernafas, pernafasan, menghembuskan, diri, megap-megap, mendesah, berbisik, menghirup, mencium
+bijaksana: masukakal, bijaksana, bijaksana, bijaksana, pintar, cerdas, cerdas, dewasa, cemerlang
+posesifpenanda: 
+nyaman: menyenangkan, nikmat, baik, nyaman, nyaman, menarik, bagus, baik, jenis, indah, kesenangan
+benar-benar: sepenuhnya, sepenuhnya, samasekali, samasekali, aktif, sempurna, benar-benar, samasekali, agak, persis, benar, mutlak
+ingatan: menghafal, referensi, peringatan, jejak
+kuburan: serius, parah, berat, pemakaman, kritis
+modern: kontemporer, mutakhir, memodernisasi, modern, baru, ceramah, terakhir, maju, sekarang
+tempat: titik, dot, pukul, tempat, noda, tambalan, tempat, tempat, tempat, tempat, situs, lokal, menemukan, tanda, ususbesar
+istirahat: membobol, rem, resort, santai, gangguan, selang, celah, menghancurkan, pecah, berhenti, berhentisebentar, mengganggu, gelisah
+pulau: 
+menyentuh: kontak, keran
+sama: setara, sama, serupa, sepatutnya, oke, Baiklah, sama, gelar, par, identik
+pantai: backup, jurang, pantai
+janji: melakukan, komitmen, janji, janji, jaminan
+komisifsuasanahati: 
+rencana: skema, berurusan, program, program, prakarsa, perencana, denah, usul, proyek, merencanakan, sketsa, proyeksi, tataruang, datar, gambar, disain, dalil, perencanaan, kontemplasi
+mengherankan: mengherankan, tiba-tiba, kebetulan, menakjubkan, heran, heran, tercengang
+menit: 
+tembakan: menembak, penembakan, peluru, amunisi, foto, foto, pukulan, letusan, kup, melemparkan, bingkai, tendangan
+memimpin: kepemimpinan, terkemuka, menyetir, peluru, mendorong, panduan, membawa, kurus
+kaca: cermin, kristal, botol, kacamata, halaman, ekspor
+naik: lempeng, dewan, naik, naik, naik, kelompok, komite, panel, nasihat, tepi, komisi, tablet, edisi
+contoh: contoh, ilustrasi, model, pola, metafora, prototipe, sebagai, mewakili, contoh, kasus, preseden, mencicipi, polapikir, menjelaskan, iyanih
+aman: aman, keselamatan, keamanan, aman, yakin, asuransi, yakin, takadasalahnya, pemindahan
+dokter: dokter, dokter, praktisi, medis, doktergigi
+kelas: jenis, orbit, kelas, kelas, pemisahan, lapisan, kategori, pangkat, distrik
+ygmengakhiriaspek: 
+ulang: sering, biasa, konstan, selalu, kadang, sering, secarateratur, berkala, pengulangan, ulangi, mengulangi, revisi, perulangan
+militer: daerah
+hangat: panas, panas, kehangatan, suhu, pemanasan, gram, panasdanlembab
+minum: minuman, kemabukan
+marah: marah, kemarahan, kebiadaban, mengganggu, dengki, benci, kesal
+langsung: lurus, langsung, tidaklangsung, otomatis, mudah, segera, meluruskan, segera, lisan
+topi: topi, ketopong
+anjing: 
+pelayan: pelayan, pelayan, pelayan, pembantu, budak, domestik
+kebanggaan: sombong, bangga, bangga, keangkuhan
+orangbanyak: buru-buru, ramai, massa, jumlah, kuantitas, populasi, tuanrumah, tumpukan, banyak, banyak, banyaksekali, sungguh-sungguh, cukup, jumlahbesar, kawanan
+melatih: pengangkutan, mobil, kereta, gerobak, jalankeretaapi, rel, mendidik
+moral: moralitas, secaramoral, etis, etika, moral, rohani
+Yunani: 
+cocok: sesuai, cocok, cocok, cocok, tepat, mudah, sesuai, sesuai, memenuhisyarat, relevan, sesuai, menyesuaikan, tepat, tepat, bertepatan
+memasukkan: mencatat, masuk, negara, menunjukkan, memasukkan, memasukkan, daftar, pendaftaran
+aturan: administrasi, dominasi, rezim, keputusan, putusan, pertimbangan, wasit, memerintah, hukum, perundang-undangan, norma, negara, mengatur, memerintah, peraturan, resep
+pedang: bilah, pisau
+menyerang: invasi, menyerbu, agresi, pelanggaran, serangan, pelanggaran, menyerang, serangan, serangan, serangan
+kesehatan: sehat, menyambut
+ayat: ayat, ayat, bingkah, titik, sikap, pendirian, par
+sosial: masyarakat, olehmasyarakat
+pengembaliandana: balasan, menanggapi
+Maaf: penyesalan, tiang, Maaf, alasan, permintaanmaaf, kasihan, kesedihan, menderita, penderitaan, kesedihan, derita, duka, kesedihan, meratapi, kesulitan
+keberanian: memetik, berani, yakin, saraf, ketabahan, tantangan, berani, kapal
+resmi: resmi, secararesmi, secararesmi, petugas, jurutulis, birokratis, mengizinkan
+tersedia: menyediakan, menawarkan, menyediakan, pengantar, tersedia, menyediakan, ketentuan, melayani, jika
+permintaan: doa, permintaan, klaim, memerlukan, kebutuhan, penyelidikan, penyelidikan, cepat, tawaran, aplikasi, ingin
+sekilas: melihatsekilas, melihat, sikap, persepsi, pandangan, melihat, melihat, nyata, tatapan, kesilauan
+penyebaran: rinci, memperpanjang, perpanjangan, ekspansi, memperluas, tersebarluas, kelaziman, difusi, menyebarkan, menembus, amplitudo, mengedarkan
+seberang: depan, menentang, kebalikan, menentang, melawan, di, melawan, seperti, bertentangan, membalikkan, membalik, terhadap, oposisi, anti, membalikkan
+duabelas: lusin
+bertunangan: pertunangan, sibuk, terlibat, ikut, sibuk, menggunakan, melipat, pragmatis, terbalik
+anggur: alkohol, beralkohol
+rasa: rasa, rasa, lezat, umpan, semangat
+besi: baja, logam
+mendistribusikan: mengirimkan, menyebarkan, menerbitkan, penerbitan, difusi, mengedarkan, distribusi, menyediakan, Bagikan, membagi, membagi, untuk-split, menggolongkan, distributif, distribusi
+perdagangan: perdagangan, bisnis, perdagangan, barangdagangan, Internet, tawar, transaksi, pemasaran, komersial
+hakim: keputusan, pertimbangan, wasit, juri
+cemas: keadaandarurat, urgensi, prihatin, khawatir, cemas, kegelisahan, perhatian, kuatir, bijaksana, tidaknyaman, mengkhawatirkan, takut, tajam, mengganggu, menggelisahkan, antusias, asyik, gelisah, gelisah, rasaingintahu, kerusuhan, kecemasan
+kapten: 
+penghentianaspek: 
+asing: diluarnegeri, asing, orangasing, eksotik, orangasing, luar, luarnegeri
+intensifier: mengintensifkan
+pentingnya: kebutuhan, hubungan, makna, makna, sangatpenting, tekanan
+akhirnya: akhirnya, akhirnya, terbatas, terakhir, terakhir, terminal, halus, akhir, menggulingkan
+membuktikan: bukti, memastikan, menegaskan, mendemonstrasikan, bersaksi, memahami, aksioma
+mencegah: berhenti, melarang, menahan, menekan, membatasi, menghalangi, blok, menahan, menghalangi, melarang, menghindari, menekan, menangguhkan, berhenti
+leher: tenggorokan, barang
+menarik: kesenangan, lucu, menghibur, menarik, menarik, menarik, impresif, menarik, menarik, menarik, menarik, ingintahu
+hukum: yudisial, hukum, sah, bingkai, teorema
+kering: batang, bubuk
+melayani: layanan, mendapatkan, melayani, menawarkan
+bukti: ygberdasarataskenyataan, bukti, panduan, petunjuk, direktori, pameran, saksi, jelas, bersaksi
+ygberdasarataskenyataankasus: 
+jauh: jauh, jauh, lepas, selain, laptop, terpencil, jauh, terjauh, membuang
+kemajuan: melangkah, deret, pengembangan, progresif, pembangunan, muka, berjalan, perbaikan, mengangkat, pertumbuhan, promosi, cara, proses
+sempit: tipis, ketat, pendek, membatasi, menjengkelkan, memperkecil, terbatas
+bangunan: membangun, struktur, membangun, konstruksi, tempat, kerangka
+pencarian: menemukan, menemukan, penemuan, pencarian, deteksi, pencarian, mencari, penelitian, penelitian, pengejaran, penyelidikan, penyelidikan, penyelidikan, eksplorasi, penemuan
+sedih: murung, kurangsehat, sedih, menjengkelkan, kecewa, penyesalan, takbahagia
+dosa: kesalahan, kurangsehat, melakukan
+sakit: sakit, sakit, penyakit, pasien, penyakit
+jujur: tulus, setia, secarajujur, jujur, lurus, tidakjujur
+bank: bangku, timah
+hutan: rimba, kehutanan
+mengukur: mengukur, pengukuran, menimbang, meter, meter
+aliran: mengalir, ayat, arus, listrik, aliran, jet
+hati-hati: rapat, cermat, waspada
+roti: membakar, menabur, sandwich, butir, panci
+tambahan: tambahan, meluangkan, bahkan, kelebihan, kelebihan, lebihlanjut, tambahan, tambahan, menambahkan, lampiran, suplemen, rusuk, bonus
+memilih: pilihan, pilihan, memilih, selektif, memilih, memilih, panggil, memilih, pemeriksaan, Pilihan, menunjuk
+hewan: makhluk, netral
+Zoicjeniskelamin: 
+eventifsuasanahati: 
+perkaliankasus: 
+memperoleh: mendapatkan, memperoleh, perolehan, menerima, mendapatkan, menemukan, aman, mempertahankan, menopang, memperoleh, mengambil, memiliki, menyelesaikan, mencapai, kawin
+menyeberang: di, persimpangan, lulus, melebihi, menembus
+tebal: gendut, tebal, padat, lemak
+tumbuh: mengolah, naik, pertumbuhan
+hujan: basah, curahhujan, mandi, pengendapan, non, sapu
+diam-diam: 
+permukaan: menghadapi, tingkat, pesawat, daerah, substrat
+suci: suci, mulia
+Juli: 
+mode: modern, cara, metode, pendekatan, prosedur
+melaporkan: penentuan, pernyataan, perbandingan, hubungan, hubungan, adil, pameran, karangan, pencahayaan
+mengajukan: dokumen, mengajukan, profil, arsip
+bahu: batang, sumbu, lukisan, sisir, lengan
+kerajaan: imperial, kerajaan, kerajaan, kerajaan, nyata, sebenarnya
+lagu: lagu, jalur, nyanyian, sajak, bernyanyi
+kenyamanan: meringankan, santai, santai, dorongan, kenyamanan, beristirahat, bantuan, kemudahan
+siapasaja: siapasaja, seseorang, someone, takseorangpun, semuaorang, semuaorang, siapapun
+rumput: jerami, menyiangi, herba, halamanrumput, gram, jerami
+pembukaan: pendahuluan, awal, penemuan, celah, celah, secaraterbuka, awal
+Juni: 
+ikan: akuarium
+modal: bab, dana, aset
+payudara: dada, susu
+pendidikan: mendidik, pelajaran, pendidikan, keaksaraan, pembentukan, latihan, berpendidikan, akademik, petunjuk, mengajar, pengajaran
+tajam: cerah, sengit, ketat, tajam, pedas, runcing, akut, tajam, garing, jelas, kesilauan
+biaya: biaya, pengeluaran, biaya, edisi, keluaran, biaya, menghabiskan
+milikmu: anda
+juta: kesejuta
+berdoa: meminta, doa, mengemis, meminjam
+lelah: kelelahan, melelahkan
+membunuh: pembunuhan, pembunuhan, menghapuskan
+bayangan: naungan
+massa: kualitas, kolektif, kuantitas, jumlahbesar, jamak, banyak, benjol, gugus, massa, pelanggaran, adonan, pasta
+mapan: memasang, padat, sungguh, stabil, penciptaan, mendirikan, berkewajiban, Founds, pembentukan, pembentukan, mempersiapkan
+puas: senang, kepuasan, kepuasan, senang, memuaskan, memuaskan, kadar
+memeriksa: memeriksa, melihat, menonton, memeriksa, pilihan, memeriksa, memeriksa, pemeriksaan, menguji, Audit, Periksa, menengah, penelitian, menyelidiki, memastikan, merevisi, kontrol
+kebajikan: kebaikan, kebaikan, kebajikan, ciri, atribut, sifat
+keemasan: berambutpirang
+nasional: bangsa, kebangsaan, kesukuan, domestik, nasionalis
+KepalaSekolah: utama, katakunci, utama, utama, kepala, terkemuka, pokok
+lembah: baskom
+kira: kesimpulan, tersangka, menganggap, memperkirakan, perkiraan, ramalan, meramalkan, ramalan, berspekulasi, ilahi, dugaan, diharapkan, penilaian, menilai, mengevaluasi, perkiraan, diprediksi
+spekulatifsuasanahati: hipotetissuasanahati
+kuning: pucat, amber, berambutpirang
+sisa: residu, sisa, sisa, sisa, beristirahat
+bengkok: lengkung, tikungan, kecenderungan, sinting, lereng, miring, lipat, persepsi, anggapan
+kotak: koper, laci, dana, kotak, bisa, karton, bin, kasir, persegi, ubin, kisi
+musim: musiman, bab, stasiun, era
+ilmu: ilmiah, morfologi, ilmubahasa
+tampaknya: jelas, jelas, jelas, secaraterbuka, secaraeksplisit, menurutdugaan, jelas, jelas
+membosankan: lubang, bor, membosankan, membosankan, menembus, mengganggu, forum, bosan, melihat-
+paman: bibi
+daftar: indeks, Katalog, Katalog, menu, daftar
+Agustus: 
+tenang: diam, tenang, tenang, diam, lambat, santai, keheningan, lembut
+populer: kelaziman, terkenal, menonjol, rakyat, terkemuka, veteran
+tidakdiketahui: orangasing
+akrab: kenalan, garisketurunan, keturunan, bekas
+akrabdaftar: 
+berjalan: berjalan, tapak, berjalan, kenaikan, berjalan-jalan, pejalankaki
+duakali: duakalilipat
+cendekiawan: pikiran, intelijen, batin, cerdas, psikiatrik, pemikir, kebijaksanaan, rohani
+imam: klerus
+luka: terluka, luka, menyakiti
+istana: 
+mengalahkan: mengalahkan, meninju, menampar, ketukan, membanting, irama, mengatasi, menyerang, sedikit, kemenangan, menang, kemenangan
+menipu: bodoh, menipu, menipu, menipu, bodoh, bodoh, gila, gila, gila, menyesatkan, bodoh, bodoh
+sembilan: kesembilan, baru
+simpati: iba, empati, kasihan, belaskasihan, simpatik, iba
+ledakan: ledakan, ledakan, meledak, retak, ledakan, ledakan, letusan
+berpakaian: gaun, gaun, seragam, pakaian, pakaian
+literatur: sastra, bahan, pakaian
+koleksi: konsentrasi, akumulasi, set, kelompok, kombinasi, susunan, galeri, rangkaian, paket, portofolio, perpaduan, repertoar, kesimpulan, menyimpulkan, kesimpulan, mengumpulkan
+kosong: kosong, kosong, drum, waktuluang, batal, kekosongan, kekosongan, sia-sia, telanjang
+badai: badai, menyetir
+saku: tas, paket
+kalimat: keputusan, pertimbangan, dalil, dalil, saran, usul, hukuman, keyakinan, frasa, mengutuk, mencela, penalti, menghukum
+November: 
+Desember: 
+terjadi: terjadi, kejadian, menjadi, timbul, apa, maupun, jugatidak, tiba
+ketiadaan: absen, kekurangan, kekurangan
+terima: terimakasih, berterimakasih, Terimakasih, Terimakasih, mengakui, mengakui, mengakui, menghargai, akuntan
+seri: rantai, tali, susunan, urutan, set, berbelok, jarak, baris
+alamat: menemukan
+burung: penerbangan, pesawat, jet, pesawatterbang, pesawatterbang, perusahaanpenerbangan, burunghantu
+mantel: gaun, penutup, jaket, bulu
+mempersiapkan: siap, siap, mengatur, persiapan, merumuskan, dimaksudkan, rela, asyik, enggan, kapur, melengkapi, menghasilkan, mempersiapkan, membangun, membuat
+cepat: segera, cepat, cepat, cepat
+merokok: rokok, membakar, menunda
+Januari: 
+mesin: mesin-mesin, mesin, pesawat
+bergerak: bergerak, mobil, bergerak, gerakan, gerakan, bermigrasi, kutu
+gigi: gigi, gigi, ini, kutu
+malu: aib, malu, pemalu, malu, memalukan, kejengahan, telanjang, telanjang, menghina, kebiadaban
+otak: dalang, sumsum
+cincin: picik, panggil, keriting, putaran, ban, ban
+frasapenanda: 
+paham: memahami, pemahaman, merasakan, memahami, empati, pengetahuan, melihat, wawasan, persepsi, kesadaran
+buah: hasil, konsekuensi
+teh: merindukan, mobil, kuadrat
+menjelaskan: penjelasan, menjelaskan, mengekspresikan, pandaiberbicara, menyatakan, menjelaskan, menafsirkan, komentar, interpretasi, menggambarkan, deskripsi
+menyambut: salam, penerimaan, menghibur, Hei, Hai, menyambut
+puisi: sajak, ayat, kota, pukul
+membeli: membeli, memperoleh, mampu, pasar, toko, murah, menginvestasikan, perbelanjaan
+setia: tidakjujur, setia, tepat, setia, benar, terpercaya
+kegembiraan: stimulasi, gembira, kehebohan, ketegangan, memprovokasi, kegembiraan, gairah, menyiram, antusiasme, semangat, antusias, urgensi, sensasi
+April: 
+Oktober: 
+pahit: kesulitan, penderitaanmendalam, derita, pahit, penderitaan, menyakitkan, menyengat, tertulis
+longgar: independen, longgar, menyelesaikan, memecahkan, kosong, bebas
+teks: susunankata
+terburuk: buruk, lebihburuk, kasar, merugikan, buruk, dengki, paling, palingtinggi, termurah, sampah, sampah, sampah
+kredit: hipotek, kartukredit, hutang, meminjamkan, meminjam, pinjaman, gengsi, keabsahan, kredibilitas
+fitur: komponen, fungsi, aspek, ciri
+mampu: memungkinkan, kompeten, sanggup, kapasitas, kemampuan, tidakmampu, potensi, mampu, terampil, berbakat, ketrampilan, efektivitas, kompetensi, trampil, efisiensi, berguna
+limabelas: 
+kejam: sengit, sulit, kasar
+ikut: ikut, menghadiri, terlibat, memulai, mengikuti, peserta, keterlibatan, bersatu, menghubungkan, pendatang, mengintegrasikan
+kejahatan: kesalahan, pelanggaran, pelanggaran, pidana
+debu: bendungan, bubuk, kotoran
+praktis: fungsional, pragmatis, praktis, mudah, sebenarnya, berguna, terapan
+warna: warna, cat, pewarna, pucat, berwarna, warna-warni, menyiram, jalan, coding
+menghancurkan: kecelakaan, merusak, sabotase, menurunkan, menghancurkan, menghancurkan, menghancurkan, rusak, mencampuradukkan, menghapus, meniadakan, pengrusakan
+meningkat: berjalan, menambah, meningkat, menaikkan, menambahkan, memasukkan, pertumbuhan, memperbesar, kenaikan, dorongan
+hidung: paruh
+ramah: cocok, baik, kongruen, silakan, tulus, sekutu, persahabatan, jenis
+kemarin: besok, sekarang
+hesternaltegang: 
+gagal: kegagalan, gagal, mengalahkan, tidak, mencampuradukkan, mengecewakan
+terus: berjalan, kontinu, gigih, kelanjutan, selalu, bersikeras, menyediakan, memegang, kedepan, menghubungkan, mulai, melakukan
+menghapus: membersihkan, menarik, menghapuskan, penyisihan, menghapus, menghapus, hapus, menghapuskan, mengurangi, menarik, Tarik, mengeluarkan, menyerap
+memakai: membawa, porter
+buta: 
+terbang: penerbangan, melompat, penerbangan, penerbangan
+memuji: kekaguman, mengagumi, reputasi, pantas, mengucapkanselamat, Selamat
+misi: 
+mengorbankan: korban, mangsa, korbankecelakaan, korban
+olahraga: bekerja, tugas, praktek, praktek, olahraga, kebugaran, latihan, bor, gerakan, gerakan, kampanye, atletis
+hatinurani: kataganti, kesadaran
+teori: prinsip, ahliteori, dalil, teoretis
+menteri: 
+benci: buruk, menjijikkan, kebencian, benci, prasangka, dendam, benci, jijik, kebencian
+danau: belaka
+pusat: pusat, pusat, stasiun, markasbesar, tengah
+lemah: bawahsadar, putusasa, putusasa, lemah, pucat
+rasionaljeniskelamin: 
+singkat: secarasingkat, akronim, pendek, segera, kartu, padat, ikhtisar, ekonomis
+menyembah: upacara
+barang: produk, muatan, barang, barangdagangan, komoditi, barang, kargo, mall, fitting
+kulit: kulit, penyerapan, kulit, kulit, kulit, bulu, semangat
+atap: teras, plafon, penutup, liputan
+mahkota: 
+kastil: kandang, mengunci, namakeluarga
+takhta: 
+terlampir: menggunakan, bersyarat, melampirkan, Koneksi, tergantung, rekan, pasangan
+mil: kecenderungan, lereng, kurus, lereng, rela
+penjara: penjara
+sepenuhnya: baik, nyaman, tepat, lancar, teliti, agak, sepenuhnya, samasekali, samasekali, cukup, samasekali, sepenuhnya, benar, semata-mata, persis, tepat, akurat
+cangkir: mangkok
+anggota: organ, keanggotaan, dahan, insider
+sipil: domestik, warganegara, civic, sipil
+dimanamana: diseluruh, suatutempat
+memenuhi: eksekusi, menjalankan, melaksanakan, sesuai, menemani, memenuhi, mematuhi, kadar, memuaskan, mengikuti, subyek, pemenuhan
+sementara: sementara, meskipun, namun, meskipun, namun, sedangkan, namun
+volume: banyak, tingkat, jumlah, relatif, kuantitatif, blok, modul, jumlahbesar, lingkar, liputan, ukuran, benua, ayat
+adat: klien, opsional, kostum, praktek, kebiasaan, biasanya
+busur: lengkungan, busur, bawang, melengkung
+daging: daging, dagingsapi
+nabatijeniskelamin: 
+langka: jarang, tidak, jarang
+sepupu: relatif
+jembatan: kelas, dek, kaki, kolam
+melindungi: perlindungan, konservasi, menjaga, melindungi, membela, mempertahankan, mempertahankan, melestarikan, aman, pertahanan, pertahanan
+garam: berlebihan, berlebihan, asin, pelaut
+tidakbersalah: bersih
+ratu: 
+menari: drum, tarian, melompat, melewatkan
+hotel: akomodasi
+mengisi: kadar, isi
+tawanan: menghukum
+tangga: tangga, anaktangga, tangga, laci
+homoseks: homoseks
+pasir: 
+hebat: kekerasan, sengit, bergolak, hebat, parah, kuat, intens, kuat, liar, intensif
+September: 
+kehancuran: pengrusakan, subversi, kerusakan, memanjakan, bencana, reruntuhan, kecelakaan, menghancurkan
+ternak: sapi
+peralatan: aparat, alat, kertassurat, kotak, gigi, pakaian, memecahkan, kemudahan, fitting
+dirasakan: persepsi, sadar, melihat, mengakui, pengakuan, kesadaran
+dimanapun: suatutempat, dimanapun, tempat, ditempatlain
+dapur: memasak, cooker
+menjual: penjualan, semi, penjual, mengkhianati
+kecepatan: kecepatan, kecepatan, momentum, tajam, dinamika, gerakan, mempercepat
+komputer: komputasi
+kekal: pernah, selama-lamanya, takterbatas, permanen
+perpustakaan: pustakawan, rakbuku
+kebingungan: kekacauan, kekacauan, kehebohan, membingungkan, bingung, anarki
+artikel: karangan, barang, bagian, ayat, diameter, insinyur
+memasak: koki, memasak, membakar, mendidih
+pita: sabuk, pita, tape, pasukan, kelompok, mengupas, garis, daerah, untai, ikat, gugus, jalur
+gurun: gurun, sepi
+ciuman: 
+es: eskrim, tape, salju
+bola: karet, bola, peluru, memaksa, bayi, pil, kekosongan, pengiriman
+tongkat: saham, tebu, mengikuti, kayu, kayu, kelelawar, isyarat, staf, tiang
+argumen: logika, bergerak, kontroversi, diskusi, perdebatan, perselisihan, sistem, penonjolan, pertanyaan, pertanyaan
+mengamati: memeriksa, memeriksa, menjelajah, menyelidiki, pengamatan
+doasuasanahati: 
+menyolok: terkemuka, menakjubkan, menyerang, besar, penting, besar, nyata, impresif, menakjubkan, mengherankan, luarbiasa
+berdosa: kesalahan, berhutang, menyinggung, pelanggar, menghukum, mengutuk
+pistol: senapan, senjata
+polisi: melaksanakan, mengawasi
+menyembunyikan: mengeluarkan, menyamarkan
+ekspedisi: kampanye, mendorong, perjalanan, perjalanan, perjalanan, wisata, perangsalib
+awan: duniamaya
+limbah: takberguna, yangtidakperlu, menolak, penolakan, penolakan, sampah, sampah, sampah
+Februari: 
+penyakit: penyakit, penyakit, seranganjantung, baik, memuaskan, sindroma
+prakarsakasus: 
+universal: 
+perkebunan: baik, perkebunan, aset, tanah, milik, kepemilikan, nasib, kekayaan
+merendahkan: mengalahkan, sederhana
+menunda: menunda, terlambat
+terlambatsangatpenting: 
+melaporkanygberdasarataskenyataan: 
+disayangkan: sayangnya, sial, kebetulan, takbahagia, sedih, tidakmemadai, ganjil, tidakpantas
+tengahmalam: utara
+pahlawan: prajurit, juara
+jari: kaki, digit
+tekan: media, majalah, majalah, pencetakan, mengetik, rumus, mendorong
+Penghargaan: hadiah, hadiah, menghadiahkan, bonus, kompensasi, mengimbangi
+menyalahkan: kesalahan, cacat, cacat, hutang, kesalahan, penghinaan, menuntut, kewajiban, tanggungjawab, menuduh, mengatakan, mengutuk, mencela
+penderitaan: kesulitan, penderitaan, derita, sedih, kebosanan, menderita, kesedihan, ironi
+dahi: 
+iklan: iklan, pengiklanan, mengiklankan, iklan, pengumuman, publisitas, melihat, pernyataan, untuk, untuk, pernyataan, penonjolan, promosi, mendorong
+malaikat: pemiliktanah, peri, sulit, rumit, kurir
+ketenaran: kejayaan, reputasi, isu, isu, pengiklanan, publisitas, gengsi
+tunggaljumlah: 
+fajar: senja
+memaafkan: alasan, Maaf, mentolerir, membebaskan, meringankan, memberhentikan, pengampunan
+domba: dagingdomba, kambing, jumlah, positif
+resolusi: menyelesaikan, larutan, keputusan, kesimpulan, analisa, jatuh, kerusakan, penentuan, kerusakan
+kesabaran: ketabahan, kesabaran, pasien, sabar, toleran, toleransi, pengekangan
+referensial: referensi, lihat, menentukan, direktif
+jagung: gandum, tanduk, gandum
+kunci: obligasi, tombol, beralih, utama, vital, menonjol, peka, utama, ceruk, arusutama, petunjuk, bahwa
+mayoritas: banyak, paling
+ketidaktahuan: bodoh, bodoh, bodoh, bodoh, ibujari
+kelemahan: ketidakmampuan
+keuntungan: keuntungan, mendapatkan, manfaat, giat, kemenangan, penerima
+bel: alarm, jam, jam
+suasana: lingkunganHidup, langit, penerbangan, spasial, iklim, lingkungan
+kemanusiaan: manusia
+cakram: cakram, mengiris, melawan, silinder, piring, merekam, baki
+kesepian: sendirian, kesendirian, terpisah, tunggal, hanya, diam, sepi
+artis: pemain, pelukis, penghibur
+pesona: karismatik, dayatarik, sihir, mengeja, estetis
+perbudakan: budak, obligasi
+gubernur: konservatif, penggaris
+cabang: 
+watak: pengaturan, konfigurasi, kecenderungan, kecenderungan, ketentuan, tataruang, suasanahati, susunanacara, jadwal, tempattinggal, tujuan
+keberuntungan: nasib, nasib, beruntung, kebahagiaan, kesempatan, beruntung
+berasal: mendapatkan, menerima, memperoleh, mengambil, mencapai, mendapatkankembali
+induktifsuasanahati: inferensialsuasanahati, deduktifsuasanahati
+masyarakat: masyarakat, kategori, masyarakat
+minyak: lemak, bahanbakar, fosil, sumsum, panas, mentega
+pipa: tabung, keran, keran, buritan
+mencetak: edisi, tekanan, pencetakan, sumbu, cetakan, kesan
+aduh: ya, susunan
+ceramahkonteks: 
+bentukpenyerukasus: 
+kabin: pondok, tenda, mengajukan, ruang, sel, kompartemen
+gugup: tegang, bingung, mengganggu, kecewa, malu, mengganggu, mengganggu, menjengkelkan, saraf, cemas, saraf, kuat, kuasa, intensif
+perbedaan: masing-masing, berbeda, variasi, perbedaan, berbeda, membedakan, celah, membedakan, perbedaan, kontras, variasi, perbedaan
+beban: melihat, beban
+sutra: memahami, pegangan
+penghinaan: memandangrendah, kebencian, benci, menjijikkan, kebencian, penghinaan, menghina, kebiadaban, kelalaian
+neraka: 
+dipisahkan: terpisah, kesamping, selain, berbeda, berbeda, terpisah, jauh, berlainan, isolasi, dikucilkan, delimited, pemisahan, membedakan, memisahkan, pemisahan
+campuraduk: campuran, kombinasi, gabungan, campuran, bersama, fusi
+kayu: kayu, kayu
+memperlakukan: pengobatan, terapi, menyembuhkan, proses, mempertimbangkan, dokter, memperbaiki, berurusan, menyembuhkan, bertingkah, membantu, dagu, rahang
+peringatan: peringatan, memperingatkan, waspada, peringatan, melihat
+peringatansuasanahati: 
+ambisi: kecewa, kekecewaan, nafsu, mengecilkanhati, ambisius
+menghasilkan: efisiensi, meniru, pendapatan
+entahbagaimana: agak, sesuatu
+nasihat: konsultan, petunjuk, memberitahu, konsultasi, nasihat, tip, pengacara, pengacara, menganjurkan
+konstitusi: piagam, konstitusional, kejadian, kejadian
+instrumen: alat, kapal, kesatuan, organ, wadah, kegunaan, alat
+menenangkan: stabil, memantapkan, biasa, secarateratur, tetap, konstan, selalu, kontinu, berkelanjutan, standar, statis, memperbaiki, konsisten, permanen, stasioner, santai
+elemen: faktor, elemen, komponen, bahan, komponen, esensi, sekutu, faktor, parameter
+kontinuaspek: 
+online: 
+pasang: gelombang, jepret
+perguruantinggi: fakultas, akademi, kampus, universitas
+ekor: antre, jejak
+generasi: keturunan
+kucing: 
+langsungygberdasarataskenyataan: 
+ditinggalkan: mengabaikan, meninggalkan, sepi, berhenti, meninggalkan, larut, membatalkan
+sebelas: 
+naluri: spontan
+suku: bagasi, batang, beban, kekurangan, kurang, kekurangan, defisit, kekurangan
+gelisahsuasanahati: 
+berlindung: resort, tempattinggal, penyelesaian, habitat, perumahan, perlindungan, asramamahasiswa, suaka, pelabuhan
+kasar: kasar, kasar, kasar, keras
+riding: naik, pengendara
+profesi: kerja, karier, pendudukan, profesional, kejuruan, bisnis
+lampu: lilin
+kopi: kafe, cukup, cukup, memadai
+perawat: saudara
+memastikan: jaminan, menjamin, janji, menjamin, memastikan, memastikan, memastikan, memastikan, menyediakan, melayani, yakin, meyakinkan, menegaskan, aman, proteksi
+sepatu: sepatu, kayucendana
+awakkapal: staf, kawanan, tim, ikat, personil
+halaman: kode, halaman, pacaran
+samar: kemenduaan, mengaburkan, dwimakna, jelas, gaib, takmenentu, takterbatas, gelombang, kosong, dimengerti
+apartemen: datar, lingkaran, kompartemen, rangkaian, kereta
+aktivitas: transaksi, fungsi, operasi
+Sabtu: akhirpekan
+pemegang: 
+sinarmatahari: tenagasurya, tabirsurya, bersinar, sianghari
+janda: 
+komunikasi: kontak, korespondensi, komunikatif, menyampaikan, interaksi, bergaul, hubungan, menghubungkan, hubungan, korelasi, hubungan, melihat, pengumuman, transaksi, semprot, kerja, dialog, antarmuka, dialog
+refleksi: kontemplasi, refleks, imajinasi
+organisasi: jaringan, organisasi, mengatur, pakaian, perusahaan, kegunaan, agen, kesatuan, sistem, struktur, tekstur, tataruang, lembaga, lembaga, asosiasi, perusahaan, perusahaan, perusahaanpenerbangan, terorganisir
+bintang: 
+tamu: orangasing, pengunjung, asing, orangasing, pendatang, klien, pelanggan, tuanrumah
+bar: telanjang, pub, beban, muatan, kargo, kafe, barium, mengupas, perban, sabuk
+botol: botol, penyakit
+memberkati: berkat, menyambut
+menggerakkan: menggerakkan, campuran, membangkitkan, kerusuhan, merangsang
+bertengkar: perbedaan, perselisihan, pertarungan, prosespengadilan, memperdebatkan, pertentangan
+batin: dalam, dalam, pedalaman, intern, lokal, domestik, dalam, batin, insider, utama, utama
+perlawanan: oposisi, menentang, protes, tahan, anti, benci, keberatan
+berongga: polos, telanjang, kosong, kabel, lubang
+propinsi: provinsi, distrik, daerah, lemak
+peradaban: budaya
+menggantung: mengawasi
+syok: pukulan, trauma, teramat, bentrokan, dampak, mempesona
+pengecualian: sebagian, diskriminasi, stereotip, pembebasan, konflik, terkemuka, membebaskan, deduksi
+ketegangan: menekankan, ketegangan, beban, kelelahan, upaya, intensitas, merangkul, rasial, kesukuan
+penggerak: mendorong, sopir, panduan, naik
+bersumpah: umpatan, janji
+harta: permata
+benih: sperma, kacang, partikel, Bapak
+menara: 
+favorit: favorit
+barusaja: baru, barusaja, barusaja, sekarang, kemudian
+bangun: sadar, moral, bangun, waspada, merangsang
+mebel: 
+tali: tali, tali, mengikat, mengikat
+petualangan: usaha, bahaya, berjudi
+keluargaraja: memerintah
+pesta: pesta, perayaan, perjamuan, liburan, makanmalam
+tahunan: tahun, setiaptahun
+skala: bingkai, kerangka, mengukur, perbandingan, tangga, tangga, anaktangga, ukuran, kriterium, dimensi, tingkat, tingkat, sebanding
+karenaitu: konsekuensi, karenaitu
+dasar: mendasarkan, dasar, berdasarkan, mendasar, utama, dasar, inti, dasar, dangkal, sarjana, pekarangan, peron, yayasan, fundamental, mendasari
+upacara: upacara, fungsi, perayaan, konser, rumus, kesadaran
+pemburuan: berburu, korban, mangsa, mengejar, penembakan
+liberal: murahhati, bebas
+sebagianbesar: substansial, secarasignifikan, paling, terutama, kebanyakan, sangat, sangat, didominasi, semula, dasarnya, padadasarnya, makin
+puteri: putri, pengantin
+altar: suaka
+jaringan: jaringan, bersih, kisi, jaringan, kanvas, rajutan
+ungu: magenta
+mengumpulkan: mengumpulkan, mengumpulkan, menyusut, panggil, sisa
+pemilihan: pilihan, memilih, jejak, pemilihan, ikanpaus, pilihan, selektif
+mabuk: beralkohol, kemabukan
+menuangkan: menjatuhkan, gudang, tumpahan, menggulingkan
+mengangkat: lift, mengangkat, mengangkat, menaikkan, kenaikan
+sikap: tanda, sinyal, simbol, simbolis, sikap, sikap, petunjuk, indikasi
+mengelola: pengelolaan, mengawasi, menangani, administrasi, memerintah, menyetir, kontrol, beroperasi, akan, mengatur, mengatur, mengkonfigurasi, melakukan, mempertahankan
+bertukar: menukar, timbal-balik, menukar, penggantian, komutatif, matauang, moneter, bergantian, transplantasi
+pastiartikel: 
+kaisar: raja
+selesai: jadi, akhir, akhir, plester, lebih, dekorasi, kesimpulan
+jelek: buruk, menjijikkan, riang, nikmat, lucu
+asli: benar, nyata, sebenarnya, maya, tepat, asli, asli, asli, asli, tertentu, yakin, kolom, tulus
+inci: beacukai, ibujari
+jenggot: dagu
+airmata: merebut, erosi
+menolak: anti, oposisi, kontras, protes, kebalikan, menentang, mengganggu, menentang, menolak, menolak, menentang, obyek, menanggung, permusuhan, kontradiksi
+pedagang: pedagang, Seorangpebisnis, barangdagangan
+kemerdekaan: independen, kebebasan, bebas, kebebasan, otonomi, pembebasan
+bau: parfum, rasa, rasa
+delapanbelas: 
+historis: historis, sejarah, sejarawan, bersejarah
+kotor: total, agregat, kotor, mentah, mentah, gairah, makro, asyik, parah, intens, dot, secarakeseluruhan
+akar: batang, barusaja, rute, asli, asal
+lumpur: tanah, lendir, tanahliat, kotoran, bunga
+kesederhanaan: sederhana, kerendahanhati
+kerudung: tirai, berlayar, pelayaran, layar, selaput
+teater: teater
+perbandingan: membandingkan, komparatif, korelasi, perbandingan, konfrontasi, sebanding
+komposisi: komponen, struktur, pembentukan, konstruksi, merupakan, membangun, mengatur, konfigurasi, mengkonfigurasi
+menyaingi: lawan, taksepakat, kompetisi, kompetitif, bersaing, saingan, melawan, kontradiktif, anti
+menyadari: mencapai, mengakui, pengakuan, mengenali, mendiagnosa, menyadari, menjalankan, merasa, melihat, memahami, memahami, menyelesaikan, menghafal
+keseimbangan: keseimbangan, sama, persamaan, horisontal, sebanding, par, anggaranbelanja
+pelatih: pelatih, praktisi, pamong, penasihat
+kelucuan: kelucuan, lucu, suasanahati, komedi, lelucon
+novel: fiksi, baru, barusaja
+dendam: dendam
+sumber: aset, sumber, sumber, cara, menyediakan
+cemburu: kecemburuan, iri
+roda: sepeda, lingkaran, sepeda
+dibakar: membakar
+flash: petir, cahaya, bersinar, senter
+menyarankan: saran, rekomendasi, mengusulkan, sarankan, usul, mencalonkan, berarti, umpanbalik, menunjukkan, dalil
+ygmengutuksuasanahati: 
+takberdaya: 
+kelompok: kelompok, dek
+klub: kelelawar
+banjir: membanjiri
+kenikmatan: menikmati, kesenangan, kegembiraan, menyenangkan, kebahagiaan, senang, senang, gembira, bersorak
+pengabaian: apati, ceroboh, mengabaikan, mengabaikan, mengabaikan
+horison: 
+sombongsuasanahati: hipotetissuasanahati
+curam: ketinggian, tegaklurus, banyak
+harmoni: kompromi, lagu
+masakecil: 
+lutut: putaran
+saling: satusamalain, timbal-balik, umum, bersama, interaksi, interaktif
+perangkatlunak: aplikasi, repertoar
+cedera: menyakiti, membahayakan, kerusakan, melukai, luka, trauma, terluka, pelanggaran
+penerimaan: menerima, jalanmasuk, penerimaan, penerimaan, penerimaan, voucher
+disiplin: subyek
+tergelincir: licin, meluncur, meluncur, kejanggalan
+revolusi: revolusioner, kup, rotasi, memberontak, pemberontakan
+petani: petani
+tak: pukulan, kup, buru-buru, berebut
+hakistimewa: istimewa, Pilihan, kuota, hak, menawarkan, konsesi
+mahasiswa: murid, sarjana, sarjana, akademik
+gua: 
+tradisi: tradisional, menuruttradisi, beacukai, menyerah
+tragedi: wabah, kesedihan, paradoks
+penginapan: pub
+wanitaperawan: pembantu
+Selamattinggal: Selamattinggal, bye, sampaijumpa
+kritik: mengkritik, kecaman, ulasan
+kapas: wol
+rumahsakit: suaka
+menyewa: tarif, menyewa, pajak, upeti, sewa, mempekerjakan, menggunakan, sewaan, piagam
+gas: 
+terelakkan: pasti
+mematikan: vital
+daun: lembar, bilah
+publikasi: menerbitkan, penerbitan, pencetakan, menyatakan, siaran, melepaskan, keluaran, difusi, mengumumkan
+terjemahan: menterjemahkan, menterjemahkan, interpretasi, wabah, transfer, versi
+pantai: untai, pantai
+pemakaman: pemakaman, pemakaman, mengubur
+tepung: bubuk, adonan, tepat, tepat, tepat, makan
+mengaum: dramatis, berteriak, kebisingan
+romantis: pinggang, panggul
+pondok: pondok, mengajukan, gudang
+ygmeniru-niru: 
+dolar: 
+enambelas: enampuluh
+majelis: pertemuan, konferensi, kongres, konfigurasi, rapatumum
+koloni: 
+sayap: menangkal, rangkaian, dahan, sirip, penerbangan, penerbangan
+singa: 
+licik: rumit, menipu, trampil, pintar, diplomatik
+drama: berpura-pura, dramatis
+kabut: kabut
+hypertext: hyperlink
+obat: obat, memperbaiki, semprot, resep
+empatbelas: tanpa, eksklusif, sinus
+ACid: asam, asam, gunung, meningkat
+yaitu: apasaja, yaitu
+pemakai: penerima, konsumen
+uskup: 
+jeruk: 
+mandi: kamarmandi, mandi, bakmandi
+turunan: senyawa, turunan, memperoleh
+primitif: awal, awal, kuno
+keranjang: bin, tas, bolabasket
+sekretaris: editor
+keselamatan: keselamatan, pembebasan, Hai, menyelamatkan, pemulihan, mendapatkankembali
+hariini: 
+hariinitegang: 
+berniat: dimaksudkan, niat, tertarik, tajam, motif, enggan, mencurahkan, mempersembahkan, penentuan
+uap: 
+meracuni: beracun, racun, herbisida, poisson
+bakat: kecemerlangan, berbakat, kualifikasi, kemampuan, repertoar
+efektif: sah, efektif, efisien, efektivitas, berpengaruh, berguna, aktif, tersedia, impresif
+mencuci: pencucian
+pengakuan: mengakui, kepercayaan, pengakuan, penerimaan, klaim
+omongkosong: sampah, keterlaluan, ganjil
+batubara: karbon
+wakil: asosiatif, bye, wakil
+sementara: selang, lamanya, sementara, lepas, kebetulan, Timer, sementara, kontemporer
+delimitativeaspek: 
+tulang: kaki, patah, kerangka
+Senin: 
+Selasa: ketiga
+Rabu: keempat
+federal: federasi, pusat
+diinginkan: menarik, baik
+wakil: mewakili, kepentingan, melimpahkan, pengacara, wakil, Jurubicara
+linen: pakaiandalam
+wastafel: menenggelamkan, baskom, seng, sinkronisasi
+keponakan: keponakan, cuculelaki, cucu
+pengepungan: mengelilingi, kursi
+perut: perut, perut, matriks
+puncak: puncak, puncak, tip, konvensi, punggungbukit
+eksklusiforang: 
+merebut: memecahkan, membatasi, menahan, reservasi, merebut, sibuk, menempati, menyita, mengambil, memahami, melihat, mendapatkan, menegaskan, milik
+pagar: pagar
+patung: patung
+kemewahan: 
+artileri: mencukur
+menangkap: menangkap, menangkap, menahan, mengenakan, berhenti, pembuahan
+pak: paket, paket, paket, membungkus, bundel, tertutup, menutup, pembungkus, pengemasan
+sekeliling: sekitar, lingkungan, tetangga, tetangga, lingkungan, sekeliling, lingkungan, berdekatan, luas, lingkunganHidup, lingkungan
+ketat: ketat, koheren, akurat, ketat, parah, pasti, benar, pasti, rapat, keras, yakin, persis, tepat
+sisa: beristirahat, sisa, berlalu, sisa
+rusa: 
+semak: 
+jalankeretaapi: jalankeretaapi, rel
+melepaskan: pembebasan, membongkar, melepaskan, melepaskan, mengeluarkan, memancarkan
+pewaris: mewarisi, memiliki
+ek: 
+menyenangkan: menyenangkan, menyenangkan, gelisah, kesal, menjengkelkan, buruk, tidaknyaman
+piano: 
+membujuk: meyakinkan, merayakan, memperingati
+gaib: gaib, menghilang
+terkenal: terkenal, terkenaljahat, menonjol
+kekejaman: 
+godaan: menggoda
+TELICaspek: 
+internasional: global, multinasional
+mengganggu: gangguan, intervensi, campurtangan, mengganggu, mengganggu, mengganggu, mengganggu, mengganggu, mengganggu, mengganggu, bentrokan, menjengkelkan, membiarkan, gangguan
+halus: mikro, menipu, kerajinan, halus, halus, halus, baik, tipis, bijaksana, lemahlembut
+filsuf: filosofis
+anggun: modern, halus, hebat, unggul, luarbiasa, mulia, luarbiasa, fantastis, tegas, luarbiasa
+kesejahteraan: kebajikan, kemakmuran, ketentuan
+penangkapanikan: 
+mencuri: pencurian, merampok, perampokan, babatan, menjiplaktulisan, menganiaya
+bibir: paruh, lisan, jurang
+mundur: pengundurandiri, pensiunan, purnawirawan, mundur, beristirahat, waktuluang, menarik, pensiun
+ekonomi: ekonomis, secaraekonomis, ekonomi, resesi, penghematan, rumahtangga, ekonom
+meregang: meluruskan, memperpanjang, sistem, sifat, bagian, bagian, fragmen, bingkah, ruas, proporsi
+paralel: disamping, cocok, rekan, afiks, horisontal
+taktelisaspek: 
+terlalutinggisuasanahati: terlalutinggisuasanahati
+dasi: burungrajawali
+telur: 
+buatan: sintetis
+inspirasi: motif, motivasi, impuls, mengilhami, ilham, dorongan, induksi, stimulasi, rangsangan, motivasi
+sementaraitu: serentak
+krisis: bahaya, merosot, keputusan, pertimbangan, keadaandarurat
+sopan: kesopanan, berpendidikan, etis
+segel: perangko, pencetakan, kesan
+makansiang: sarapan, makanmalam, peternakan, makan, makanmalam
+meskipun: dengki, meskipun, meskipun
+bentangalam: skenario, lingkungan, lingkunganHidup, konteks, lingkungan, pedesaan, alam, melihat, penglihatan, prospek, pandangan
+artistik: seni, karyaseni
+persekutuan: serikat, liga, koalisi, menggabungkan, persekutuan, konstelasi
+maksimum: memaksimalkan, ekstrim, terakhir, paling, dari, lebih, melebihi
+keajaiban: heran
+tembaga: perunggu
+kemurnian: kesucian, ketepatan, ketelitian
+republik: demokrasi
+telepon: telepon, mobil
+cambuk: mengikat
+kemeja: t-shirt
+memperkenalkan: pengantar, presentasi, mendirikan, memulai, memberikan, ketentuan, sarankan, penyerahan, menyuntikkan, menyampaikan, pengiriman, menggambarkan, menggambarkan, kontak, memasukkan
+sofa: kursitangan
+menyapu: menghapus, pemindaian
+pencuri: 
+saluran: menguras
+pembaruan: perbaikan, koreksi, evolusi, merubah, amandemen, menyaring, revisi, memperbarui
+haus: haus
+mengancam: ancaman, mengancam, menakutkan
+telapaktangan: 
+mendorong: dorongan, mengilhami, mendorong, mendorong, mendorong, insentif, dorongan, bersorak
+pembicara: Jurubicara, penceramah
+ambang: jalanmasuk, penerimaan
+menyebabkan: lobi, dorongan, menyebabkan, memperingatkan, merangsang, pose, menggoda, membangkitkan, merendam, memperoleh, induksi, afiks
+rapi: rapi, bersih, baik, hebat, indah, indah, baik
+sidang: pertemuan, konferensi, semester
+penyiksaan: penderitaan, derita, kekerasan, rak, penasihat
+basah: kotoran, basah, panasdanlembab
+wisatawan: pengunjung, wisatawan, turis, penumpang, perjalanan, perjalanan
+pabrik: pabrik, pabrik, menanam, keran, tempatpembuatanbir, gandum
+peta: kartu, diagram, grafik, tarif, tiket, simbol, icon, kepemimpinan
+airmancur: sumber, airterjun, pecahan
+kerah: mengelilingi, daerah
+menggantikan: penggantian, menggantikan, meluangkan, alternatif, pengganti, substitusi, pemindahan, mengubah, berbeda, merubah, sub, memodifikasi, beralih, meringankan, menyesuaikan, mengimbangi
+sengaja: disengaja, disengaja, sadar, sadar, sengaja, kebetulan
+bir: pint
+beludru: 
+positif: positif, aktif, kebaikan, kebaikan, sepenuhnya, samasekali
+gayaberat: dayatarik, menghancurkan, sungguh-sungguh
+khotbah: berkhotbah, ceramah, kuliah
+pasangan: sesama, rekan, pacarperempuan, pacar, pasangan, pasangan, umum, bersama, pemegangsaham, rekan, istri
+penyalahgunaan: salah, salah, mengutuk
+kawanan: kelompok, kawanan, kawanan, raja
+tigabelas: tigapuluh
+membenarkan: menjamin, mengaku, menganjurkan, pembenaran, dibenarkan, sah, menyesuaikan
+naskah: tagihan, naskah, penggugat
+Jumat: perak, venus
+sikat: sisir
+Download: mengunggah
+krim: eskrim
+raksasa: raksasa, raksasa
+beku: membekukan
+pot: panci, vas, botol, wadah, cooker, menepuk, kapal
+beras: 
+tingkahlaku: tingkahlaku, perilaku, karakter, kebiasaan, ciri, kecenderungan, mengadakan
+koin: matauang, sendolar
+pendapatan: pendapatan
+bersikeras: keras, dorongan, menegaskan, menggarisbawahi, menekankan, bersikeras, desakan, memerlukan, tekanan, dayatarik, menekankan, memperdebatkan, mengatakan
+lompatan: 
+buahapel: permintaanmaaf, mintamaaf
+membahas: diskusi, berunding, memperdebatkan, hash, berbicara
+latarbelakang: 
+menuliskan: menyesuaikan, menuliskembali, menirukan
+hiburan: rekreasi, penghibur, waktuluang, menghibur, menghibur, kesenangan, hobi, relaksasi, menghibur, keramahan
+virus: 
+kekanak-kanakan: sopran
+jubah: garmen, gaun, gaun, seragam, pakaian, lemaripakaian
+mencerminkan: kontemplasi, meditasi, merenungkan, mengungkapkan, proyeksi, menggambarkan
+mengubah: mengubah, mengubah, beralih, mutasi, transisi, transformasi
+garisbesar: profil, kontur, ringkasan, sketsa, membuka, ikhtisar, konsep
+opera: 
+siku: mengurung
+lampiran: lampiran, koneksi, tambalan, link, konektor
+perbaikan: restorasi, perbaikan, merekonstruksi, koreksi, merubah, amandemen
+tinju: meninju, pegangan
+mencurigakan: kecurigaan, tersangka
+kitabInjil: Alkitab, jenishuruf, naskah
+lubang: lubang, penggalian, kolam, parit, boraks
+kekacauan: kekacauan, anarki, kerusuhan, gangguan, kekacauan, menjengkelkan, gangguan, kesalahan, hambatan
+tepuktangan: bertepuktangan, salut, persetujuan
+biner: diad
+biara: biara
+panah: 
+cenderung: cenderung, biasanya, biasanya, orientasi, cukup, terdiri, membela, kecenderungan
+rumit: terperinci, menetapkan, menjelaskan, mengembangkan, rumit, rumit, bekerja
+loyalitas: setia, setia, kepercayaan, tepat, secarajujur, ketidakpercayaan, kredibilitas, iman, keyakinan
+gemetar: menggigil, getaran
+pengasingan: menembak, diluarnegeri, suaka
+mekanis: mesin-mesin, montir, mekanika, insinyur
+berhasil: baik, berhasil, gagal, hasil
+perangkap: pegangan, menghukum
+kue: kue-kue, pai, kue, adonan
+tuan: Bapak, tuan, raja, pria
+ragu-ragu: keraguan, ketukan, menghantui, frekuensi, melayang-layang
+tujuhbelas: 
+wanita: wanita, perempuan, wanita, halus
+madu: 
+pancang: bertaruh, proporsi, tumpukan, Bagikan, pecahan, kontribusi, berjudi, pemegangsaham
+bata: ubin
+legenda: mitos
+panen: tanaman, tanaman
+kompor: cooker, lempeng, oven, perapian
+pemberontak: memberontak, pemberontakan, kup
+kuno: kuno
+membengkak: memompa, bengkak, inflasi, pembengkakan, memperbesar
+memperbaiki: menaikkan, menambah, memperbaiki, memperbaiki, menyembuhkan, menyembuhkan, perbaikan, menambahkan, menambahkan, mengedarkan
+mangkuk: 
+menatap: memperbaiki, tatapan
+industri: pabrik, industrialisasi, industri
+pembalut: saus, perban
+tema: tema, motif, subyek, isu, motif
+pertapa: 
+manajer: pelayan, kepala, bos, administrator, direktur, moderator, pemimpin, eksekutif
+menyeret: menarik, Tarik, mengangkut, menarik, mencabut, gunting, dayatarik, laci, obat
+paduansuara: mendorong
+rasional: dibenarkan, logika, logis, keterlaluan, bijaksana, layak, masukakal, semu
+pengolahan: mengedit, prosesor, proses, proses, prosedur
+serigala: 
+karpet: permadani
+jamandahulu: kuno, era
+subur: Fourier
+peluit: seruling
+keju: 
+gigitan: memotong, mengukir, menyengat, butir, menyesap, membahayakan, perampasan
+katedral: 
+mengembara: berjalan-jalan, bermigrasi, kenaikan, berangkat, distorsi
+angkatanlaut: laut, armadakapal
+topeng: penglihatan, cacing
+pensil: pena
+sayuran: vegetarian
+celana: celanapanjang, celana
+korupsi: skandal, polusi
+kabinet: lemari, kabinet, lemaripakaian, toilet
+sup: 
+ahlibedah: operasi, bedah, operasi, analis
+tunjangan: penggantian, pengganti, kompensasi, aposisi, alokasi, lampiran
+mengintai: melihat
+sembrono: ceroboh, berantakan, kelalaian, keterlaluan
+gosip: isu, isu, obrolan
+sistem: sistem
+token: 
+abstrak: ringkasan, Silabus
+aksen: mengucapkan, pengucapan, dialek, tekanan
+sungguh-sungguh: secarajujur, sungguh-sungguh, tulus, tepat
+menyetujui: mengambil, mengizinkan, mengakui, memastikan, menegaskan, persetujuan, persetujuan, mengesahkan, menerima, hibah, baik, sangsi
+arsitektur: struktur, konstruksi, tekstur
+retak: celah, retak, berangkat, berhenti, patah
+trotoar: mengekang, nada, lendir, trotoar, gang, pengemasan
+menentukan: sangatpenting, vital, menentukan, memutuskan, tegas, menetapkan, menentukan, terakhir, kritis, kup
+negatif: merugikan, penolakan, penyangkalan, meniadakan
+festival: konser, pencerahan, perayaan
+pengkhianatan: 
+pemburu: predator
+ular: reptil
+baterai: 
+detektif: deduksi, peneliti
+berenang: renang
+amplop: keadaan, kataketerangan
+rokok: rokok, menyiangi
+motor: mobil, mesin, motif, sepedamotor, sepedamotor
+sukarelawan: mempersembahkan, sukarela, amal
+reaksi: reaktif, tanggapan, menanggapi, bereaksi, umpanbalik, pencahayaan, reaktor
+bagasi: bagasi, kargo, bagasi, koper, logistik
+tuli: 
+jus: ekstrak
+seksual: seks, seks
+berlian: batupermata
+gema: 
+identitas: mengenali, identifikasi, simbolis, kenalan, diidentifikasi, pengakuan
+dutabesar: kurir, diplomat, metabolisme
+malas: busuk
+momentaneaspek: 
+melayang: operasi, defleksi, kecenderungan, kecenderungan, mengalir, pendirian
+imajiner: indah, membayangkan, imajinasi, fiksi, fantasi, subyektif
+sinar: balok, lorong, radius, dana
+pendakian: naik, menanam, menabur, mendaki, merayap
+tinta: toner
+kenangan: menonjol
+bising: kebisingan, berteriak, keras, nyaring
+senat: parlemen
+mengangkut: pengangkutan, angkutan, mengangkut, lalulintas, shuttle, transfer, metafora, konduksi
+petimati: sistem
+menelan: menyesap, banyak
+memuaskandiri: mengejar, memuaskan, menggabungkan, menanamkan, menyebarkan
+pertanian: pertanian, pertanian, bertani
+ayunan: 
+padangrumput: padangrumput, pra, halamanrumput
+kompleks: rumit, menyulitkan, mutakhir, senyawa, rumit
+pengundurandiri: mengundurkandiri, pengundurandiri, kebelakang, mundur, berhenti
+merendahkandaftar: 
+lada: 
+pony: 
+calon: pemohon, bakal, rekrut
+rubah: 
+cerobong: perapian, tumpukan
+yurisdiksi: kewenangan, keputusan, pertimbangan, kompetensi
+bekasmendiang: 
+demokratis: demokrasi
+selimut: plafon, penutup, permadani, liputan
+babi: menabur
+gading: gajah
+korekapi: penulis
+pengamat: pengawas, pengunjung, inspektur
+kuku: kuku, cakar
+lebah: 
+aktor: aktris, pemain, penggugat
+keringat: menjahit
+Polandia: dialek, bersinar
+ilusi: penipuan
+ketidaktentuan: takmenentu, kemenduaan
+sekunder: kecil
+pedesaan: provinsi, pedesaan, orangdesa
+sirkulasi: putaran, bersepeda, berhubungdgnputaran, kelaziman, difusi, lingkaran, sepeda, frekuensi, rotasi, memutar, lalulintas, melihat-, konduksi
+mengerang: 
+menyerupai: serupa, kesamaan, mengingatkan, sesuai, seperti
+kutipan: ekstrak, kutipan, tandakutip, meminjamkan, meminjam, pinjaman, referensi, memperkirakan, mengutip
+memecat: memberhentikan, pemecatan, tas
+gangguan: gangguan, gangguan, gangguan, kesulitan, kebosanan, mengganggu, kebisingan, mengganggu
+jarum: injeksi, pin, petunjuk
+dikontrol: kontrol
+pembatas: larangan, pembatas, terbatas, melarang, melarang, hambatan, blok, gangguan, rintangan, mengganggu
+mengandalkan: menghitung, memperhitungkan, tergantung, kepercayaan, jaminan, kepercayaan, tergantung, ketergantungan
+ayam: indukayam
+barel: ember
+biasaaspek: 
+ahli: spesialis, berpengalaman, khusus, spesifik, mengkhususkan
+mengesankan: mempengaruhi, kesan, menarik, kagum
+mobilvan: katup
+mengangguk: tidursebentar
+definisi: komentar, identifikasi, deskripsi, penentuan, konotasi, keadilan
+ulangtahun: ulangtahun
+palu: 
+harum: parfum
+sepele: picik, tidakpenting, sedikit, kecil
+menggali: menggali, bor, penggalian
+menimang: esensi, membantuperkembangan
+tengkorak: 
+badanlegislatif: parlemen, perundang-undangan, legislatif
+tumit: melompat, pergelangankaki
+mengerut: 
+paten: lisensi, lisensi
+milyar: 
+kimia: kimia, bahankimia, ahlikimia, kemoterapi
+nadi: impuls, pergelangantangan, momentum, renda
+pilot: percobaan, eksperimental, sopir
+simpul: benjol, simpul, memegang, kontrak, menyimpulkan, dasawarsa, merajut, persimpanganjalan, mentah, mentah, prasangka
+rok: batu
+depresi: resesi, merosot, kesedihan, kesedihan, kesedihan, murung, menekankan
+teknis: teknik, teknologi, teknis, tech, maju
+kendaraan: mendorong, mobil, gerobak, cara, mobil
+cakupan: ekspansi, domain, dunia, jarak, mencapai, tingkat
+tumbuh-tumbuhan: menanam
+matahariterbit: 
+menyumbang: kontribusi, menyumbangkan, persekutuan
+menghubungkan: menghubungkan, menghubungkan, menghubungkan, mengurung
+harimau: 
+lengan: lengan, eceran
+jalanraya: jalan
+milisi: 
+integritas: konsentrasi
+jelas: transparansi, jelas, jelas, jelas, jelas, jelas, jelas, eksplisit, mudah
+sembilanbelas: 
+perhitungan: menghitung, agregat, perhitungan, komputasi
+berkualitas: memenuhisyarat, kualifikasi, sanggup, pantas, pantasmenerima, memenuhisyarat, terampil, kompeten, sah, kompetensi
+organik: fosil, penting
+teologi: 
+mengapung: perahu, melayang-layang, armadakapal
+penyihir: 
+studio: label, bengkel, belajar
+sampanye: 
+spanduk: bendera, poster, tiket
+perceraian: bercerai
+baut: petir, kuku, memutar, sekrup
+pembuluhdarah: saraf
+pasif: hadirin, cacat
+kerikil: agregat
+planit: utama, konstelasi
+rak: rak, lemari
+penggemar: 
+tropis: bergairah
+tahap: fotografi, tahap, periode, membangun, langkah
+sewenang-wenang: spontan, opsional, perjanjian, sesuai, takterkendalikan
+perasaansukacita: kesurupan, antusiasme, kesenangan, kebahagiaan
+airraksa: suhu
+bunuhdiri: 
+reporter: wartawan
+mencabut: perampasan, mencabut, mengecualikan, mengurangi, meniadakan, merampok
+balkon: teras, loteng
+garpu: rakyat
+karyawan: pekerja, buruh, kerja, faktor, tergantung, jurutulis, personil, tenagakerja, tenagakerja, staf
+majikan: bos, tuantanah, pemilik
+lebar: luas, menyediakan, lebar, semi
+menyala: 
+jengkel: kesal, gembira, mengganggu, memprovokasi, stimulasi, bosan, rangsangan, merangsang, insentif, motivasi
+klasik: klasik, optimum
+monyet: simpanse
+diterima: menerima, penerimaan, masukakal
+tandatangan: 
+penyanyi: pembaca
+ortodoks: konservatif, biasa, tradisional
+kamaranak: perkebunan
+adopsi: mempekerjakan, mengambil, penerimaan, anggapan, persetujuan, pesta, penerimaan, penerimaan, putaran, kuantum
+keengganan: keraguan, benci
+impor: pengantar, pendapatan
+obor: 
+tatabahasa: gramatikal
+deposito: mengumpulkan
+kolonial: imigran
+kapalpesiar: feri, perahu
+menakuti: ketakutan, menakuti, menghalangi, alarm, khawatir, menghantui
+konsekuensial: konsekuensi, episode, penting, besar, terkemuka, menonjol, sangat, penting, besar, berarti, tidaklangsung
+punah: hilang, menghilang, mati
+kubah: 
+ketebalan: 
+keraskepala: tegas
+otot: 
+besarnya: ukuran, jumlahbesar, amplitudo, mengukur, kuantitas, intensitas
+menggosok: 
+rotipanggang: camilan
+mouse: tikus
+sukukata: jenishuruf, alfabet
+netral: netral, adil, sekuler
+menemukan: menilai, identifikasi, mengakui, mengenali, deteksi, menemukan, mendapatkankembali, menemukan
+berkembang: kemakmuran, menjadimakmur, ledakan, permata, batupermata, bunga
+memaksakan: memaksa, melaksanakan, menentukan
+anonim: 
+resmidaftar: 
+betis: buru-buru
+panduan: panduan, denah, garispedoman, bukukecil, merek, kepemimpinan, bukupelajaran, petunjuk, pemimpin, pengawas, dokumen, dokumentasi, operasi, pabrik
+antisipasi: diharapkan, bakal, mengharapkan, harapan, mengharapkan, ramalan, meramalkan, ramalan, ketentuan
+mencair: menguap, mencair, fusi, bersatu, larut
+payung: parasut, jamur
+sepatubot: sepatu, bagasi
+mineral: yodium, gizi, logam, manggan
+gencatansenjata: gencatansenjata
+bebek: 
+sabun: 
+boneka: bayi, mainan
+vila: peri, mengajukan
+jahit: menjahit, menjahit
+mendamaikan: menengahi, bersatu, menyatukan, menyesuaikan, pengaturan
+ketel: 
+kelinci: 
+konduktor: tangga, pengawas, sopir, pemimpin
+pemain: pemain
+serangga: hama, cacing, kesalahan
+restoran: 
+radikal: militan, ekstremis, progresif, revolusioner, ekstrim, seluruh, diseluruh, seluruh, mutlak, mengintegrasikan
+penduduk: penduduk, asli, domestik, asli, penyewa, perumahan
+naga: layang-layang
+pendengaranygberdasarataskenyataan: 
+masihtertinggal: berkepanjangan
+tutup: penutup, topi, dek, katup
+walikota: pasar
+perangkatkeras: bahan
+kreatif: 
+minoritas: beberapa, desimal
+parit: parit, penggalian
+orkestra: 
+dagingbabiasap: 
+penuntutan: menuntut, kasus, sesuai, prosespengadilan, pengejaran, klaim, penggugat
+kerugian: kerugian, perampasan, merugikan, cacat, rintangan, kesulitan
+kain: kain, pakaian, handuk, kanvas, jaringan, bantuan, struktur
+pemusik: penyusun, musikal
+mental: rohani, batin, moral, mana, subyektif, psikologis, kognitif, psikiatrik
+mesum: salah, tidakdapatditerima, bercacat, ganjil, diharapkan, liar, tidakmemadai, tidakpantas, tidakwajar
+arsitek: 
+mengawinkan: 
+jeruknipis: 
+batuk: batuk
+kesuburan: reproduksi, berkembangbiak, genital
+acak: acak, mengacak, kebetulan, lepas, spontan, stochastic
+sendok: ember
+bukuharian: harian, koran, majalah, kalender
+balon: 
+inferensialygberdasarataskenyataan: 
+penerbit: editor, penerbitan
+abu: kelabu, kelabu
+katalontaran: umpatan
+menghidupkankembali: kebangkitan
+rentan: rentan, peka, bijaksana, emosional, cenderung
+terowongan: keretabawahtanah
+membingungkan: membingungkan, membingungkan
+mekanisme: prosedur, rutin, sistematis, mesin-mesin, aparat, pendekatan, polis
+matematika: matematika, matematis, angkatakterbatas
+luntur: 
+seimbang: perbandingan, korelasi, proporsi, konsisten, berkelanjutan
+sublativekasus: 
+menukik: menyelam, menanamkan, penurunan, jatuh, insidensi, lereng, lereng, lereng, merendam, menurun, merosot, miring
+satuan: kesatuan, kesatuan, modul, paruh, tunggal
+monopoli: eksklusif
+perjudian: berjudi, permainan, pertandingan, izin, pertaruhan
+kapalselam: 
+tanpamemperhatikan: 
+gempabumi: ledakan
+laboratorium: laboratorium
+komentar: komentar, ucapan, komentar, balasan
+menjalani: lulus, berpengalaman, menerima
+dirikontrol: 
+kedutaan: 
+ketua: ketua, presiden
+menciptakan: penemuan
+deklaratifsuasanahati: 
+sarungtangan: 
+berlutut: 
+geografi: 
+investasi: menginvestasikan, usaha
+analogi: persamaan, kesamaan, afinitas, kekerabatan, perbandingan
+elang: burungrajawali, terjangan
+psikologi: fisiologis, psikologis
+membatalkan: membatalkan, sampah, sampah, fragmen, melemparkan, melemparkan
+bajaklaut: hacker
+peran: Bagikan, saham, peserta, pengantar, karakter, pendirian
+dosis: kuantitas, diet, hasilbagi, jatah
+ikansalmon: 
+puding: pencucimulut
+magnetik: menarik, diri
+pompa: bom, kekosongan
+oksigen: 
+pinggir: tepi, jurang, kecil, batas, sekeliling, berbatasan, batas
+sertifikat: konfirmasi
+medali: 
+retorik: 
+anaktangga: anaktangga, tapak, langkah
+mengikis: menggaruk, tergores, menyinggung
+masuk: invasi, mencatat
+teleskop: mikroskop
+kalung: mengalahkan, pasta, rantai
+ejaan: mengeja
+berselancar: 
+wiski: 
+unta: 
+amatir: 
+dewasa: dewasa, usia, berumur
+biografi: listrik
+keledai: 
+perspektif: pandangan
+Pro: profesional, positif, adaptif
+bulanan: majalah
+liburan: meninggalkan, liburan, beristirahat
+klik: klik, jepret, ketukan
+lonjong: 
+elastis: karet, fleksibel
+kamus: leksikal, kosakata, pra
+sekat: membagi, divisi, jatuh, kerusakan, menghitung, kompartemen, bagian, fragmen, komponen, komponen
+ham: paha
+pelangi: 
+organisme: makhluk, penciptaan
+meludah: pasangan, lidah
+jalankeluar: keluar, stopkontak, keluaran, keberangkatan, pegangan, celah
+tangki: waduk, wadah, tong
+kupu-kupu: 
+grafik: diagram, grafik, grafis, grafis, skema, Katalog, Katalog
+kembar: duakalilipat, rangkap, sepasang, pasangan
+menghina: menghina, aib, pelanggaran, menyinggung, pelanggaran, lisan, serangan
+secarabebas: independen, bebas, selain, longgar, terpisah
+rawa: 
+mimpiburuk: mimpi
+selai: jeli, kompres
+pendengar: mendengarkan
+museum: 
+stabilitas: memantapkan
+membuka: mengumumkan, mengungkapkan, deteksi, membuka, membuka, menerbitkan, menemukan, membedakan, semu
+agresif: mengganggu, kekacauan, pendudukan, agresi, serangan, pembom
+gesekan: konfrontasi
+partisipasi: kehadiran, ikut, keterlibatan
+dermaga: jalan
+labah-labah: nelayan
+kentang: 
+pembuat: pabrikan, produsen, persiapan, pembuatan, pabrik
+keserakahan: kelaparan, nafsumakan
+prematur: awal
+berkembangbiak: memukul, berkembangbiak, perkalian, duakalilipat
+statistika: statistik, angka, statistik
+pencalonan: mencalonkan, janji, pilihan, pertunangan
+triliun: 
+setujusuasanahati: 
+aplikasi: aplikasi, proses, berlaku, aplikasi
+nominal: tergores, ditentukan, par
+ketidakpuasan: 
+infeksi: menulari, terinfeksi, transisi, transmisi, berjangkit
+mengangkatbahu: berkedut
+sepakbola: sepakbola, tendangan, kalsium
+pelopor: utama, avant-garde
+abnormal: luarbiasa, luarbiasa, gila, luarbiasa, berlebihan, luarbiasa, ideal, tunggal
+kelalaian: kegagalan, kejanggalan, kekurangan, kelalaian, mengabaikan, penyisihan
+meremas: ramai, mendorong, meremas, pengurangan, dorongan, tekanan, menghancurkan, memahami, pegangan
+persentase: sen, persen
+idiophone: 
+tuas: 
+penarikan: kembali, regresi, mundur, stopkontak, penarikan, kesimpulan, kesimpulan, keluaran, implikasi, menarik, total
+senator: 
+semut: 
+hamil: keibuan, memahami
+setiaphari: harian
+mengendapkan: pengendapan, endapan, kecepatan, mendesak, mempercepat
+variabel: berbeda, variabel, global, mobil
+keriting: keriting, melemparkan, gulir, spiral
+sulfur: sulfur, rusak
+kontinental: benua
+mendikte: petunjuk, perintah
+katak: 
+terlalubanyakkasus: 
+menggiling: setengah, semi
+irrealissuasanahati: 
+dalamruangan: dalam, dalam, dalam
+mengeksploitasi: memanfaatkan, menyerap, prestasi, menjelajah, perampokan, penyerapan
+geologis: bawahtanah
+paspor: 
+asusila: ganas, busuk
+biskuit: kue
+kerjasama: bekerjasama, persekutuan, integrasi, membantu, kontribusi
+menempa: membuat, mengucapkan, pembentukan, membuat, menyusun, menghasilkan, memalsukan, fon, mengulangi
+atom: atom, partikel, individu
+bantu: membantu, bantuan
+rewel: halus, menjengkelkan
+piramida: 
+melanggarhukum: liar, non
+perasaanmalu: pemalu, kontraksi
+kecapi: miring
+astronomi: 
+labirin: kemenduaan
+beasiswa: sokongan, menghadiahkan
+serat: serat, bundel, prasangka
+jangkrik: 
+merpati: 
+adaptasi: menyesuaikan, fitting, pemenuhan, modifikasi, menyesuaikan, optimasi, adaptif, akomodasi
+celaan: mencela, ygtdkmenyetujui, oposisi, menentang, protes, melawan, lawan, menentang, menolak, jejak, menolak, memberhentikan, memveto, menyinggung, pamong, setuju, berselisih
+operator: pembawa
+segitiga: 
+bendahara: kasir
+hidrogen: 
+pencetak: 
+tersedak: kapur
+kronis: tahan, serius, parah, sangat, ekstrim, akut, mengintensifkan
+mengatasi: pertemuan, menyesuaikan, menghadapi, mengimbangi, mengatasi, memecahkan, ygmemperlihatkanperbedaan, berurusan, menyelesaikan
+dilema: bingung, membingungkan
+gejala: indikasi, menawarkan, pameran, pameran, presentasi, gejala, diagnostik, sindroma, ciri
+sepeda: sepeda, bersepeda, sepeda, naik
+teknik: teknik, teknis, mekanika
+spiral: spiral, berputar
+kamera: ruang
+penari: 
+migrasi: bermigrasi, imigrasi
+tenis: 
+kecanduan: tergantung, ketergantungan, kepercayaan, budak
+menenun: kepang, merajut, rajutan, jaringan, tekstur
+tulangbelakang: 
+menggoreng: mendidih
+memudahkan: mendorong, stimulasi, percepatan, membantuperkembangan, meringankan, menyederhanakan, kemudahan, kegunaan, meringankan
+menusuk: menyengat, menembus, mengambil, mencoba, berusaha
+katasandi: sinyal, isyarat, slogan, saya, kode
+belahanbumi: runcing, tip
+muram: mengecewakan, murung, mengecilkanhati, kesedihan, memprovokasi
+strategi: strategis, strategi, polis
+patroli: berkala, bensin
+gletser: 
+setengah: setengah, sebagian, semi
+nota: perjanjian, kontrak, konvensi, sesuai, menjamin, perwakilan
+kerucut: 
+simetri: 
+terdakwa: menganjurkan, menentang
+mesjid: 
+knalpot: emisi, mengeluarkan
+catur: 
+inti: nuklir, sel, esensi, inti, pusat, embrio, janin, inti, zat
+ceri: 
+tersandung: jatuh
+truk: truk, kapalbarang, jalur
+nirkabel: radio
+lelang: penjualan
+saringan: men-debug
+goyah: labil, ketidakstabilan, takmenentu, gelisah, gelisah
+mengisap: menyerap, merendam
+tdkramah: kasar, bermusuhan, merugikan, berbahaya
+sensus: perhitungan
+berjinjit: kaki, siap, rela
+bersantai: santai, santai, relaksasi, waktuluang, meringankan
+kontinuitas: selalu, kelanjutan, konjungsi
+gelembung: 
+gitar: danlain-lain
+prasangka: Pilihan, prasangka, defleksi
+berkilau: cerah, pagi, cemerlang
+manapun: apasaja, apapun, yang, siapapun, antara, bawahair
+rajutan: rajutan, merajut, kepang
+melonjak: kenaikan, melayang-layang, tenggorokan, penerbangan, terkenal, pesawat, pesawatterbang, pesawatterbang, perusahaanpenerbangan
+katagantipenanda: 
+membumbui: semangat
+jaminan: obligasi, jaminan, janji, menjamin, sponsor, permata, batupermata
+menggoda: menggoda, mengganggu, mengganggu, mengasyikkan
+Jawa: 
+resep: metode, rangsangan, resep, rumus, petunjuk, konsonan
+membajak: memecahkan, membajak
+selokan: menguras
+komet: pelanggar
+inovasi: penemuan, penemuan
+pertengahan: pertengahan
+dekoratif: dekorasi, menghias, kosmetik
+plastik: 
+catatankaki: 
+perusahaansusu: susu, biasa, biasa
+golf: 
+nol: batal, kosong
+zip: kompres
+pelatuk: 
+keping: bagian, fragmen, mengiris, bingkah
+menindas: menekan, menekan, menekan, membanjiri, menganiaya
+menguap: menguap
+ketidaksamaan: 
+tahilalat: tanahliat
+barangtembikar: tanah, tanahliat
+iburumahtangga: 
+irasional: keterlaluan
+buruhtambang: kecil
+ragi: enzim, adonan, kue-kue
+mencegat: menghalangi, memecahkan
+premi: bonus, hadiah, menghadiahkan
+pilihan: alternatif, pengganti, bergantian, ketimun, pilihan, pilihan, variasi, lebihsuka, Pilihan, opsional, substitusi, geli
+lulus: ujian, lulus
+kebangkrutan: kegagalan
+irigasi: 
+kapitalis: kapitalisme
+elastisitas: keluwesan
+geometri: geometris
+hiu: 
+penyimpanan: mempertahankan, melestarikan, menyimpan, penghematan
+semoga: prospek, harapan, optimisme
+realisme: 
+ambulans: 
+dompet: tas, portofolio
+meringis: mangkok, menyeringai, bergeliang
+ilmuwan: ilmiah, sarjana, peneliti, peneliti, ahlibiologi
+usus: usus
+ketenangan: 
+realistis: sebenarnya, benar, sangat, sebenarnya, benar-benar, tulus, pragmatis, nyata, eksplisit
+tidakrelevan: kontradiktif, tidakpantas, ganjil, tidakpenting
+kacang: kacang, kacang, sereal
+informalyang: resmi, secararesmi
+cucuperempuan: cuculelaki, cucu, keponakan, keturunan
+steak: memotong
+nitrogen: 
+bergumam: berbisik
+memetik: memetik, teluk
+menganalisa: mengurai, analitik, menganalisa, analisa
+kontras: kontras, ygmemperlihatkanperbedaan, kontradiktif, menentang, kebalikan, membedakan, membedakan, membedakan, berbeda, berbeda
+kembangapi: bertaruh, pertaruhan, api
+pop: jepret, letusan
+menanggalkanpakaian: mengupas, pakaian
+melengkapi: tambahan, melengkapi, tambahan, komplementer
+pegativekasus: 
+kanker: 
+menggadaikan: hipotek, tentara, janji
+kebocoran: tumpahan, kerugian, penurunan
+massajenis: ramai, intensitas
+mengunyah: 
+kompleksitas: komplikasi
+latah: komunikatif, tangkas
+membebaskan: membebaskan, pembebasan, membersihkan, meringankan, pantas
+polar: ekstrim, tiang
+diskon: pembebasan, penjualan, konsesi, anggapan
+taksi: taksi
+hirarki: kepemimpinan, sistem, rekursi
+menggeram: 
+naif: linear, polos
+kepresidenan: presidensial
+pembeli: pelanggan
+galon: 
+nyamuk: 
+menyayangkan: meratapi, mengutuk, penyesalan
+deviasi: defleksi, distorsi, mengimbangi, sesuatu
+mosaik: berbeda
+steker: konektor, voucher
+kehamilan: pembuahan, memahami, membawa, beban
+tokobahanmakanan: 
+Komunis: 
+menakjubkan: menakjubkan, menakjubkan, menakjubkan, menyesatkan, membingungkan, mempesona, mencampuradukkan, takjub
+prosecutivekasus: 
+diktator: 
+keasyikan: pekerjaan, kegelisahan, kuatir, perhatian
+satelit: menyelidiki
+kira-kira: perkiraan, sekitar, approximative, hampir, praktis, sekitar, kuranglebih
+penganggur: pekerjaan
+melaksanakan: pelaksanaan, melaksanakan, pelaksanaan, eksekusi, menjalankan
+bohlam: bawang, katup
+pendukung: asisten, menanggung, mengurung
+teratai: bungabakung
+khlorida: 
+bakteri: jamur, bakteri
+kisi: pola
+biologis: makhluk, biologi
+berpura-pura: berpura-pura, menirukan
+byte: 
+keluarnya: mengeluarkan
+balet: sirip, suara
+airseni: kencing
+bawangputih: 
+kelasmenengah: 
+cucian: pencucian
+mencirikan: membedakan, karakterisasi
+stroberi: 
+bukucatatan: laptop
+teramat: 
+album: 
+baseball: 
+pembajakan: 
+prasmanan: 
+partisip: peserta, peserta
+garasi: 
+diagnosa: diagnostik, mendiagnosa, kognitif, mengakui
+memeras: pemerasan, memetik, memaksa, memaksa
+fosfor: 
+struktural: struktur, konfigurasi, config, kelembagaan
+lem: gusi
+tesis: disertasi
+tukang: montir, tukangledeng
+pisang: jaringan
+tulangrusuk: gigi
+nikel: 
+sekarang: sekarang, menyajikan, arus, sekarang, antre
+bis: membiarkan
+sensor: sensor, pengkritik
+misil: roket
+sosis: HotDog
+manipulasi: beroperasi, menggerakkan, operasional, menipu, menipu, menangani, operasi, penipuan
+tomat: 
+memperkuat: mengkonsolidasikan, mengintensifkan, memastikan, kuat, memperkuat
+cembung: 
+kalium: 
+aljabar: aljabar
+perhiasan: 
+optik: visual
+pengangguran: tokoroti
+melucutisenjata: senjata, senjata, bersenjata
+solo: terpisah, luarbiasa, berlainan, tanah, sendirian
+Browser: scanner
+bersejarahtegang: 
+kemampuan: efisiensi, berpotensi, kapasitas, hasilbagi, kemampuan, kompetensi, keaksaraan
+spektrum: 
+sodium: 
+histeri: ledakan
+wali: administrator, setia
+sandera: hipotek, janji
+atlet: matematis, atletis
+kerut: cacat, melakukan
+meliputi: menggabungkan, isi, merupakan, membangun, terlibat, menggunakan, melibatkan, penyertaan, terdiri, berisi, mencapai, memasukkan
+klip: pokok, mengurung, jepretan
+prioritas: perhatian, Pilihan, lebihsuka
+memperkosa: kebiadaban, melebihi, agresi
+Monitor: jalur, mengawasi, menonton, mengejar
+daerahpemilihan: pemilih, parapemilih, ringan
+kultural: budaya
+jeniskelamin: menghitung, seks, zakar, jenis, seks
+platinum: 
+rangkapjumlah: 
+khusus: kejuruan, ciri, sifat, khusus, khusus, keahlian, spesialis, terpisah, eksklusif, mengkhususkan
+paru-paru: 
+super: luarbiasa, secarasangatbesar, luarbiasa, pengawas
+troli: pengangkutan, gerobak, kereta
+jamur: jamur, cetakan
+lokal: lokal
+menghasut: merangsang, mengganggu
+bensin: bensin
+labukuning: labu, sumsum
+ginjal: tinggi, perpanjangan
+menjarah: perampokan, penjarahan, mangsa, memanjakan, merampok, mengangkut
+arsenikum: 
+siput: spiral
+kecilsekali: 
+sosialis: kekerabatan
+menyaring: 
+melebar: memperluas, lebar, menambahkan, menaikkan, menambah, memperpanjang, luas, ekspansi
+kontroversial: kontroversi, kontradiksi, dwimakna, membingungkan, kemenduaan, kontradiktif
+rantaianjing: sewa, mengikat
+joki: 
+pneumonia: 
+menempatkan: menempatkan
+persimpangan: persimpangan, persimpanganjalan, urut
+solidaritas: bersatu, rapatumum, afinitas, kesatuan, kesamaan, era
+engsel: terperinci, putaran, sumbu
+membujur: vertikal, berkepanjangan, jenis
+dividen: alokasi
+tumpul: lambat
+sepatuluncur: mainski
+mendekam: tikungan
+eksponen: indeks, eksponensial, fragmen
+cacat: rintangan, ketidakmampuan, cacat, cacat, cacat, cacat
+kejuaraan: juara, pemenang, turnamen
+jurupotret: fotografi
+digital: angka, angka, menurutangka
+menggerutu: 
+kelopakmata: 
+bawahsadar: 
+alis: 
+bersin: 
+riang: riang, kesenangan, senang, lucu, geli, lucu, menghibur, lucu, bodoh, menyenangkan
+pengungsi: imigran
+protein: putihtelur
+membuang: tumpukan, tumpukan, membuang, sampah, sampah, melemparkan
+berkembang: evolusi, mengembangkan
+muntahan: 
+gen: genetik, genetik
+mahasiswatingkatpertama: 
+menggabungkan: fusi, bersatu, menyatukan, menggabungkan, mengkonsolidasikan, integrasi, bertemu, menghubungkan
+sosiologi: 
+mobilitas: mobil, portable, gerakan, gerakan
+daerah: daerah, daerah, daerah, menangkal, bola, sektor, sekeliling, provinsi
+gerakanmenanjak: 
+mencairkan: tipis, ringan
+retrospektif: lalu, introspeksi
+inversi: membalikkan, kebalikan, timbal-balik, terbalik, bencana, konduksi
+televisi: televisi, film
+kubus: padat
+sintaksis: berhubungdgnsintaksis, pensiun, tataruang
+produktivitas: prestasi, keluaran
+wortel: 
+molekuler: molekul, pembilang, substrat, nuklir, atom
+konglomerat: klik, kelompok, gugus
+akuntan: akuntan
+diferensiasi: diskriminasi, membedakan, membedakan, membedakan, kerusakan, perbedaan, kontras, variasi, perbedaan
+tersedianya: mengakses, perolehan, mendapatkan, tersedia, kehadiran, efektivitas
+sukaria: 
+pelarut: larut
+fosfat: 
+catdasar: umpan, kenalan, pengantar, pertama
+koma: koma, pesta
+alasan: 
+gerakanlereng: 
+donor: presenter
+psikolog: 
+klorin: kambing
+Keyboard: 
+elite: unggul
+kurung: mengurung
+ragbi: 
+maag: sakit, luka, trauma, mendidih
+infleksi: 
+menggigit: 
+abortus: keguguran
+switer: jaket
+evolusioner: pembangunan, evolusi, pengembangan, deret
+catatan: tanda, simbol, catatan
+melambung: ledakan, melompat
+pembedahan: menyediakan, bagian, divisi, membagi
+Cache: mengintai
+antimon: 
+superessivekasus: 
+tumor: tumor, jumlahbesar
+alfa: 
+pusar: perut, tiang
+imun: pernafasan, tahan
+membatasi: membatasi, membatasi, membatasi, meringkaskan, padat
+memikathati: menangkap, mengasyikkan, berburu, menarik
+kauskaki: 
+film: film, bioskop, pita, tape, garis
+kosmos: alamsemesta
+mengotori: polusi, menulari
+ygsukaberteman: 
+aluminium: aluminium
+osilasi: fluktuasi, getaran
+alfabetis: alfabet
+horoskop: 
+garissinggung: 
+ikanlumba-lumba: 
+pembunuh: 
+resonansi: getaran
+indikator: sikap, indeks, kriteria, jaritelunjuk, mengukur
+dioksida: 
+birokrasi: birokratis
+memutarbalikkan: menyesatkan, berebut, memburuk, memalsukan, condong, distorsi
+galaksi: konstelasi
+klinis: 
+radium: radio
+kulkas: kulkas
+harmonis: musikal, pemenuhan
+kepurbakalaan: arkeologi, arkeologi, fosil
+spesifikasi: norma, membakukan, rinci
+interpolasi: 
+leaflet: bukukecil, buletin, sedekah, lembar
+ketidaklengkapan: cacat
+antropologi: 
+lezat: lezat
+transitif: alasan
+gemetarketakutan: 
+simulasi: menirukan, lencana
+vagina: teluk, sel
+ion: 
+pariwisata: turis, perjalanan, piknik
+trigonometri: 
+menculik: membajak, konduksi, merebut
+tumpangtindih: interaksi, interaktif
+penemu: 
+mengusir: menggantikan, mengeluarkan, mengeluarkan, mengusir, membuang
+penatarambut: 
+ceritarakyat: gandum, rakyat
+kapiler: 
+nasionalisme: kebangsaan
+pantat: panggul
+menghaluskan: murni, menyaring
+penyangga: 
+frustrasi: putusasa, kekecewaan, bingung, membatalkan, mengalahkan, kecewa, mengecewakan, mengecewakan
+kobalt: 
+pengurangan: mengurangi
+gerakanhulu: 
+koordinat: ordinat, koordinat, koordinasi
+dubur: 
+redundansi: cukup, sisa, kelebihan, memberhentikan, pemecatan, pembebasan, kelebihan
+video: 
+memboikot: daerah, dikucilkan, mengabaikan
+ulangan: mencoba, ujian, daftarpertanyaan
+gerilya: 
+magnesium: 
+radar: 
+kualitatif: kualitas, ciri
+keandalan: kredibilitas
+empatpersegipanjang: 
+menyamaratakan: generalisasi, membangun, membuat, menyusun
+lagi: sekarang, lagi
+jammalam: 
+perumusan: membangun, membangun, konstruktif, susunankata, penciptaan, pembentukan, merumuskan, pembentukan
+reinkarnasi: kebangkitan
+menyalakan: 
+uranium: 
+pembayarpajak: pajak
+terpadu: integral
+berpendapat: melihat, pendapat, ucapan
+gamma: 
+Server: 
+gerakanhilir: 
+koefisien: kelas, faktor, modulus
+bismut: 
+kartupos: pos, pascasarjana
+ngelantur: mundur, berangkat
+morfologi: genetik, morfologi
+evaluasi: menilai, penilaian, mengevaluasi, penyelidikan, menyelidiki, penyelidikan, menyelidiki, par
+jeans: 
+Database: 
+Kalkulator: komputasi
+investor: 
+sinarX: 
+agenda: program, program, kurikulum
+Visa: 
+infrastruktur: mendasar, dasar, fundamental
+detektor: 
+sambatan: afiks, merubah, melampirkan, menghubungkan
+brom: 
+silikon: pi
+cegukan: 
+pastel: pucat
+kebunbinatang: 
+klinik: 
+yoga: jumlah
+tokobuku: rakbuku, toko
+pengecer: pedagang, penjual, toko, dekat
+memenggalkepala: tepatwaktu
+ya: iyanih, ya, tulus
+jazz: 
+tungsten: 
+teroris: militan, teror, ekstremis
+konseptual: indah, gagasan, konsep, anggapan, polapikir, pembuahan, konsep
+Cartesian: 
+menggiringbola: lendir
+alimentasi: 
+programmer: aplikasi
+memasukkan: 
+dandan: dandan, kosmetik, menipu, mengimbangi
+vaksin: komentar, liputan, injeksi
+aksiomatis: 
+heroin: 
+map: 
+katoda: 
+flu: demam, mempengaruhi
+ideologi: pikir
+parkir: 
+foto: 
+antiklimaks: kekecewaan
+selenium: 
+lapisanluar: kulit, kulit, kulit
+persamaanderajatnya: persamaan
+puncak: 
+bandara: 
+mengamputasi: mengganggu
+penipu: 
+khrom: 
+liter: liter
+dasbor: panel, garis
+hormon: 
+melubangi: menembus
+animisme: 
+poligon: sudut
+feminis: 
+mengkonjugasikan: lereng, Koneksi, menyetir
+euro: 
+algoritma: 
+laser: 
+tokoobat: 
+milimeter: milimeter
+melenturkan: tikungan, lengkung, fleksibel, baik, kabel
+anoda: 
+nuansa: naungan
+merapat: merangkul
+paruhwaktu: 
+kepekaan: 
+mainframe: 
+demonstran: penampilan, pameran, prestasi, demonstrasi, presentasi
+helium: 
+dwibahasa: 
+gerund: 
+plasma: 
+kromosom: 
+bilanganbulat: digit, angka
+kilometer: kilometer
+fax: 
+genetika: genetik, genetik
+bintik: 
+brokoli: 
+permutasi: format, susunan, tataruang, aposisi
+Spam: 
+vektor: pembawa
+berhubungdgnsusunan: alat, pendekatan, teknik, metodologi, mengambil
+baik: memulihkan, benar, mengenakan, sah, baik
+vitamin: 
+kadmium: 
+grafis: grafis, grafis
+manual: diri
+titanium: 
+berbelanjasecararoyal: membual
+helikopter: 
+telurium: skandium, lanthanum
+batasakhir: istilah
+meluruskan: konsisten, susunan
+analog: 
+sentimeter: sentimeter
+molibdenum: 
+lithium: 
+multimedia: 
+kalori: 
+robot: 
+pekerjaanrumah: mengintai
+logaritma: 
+instalasi: meningkat, memasang, perpaduan
+glyph: bantuan
+ekologi: ekologis, lingkungan
+orangygberpengalamandlmhal-halduniawi: memanjakan
+Template: cetakan
+euclidean: 
+kilogram: 
+makanterlalubanyak: 
+pembagi: 
+freeware: 
+mendengarkanrahasiaorang: 
+potongrambut: 
+iridium: 
+rasisme: rasial
+Bandwidth: broadband
+optimal: puncak, optimum, baik, cocok, menyesuaikan, menyesuaikan, cocok, adaptif, tepat, benar, bijaksana
+sisimiring: senar, miring
+Desktop: 
+kantorpusat: markasbesar, kursi
+salahmenaruhkan: malu, kehilangan
+cerium: 
+ygdipisahkankasus: 
+kaset: tape
+supermarket: mall
+tekad: kemauan, akan
+dimensi: ukuran, bentuk, dimensi, spasial
+Pengunjung: 
+enkripsi: kriptografi, mengenkripsi, coding
+menyamakan: sinkronisasi, mengintegrasikan, kontemporer
+seminar: 
+semantik: makna, konotasi, subyek, obyek, bahan, zat, merasakan, berarti
+disko: 
+neon: 
+nyatawaktu: 
+osmium: 
+gayahidup: kehidupan, seumurhidup, kelangsunganhidup, hidup, karier
+firewall: 
+kosinus: perhitungan, komputasi
+artefak: 
+plutonium: 
+workstation: 
+yttrium: 
+ygbertambah: 
+namapengguna: 
+sayapkanan: 
+argon: 
+mensosialisasikan: menyampaikan, bergaul
+globalisasi: 
+garispotong: 
+panjanggelombang: gelombang
+menyandi: kode
+mendaurulang: 
+asymptote: 
+membacasandi: memuaskan, memecahkan
+mengulangkembali: restart, operasional
+hepatitis: 
+proton: 
+disket: cakram
+miligram: 
+pixel: 
+tantalum: 
+zatterlarut: 
+genosida: 
+gallium: 
+popnaik: 
+zirkonium: 
+nonlinear: 
+pestisida: 
+polinomial: 
+berili: 
+neuron: 
+predikatif: tegas
+router: 
+faktorial: fakultas
+widget: suplemen
+neutron: 
+niobium: 
+germanium: 
+metalloid: nonlogam
+prolativekasus: 
+keanekaragamanhayati: 
+mengadakanindustrialisasi: industrialisasi, industri
+joystick: 
+antibiotika: 
+aktinium: 
+astronaut: ruang
+mengurangitekananudara: memperluas, menambah
+ekstrapolasi: 
+extraterrestrial: asing
+oktet: 
+Bukasumber: 
+maraton: 
+stekerdi: 
+topologi: 
+gigabyte: 
+mengalamiionisasi: 
+siunit: 
+berkemah: kamp
+terbataskatakerja: 
+kripton: 
+ygbersifatperibahasasuasanahati: 
+bergeserkunci: 
+kotak: persegi
+pramuniaga: pedagang, penjual, jurutulis
+renium: 
+teleponselular: teleponselular, telepongenggam, portable, laptop, sel
+kesamping: kesamping
+modalkasus: 
+rongsokansurat: 
+railcar: 
+klipseni: 
+bookmark: 
+hafnium: 
+rumahhalaman: 
+mendapatkankursikasus: 
+n-root: 
+flowchart: 
+tengahsuara: 
+usiatua: tua
+pembulatan: bulat
+rhodiumatom: TBatom, thuliumatom, thoriumatom, ftoratom, rubidiumatom, taliumatom, vanadiumatom, poloniumatom, strontiumatom, rutheniumatom
+pemberang: kasar
+miringkasus: 
+sabarkasus: 
+prahariini: 
+botak: telanjang, mentah
+tujuanpelatuk: 
+praseodymium: 
+lumpuh: 
+mengeluh: keluhan
+untukkasus: dikasus, acak, darikasus
+radiasi: cahaya, emisi
+indium: 
+aktorperan: 
+euforia: antusiasme, semangat, kepuasan, persetujuan, kesenangan, kegembiraan, kebahagiaan, menyenangkan
+topimengunci: 
+spasi: 
+dramatis: dramatis
+penganutaliransovinisme: 
+situsweb: situsweb, situs
+tanamanrumah: 
+hak-haksipil: 
+protactinium: 
+proyektif: 
+biner-nilai: 
+kiper: 
+eceranmenyimpan: 
+statusbar: 
+mikropon: mikro
+tubuhmanusia: 
+bersumpah-in: 
+surat-carrier: 
+centrickasus: 
+trojankuda: 
+gulirbar: 
+triple-titik: 
+Bacabacahanya: 
+lelucon: lelucon, lisan
+kefanaan: labil, ketidakstabilan
+penyair: 
+fonologi: 
+menghipnotis: 
+percobaanjumlah: 
+reseptor: resepsionis
+verba-akhiran: 
+nonmanusia: 
+aliran-saat: 
+apayang: bahwa, yang, siapa, yang
+klausul-ekor: 
+terbalik: terbalik, membalikkan
+sebagaicontoh: 
+akupalamat: 
+di-bahasa: 
+sendiri-sendiri: sendiri, individu, pribadi, terpisah, terpisah, berbeda, berbeda, berbeda, spasial
+prokalimat: profrasa
+epidemiologi: mekanika, dinamika
+mengatur: perundang-undangan, legislatif, mengatur, mengatur
+bergaris: garis, skema, perencana, denah
+orangygmencobamemecahkanpemogokan: 
+astatine: 
+menjualterlalumahal: 
+lain-jika: 
+sudut: sudut, runcing
+aus-out: 
+kutipanuntukm: 
+ergatifkasus: 
+kotasatelit: dukuh, komuter, pedesaan
+umumjeniskelamin: 
+superkomputer: 
+langsungobyek: tidaklangsungobyek
+pengendaramobil: sopir
+secarastatistik: statistik, menurutangka
+lutetium: 
+rasionalitas: kesadaran, logika
+pasifsuara: 
+kausatif: 
+cesium: 
+pencarianmesin: 
+toolbar: 
+secaraotomatis: otomatis
+californium: 
+mendelevium: 
+agenpelatuk: 
+butawarna: 
+komik: 
+terminal: terminal
+dotmatriks: 
+samarium: 
+aruspendek: 
+menyusun: mengumpulkan
+agentifkasus: 
+kecelakaan: jatuh, korbankecelakaan, kebetulan, kejadian, kecelakaan
+fraktal: 
+multaljumlah: 
+untukmenutup: tertutup, menutup, dekat, mengecualikan
+luas: luas, luas, luas, lebar, luas, cukup, sangat, tersebarluas, besar, sudut
+adessivekasus: 
+koperasi: rekan, bekerjasama, sesama, rekan
+euler's-nomor: 
+laserpencetak: 
+transangka: 
+blog: blogger
+kombinatorial: kombinatorik
+Pythagoras: 
+abessivekasus: 
+lokatifkasus: 
+kolamrenang: kolam, baskom
+cybercrime: berbahaya, berbahaya
+kantorPos: pos, surat
+malware: 
+inhibisi: menahan, mengekang, menghalangi, melarang, memveto, menghalangi, melarang
+spyware: 
+rekaman: merekam, penyertaan, daftar, pendaftaran, masuk, mencatat
+pewawancara: wawancara
+klipnaik: 
+xenon: 
+lembarkerja: 
+nkekuasaan: 
+bioskop: bioskop
+inbox: 
+persen: persen, sen
+erosol: semprot
+distributor: 
+dinamik: dinamika, mekanika, dinamis
+satudetik: 
+subtend: mendasari
+brown: 
+bintangjeniskelamin: 
+galaksijeniskelamin: 
+kardus: kartu, karton
+computability: 
+satusamalain: lain, satusamalain, lain
+polisipetugas: 
+utamaobyek: 
+menghidupkanjeniskelamin: 
+evitativekasus: 
+kendaraanjeniskelamin: 
+datapertambangan: 
+kerasukankasus: 
+amerisium: 
+mineraljeniskelamin: 
+domainnama: 
+imajinerunit: 
+neptunium: 
+lisankatabenda: 
+matematikawan: 
+posesifkasus: posesifkasus
+pemodelan: 
+terakhirpartikel: 
+flashmendorong: 
+floppycakram: 
+pemadamkebakaran: 
+titikkritis: 
+empatikegembiraan: 
+kataprosesor: 
+PerdanaMenteri: 
+mayaingatan: 
+bersifatkataketerangankasus: 
+ethidium: 
+celanapendek: 
+bermain-main: 
+persamaan: persamaan
+subessivekasus: 
+mencatatdiluar: 
+spammer: 
+antessivekasus: 
+penyeberangan: jalan, gang
+pemakaiantarmuka: 
+penulishantu: 
+viruskomputer: 
+fasilitator: presenter, moderator
+rehabilitasi: 
+bantukatakerja: 
+tanganpertama: langsung
+motherboard: apakah
+sabarpelatuk: 
+runtime: 
+kolektifkatabenda: 
+Qur'an: koran
+bisnisorang: Seorangpebisnis
+transitifkatakerja: 
+awankomputasi: 
+mayamesin: 
+absolutifkasus: 
+mayarealitas: 
+laluperfektif: 
+adilkatakerja: 
+crastinaltegang: 
+refleksifsuara: 
+abstrakjeniskelamin: 
+berbedaperistiwa: 
+exocentrickasus: 
+keduabahasa: 
+artistikjeniskelamin: 
+dirikepercayaan: 
+penelitianjeniskelamin: 
+tidaklangsungpidato: 
+lokalitasjeniskelamin: 
+fisika: fisik, secarajasmani
+alamsemestajeniskelamin: 
+penutupan: dekat, tertutup, menutup, lepas, berhenti, berhenti, berhenti
+superlatifkasus: 
+sesuai: pertandingan, memilih, suara, sesuai, sesuai, sesuai, sesuai, cocok, cocok, bertepatan, surat, sesuai, cocok
+komputerprogram: 
+antibodi: 
+waktupenuh: 
+propositivesuasanahati: 
+asosiatifkasus: 
+matijeniskelamin: 
+tekseditor: 
+planetjeniskelamin: 
+operasisistem: 
+gramatikal-kasus: 
+listrikarus: 
+timbal-baliksuara: 
+sendokgarpu: 
+intibenefaktif: 
+jaringantuanrumah: 
+radian: 
+aplikatifsuara: 
+fonem: 
+berturut-turutayat: 
+bukucatatankomputer: 
+pedalgas: 
+antipasifsuara: 
+musikDaerah: 
+terabyte: 
+sosialjaringan: 
+perundingan: berunding, berbicara, percakapan, obrolan, interaksi, bergaul, konsultasi, menyampaikan, dialog
+datar: datar, mengaburkan, dwimakna
+morfem: 
+linker: link, konjungsi
+neodymium: 
+radiasi-sickness: 
+menyajikanpartisip: 
+necessitativesuasanahati: 
+eksistensialayat: 
+terlalubanyaklamanya: 
+pasifpartisip: 
+gramatikal-objek: 
+continuativeaspek: 
+singulativejumlah: 
+bercahayaintensitas: 
+superlatifgelar: 
+jinsbiru: 
+fakultatifpembilang: 
+superkritis-cairan: 
+epentheticmorfem: 
+postpositionalkasus: 
+ygmenolakpembilang: 
+ikatpartikel: 
+Nerium: 
+universalpembilang: 
+AngkatanUdara: 
+allocutionperjanjian: 
+komputerpemrograman: 
+tegaspembilang: 
+ygberulang-ulangaspek: 
+distributifkataganti: 
+alternatifpembilang: 
+phishing: 
+skalar: 
+kontrafaktabersyarat: 

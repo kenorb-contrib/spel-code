@@ -1,0 +1,23 @@
+{
+  "name": "spel",
+  "version": "0.0.0",
+  "description": "Speakable Programming for Every Language",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://elspru@git.code.sf.net/u/elspru/spel"
+  },
+  "keywords": [
+    "Logan",
+    "Streondj",
+    "<streondj@gmail.com>"
+  ],
+  "author": "Logan Streondj <streondj@gmail.com>",
+  "license": "AGPL-3"
+}

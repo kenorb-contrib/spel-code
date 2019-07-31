@@ -1,0 +1,4860 @@
+bye: hello, farewell, vice
+the: trademark
+of: between, about, its
+to: come, ad, they
+in: between
+first-person: 
+i: me
+third-person: 
+that: it, that-which, who, key
+his: its, own
+he: it
+with: 
+for: about, ad, because
+as: who, instance
+second-person: 
+be: happen, stand
+her: its
+on: call, about, up
+at: horse, here
+by: passing, and, about
+which: who, that-which, whichever, it
+have: obtain, bear
+or: 
+from: 
+this: it, teeth
+him: its, person
+she: they, it
+my: mine, me, password
+their: its, they, who
+so: thus, soon, order
+an: trademark, one, and
+them: they, you, person
+we: us, me
+would: think, manage
+will: willpower
+no: not
+if: provided
+out: outer, up, exit, who
+into: one, between
+any: whichever, namely, all, each
+your: yours
+what: happen, do
+copula: 
+indicative-mood: directive-mood
+man: person, husband, male
+other: second, different, more
+than: more, about, maximum
+our: spring, us
+some: nothing
+upon: up
+may: could
+now: currently, anymore
+like: love, hold, resemble
+can: could, box, know
+should: must, send
+did: do, fact
+such: thus
+a: one, trademark
+these: they, it
+over: up, more, maximum
+much: very, volume, crowd, steep
+after: next, then
+mr: sir, master, seed
+good: beautiful, great, neat, better
+never: not
+most: more, largely, majority, very, maximum, worst, least
+shall: must
+those: they, its, who
+himself: own, themselves
+life: live, lifestyle, vowel
+without: except, fourteen
+make: forge, do
+well: thoroughly, estate, right
+discourse-marker: 
+through: passing
+might: power, perhaps, could
+how: way
+too: very, even
+again: then, back, anymore
+many: majority, crowd
+every: each, denominator, all
+people: person, community
+same: equal, they
+thought: ideology, idea, think
+away: distant, left, long
+under: down
+still: more
+place: spot, position, where
+while: time, temporary, whilst
+just: only
+also: even, more
+yet: but, more, even
+though: despite, but, whilst
+against: before, opposite
+get: obtain, take, availability, found, derived, seize
+ever: eternal, always, when
+off: distant, covered, closure, die, who
+face: surface, hundred, person, mouth
+another: one-another, last, different, second, more
+new: novel, fresh, nine, young
+neo: 
+mrs: 
+put: set, give, do, situate, enough
+tell: say
+mind: intellectual, think
+few: little, nothing, minority
+thing: matter, about
+whom: who, that-which
+far: distant, very
+called: think, say
+whole: full, all, radical
+both: second, two
+find: found, search, obtain, address, detect
+look: see, check, glance, appear
+let: bus, give, day, order, interfere, pay
+hortative: 
+lord: master, sir, king
+home: house
+something: nothing, deviation, somehow
+moment: time
+father: dad
+among: between, whichever
+female: feminine, girl, wife, male
+woman: 
+mother: mom
+end: last, finally, conclusion
+almost: near, about, approximate
+small: little
+thou: you
+cannot: not
+want: must
+however: but, whilst, one
+quite: thoroughly, very, perfectly, enough
+nor: happen, not
+whose: who, that-which, its
+best: better, least
+myself: me, themselves, magnetic
+until: even, before, up
+since: then, first, because
+used: old, familiar
+rather: instead, more, not
+present: currently
+less: low, down, least
+within: inner, deep, between
+together: collective, set, conjunction
+till: even, come, before, up
+large: great
+kind: class, sort, friendly, pleasant
+certain: determined, right, genuine, nothing
+herself: themselves
+half: halfway, grind, side
+true: genuine, realistic, fact, right
+anything: nothing, who, do
+keep: hold, set, retain
+means: way, vehicle, resources
+state: condition, enter, country, government, rule
+alone: lonely, one, girl, themselves, only
+above: up
+case: matter, fall, instance, prosecution, because
+thee: you
+high: up, floor
+sure: assure, right, safe, strictly
+indeed: fact
+itself: themselves, own, even, manually
+along: collective, long, length
+land: country, estate
+return: regression, back
+leave: vacation, abandoned, left, permission
+either: even, whichever
+law: right, legal, rule
+lay: set, help, hold, suppose, position
+point: spot, action, only, paragraph
+child: children
+wish: hope, desire, request
+speak: say
+therefore: thus, consequently
+hour: bell, time
+during: time, between
+several: more, different
+business: trade, company, work, profession
+whether: motherboard, do
+manner: way, fashion, progress
+reason: account, because
+general: usual, public
+behind: back
+become: come
+dead: die, death, extinct
+earth: country
+boy: son
+forth: next
+feel: feeling, realize, hear, think
+spirit: soul
+question: matter, argument
+truth: fact
+ground: floor, country
+really: realistic, very, fact
+rest: comfort, retire, remains, vacation, remainder, more
+possible: perhaps, could
+towards: each, side
+human: person, humanity
+short: low, brief, narrow, little
+town: city
+following: next, follow
+need: necessary, must
+cause: account, induce, because
+evening: night, afternoon
+five: fifth, year
+strong: power, violent, reinforce, nervous
+able: qualified, capable, could
+lady: feminine, girl
+subject: discipline, theme, semantic, matter, comply
+same-subject-marker: 
+understand: understanding, realize, know, mean, prove
+around: surrounding, near, about, eye
+ask: pray, please, asked
+arms: disarm, hand
+turn: side, set, order, one
+sense: understanding, mean, feeling, semantic
+bring: lead, take
+close: closure, near, to-close
+character: behaviour, mark, nature, role
+sight: scene, see, glance, presence, time
+party: feast, comma, adoption, country
+fine: great, subtle
+ready: prepare, already, tiptoe
+common: usual, partner, mutual, public
+talk: negotiation, speech, story, discuss
+written: write, bitter
+age: adult, old
+else: last, different, one-another, more
+force: power, impose, ball
+art: artistic, show
+across: cross, opposite, right
+early: premature, beginning, primitive, soon, opening
+ought: must
+sun: day
+later: future, then, next
+everything: all
+past: retrospective, last
+act: action, work
+meet: comply, found, see
+further: more, additional, even, better
+seem: appear, think
+beyond: more, outer
+neither: happen, not
+forward: before, next
+view: opine, glance, see, landscape, scene
+sound: voice, word, tone
+none: nothing, not
+clear: open, transparent, apparently, light
+road: highway, way
+late: slowly, last, delay
+daughter: girl, princess
+real: genuine, fact, royal, literal, realistic
+nearly: near, about
+knowledge: understanding, information
+toward: 
+bad: worst, evil, poor, wrong
+living: live, lifestyle
+peace: room, silence
+north: answer, midnight
+natural: nature, landscape
+pretty: beautiful, very, enough
+fair: right, report, ten, neutral, they, honest
+service: serve, care
+below: down
+hair: head
+pass: passing, near, graduate, cross, undergo
+pleasure: happy, ecstasy, euphoria
+history: story, date, historical
+note: remember
+although: despite, but, whilst
+front: opposite, before
+big: great, broad
+certainly: strictly, course
+wind: air
+receive: obtain, receipt, take, derived, undergo
+attention: care, priority, focus, regard
+strength: intensity, power
+probably: perhaps
+glad: happy, hilarious, satisfied
+important: necessary, consequential
+yourself: own, themselves
+fellow: partner, friend, person, cooperative
+opinion: opine, idea
+faith: believe, loyalty
+ago: east, then, before, back
+charge: expense, take
+arm: hand, poor, shoulder
+latter: last, modern
+object: purpose, nothing, semantic, resist
+gentleman: male, sir, master
+various: different
+particular: especially, specialty
+hardly: not, rare
+chief: manager, head, principal
+chance: position, occasion, luck, probability, random
+deal: plan, agreement, treat, cope
+thinking: think, idea
+plain: open, hollow, usual, naive
+immediately: once, soon, directly
+afraid: fear, anxious
+single: one, lonely
+joy: happy, excitement, euphoria
+broken: sulphur, cut
+unless: except, up
+carry: bear, wear, pregnancy, take
+influence: effect, flu
+outside: outer, except
+appearance: appear, demonstrator, scene
+whatever: whichever, do
+stay: sit, stand
+period: phase, time, long
+sister: brother, nurse
+battle: war
+former: old, electronic
+youth: young
+merely: only, lonely
+reach: come, scope
+system: order, hierarchy, organization, systems
+dinner: night, lunch, feast
+quiet: calm, silence, lonely
+afterwards: future, then, next
+walk: walking, go, floor
+property: estate, terms
+wonder: miracle, strange, surprise
+figure: digital, statistics, number, picture
+generally: usual
+ancient: old, old-fashioned, antiquity, primitive
+respect: regard, honour, danger, about
+third: three, tuesday
+simple: simplicity, usual
+remain: stand
+society: social, community, company
+fight: quarrel, war
+result: conclusion, effect, fruit
+command: order, dictate
+expected: anticipation, hope, improper, guess
+mere: only, lake
+beside: near, next, side
+silent: calm, silence
+perfect: perfectly, great
+street: way, colour, distance
+writing: write, letter
+entirely: perfectly, thoroughly, full, positively
+wood: tree, stick
+quickly: soon, rapidly
+notice: see, ad, communication, warning
+bright: sharp, light, shiny
+boat: ship, float, yacht
+noble: great
+somewhat: somehow, nothing
+sudden: suddenly
+value: worth
+due: because, right
+reading: read
+agree: agreement, disapproval
+lines: line
+wait: hold
+piece: chip, part, stretch
+ex: old
+conversation: negotiation, speech, call
+proper: fit, optimal, right
+opportunity: occasion, position
+cost: expense, pay, worth
+considerable: great, consequential, striking, enough
+seven: week
+top: optimal, summit, up
+marriage: married
+step: action, phase, rung, foot
+begin: beginning, continuation
+per: each
+individual: person, individually
+difficult: hard, heavy
+bit: part, little, beat
+authority: jurisdiction, power
+ill: sick, evil
+original: genuine, literal, root
+happiness: happy, luck, ecstasy, euphoria
+provide: provided, give, assure
+study: learn, analysis
+personal: private, individually, own
+watch: check, monitor, see
+pleased: satisfied, happy
+hot: warm, fire, summer
+effort: try
+prepared: prepare, already
+attempt: try, quiz, stab
+fast: soon, rapidly
+beneath: down
+century: hundred
+intended: intend, focus, purpose, prepare
+straight: directly, live, honest
+likely: easily, probability, perhaps
+justice: right, definition, jurisdiction
+simply: only
+trust: believe, loyalty, rely
+passage: part, passing, stretch
+closed: closure, to-close, covered, pack
+ourselves: themselves, us
+dress: robe, dressed, rich
+required: necessary
+medium: mean
+possession: permission, seize
+usually: usual, tend
+fixed: steady, determined
+troops: army
+rise: climbing, up, grow
+meeting: session, assembly, visit
+camp: camping, field
+nation: country, national, race
+existence: presence
+reply: answer, refund, comments
+sky: atmosphere, heaven
+fortune: luck, condition, estate
+domain: field, scope
+situation: position, condition, circumstances
+degree: equal
+middle: mean, centre, between
+winter: cold, future
+allow: permission
+pale: yellow, colour, faint, light
+conduct: behaviour, action
+running: race, run, foot
+religious: religion
+move: moving, argument, action
+stop: break, stand
+worse: worst, up, evil
+spoken: say, speech
+board: up, advice, edge, commission, tablet
+vain: free, empty
+loss: disadvantage, lost, leak
+offer: provided, give, symptom, serve, privilege
+complete: full
+access: visit, availability
+darkness: dark
+passion: feeling
+physical: physics, body
+example: instance
+questions: argument, asked
+start: beginning
+spite: despite, worst, anger
+serious: grave, great, chronic
+silver: money, friday
+sufficient: enough, coffee
+main: head, master, key, inner, principal
+wonderful: strange, violent, great, elegant, neat
+associated: regard
+path: way, course
+meaning: semantic, mean, importance, report
+lot: very, swallow
+seat: chair, siege, headquarter, session
+game: gambling, play
+statement: expression, report, ad
+grace: please
+dream: nightmare, sleep
+rock: skirt, stone
+special: especially, private, specialty, expert
+movement: mobility, moving, vowel, exercise
+fee: expense, pay
+share: part, stake, role, distribute
+expect: anticipation, hope
+glory: fame, honour
+space: position, hall, field, astronaut
+ordinary: usual, dairy
+consider: think, treat, regard
+greatly: very, largely, chronic
+advantage: profit, purpose
+officer: official
+rate: honour, course
+clothes: undress, thousand, dressed
+sign: gesture, mark, spot
+native: nature, genuine, resident
+difference: different, differentiation, distinction
+working: employee, work, do, day
+marry: married, obtain
+finished: full
+extent: bound, volume, scope, scale
+curious: interesting, strange
+besides: instead, except
+method: way, recipe, once, fashion
+excellent: better, great, elegant, very
+confidence: believe
+exactly: especially, full, perfectly, thoroughly, strictly
+intensifier: 
+bill: manuscript, account
+vast: broad, great
+fancy: conceptual, beautiful, imaginary, neat
+quick: soon, rapidly
+yes: yeah, thus, instance
+liberty: free, independence
+aside: separated, sideways, side
+pure: fresh, sublimate, neat
+concerning: about
+lose: misplace, lost
+evidential: evidence
+similar: resemble, equal, why, they
+altogether: thoroughly, perfectly, all
+page: side, yard, glass
+particularly: especially
+mountain: hill, acid
+proud: pride
+clearly: open, transparent, apparently, sharp
+price: honour, worth
+shut: closure, to-close, pack, die
+fate: luck, duty
+judgment: sentence, rule, judge, jurisdiction, crisis
+accept: acceptable, approve, take
+species: sort, longitudinal
+seek: search
+highest: worst, least
+otherwise: more
+honor: honour
+ear: permission
+bottom: down, floor, low
+aid: help, support, treat
+same-event-marker: 
+fully: full, perfectly, thoroughly, enough
+delight: happy, unpleasant, euphoria, treat
+amount: volume, crowd, number, sheep
+tax: rent, line, taxpayer, three
+stranger: guest, strange, foreign, unknown
+dare: courage
+creature: biological, animal
+false: lie, wrong
+tall: long, floor, length
+gate: door
+freely: independence, free, liberal, independently, loose
+blow: shock, stroke, shot
+coast: beach, shore
+daily: day, diary, everyday
+surprised: surprise
+distribution: distribute
+wealth: money, estate, copy, welfare
+freedom: free, independence
+advance: progress, before
+gentle: soft, sweet, subtle, male, dear
+surely: course
+secure: safe, obtain, protect, assure
+occupied: seize, engaged
+draw: interesting, remove
+stage: action, phase, condition, scene
+portion: part
+tongue: language, spit
+angry: anger
+carriage: transport, train, trolley
+weather: air, time
+snow: ice, eye
+necessity: importance, necessary
+practice: exercise, action, custom
+claim: request, prosecution, confession
+prince: duke, king
+group: set, conglomerate, flock, band, groups
+throughout: everywhere, radical
+pity: sympathy, sorry
+add: widen, additional, increase, improve
+leading: lead, consequential, master, popular, principal
+weight: heavy, gravity
+mass: quality, collective, plural, lump, crowd
+gray: brown, ash
+brave: courage
+thin: dilute, narrow, subtle
+numerous: plural, crowd
+frequently: often, repeated, happy
+famous: popular, well-known, vowel, soar
+powerful: power, nervous
+alive: live
+weak: faint, poor, very
+divine: guess, god
+material: hardware, semantic, matter, literature
+frank: honest
+heat: summer, warm
+guard: protect, care
+equally: balance, equal
+naturally: nature
+remarkable: strange, great, elegant, striking
+moon: month
+slight: little, easily, light, trivial
+style: light
+pointed: hemisphere, sharp, angles
+principle: theory, beginning
+immediate: soon, directly
+willing: already, tiptoe, mile, prepare
+consequence: consequential, effect, conclusion, fruit, consequently
+tender: soft, agreement, race
+interested: intend, interest
+quarter: foot
+advanced: technical, modern
+active: work, action, effective
+aware: deliberately, know, perceived
+dangerous: danger, cybercrime
+sacred: holy
+kingdom: royal
+entire: all, full, radical
+nice: beautiful, pleasant
+habit: behaviour, way, custom
+reader: singer, read
+direct: directly, first-hand, live
+actually: realistic, fact
+approach: tactic, fashion, mechanism
+hearing: hear
+throw: cast, shot
+wisdom: intellectual
+truly: realistic, perfectly
+numbers: number
+sorrow: sorry
+drive: driving, vehicle, chorus, expedition, encourage, lead, run
+fault: blame, wrong, disorder
+affair: matter, day
+contact: communication, touch, introduce
+station: stand, centre, season
+e: 
+eh?: 
+listen: hear, listener
+hurt: injury, pain, wounded
+express: expression, explain, demonstrative
+favour: side, positively, sake
+height: length, kidney
+size: dimensional, full, volume, scale
+task: action, work, duty
+suffer: misery, sorry
+noise: noisy, roar, annoyance, voice
+farther: before, better, next
+vessel: instrument, ship, courage, pot
+affection: love
+suffering: torture, misery, bitter, trouble, sorry
+flesh: meat, body
+grand: great
+post: post-office, send, position, postcard
+collection: accumulation, set, gallery, conclusion
+rank: class, information
+imagine: imaginary, think, idea
+arrival: come
+imagination: imaginary, reflection, idea
+loud: insist, great, noisy, hard
+lovely: beautiful
+extraordinary: strange, abnormal
+breakfast: morning, lunch
+population: crowd
+series: chain, set
+relief: comfort, fabric, help
+owner: master, employer
+impression: effect, feeling, impress, print, mark, seal
+satisfaction: satisfied, euphoria
+relations: regard
+shape: dimensional, form
+birth: born
+content: comply, satisfied, fill
+consideration: idea, regard, think
+regular: steady, repeated, usual, dairy
+busy: engaged
+bay: berry, vagina, only
+discover: found, search, disclose
+inside: inner, deep
+soil: mud, floor, country, pottery
+completely: perfectly, thoroughly, full
+message: information, news
+phrase: expression, sentence, word
+mention: male
+square: squares, box
+pair: right, partner, attached, twin
+title: head
+sunday: week
+mad: fool
+absolutely: strictly, thoroughly, perfectly
+slow: slowly, calm, obtuse
+mercy: sympathy
+contain: including, comprise
+grief: depressing, pain, misery, sorry
+soldier: army, pawn
+previous: east, last, before
+explanation: explain, information
+prayer: request, pray
+belief: believe, loyalty
+constant: repeated, steady, persistent
+final: last, finally, decisive
+ride: riding, up, driving, bicycle
+policy: political, mechanism, strategy
+drawing: picture, plan
+dying: death, die
+demand: request
+upper: up
+sum: and, number
+motion: mobility, moving, vowel, exercise, speed
+assistance: support, help
+kindly: please, friendly
+dignity: honour
+catch: hold, arrest, take
+amongst: between
+current: currently, stream
+possibly: probability, perhaps, could
+slave: slavery, servant, addicted
+separate: separated, different, individually, specialty
+terror: fear, terrorist
+control: controlled, check, manage, master
+firm: company, organization
+superior: better, elite
+spiritual: mentally, moral, intellectual
+proof: prove, evidence
+process: treat, progress, way, processing
+crime: criminal, sin
+relation: communication, report, regard
+concerned: care, anxious, regard
+deeply: deep
+sing: read, who, song
+entrance: door, receipt, threshold
+admit: thank, give
+supply: width, provided, resources
+clean: fresh, neat, innocent
+useful: necessary, effective, capable
+delicate: subtle, fastidious, elegant, soft, feminine
+continue: persistent, continuation, hold
+choice: choose, election, check, option
+huge: great, heavy
+unable: not, fail
+cover: lid, coat, blanket, covered
+double: twin, twice, multiply
+victory: success, profit, beat
+dozen: twelve
+constantly: often, repeated, always, steady, persistent
+level: condition, surface, scale
+release: discharge, publication, free
+rough: worst, bad-tempered, rude
+ahead: before, next
+connected: bound, attached, conjugate
+gain: obtain, profit
+addition: additional, complement
+chamber: room, hall, camera, cabin
+gradually: slowly
+acquaintance: familiar, primer, identity
+mistake: wrong
+based: foundation, terms
+car: train, vehicle, tea
+nobody: anyone, nothing
+closely: carefully
+energy: power
+bare: open, shame, hollow, bald, empty, only
+partly: halfway, part
+color: colour
+safety: safe, salvation, care
+description: information, definition, specification
+asleep: sleep
+careful: carefully
+enjoy: happy
+drop: dip, fall, leak
+brilliant: shiny, great, wise
+tale: story
+grey: brown, ash
+highly: very
+excited: excitement, irritated
+despair: frustration, faint
+ease: comfort, facilitate, low
+total: gross, all, plural, full
+kindness: virtue
+circle: circulation, apartment, round, wheel
+dull: bore, low
+extreme: maximum, polar, very, radical, chronic
+intention: intend, purpose
+term: terms, deadline, word, expression
+apply: use, applications, take
+labor: work, employee
+intelligence: intellectual
+strike: attack, striking, beat
+fairly: thoroughly, enough, very
+event: occasion, show
+gently: soft, slowly
+connection: conjunction, attachment, junction, call
+protection: protect, shelter, care, save
+conscious: awake, deliberately, feeling
+edition: expense, print, permission
+flight: bird, fly, soar, air, set, wing
+evident: transparent, evidence, apparently
+couple: twin, two
+variety: sort, different
+apart: separated, distant, except, independently, two
+awful: terrible, evil
+everybody: all, anyone, denominator
+labour: work, employee
+lover: dear
+suit: fit, prosecution
+singing: song
+eager: desire, anxious, prepare, gross
+require: request, insist, necessary
+whenever: when
+milk: dairy, breast
+successful: success
+vision: landscape, focus
+raise: improve, widen, lift, increase
+development: progress, evolutionary
+cool: cold, beautiful
+trial: try
+abroad: foreign, exile
+devoted: loyalty, faithful, engaged
+literary: literature, literal
+writer: author, lighter
+stock: stick, role, action
+type: write, press
+plenty: rich, redundancy, enough, tend
+avoid: prevent, order
+favor: side, positively, sake
+mental: intellectual, mentally, inner
+attitude: glance, stand, gesture, paragraph
+admiration: praise
+anxiety: anxious, fear, preoccupation
+teach: know, learn, education
+count: partition, rely, account, counting
+curiosity: anxious
+visible: appear, know
+guide: manual, evidence, driving, lead
+actual: realistic, genuine, fact, royal
+miserable: sad, unfortunate, misery
+harm: evil, injury, bite
+shop: bookstore, buy, retailer
+pardon: forgive, sorry
+beg: pray
+seldom: sometimes, rare
+record: recording, disk, save
+fat: oil, thick, province
+flat: apartment, nonremittal, plan
+departure: go, exit
+gift: reward, visit
+skill: capable
+temple: house, church
+license: permission, patent
+consent: approve, euphoria, permission
+sufficiently: full, enough, coffee
+wound: injury, wounded, ulcer
+laughter: laugh
+bold: courage
+witness: evidence
+foolish: fool
+anybody: anyone, who
+self: private, themselves, own
+extremely: very
+treatment: treat, care
+throat: neck, soar
+patient: sick, patience
+growth: increase, progress, grow
+quantity: plural, crowd, dose, number
+severe: grave, heavy, strictly, violent, chronic, gross
+excuse: forgive, transitive, sorry
+origin: nature, infinitive, root
+audience: passive, public
+limited: narrow
+remaining: remains, remainder
+base: foundation, language
+win: success, beat
+maid: girl, servant, virgin
+softly: soft, slowly, calm
+reality: fact
+glorious: elegant, holy
+likewise: even
+site: scene, web-site, spot
+sail: ship, veil
+frightened: fear
+unhappy: unfortunate, happy, sad
+store: storage, save
+remark: opine, regard, comments, horse
+pause: break
+valuable: worth
+hence: thus
+plant: climbing, tree, mill, vegetation
+absolute: full, literal, perfectly, radical
+readily: easily, soon
+fierce: sharp, violent, hard, cruel, wild
+rage: anger
+discovery: found, search, opening, innovation
+related: regard
+punishment: criminal, sentence
+slightly: little, easily
+mysterious: secret, vague, invisible, strange
+shade: shadow, tone, nuance
+murder: kill
+emotion: feeling
+destruction: ruin, destroy
+horror: fear
+local: locally, inner, spot
+ignorant: ignorance, fool
+generous: liberal, rich
+range: distance, set, scope
+host: army, guest, crowd
+wet: rain, damp
+mystery: secret
+possess: own, bear, heir, hold
+consciousness: rationality, feeling, conscience, ceremony
+formerly: before
+spend: expense, fill
+production: produce
+source: fountain, resources, infinitive
+deck: bridge, lid, groups
+aunt: uncle
+reign: king, royalty, rule
+compliance: follow, adaptation, harmonic, comply
+hers: its
+flower: interest, mud, flourish
+accomplished: full
+thanks: thank
+philosophy: visit
+belong: including, regard
+comfortable: thoroughly, pleasant
+market: buy, mayor
+cap: hat, lid
+somewhere: anywhere, everywhere
+delighted: happy
+household: family, house, economy, suppose
+fleet: ship, navy, float
+baby: children, doll
+region: field
+lately: trademark
+exact: genuine, flour, full, fit, literal
+image: picture, show
+suspicion: doubt, suspicious
+refuse: resist, disapproval, waste
+staff: crew, stick, employee
+liability: duty, blame
+gaze: glance, see, stare
+ashamed: shame
+meal: food, eat, flour, lunch
+status: position, condition
+indicate: enter, show, think, suggest
+poem: poetry, song
+arise: appear, happen
+voyage: expedition, traveller
+attend: join
+afford: capable, buy, give, bear
+donate: contribute, give
+job: work, day
+proceed: increase, persistent, progress, walking, continuation, next
+regret: sorry, deplore
+risk: danger
+rapid: soon, rapidly
+distinct: different, separated, individually, contrasting
+properly: thoroughly, foot, right
+singular: united, unit, abnormal
+error: wrong
+reputation: praise, fame
+appeal: interesting, call
+strongly: very
+lack: cut, absence, tribe
+violence: violent, torture, rape
+render: do, introduce, give
+career: profession, work, lifestyle
+design: plan
+commercial: trade
+suggestion: suggest, sentence, advice
+utter: forge, full
+resolution: conclusion, analysis, decay
+spare: additional, replace
+domestic: civil, inner, resident, national, servant
+farm: agricultural, form, field
+reference: referential, memory, quote
+exist: presence, stand, there
+alike: trademark
+issue: terms, trouble, theme, matter
+providing: provided, give, care
+flame: fire, fireworks
+occasionally: sometimes, repeated
+flying: fly
+cloth: fabric, thousand
+fourth: four, wednesday, room
+benefit: profit, purpose
+electronically: trademark
+chapter: door, part, head, season, capital, about
+hole: bore, pit, hall, hollow
+reasonable: wise, rational, enough
+sugar: way
+replacement: replace, instead, allowance, exchange
+sigh: breath
+thrust: insist, knit, pay, squeeze
+frame: scale, legal, shot
+opposition: resist, resistance, disapproval, opposite
+substance: semantic, matter, nucleus
+email: send, electronic
+division: partition, part, dissection, class
+verse: poetry, paragraph
+decision: determined
+probable: perhaps, probability
+painful: bitter, pain
+forever: always, eternal
+ocean: sea
+rear: back
+leader: head, manager, conductor, manual
+keen: intend, anxious, sharp, persistent
+enthusiasm: euphoria, ecstasy, excitement
+apparent: demonstrative, rational, disclose
+hurry: soon, calf
+scheme: plan, striped, chart
+useless: waste
+nevertheless: but, whilst
+smooth: soft, subtle
+solid: demonstrative, established, hard, cube
+necessarily: must, necessary
+build: building, formulation, generalize, prepare
+attempted: try, stab
+equivalent: equal
+recent: recently, modern, last
+oh: 
+travel: visit, tourism, traveller
+noon: afternoon, south
+located: fall, position
+announcement: ad, communication
+cease: prevent, closure
+circumstance: condition, envelope, circumstances
+tent: cabin, scene
+frequent: repeated, often
+alarm: bell, frighten
+aloud: voice, noisy
+independent: independence, loose, independently, its
+essential: necessary, organic
+observation: observe
+permanent: persistent, steady, eternal, retain
+gratitude: thank
+preserve: retain, storage, obtain, protect, save
+aspect: side
+knife: sword
+dread: fear
+clever: wise, cunning
+applicable: trademark
+district: live, class, province
+failure: fail, wrong, bankruptcy
+cent: per-cent, hundred, percentage
+sentiment: feeling
+agent: mean
+desperate: faint
+union: alliance, united
+grant: approve, give
+seriously: sincerely, heavy, gravity, crowd
+hit: multiply, success
+enormous: great, heavy
+defective: trademark
+conviction: sentence
+wooden: tree
+prefer: option, happy, priority
+fever: fire, flu
+impulse: inspiration, pulse, feeling
+ours: spring, us
+mistaken: wrong, abuse, improper
+ideal: better, abnormal
+rush: crowd, stroke
+deny: forget
+correct: right, faithful, optimal
+perform: show, do, manage, continuation
+accordingly: trademark
+counsel: consultant, advice, lawyer
+notion: conceptual, idea, feeling
+discussion: discuss, argument
+firmly: established
+empire: royal
+continuous-aspect: imperfective-aspect
+pen: pencil, head
+permit: permission
+maintain: hold, protect, retain, manage
+crowded: squeeze, crowd
+limitation: bound
+horrible: terrible
+port: door
+experienced: experience, expert, undergo
+opposed: opposite, disapproval, contrasting, resist
+treaty: memorandum, agreement, arbitrary
+contents: comprise, fill
+mode: way
+occur: happen, come
+seeking: search
+practically: practical, approximate
+trace: mark, disapproval, memory
+characteristic: specialty, behaviour, virtue, symptom
+cheerful: happy, hilarious, ugly
+arrangement: order, disposition, agreement
+western: west
+pressure: print, squeeze, stress
+politics: political
+scientific: science, scientist
+shake: trademark
+industry: industrial, industrialize, trademark
+merit: praise, qualified, worth, acquit, quality
+interview: visit
+territory: field
+sex: penis, sexual, six
+creation: formulation, established, produce
+trail: mark, election, way, tail
+prospect: hope, probability, landscape, scene, hopefully
+obey: comply, follow
+operation: drift, action, surgeon, manipulation, manual
+northern: answer
+profound: deep
+match: gambling, race
+uniform: robe, dressed
+debt: blame, religion, duty, credit
+teaching: education
+venture: adventure, investment, company
+execution: comply, action, implement
+mood: feeling, humour, disposition
+perceive: see, realize, burden, understanding, seize, spy, perceived
+declare: explain
+version: copy, translation
+odd: strange
+grateful: thank
+infinite: eternal, infinitive
+elsewhere: anywhere
+security: safe, care
+sensible: wise, rational, susceptible, optimal
+cottage: hut, cabin
+capacity: capable, capability
+settle: sit
+involved: engaged, join, comprise
+council: advice
+examination: check, choose, try
+steel: iron
+test: check, try
+charity: love, volunteer
+element: elements
+shed: pour, cast, hut
+somebody: who, person, anyone
+incident: accident, constitution
+bar: barium
+row: line, set, government, order
+poverty: poor
+bottle: glass
+intense: edge, violent, gross
+available: provided, availability, effective
+fix: improve, steady, stare
+unusual: abnormal, usual, strange
+derive: obtain, derivative, derived, induce
+deserted: abandoned, desert, lonely
+establishment: formulation, established
+vote: choose, voice
+endure: bear, supporter, last, resist
+succeed: success, successfully
+leg: foot, bone, bridge
+bid: request
+interior: inner
+lightly: easily, light, little
+display: show, symptom, scene, evidence, demonstrator
+strain: stress, intensity, embrace, tribe
+confined: only
+aim: purpose, focus
+critical: necessary, decisive, grave
+standard: steady
+bag: pocket, sack, basket
+repeat: back, repeated
+track: monitor, song, way, follow, truck
+rid: remove, acquit, save
+residence: shelter, disposition
+steadily: trademark
+fun: interesting, happy, hilarious, entertainment, pleasant
+enterprise: company, organization
+defend: protect, tend, run
+heavily: grave, heavy
+stuff: goods, matter
+section: part, partition, dissection, article
+settlement: agreement, shelter
+plate: disk
+overcome: cope, beat
+grounds: foundation, terms
+marble: stone
+recent-past-tense: 
+ability: capable, talent, capability
+wave: tide, vague, wavelength
+folk: popular, fork, folklore
+possibility: probability, could
+butter: oil
+hatred: contempt, hate
+pursuit: prosecution, search
+pull: scissors, remove
+signal: gesture, mark, password
+safely: safe
+burn: burnt, smoke
+describe: explain
+lesson: education, course
+annual: year
+card: cardboard, map, brief, paper
+application: use, software, request, applications
+intelligent: intellectual, wise
+county: boycott, regional, city, province, military
+format: form, cast, permutation
+flow: stream, drift
+damage: ruin, injury, decay
+moreover: additional, even, more
+commerce: trade
+southern: south
+average: mean, each
+naked: shame
+obvious: transparent, apparently, open
+concern: care, anxious, interest, preoccupation
+magic: charm
+campaign: expedition, exercise
+whisper: mutter, breath
+commonly: usual, often, public
+hunt: hunting, captivate
+teacher: author
+operations: activity, run
+detail: spread, specification
+shortly: soon, brief
+blessing: bless
+tiny: little, subtle
+sharply: speed, sharp, very
+chest: breast
+depth: deep, room
+performance: show, productivity, demonstrator
+prosperity: flourish, success, welfare
+conception: pregnancy, conceptual, arrest, feeling
+clerk: salesperson, employee, official
+decide: determined, decisive
+victim: hunting, sacrifice
+motive: inspiration, intend, motor, purpose, theme, sake
+definite: determined
+tendency: behaviour, mile, disposition, drift
+remote: distant
+finish: plaster, decoration, conclusion
+flag: banner, know
+administration: rule, manage
+rarely: rare
+previously: before
+harmless: safe
+training: education
+badly: wrong, very, evil
+feed: eat, food
+central: centre, nucleus, federal
+contrast: contrasting, resist, differentiation, distinction
+structure: building, structural, organization, composition, architecture, fabric
+payment: pay
+pace: speed
+inquiry: request, search, evaluation
+roll: play
+wherever: where, anywhere
+owe: guilty, duty, give
+handle: manage, manipulation, lever
+trip: visit, expedition
+shoot: shot, exile, take
+fortunate: luck
+newspaper: diary, paper, koran
+employment: unemployed, preoccupation, work
+cutting: cut
+determine: determined, decisive, impose
+whereas: whilst
+crossing: cross, junction, passing
+lively: live
+breeze: air
+relative: cousin
+thereby: thus
+provision: introduce, provided, welfare, disposition, anticipation
+regarding: about, regard
+pick: choose, take
+ruined: destroy
+deliver: give, introduce, send
+unexpected: surprise, suddenly
+desk: table, office
+lane: line, band
+represent: representative, instance, say
+respectable: honour
+bride: princess
+responsibility: duty, blame
+disappointed: ambition, frustration
+suitable: fit, right
+depend: bound, rely
+giant: great, monster
+grasp: understanding, squeeze, realize, seize, silk
+arrive: come, happen
+autumn: fall
+absent: absence
+gloom: dark
+suspect: guess, doubt, suspicious
+determination: determined, report, definition, intend
+basis: foundation, terms, support
+examine: observe, check, analysis
+prize: reward, premium
+purchase: buy
+someone: person, anyone
+defeat: beat, fail, frustration, humble
+silly: fool
+recall: remember
+occupation: profession, aggressive
+discourse: modern, speech, sermon
+assist: help, support, cooperation
+sale: auction, sell, discount
+invitation: call
+narrative: story
+inferior: down
+recognize: realize, diagnosis, detect, perceived
+portrait: picture
+create: forge, generalize, prepare
+conflict: exception
+disappointment: frustration, ambition, anticlimax
+construction: building, architecture, composition
+zeal: euphoria, excitement
+responsible: duty
+positive: positively, sheep
+cure: treat, care, improve
+include: including, enter, comprise
+satisfy: satisfied, comply, indulge, decode
+agony: bitter, pain
+stupid: ignorance, fool
+grain: corn
+enjoyment: treat
+precisely: full, thoroughly, strictly
+assume: suppose, regard
+estimate: guess, quote
+route: way, root
+visitor: traveller, guest, observer
+non: not, unlawful, rain
+wire: line
+mostly: especially, largely
+unconscious: faint
+external: outer, foreign
+universe: cosmos, world
+clock: bell
+instruction: recipe, direction, manual, dictate, education
+sore: ulcer, sick, pain, very
+enable: capable
+introduction: introduce, provided, primer, import, role
+protasis: 
+wilderness: desert
+confused: nervous, frustration, confusion, dilemma
+wedding: married
+silently: trademark
+behalf: representative, side, part, instead
+reckon: believe, rely, account, compute
+uncertain: uncertainty, unsteady, vague
+engagement: engaged
+dirty: gross
+platform: foundation
+messenger: ambassador, angel
+physician: doctor
+organized: organization
+covering: covered, roof, lid
+convey: trademark
+sincere: honest, realistic, sincerely, friendly, yeah, genuine
+sensation: feeling, excitement
+submit: trademark, send
+specific: especially, private, expert
+stiff: hard
+accompany: comply, follow
+score: mark
+hunger: hungry, greed
+favorite: favourite
+customs: tradition, inch, duty
+impressed: feeling, impress
+prey: hunting, loot, sacrifice
+musical: music, musician, harmonic
+satisfactory: disease
+ridiculous: ignorance, hilarious
+sheet: paper, leaf, leaflet
+disgrace: shame, insulting
+originally: largely
+wages: pay
+extensive: broad, deep
+leisure: entertainment, empty, retire, relax
+chin: beard, treat
+glow: light, radiation, flash
+jealousy: jealous
+hostile: unfriendly, enemy
+railway: railroad, train
+pound: book
+eastern: east
+citizen: civil
+feature: features
+correspondence: communication
+reserve: retain, book
+strangely: strange
+propose: suggest
+bark: cortex, skin
+reception: welcome, receipt, adoption, buy
+pleasing: pleasant, unpleasant, hilarious
+wake: awake
+research: analysis, search
+monarch: emperor, king
+clothing: fabric, dressed
+illness: disease, sick
+daylight: light, sunshine
+jest: laugh
+comment: explain, comments
+metal: iron, mineral
+solution: answer
+sixteen: sixty
+entity: instrument, unit, presence, organization, company
+depart: digress, crack, go, wander
+bitterly: bitter
+peaceful: calm
+alarmed: anxious, frighten
+furnish: trademark
+culture: cultural, civilization
+trick: subtle, fool, manipulation, cunning, makeup
+column: genuine
+financial: money
+preparation: prepare, maker, formulation
+joke: humour
+shell: cortex, skin
+proofread: trademark
+nest: live, socket
+conceive: pregnancy, think, pregnant
+appointment: promise
+fetch: take, obtain, derived, tactic
+candle: light, lamp
+offence: insulting, attack
+mixture: mixed
+model: instance
+defect: blame, wrinkle, disability
+hint: gesture
+objection: resistance
+craft: subtle, name, ship
+neglect: abandoned, omission, boycott, indifference
+data: information
+weapon: disarm, gun
+pink: rose
+grandfather: ancestor, grandparent
+obviative: 
+income: revenue, import, yield
+vigorous: violent
+lightning: electronic, bolt, flash
+sport: exercise
+powder: flour, dust, dry
+painting: picture
+shout: noisy, roar, cry
+careless: reckless, indifference
+doorway: door
+convenient: practical, easily, fit
+mail: post-office, letter
+paint: colour
+surrender: tradition
+establish: introduce, established
+mild: soft, constituency, dilute
+promptly: once
+department: part, class
+deserve: worth, qualified
+quit: abandoned, crack, cast, closure, exit, resignation
+assurance: assure, bail, rely, promise
+mirror: glass
+plot: plan, story
+upward: up, more
+sadly: sad, sin
+modest: usual, humble
+dish: court, food, eat, bowl
+straw: grass
+net: web
+impatient: patience
+warmth: warm
+restless: anxious, unsteady, break
+meantime: trademark
+experiment: pilot, experience, try
+tremendous: terrible, great, very
+improvement: reform, repair, progress, improve
+dispute: quarrel, argument
+proposition: sentence, plan, suggest
+maybe: perhaps, could
+rifle: gun
+shield: protect
+employ: adoption, rent, use, duty
+climate: atmosphere
+unlike: different, opposite
+recover: save, alright, back
+mate: spit, partner, friend
+arrange: order, legislate, manage
+committee: commission
+aged: old, adult
+ghost: soul
+distinguish: differentiation, characterize, distinction, contrasting, separated, disclose
+recognition: realize, confession, identity, perceived
+clay: mud, mole, pottery
+trunk: tribe, baggage, boot, great
+management: manage, driving
+restore: retain, back
+protest: resist, march, disapproval, resistance
+pile: dump, stake, lump, crowd
+moderate: mean, usual
+spell: charm, spelling, conjunction, order
+area: field, regional, surface
+formal: official, informal
+editor: author, publisher, secretary
+acknowledge: confession, thank
+remedy: medicine, improve, treat
+pursue: indulge, monitor, follow
+pole: sorry, polar, navel, stick
+vital: necessary, decisive, key, deadly
+president: head, chairman
+ward: wing, regional, part
+ms: 
+cheer: heart, encourage
+bloody: blood
+justified: rational, right, justify
+admire: praise
+openly: apparently, open, opening
+abide: trademark
+modification: change, adaptation
+dramatic: roar, drama, demonstrative, dramatically
+upstairs: up
+varied: different
+descent: nature
+envy: jealous
+load: pregnancy, tribe, burden, open
+pretend: feign, drama
+internal: inner
+curtain: veil
+healthy: health
+obscure: vague, nonremittal
+center: centre
+cheap: low
+contest: race
+alter: convert, change, replace
+glimpse: glance
+contract: memorandum, order, hold, agreement
+saving: save, storage, economy
+string: rope, chain, set
+combination: mixed, set, call
+temperature: warm, mercury
+strict: strictly, sharp, hard
+professional: profession
+injured: wounded, injury
+neighborhood: surrounding, live
+smoking: smoke, cigarette
+medical: doctor
+inform: information
+prominent: popular, memorable, consequential, key, well-known
+institution: company, organization
+anguish: bitter, misery, pain, torture, sorry
+obviously: open, apparently, transparent
+capture: captivate, arrest, take, intercept
+inquire: trademark
+ample: enough, broad, crowd
+bedroom: room
+purely: only, thoroughly
+joint: collective, partner, mixed, call, mutual, united
+refer: referential, see
+identify: identity, realize, detect
+bench: bank
+rescue: save, salvation
+limit: bound, abridge
+expectation: anticipation, hopefully, hope
+incomplete: trademark
+program: plan, agenda
+invention: invent, innovation, search
+piano: 
+purse: wallet, trademark
+electric: electronic
+interval: temporary, break
+chase: hunting
+occupy: take, seize
+gown: coat, dressed, robe
+lock: castle
+lowest: worst, least
+hesitation: hesitate, reluctance, doubt, trademark
+proposal: suggest, sentence, plan, conclusion
+happily: happy
+subsequent: next, then, follow
+uneasy: unsteady, unpleasant, anxious
+shine: flash, sunshine, polish
+machinery: mechanical, machine, mechanism
+attractive: interesting, magnetic, desirable
+product: goods, produce
+economic: economy, brief
+sickness: disease, sick
+engine: motor, machine
+theirs: they
+leather: skin
+slope: mile, dip, bent
+worry: anxious, preoccupation, care
+violently: hard
+donation: trademark
+specified: determined, nominal
+timber: stick, tree
+calculate: account
+killing: kill
+funny: strange, hilarious
+insult: insulting, contempt, shame
+representation: expression, memorandum
+incapable: capable
+dine: eat, food, lunch
+sensitive: susceptible, key
+appetite: desire, greed
+courtesy: polite, honour
+sphere: field, ball, regional, round
+honorific: honour
+guilt: guilty, blame, sin
+delicious: tasty, taste
+infant: ball
+wheat: folklore, corn, brown, mill
+humor: humour
+encounter: cope, date
+twilight: dawn
+park: garden
+govern: manage, rule, master, covered
+formation: education, forge, formulation, composition, established, produce
+lean: mile, lead
+continent: continental, volume
+knock: hesitate, beat, click
+unity: united, unit, solidarity
+major: pioneer, key, parent, great, principal, inner
+preliminary: opening
+cell: nucleus, cell-phone, vagina, cabin
+border: bound, edge
+breathe: breath
+exempt: free, acquit, forgive, exception
+wealthy: rich
+everyone: all, anyone
+abundant: rich, very
+painter: artist
+glasses: glass
+shooting: shot, hunting
+wagon: train, trolley, apartment
+lend: give, credit, quote
+undertake: beginning, do
+clergy: priest
+mount: instal, increase, hill, acid
+array: set, order, permutation, align
+magazine: press, monthly
+loudly: trademark
+harsh: hard, strictly, rude
+push: squeeze, encourage, press
+tight: narrow, strictly, hard
+sue: trademark
+abandon: abandoned
+mainly: especially, largely
+loyal: loyalty, honest, faithful, trustee
+suited: friendly, fit, optimal
+advise: advice
+waist: romantic
+stable: steady, established, determined
+commit: promise, do, wrinkle, sin
+affect: effect, impress
+significance: importance
+peasant: farmer
+considerably: very, consequential, enough
+extend: spread, widen, stretch
+personally: individually, private, own, person
+morality: moral
+rebellion: rebel, revolution
+thread: line
+sailor: salt
+response: reaction, answer
+imperial: royal
+blank: empty, hollow, white
+minor: secondary, little, miner, retail
+ma'am: trademark
+bargain: trade, occasion, agreement
+fatigue: tired
+dislike: contempt, hate, reluctance
+normal: usual
+sketch: outline, plan, show
+anyway: already
+driver: motorist, driving, conductor, pilot
+declaration: ad
+personality: person
+excess: additional, redundancy
+separation: class, distance, separated
+disgust: contempt
+accomplish: realize, obtain, cope, full
+rightly: equal
+mob: crowd
+unnecessary: waste, must
+fur: skin, coat
+tribute: rent
+relieve: acquit, forgive, facilitate, replace, relax
+legislation: legislate, rule, legislature
+project: plan
+corresponding: resemble, regard, fit
+fairy: angel
+conclude: hold, conclusion
+lucky: luck, happy
+lap: knee, round, adoption
+ridge: summit, spine
+spoil: loot, ruin, sophisticate
+liable: easily, tend, susceptible
+thoughtful: anxious, wise
+favorable: friendly, pleasant, flex, desirable, optimal, approve
+tin: bank
+dependent: addicted, attached, employee, rely
+warrant: assure, justify, memorandum
+complaint: complain, white
+convention: memorandum, agreement, summit
+angle: corner, polygon, angles, broad
+widely: very, largely, broad
+cow: cattle
+prejudice: hate, bias, fibre
+surprising: strange, amaze, surprise, striking
+appropriate: fit, right
+confident: courage, safe, believe, genuine, course
+organ: instrument, member, body
+selection: choose, option, election, secretion
+awe: fear
+beforehand: trademark
+compare: comparison
+relate: hook, communication, regard, say
+presume: believe, guess, suppose, regard
+missing: extinct, lost
+fashionable: fashion, modern, elegant
+disturb: nervous, aggressive, interfere, barrier, confusion
+association: conjunction, regard, organization
+niece: nephew, granddaughter
+bodily: body
+faculty: college, factorial
+thirteen: thirty
+sailing: ship, veil
+smart: wise
+petty: ring, trivial, little
+caution: warning, care
+warrior: hero
+liquid: water
+concept: conceptual, feeling
+specially: especially
+jump: fly, dance, bounce
+unwilling: intend, prepare
+extra: additional
+pitch: pavement, tone, not
+awkward: strange
+appreciate: thank
+jury: judge
+survive: live
+literally: literal
+briefly: brief, easily
+guy: person
+penny: coin
+adopt: adoption, approve, suppose, take
+regularly: often, steady, repeated
+investigation: search
+constitutional: constitution
+latest: last, fresh
+pupil: student
+totally: perfectly, thoroughly, full, positively
+twisted: bent
+subscribe: trademark
+differ: different, separated, distinction, individually
+disaster: ruin, inversion
+bet: stake, condition, fireworks
+periodic: give
+raw: live, gross, green, bald
+log: enter, recording, login
+hospitality: entertainment
+cart: train, vehicle, trolley
+aboard: trademark
+engage: attached, use, rent, retain, comprise, engaged
+herd: flock, crew, crowd
+attain: trademark
+collect: gather, compile
+pan: pot, bread
+opera: 
+assault: attack
+deceive: fool, lie
+mourning: sorry
+compliment: trademark
+approval: approve, adoption, applause, permission
+withdraw: remove, interesting, retire, back
+tune: song, harmony
+compassion: sympathy
+betray: sell
+disguise: hide
+transcription: copy, derivative
+document: file, manual
+neighbour: surrounding, near
+punish: sentence
+block: lump, prevent, volume, barrier, black
+obligation: duty
+decline: fall, dip, decay
+ambitious: ambition
+holiday: vacation, feast
+eagle: hawk, tie
+honorable: honour
+significant: necessary, consequential, striking
+functions: features
+dense: thick
+fiction: novel, imaginary, story
+recommend: suggest, introduce, advice
+educational: education
+upwards: up, more
+horn: corn
+fund: box, capital, ray, accumulation
+lodge: hut, file, cabin
+costume: custom
+fare: rent, go, map
+remind: remember, resemble
+pillow: river
+nowhere: spot, anywhere
+anyhow: trademark
+corpse: body
+essence: nucleus, elements, pet
+elevation: steep
+realm: field, world, scope
+staircase: stairs, scale
+accord: memorandum, agreement, fit, arbitrary
+lace: race, pulse
+scholar: student, scientist
+ruler: duke, governor
+crazy: fool
+entertain: welcome, entertainment
+greeting: welcome
+monstrous: monster, terrible
+barely: only
+facility: equipment, facilitate, comfort
+rob: steal, loot, deprive
+ladder: stairs, conductor, scale, school
+ending: last
+sunny: trademark
+divide: partition, distribute, dissection
+tread: walking, rung
+defense: care, protect
+incredible: strange, elegant
+arch: bow
+elect: election, choose
+shy: shyness, shame
+prime: principal, first
+unfortunately: unfortunate
+fog: mist
+coloured: colour
+consult: asked, advice
+warn: warning, induce
+shallow: deep, foundation, low
+encouragement: encourage, comfort, inspiration
+irregular: usual
+promotion: progress, ad
+faithfully: loyalty, faithful, sincerely
+excellence: trademark
+transfer: translation, transport
+fundamental: foundation, infrastructure
+bundle: pack, fibre
+tragic: terrible
+review: criticism
+terribly: terrible, very
+cooking: cook, kitchen
+revolt: rebel, revolution
+wreck: destroy, accident, ruin
+convince: persuade, assure
+illustration: instance, picture
+nerve: vein, courage, nervous
+ascertain: know, assure, determined, check
+pledge: assure, promise, hostage, bail, pawn, swear
+earn: serve
+subsequently: then, next
+select: choose
+interpretation: translation, explain
+challenge: call
+forbid: prevent, inhibition
+admission: receipt, adoption, confession, threshold
+pool: swimming-pool, pit, bridge
+conference: session, assembly
+equality: analogy, balance, equivalence
+newly: recently, novel
+surroundings: landscape, surrounding, atmosphere
+invasion: attack, login
+pattern: instance, once, form, lattice
+reveal: disclose, reflect, open
+resolve: loose
+preach: sermon
+grandmother: grandparent
+wool: cotton
+communicate: communication, socialize, negotiation
+scenery: trademark
+essentially: terms, largely, mean
+oppose: resist
+specimen: instance
+drag: scissors, resistance
+crop: harvest, cut, produce
+accurate: flour, literal
+resort: take, shelter, break
+refusal: waste
+bond: key, bail, slavery
+sympathetic: sympathy
+salary: pay
+continuous: persistent, steady
+excite: induce, incite, stir, awake
+wildly: wild, violent
+sadness: tragedy, sorry
+allied: united
+ceiling: blanket, roof
+confirmation: certificate, trademark
+goal: focus, purpose
+cash: money
+vacant: open, free, empty, loose, vague, zero
+despise: contempt
+lawn: grass, meadow
+turkey: 
+neighbor: surrounding, near
+ultimate: last, maximum, finally
+submission: send
+entry: enter, recording
+monument: trademark
+thorough: deep, thoroughly, full
+exciting: interesting
+winning: success, beat
+conservative: orthodox, governor
+enthusiastic: anxious, excitement
+downstairs: down
+invite: order
+boil: cook, ulcer, fry
+beautifully: beauty, beautiful, pleasant, neat
+tomorrow: yesterday
+escort: trademark
+uncomfortable: anxious, unpleasant
+harbor: shelter
+apparatus: equipment, mechanism
+assert: insist, seize
+utterance: expression, horse
+rail: railroad, train
+crops: harvest, produce
+imperfect: full, disability, incompleteness
+appreciation: trademark
+acquire: obtain, buy
+offensive: attack, insulting, aggressive
+coldly: cold
+lecture: speech, course, sermon, show
+whereby: where
+perception: feeling, glance, bent, perceived, understanding
+develop: elaborate
+function: ceremony, work, activity
+bullet: tablet, shot, lead, ball
+excessive: trademark
+bind: bound, rope
+identical: equal
+substantial: demonstrative, great, consequential, striking, enough
+bulk: lump, plural, volume, tumor, crowd
+prolonged: long, linger, longitudinal
+annoyed: irritated, unpleasant, anger
+upset: nervous, sad
+cab: taxi, trademark
+bunch: crew, band
+exhibit: symptom, show
+hay: grass
+debate: argument
+stillness: silence, calm
+partial: exception, part
+beef: meat
+repeating: time, repeated
+attendant: trademark
+unite: solidarity, merge, reconcile, join, melt
+blade: leaf, sword
+factory: mill, workshop
+logophoric: 
+attendance: participation, availability, presence
+journal: press, diary
+honestly: sincerely, loyalty, honest
+legitimate: legal, justify
+thursday: there
+league: alliance
+petition: trademark
+traffic: circulation, transport, vowel
+limb: member, wing
+disposal: trademark
+steward: manager, servant
+fantastic: elegant
+evolution: reform, evolutionary
+reverse: upside-down, opposite
+survey: check, search
+amuse: entertainment
+contemporary: modern, synchronize, temporary
+scandal: corruption
+deliberate: deliberately
+symbol: gesture, map, mark
+recovery: salvation
+washing: wash, laundry
+wisely: trademark
+precise: flour, fit, literal
+occurrence: happen, occasion, presence, constitution
+shaft: shoulder, tree
+festival: epiphany
+exclusively: trademark
+stem: dry, tribe, root
+corporation: company, organization
+preference: privilege, choose, bias, option, priority
+urge: induce, desire, encourage, asked
+reduce: low
+removal: distance, safe
+assertion: argument, ad
+accessible: visit, found
+comedy: humour
+flush: colour, excitement
+code: yard, encode, password
+adequate: enough, coffee, fit
+split: distribute
+newsletter: trademark
+historian: historical
+democracy: republic, democratic
+creed: confession, religion, way
+attraction: charm, gravity
+concert: ceremony
+downward: down
+prompt: soon, request
+paperwork: trademark
+emphasis: accent, stress, insist, importance
+bronze: copper, brown
+garment: robe
+remorse: sad
+thrill: trademark
+exclusive: monopoly, private, fourteen, specialty
+porter: wear
+dash: line, dashboard
+strip: band, undress
+ultimately: finally
+team: crew
+whoever: who, whichever, anyone
+expensive: dear
+headquarters: headquarter, centre
+acute: sharp, chronic
+embarrassed: nervous, shame, misplace
+offspring: children
+network: web
+plane: bird, surface, machine, soar
+partially: part
+proudly: pride
+terrace: balcony, roof
+grip: hold, trap, fist, squeeze, silk
+humility: simplicity
+blast: burst
+ministry: office
+diameter: article
+troop: army
+tightly: strictly
+penalty: sentence
+alternate: option, exchange
+restraint: patience
+screen: veil
+dirt: damp, mud, dust
+era: season, antiquity, long, solidarity
+breed: multiply, race, fertility, sort
+interference: interfere, annoyance, disorder
+consist: comprise, including, tend
+acceptance: acceptable, adoption, receipt
+engineer: mechanical, article
+halt: foot, arrest, closure, prevent
+alternative: option, replace
+stamp: seal
+compact: brief, abridge
+disappear: extinct, invisible, lost
+counter: disk, disapproval, opposite, rival
+venus: friday
+attract: interesting, impress, captivate
+astonishing: surprise, striking
+competition: rival, race
+crystal: glass
+shower: bath, rain
+await: trademark
+massive: heavy
+cellar: room
+philosophical: philosopher
+device: equipment, tactic, instrument
+glare: glance, sharp
+eventually: finally
+forgiveness: forgive
+awfully: very, terrible
+contemplation: reflect, reflection, plan
+manufacture: produce, maker
+comfortably: pleasant
+exhibition: report
+quest: search
+extension: spread, kidney
+constitute: comprise, composition
+controversy: controversial, argument
+guidance: trademark
+roughly: usual, approximate
+overhead: up
+repeatedly: trademark
+conspiracy: cut
+restrain: inhibition, prevent, retain
+preservation: save, care, retain
+pub: inn
+basin: valley, swimming-pool, sink
+melody: tone
+profitable: trademark
+hire: rent
+worried: anxious, nervous, care
+elderly: old-age, old
+university: college
+patron: trademark
+modify: replace
+inspection: trademark
+cautious: carefully
+foundations: foundation
+prior: east, before, old
+complicated: complex, hard, elaborate
+apology: sorry, apple
+scared: fear
+substitute: option, allowance, replace, vice
+usage: use
+restoration: repair
+hedge: fence
+primary: master, foundation, planet
+beam: ray
+tour: visit, expedition
+exaggerated: salt, abnormal
+competent: capable, qualified
+agriculture: agricultural
+urgent: soon, precipitate, necessary
+accuracy: purity
+alert: warning, awake, mark
+shaped: form
+oven: stove
+rounded: round, rounding
+conventional: usual, orthodox
+plead: justify
+cord: rope
+classical: classic, music
+alongside: parallel, next, conjunction
+extract: quote, juice
+pint: beer
+tube: pipe
+avenue: occasion
+elephant: ivory
+bury: funeral
+efficient: effective, effect
+mix: mixed, stir
+disturbance: disorder, annoyance, interfere
+executive: manager
+tenth: ten
+comparative: comparison
+a.m.: morning, shiny
+cage: castle
+cargo: goods, trademark
+jail: prison, chain
+skilful: cunning, capable
+scream: cry
+compromise: agreement, harmony
+ammunition: shot
+assistant: supporter, help, vice
+cane: stick
+fold: engaged
+boundary: bound
+processes: applications, processing
+argue: discuss, quarrel, insist
+logic: argument, rational, rationality
+panic: fear
+consumption: use, eat
+sustain: support, obtain, retain, hold
+crash: accident, fall
+lacking: cut, tribe
+gradual: slowly
+crush: destroy, gravity, squeeze, love
+phenomenon: matter, symptom
+execute: comply, run, realize, action, implement
+greet: health, welcome, bless
+monarchy: royal
+behave: live, treat
+curve: bow
+convenience: easily, comfort
+lamb: sheep
+logical: rational
+diet: food, dose
+judicial: court, legal
+consistent: persistent, balanced, steady, align
+distrust: doubt, loyalty
+feather: spring
+habitual: usual, trademark
+voluntary: volunteer
+luncheon: trademark
+jacket: coat, sweater
+swimming: swim
+impressive: interesting, striking, effective
+underneath: down
+provincial: rural, province, regional
+popularity: trademark
+baker: trademark
+compensation: allowance, reward
+conjecture: guess
+waiter: servant
+promote: facilitate, encourage, ad
+devote: intend, deplore
+hostility: resist
+obstacle: barrier, disorder, trouble
+sleepy: trademark
+plantation: estate, nursery
+foster: facilitate, religion, pet
+expose: outline, disclose, open
+patch: spot, attachment
+interruption: break, annoyance, barrier
+payable: trademark
+thumb: inch, ignorance
+revolutionary: revolution, radical
+circuit: trademark
+energetic: trademark
+repetition: heavy, repeated
+amazing: strange, amaze
+tip: hemisphere, summit, advice
+kick: football, shot
+threat: threatening
+jungle: forest, wild
+heel: ankle, corner
+typical: usual
+fortunately: trademark
+fuel: oil
+tranquil: calm
+destination: purpose, floor, disposition
+pin: secret, needle, penis
+mars: march
+associate: partner, conjunction, parallel, attached, friend, cooperative
+vicious: immoral, evil
+banquet: feast
+detailed: elaborate, deep, hinge
+closet: cabinet
+legislative: legislate, legislature
+margin: edge, field
+champion: hero, championship
+maintenance: retain
+explanatory: trademark
+differently: distinction, individually, different
+flee: run, escape
+clause: stream, paragraph, article, volume
+resume: trademark
+compound: derivative, conjunction, complex
+knot: lump, hold, knit, junction
+relationship: communication, report, regard
+agency: organization, company, office
+grin: smile, grimace
+unusually: abnormal, very
+intently: trademark
+demonstration: show, march, demonstrator
+depression: stress
+weekly: week
+borrow: credit, quote, pray
+swelling: swell
+topic: theme, matter, story
+superb: trademark
+strengthen: trademark, reinforce
+confidential: trademark
+lifetime: lifestyle, call
+verdict: rule
+attribute: virtue
+penetrate: cross, spread
+identification: identity, definition, detect
+housekeeper: trademark
+sleeve: retail, finger
+spacious: trademark
+photograph: picture, shot
+ally: friend, friendly, united, elements
+ditch: trench, pit
+tract: way, stretch, argument, coffin
+ribbon: band, movie
+plus: more
+perfume: smell, fragrant
+bother: trouble, interfere, annoyance, confusion
+essay: article, report
+renew: trademark
+rider: riding
+loneliness: lonely, silence
+wrist: hand, pulse
+finely: soft, subtle, finally
+li: 
+efficiency: capability, yield, capable
+condemn: sentence, deplore, guilty, blame
+jaw: treat
+unique: united
+inevitably: inevitable
+drum: dance, empty
+sanction: approve
+bin: box, basket
+dispose: trademark
+duration: temporary, time, length
+weigh: measure
+monastery: abbey
+publish: publication, distribute, disclose
+insight: understanding
+definitely: strictly, course
+oblige: trademark
+shift: change, passing
+tonight: night
+factor: employee, coefficient, elements
+mess: aggressive, disorder, confusion
+practise: exercise, action
+sanctuary: altar
+casual: usual, temporary, random, trademark
+historic: historical
+bored: bore, irritated
+shrink: gather
+expenditure: expense, use
+encouraging: heart
+diplomatic: cunning
+studio: workshop
+exposure: expression, report, effect, light, reaction
+crude: gross, green
+exceed: rape, cross, maximum
+inspire: encourage, inspiration
+ticket: banner, map
+backwards: back, resignation
+shoe: shoes, boot
+fraud: illusion, manipulation
+explosion: burst
+fireplace: chimney, brother, fire, stove
+jar: glass, pot
+sauce: dressing
+rotten: lazy, immoral
+behavior: behaviour
+nowadays: yesterday, currently, recently, modern
+pamphlet: trademark
+loan: credit, quote
+unreasonable: rational, nonsense, irrational, reckless
+lust: ambition, desire
+annually: year
+detach: trademark
+fluid: water
+kid: children
+insane: fool
+overthrow: pour, finally
+achievement: success, exploit
+assumption: suppose, conceptual, adoption, bent, discount
+humorous: humour, hilarious
+retirement: retire, resignation
+pronounce: accent
+familiarity: trademark
+terrific: trademark
+parliament: legislature, senate
+creep: climbing
+emergency: anxious, crisis
+parcel: pack, part
+drawer: box, stairs
+contribution: contribute, stake, cooperation
+link: attachment
+pluck: courage, berry, extort
+printing: publication, print, seal, press
+advocate: lawyer, justify, defendant
+environment: atmosphere, landscape, surrounding
+confirm: prove, assure, approve, reinforce
+skilled: capable, qualified
+announce: disclose, publication
+resign: resignation
+reject: resist, disapproval
+tough: hard, cruel, angel
+fragment: chip, scrap, stretch, partition, exponent
+meditation: care, reflect
+stain: spot
+burial: funeral
+hypothesis: suppose
+hypothetical-mood: speculative-mood, assumptive-mood, conditional-mood
+transaction: activity, trade, communication
+outrage: rape, anger, contempt, shame
+vary: variable, different, replace
+attorney: lawyer, representative
+offend: insulting, guilty, disapproval, scrape
+packet: pack, pocket
+ranch: lunch
+accuse: blame
+odds: probability
+pie: cake
+pension: syntax, retire
+verb: word
+accurately: right, strictly, thoroughly
+hazard: adventure, crisis, danger, trademark
+attire: trademark
+fling: cast, scrap
+marine: navy, sea
+antique: trademark
+electricity: electronic, stream, biography
+alien: foreign, guest, extraterrestrial
+cracked: burst, crack
+depressed: sad, depressing
+irony: misery
+thickly: thick
+reasonably: rational
+cable: hollow, flex
+illustrate: explain, instance
+notorious: well-known
+injure: injury
+correctly: right, alright
+pasture: meadow
+founder: trademark
+worm: mask, deep, insect
+estimation: guess
+edit: processing
+outfit: organization, equipment, robe, literature
+unlucky: unfortunate
+eighth: eight
+relaxed: comfort, relax, calm, steady
+adjacent: near, surrounding
+exceptional: trademark
+aspects: features
+senior: parent
+tutor: coach, disapproval
+robbery: loot, steal, exploit
+trading: trade
+excursion: trademark
+accidental: accident, random, temporary, surprise, deliberately
+premises: house, spot, building
+delivery: introduce, ball
+snowy: trademark
+curved: bent, flex
+productive: produce
+variations: distinction, differentiation, change
+swollen: swell
+cultivate: grow
+variation: change, different, distinction
+magnitude: intensity
+opponent: rival, disapproval, enemy
+grandson: granddaughter, nephew
+nail: nails, bolt
+benevolence: welfare, virtue
+precision: purity
+indication: symptom, mark, gesture
+accomplishment: trademark
+reduction: cut, squeeze, red
+pat: pot
+dialogue: negotiation, communication
+belly: stomach, navel, ship
+diligence: try
+disgusted: hate
+compose: write, forge, generalize, compile
+icy: trademark
+inconvenience: trademark
+contradiction: controversial, resist
+banker: trademark
+passenger: traveller
+sting: stab, bitter, bite
+simultaneously: meanwhile, collective
+episode: consequential, part
+achieve: realize, derived, obtain, comprise
+starve: hungry
+consultation: advice, negotiation
+goat: sheep, chlorine
+tailor: trademark
+sour: acid
+underline: stress, insist
+parade: march
+helmet: hat
+proclaim: publication
+accommodation: hotel, adaptation
+spray: medicine, communication, aerosol
+formally: official, informal
+discontinue: trademark
+disturbing: nervous, interfere, anxious, annoyance
+grade: bridge, class, quality, coefficient
+stool: chair
+justification: justify
+foreigner: foreign, guest
+delete: remove
+transportation: transport
+comprehension: understanding
+planning: plan
+weird: strange
+director: manager, head
+temporal: temporary, time
+nicely: beautiful, pleasant, successfully, neat
+enforce: comply, impose, police, implement
+skeleton: bone, building
+comprehensive: broad, deep, full, surrounding, hypotenuse
+threaten: threatening
+progressive: progress, radical
+villa: 
+resource: resources
+confine: seize, abridge, narrow, bound
+congratulate: praise
+insurance: safe
+appoint: eye, choose
+interrupt: resist, cut, interfere, amputate, break
+suppress: oppress, prevent
+signify: trademark
+layer: class
+clue: evidence, key
+tooth: teeth
+mature: adult, wise
+dependence: addicted, rely, believe
+guarantee: assure, bail
+procedure: mechanism, action, fashion, processing
+recommendation: suggest, advice
+gap: break, opening, distinction, distance
+yearly: trademark
+imply: mean, suggest
+attach: attached, splice
+posture: gesture, indicator, position, stand
+owl: bird
+suite: wing, set, apartment
+jewel: treasure, flourish, bail
+permanently: trademark
+secondly: second
+violin: trademark
+rainy: trademark
+emotional: feeling, susceptible
+concrete: demonstrative
+combine: alliance, merge, conjunction
+respectively: distinction
+peak: summit, vertex
+currency: money, coin, exchange
+objective: purpose, focus
+memorial: memory, warning
+beneficial: trademark
+reluctant: trademark
+separately: separated, different, individually, lonely, independently
+tray: disk
+horizontal: balance, parallel
+thirsty: thirst
+charter: constitution, paper, rent
+item: goods, article, voice, sort, position, neck
+termination: trademark
+calculation: account, census, cosine, compute, counting
+expansion: spread, widen
+twist: bolt
+traditional: tradition, orthodox
+involve: including, comprise
+routine: usual, mechanism
+solve: plow, loose, decode
+tempt: tease, induce, temptation
+unsuccessful: fail, successfully
+politician: political
+renown: trademark
+regulation: rule
+violation: injury
+boss: manager, employer, head
+peer: homework, duke
+outcome: successfully, effect
+strand: beach, band, shore
+circus: trademark
+brink: edge, lip, shore
+merchandise: trade, goods, merchant
+aloof: separated, distant
+acquisition: obtain, availability
+asylum: hospital, shelter, exile
+affirm: prove, approve, assure
+gardener: garden, trademark
+schedule: table, disposition
+municipal: city, poetry
+riot: stir
+veteran: popular
+advancement: trademark
+testify: prove, evidence
+orchestra: band
+maternal: pregnant, mom
+sculpture: statue
+completion: trademark
+flavor: taste, smell
+brand: manual, mark
+unlimited: trademark
+luggage: baggage
+rubbish: nonsense, scrap, dump, waste, worst
+tool: instrument
+chaos: disorder, confusion
+tense: nervous, time, long, stress
+interpreter: trademark
+hen: chicken
+discreet: wise, subtle
+mourn: cry, deplore, sorry
+dialect: accent, polish
+elementary: foundation
+freight: baggage, goods
+wipe: sweep, remove
+denial: negative
+underground: secret, geological
+instruct: trademark
+intermediate: check
+formula: recipe, press, ceremony
+cheat: fool, manipulation, lie
+inadequate: unfortunate, improper
+haunt: hesitate, frighten, appear
+register: list, recording, enter
+indefinite: vague
+surplus: additional, redundancy
+shiver: tremble
+tissue: organization, web, fabric, banana
+draft: outline, conceptual
+toy: doll, play
+stair: stairs, rung, scale
+transition: infection, change, passing, convert
+button: key
+headache: head
+tenant: resident
+unkind: unfriendly, rude, cruel
+programme: plan, agenda
+manufacturing: industrial, mill, produce, maker, manual
+zone: field, regional, band, collar
+ninth: nine, three
+alcohol: wine
+heal: improve, treat
+spectator: trademark
+imperative: trademark
+carpenter: trademark
+steer: lead, manage, storm, conjugate, ship
+influential: effective
+surround: collar, siege
+drown: sink
+slide: slip
+sow: climbing, bread, pig
+dominant: great
+leadership: lead, hierarchy, manual, map, driving
+celebrate: persuade
+chalk: plaster, prepare, choke
+fuss: excitement, confusion
+deputy: representative, vice
+automobile: motor, vehicle
+refreshment: trademark
+amendment: reform, repair
+vertical: stand, longitudinal
+insufficient: enough
+damn: abuse
+inference: guess, conclusion
+inferential-mood: inductive-mood
+advertisement: ad
+theft: steal
+spontaneous: instinct, arbitrary, random
+utility: organization, use, instrument, facilitate
+connect: hook, junction, splice, merge, join
+downwards: down
+intervention: interfere
+revival: revive
+temporarily: trademark
+internet: trade
+physically: physics, body
+dot: spot, gross
+shocking: shock
+rudely: rude
+index: exponent, list, indicator
+liver: heavy
+transmit: send, distribute
+dispatch: trademark
+onto: up
+chat: negotiation, gossip
+amber: yellow
+ton: tone
+perpendicular: steep
+smoothly: thoroughly
+tension: stress, excitement, intensity
+whale: election
+poisonous: poison
+omit: trademark
+concession: privilege, discount
+worker: employee
+incline: dip, conjugate
+toilet: cabinet
+buddha: fire
+offense: insulting, attack
+grudge: hate, revenge
+fortitude: patience, courage
+anticipate: hope, anticipation
+rhythm: beat
+rat: mouse
+correspond: comply, fit, answer, regard
+detain: prevent, seize, retain, arrest
+interpret: explain
+salon: hall
+operate: manipulation, work, run, action, manage
+drain: gutter, run, exit, channel
+wage: pay
+nasty: hate, evil, unpleasant, worst, ugly
+cemetery: funeral, grave
+tap: pipe, touch
+dismiss: sack, disapproval, redundancy, forgive
+provoke: excitement, irritated, depressing
+toe: tiptoe, foot, finger
+inability: disability, weakness
+farthest: distant
+define: elaborate
+restricted: bound, barrier
+cupboard: cabinet, shelf
+stimulus: recipe, irritated, inspiration
+rack: shelf, torture, stand
+superintendent: conductor
+presentation: introduce, show, symptom, demonstrator
+rubber: ball, elastic
+exclude: deprive, to-close
+chocolate: brown
+privileged: privilege
+coincidence: unfortunate
+scratch: scrape, beginning
+screw: bolt
+explore: observe, exploit
+insure: assure
+cylinder: disk
+summary: outline, abstract, conclusion
+unlikely: probability
+swarm: flock, son
+systematic: mechanism
+virtually: near, practical
+client: custom, guest
+catalogue: list, table, chart
+dock: trademark
+verbal: insulting, literal, directly
+chemistry: chemical
+infer: trademark
+secular: neutral
+bake: bread, cook, fry
+pierce: stab, bore, perforate
+snatch: tear, seize, kidnap
+launch: cast
+regulate: rule
+farming: agricultural
+fasten: arrest, alright
+actress: actor
+theater: theatre, hall
+drug: medicine, about
+adverse: worst, disadvantage, negative, unfriendly
+candy: sweet
+paste: set
+convict: trap, guilty, prisoner
+investigate: observe, check, evaluation
+package: pack, set
+snap: click, picture, tide, soon
+tire: ring
+noticeable: striking, glance
+core: foundation, nucleus, seed
+predecessor: ancestor, old
+similarly: why
+dam: dust
+slippery: slip
+transformation: change, convert
+fringe: edge
+foreman: trademark
+location: position, spot
+cluster: conglomerate, lump, band
+quotation: quote
+custody: care
+plausible: acceptable
+toss: cast
+concentration: accumulation, focus, integrity
+handy: practical
+bait: taste, primer
+diverse: different, mosaic, contrasting
+slice: chip, disk
+necklace: chain
+courier: trademark
+drill: bore, dig, exercise
+respond: reaction, refund, answer
+cloudy: trademark
+mortality: death
+weed: grass, cigarette
+relatively: volume
+mathematical: mathematics, athlete
+morally: moral
+gasp: breath
+racing: race
+isolation: separated
+sometime: sometimes
+hardship: bitter, misery, trouble, annoyance, sorry
+rumour: gossip, voice, fame
+pro: 
+ignore: indifference
+junior: young
+psychological: psychology, mentally
+knitting: knit, junction, web
+indirect: directly, consequential
+precedent: instance
+aisle: ray, hall, passing
+contradict: opposite
+redeem: save
+pathway: way, crosswalk, pier
+gear: equipment, teeth, rib, run
+celebration: feast, ceremony
+publishing: publication, distribute, publisher
+customer: guest, buyer
+rug: carpet, floor, blanket
+hereby: trademark
+outlook: glance, landscape, perspective
+aesthetic: beauty, charm
+consume: use
+resent: hate, resistance, anger
+pose: induce, stand
+contentment: satisfied
+organism: organization
+unintelligible: vague
+emphatic: elegant
+factors: elements
+editorial: trademark
+midday: afternoon, south
+lily: read, lotus
+noun: name, word
+folding: bent
+helpful: help
+persist: insist, continuation, last, follow
+outlet: exit, socket
+inherit: heir
+velocity: speed, precipitate
+colleague: cooperative, partner, brother
+deficiency: cut, omission, low, tribe
+ensure: assure
+unfair: right, improper
+sub: replace
+bucket: barrel, spoon
+organisation: organization
+dealer: retailer, salesperson, merchant
+primarily: especially
+ritual: ceremony, worship
+thigh: ham, foot
+fiscal: trademark
+inspector: observer
+wardrobe: cabinet, robe
+texture: organization, architecture
+adjustment: reconcile
+turbulent: violent
+unaware: realize
+vase: pot, trademark
+initial: opening, beginning, first, primitive
+minimum: least
+correction: reform, repair
+morsel: bread, bite
+overlook: forget, indifference
+unanimous: united
+carbon: coal
+willingness: trademark
+crisp: sharp
+vocabulary: dictionary, word
+stroll: wander, walking
+poorly: trademark
+fitness: exercise, condition
+nationality: nationalism, national
+flavour: taste, smell
+administer: trademark
+unimportant: necessary, trivial, irrelevant
+alphabet: alphabetical, vowel, syllable
+scatter: spread
+punch: fist, beat
+economical: trademark
+stride: progress
+circumference: volume
+axis: shoulder, print, hinge
+gum: glue, trademark
+satisfying: disease, satisfied
+reliable: faithful
+disgusting: hate, ugly
+ethical: moral, polite
+collapse: fall
+cushion: river
+confound: destroy, amaze, fail
+myth: story, legend
+ownership: estate
+scare: frighten, terrible, fear
+brake: break
+nut: bean, seed
+enlarge: swell, increase
+solar: sunshine
+raid: attack
+beak: lip, unit, nose
+lease: leash, rent
+chilly: trademark
+ratio: balanced, comparison, scale, report, analogy
+comb: brush, shoulder
+translate: translation
+recreation: entertainment
+sample: instance, try
+initiative: plan, try
+jelly: jam
+administrative: trademark
+anarchy: disorder, confusion
+revision: reform, repeated
+profile: outline, file
+finance: money
+periodical: repeated, patrol, trademark
+basic: foundation, infrastructure
+banish: dump, distant, oust
+electrical: electronic
+herb: grass
+prosper: flourish, success
+similarity: analogy, resemble, solidarity
+subscription: trademark
+privacy: private
+arena: field
+spin: spiral, play
+traveler: traveller
+unfamiliar: trademark
+conform: trademark
+particle: seed
+innate: genuine, soft, born
+inhabitant: resident, live
+calendar: diary
+flute: whistle
+nomination: mark
+reproduction: fertility
+span: length
+salad: power
+attic: balcony
+affirmative: trademark
+dye: colour
+demonstrate: prove
+arithmetic: account
+considerate: trademark
+ethics: moral
+officially: official
+annoy: interfere, tease, incite, bore
+glide: slip
+trait: specialty, stretch, virtue
+composer: musician
+partnership: cooperation, alliance, collective, contribute
+sequence: chain, order
+athletic: athlete, exercise
+drunkenness: drunk, drink
+assign: decisive, take
+tackle: seize, cope, equipment, intercept
+curb: inhibition, pavement
+invaluable: trademark
+advertising: ad, fame
+withdrawal: regression, socket, conclusion
+mortgage: hostage, credit, pawn
+forbearance: patience, bear
+repress: prevent, oppress
+spouse: wife, husband, partner
+valid: effective, qualified, alright
+valve: van, bulb, lid
+accommodate: trademark
+bug: insect, epiphany
+construct: building, formulation, phase, comprise, composition
+bat: stick, club
+contradictory: irrelevant, contrasting, controversial, rival
+automatic: directly, automatically
+explicit: open, transparent, realistic
+effectively: effective, effect
+reliance: addicted, rely
+inspect: observe, check, analysis
+classification: sort
+oddly: strange
+haul: transport, loot, hall
+embarrassing: shame
+disabled: disability, passive
+arrogant: pride
+curl: curly, ring
+gem: stone, flourish, diamond, bail
+anniversary: birthday
+wrap: pack
+diversity: distinction
+prestige: credit, fame
+negligence: omission, contempt, reckless
+discrimination: differentiation, exception, distinction
+target: purpose
+stall: stand
+sidewalk: pavement, trademark
+invest: investment, buy
+cruise: ship
+rally: solidarity, collective, assembly
+rumor: gossip, voice, fame
+actively: perfectly, positively
+cheque: check
+emerge: appear
+hurricane: storm, trademark
+apprentice: trademark
+compartment: partition, apartment, cabin, room
+specifically: especially
+framework: scale
+annoying: fastidious, narrow, interfere
+bang: burst, shot
+unreal: trademark
+aggregate: gross, collective, counting, gravel
+fraction: part, stake, fountain
+illegal: unlawful, wild, improper
+dissolve: solvent, abandoned
+volcano: hill
+equilibrium: balance
+indoors: covered
+scarf: trademark
+picnic: tourism, trademark
+vacancy: trademark
+exploration: analysis, search
+needy: trademark
+stationary: steady, write
+onion: bow, bulb
+affinity: analogy, solidarity
+dishonest: faithful, honest
+supplement: additional, complement
+clash: shock, interfere
+armchair: chair, sofa
+dough: flour, yeast, cake
+embark: join, beginning
+trance: ecstasy
+rejection: waste
+variance: quarrel, differentiation, change, distinction
+absorption: skin, exploit
+apprehensive: trademark
+terminate: trademark
+conveniently: trademark
+cleanliness: trademark
+timely: time, behead
+invade: attack
+dismissal: sack, redundancy
+significantly: largely, enough
+experimental: pilot
+film: movie, picture
+distraction: trademark
+publicity: ad, fame
+relaxation: relax, entertainment
+expand: widen, spread, decompress
+tumble: stumble, fall, dip
+fossil: oil, archaeological, organic
+atom: atomic
+constraint: barrier
+mechanics: mechanical, engineering, dynamical, epidemiology
+vanilla: trademark
+aids: 
+zest: spice, experience, taste, skin
+cycle: circulation, bicycle, wheel, give
+nap: sleep, nod
+hamlet: suburb, village
+paw: foot
+boom: flourish, bounce, burst
+reproduce: copy, yield
+congress: assembly
+decrease: cut, fall, low
+broom: rain
+incur: trademark
+pronunciation: accent
+judgement: sentence, rule, judge, jurisdiction, crisis
+concentrate: focus
+undo: disclose, back
+ferry: yacht, ship
+panel: dashboard, tablet
+straightforward: directly, easily, transparent, live
+descriptive: trademark
+hazardous: trademark
+altitude: length
+adviser: consultant, torture
+cumulative: trademark
+denote: show, mean
+export: exit, glass
+offender: comet, guilty, criminal
+par: equal, balance, paragraph, nominal, evaluation
+abolish: remove
+adjust: adaptation, optimal, fit, reconcile, justify
+membership: member
+gauge: measure, scale, indicator
+tolerate: forgive, bear
+badge: simulation, trademark
+hip: buttocks, romantic
+adhere: follow, join, stick, retain, comply
+stimulate: irritated, incite
+unrest: disorder, anxious
+chastity: purity
+contraction: shyness
+journalist: reporter
+commentary: vaccine, definition, comments
+transmission: infection, send
+refresh: trademark
+apologize: apple
+basement: trademark
+celebrity: trademark
+ballot: voice, ballet
+lick: me
+potential: capable
+eligible: qualified, right, fit
+loop: circulation, hinge, ring
+laborer: employee
+prosecute: prosecution, blame
+licence: permission, patent
+relinquish: discharge
+ego: themselves, breath
+jet: bird, stream
+violate: cut
+tennis: 
+windy: trademark
+survival: lifestyle, vowel
+freeze: frozen
+weave: knit
+incumbent: established
+apathy: indifference
+daytime: trademark
+organize: organization, prepare, legislate, manage, composition
+presumably: perhaps
+drought: trademark
+collector: trademark
+chord: hypotenuse, agreement
+bleed: blood
+dessert: sweet, pudding, trademark
+arc: bow, trademark
+detection: found, search, disclose, detect
+smash: destroy, break
+frequency: circulation, hesitate
+stitch: sewing, sweat
+directory: evidence
+chop: bite, cut, steak
+heating: warm, summer
+coup: revolution, shot, stroke, rebel, decisive
+dedication: trademark
+compassionate: sympathy
+thinker: intellectual
+budget: balance
+civic: civil
+portal: door
+expiration: trademark
+insert: enter, increase, introduce
+meditate: reflect, think
+flexible: flex, elastic
+slab: tablet, stove
+qualification: qualified, talent
+switch: convert, key, replace
+theoretical: theory
+towel: fabric
+decade: ten, hold
+multiple: different, plural, more
+healthful: trademark
+bandage: dressing
+tidy: neat
+hack: hawk
+clap: applause
+emptiness: empty, ball
+marrow: oil, brain, pumpkin
+absorb: exploit, embrace, remove
+prediction: anticipation, guess
+educate: education, train
+enquiry: request, search, evaluation
+domination: rule
+parental: parent
+participate: join, engaged, participation, part
+cooler: trademark
+elevator: lift
+manufacturer: maker
+lateral: side, additional
+postpone: delay, smoke
+loathing: contempt, hate
+toll: sacrifice
+metaphor: instance, transport
+widespread: spread, broad
+translator: trademark
+diminutive: little
+tow: trademark
+percent: per-cent, percentage
+bomb: pump
+critically: deep
+reservation: retain, seize
+sew: sewing
+chemist: chemical
+lounge: break, hall, chair
+occupant: trademark
+onset: beginning, attack
+suck: heart
+bankrupt: trademark
+dive: dip
+transit: trademark
+denounce: sentence, blame
+membrane: veil
+suspend: prevent
+slap: beat
+courtship: yard
+commodity: goods
+consistently: trademark
+continuity: continuation, conjunction
+reciprocal: exchange, mutual, inversion
+shave: artillery
+prescription: medicine, recipe, copy, rule
+utilize: exploit, use
+durable: long, persistent
+lineage: familiar
+evenly: trademark
+zinc: sink
+finite: finally
+prospective: anticipation, candidate, trademark
+scramble: distort, stroke, race
+academic: education, student
+tyre: ring
+consumer: use, user
+validity: worth, credit
+approximately: approximate, about
+knitted: knit
+microscope: telescope
+civilian: civil
+strap: leash, rope, whip
+symbolic: gesture, identity, mark
+adapt: adaptation, cope, transcribe, optimal, replace
+likelihood: probability, could
+subjective: mentally, imaginary
+pronoun: conscience
+wrongly: wrong, abuse
+broker: trademark
+discourage: ambition, depressing
+staple: clip, principal
+newcomer: guest, join, freshman
+infinity: infinitive, mathematics
+graphic: chart, graphical
+fig: picture
+niche: key
+disappoint: fail, frustration
+carrier: vector, operator
+designate: trademark
+projection: plan, show, reflect
+liberation: discharge, salvation, acquit, independence
+vibration: resonance, tremble, oscillation
+java: 
+enclose: trademark
+franchise: privilege
+incongruous: nonsense, irrelevant, unfortunate, improper
+rotation: circulation, revolution
+physiological: psychology
+metre: measure
+restriction: bound, barrier
+category: community, class
+racial: race, racism
+substitution: instead, replace, option
+confront: cope
+ban: barrier
+decorative: decoration
+lobby: induce, hall
+hurl: cast, curly, scrap, dump
+compensate: makeup, replace, reward
+scroll: book, curly
+mechanic: mechanical, artisan
+aggression: attack, aggressive, rape
+hey: hello, welcome
+measurement: measure
+compete: rival
+orbit: class
+warehouse: trademark
+protective: trademark
+academy: college
+prescribe: trademark
+novice: fresh
+divorced: divorce
+golf: 
+reservoir: tank
+shopping: buy
+homeless: trademark
+implicit: full
+strategic: strategy
+trigger: cunning
+mold: form, print, cast, mushroom, vowel, template
+rehearsal: exercise
+fulfill: full
+insistence: insist
+faulty: trademark
+precede: before
+mid: medieval, between
+jewelry: trademark
+query: trademark
+tourist: traveller, tourism
+beverage: drink
+mindful: forget
+articulate: explain, expression, demonstrative
+tolerant: patience
+amend: change, replace, splice, reform, repair
+embryo: nucleus
+diagram: chart, map
+deduction: detective, exception
+deductive-mood: inductive-mood
+overwhelm: oppress, flood
+mobile: moving, telephone, mobility, variable
+elevate: lift
+furthermore: even
+paradox: tragedy
+applaud: applause
+exaggerate: salt
+blonde: yellow, golden
+cue: mark, password, stick
+runner: hall
+negotiate: negotiation, discuss
+regime: rule
+tolerance: bear, patience
+crusade: expedition
+epidemic: tragedy, translation
+technique: technical, tactic, engineering
+terminal: finally, teminal
+output: expense, conclusion, publication, productivity, exit
+html: 
+locate: spot, detect, situate
+default: omission
+context: landscape, scene
+recruit: candidate, freshman
+trash: worst, waste
+cashier: treasurer, box, trademark
+punctual: trademark
+coalition: alliance, united
+distract: trademark
+flaw: blame, wrong, disability, disadvantage
+lengthy: trademark
+concede: thank
+broadcast: publication, send
+dial: choose, ring, gather
+prevalence: popular, circulation, spread
+increasingly: up, all, largely
+transform: change, convert
+kite: dragon
+ambiguous: vague, controversial, nonremittal
+cafe: coffee
+award: reward, premium, give, scholarship
+comparable: comparison
+label: mark
+approving: approve
+kinship: analogy, socialist
+reptile: snake
+outdoor: outer, open
+radio: wireless
+politically: political
+cite: quote
+residue: remains
+urgently: trademark
+tape: cassette, band, ice, movie
+bland: soft, sweet
+verify: trademark
+oral: lip, mouth
+disagreement: quarrel
+speculate: guess
+enthusiast: trademark
+expel: oust, discharge, remove
+recur: trademark
+skip: dance, left
+mug: cup, grimace, mouth
+exemption: discount, exception, redundancy
+portable: mobility, little, cell-phone
+wrapping: pack
+brilliance: talent, beauty
+fin: ballet, wing
+immigration: migration
+introductory: trademark
+shorten: trademark
+journalism: trademark
+analyze: analytic, analysis
+surgery: surgeon
+propaganda: 
+sine: fourteen
+accumulate: accumulation, deposit, gather
+poop: pipe
+implication: conclusion, effect
+pop: 
+incentive: encourage, irritated
+reunion: trademark
+harmful: cybercrime, unfriendly
+countryside: landscape, rural, suburb, field, village, country
+degrade: destroy
+recipient: trademark
+indigenous: nature, genuine, resident
+stack: dump, chimney
+lecturer: speaker
+reminder: trademark
+disc: disk, diskette
+qualify: qualified
+trend: direction, bent, disposition, drift, tend
+density: intensity
+induction: inspiration, induce
+corporate: company
+unstable: unsteady, impermanence
+compatible: parallel, fit, optimal
+phone: telephone, call
+postal: trademark
+vacuum: empty, pump
+duplicate: trademark
+grab: stab, take, seize
+convulsion: earthquake, burst, hysteria
+booth: trademark
+boring: bore
+portfolio: set, wallet
+crevice: crack
+complication: complexity
+intervene: interfere
+overnight: trademark
+delegate: representative
+consecutive: trademark
+volition: willpower, desire
+predict: anticipation, guess
+optimism: hope, believe, hopefully
+peel: skin, cortex
+carve: bite
+expire: trademark
+hover: float, soar, hesitate
+sector: field, regional, part
+surname: name, they, castle
+institute: company, organization
+urgency: anxious, excitement
+multiplication: multiply
+enjoyable: pleasant, ugly
+pad: trademark
+waterfall: fountain
+disappointing: depressing, frustration
+deter: prevent, frighten, inhibition
+negation: negative
+winner: success, championship
+composite: mixed, united, complex
+veto: disapproval, inhibition
+impact: effect, shock
+fiber: fibre
+sip: mouth, swallow, bite
+visual: optical, scene
+claw: nails
+pastry: cake, yeast, trademark
+fluent: trademark
+plaintiff: actor, manuscript, prosecution
+mislead: distort, amaze, fool
+prohibit: inhibition, prevent, barrier
+performer: actor, artist, player
+explorer: trademark
+tournament: race, championship
+wrestle: war
+requirement: request, condition
+minus: least
+advisor: trademark
+untidy: reckless
+infectious: infection
+postage: trademark
+emphasize: stress, insist
+pants: trousers
+confuse: puzzle, amaze
+dedicate: volunteer, intend, deplore
+surgical: surgeon
+truthfulness: fact
+authorize: trademark
+digit: integer, finger
+drawback: trademark
+hundredth: hundred
+nearby: near, soon, retailer
+constellation: galaxy, alliance, planet
+normally: usual, often, tend
+confusing: controversial, puzzle, confusion, dilemma
+proportional: balance, scale
+consonant: recipe
+disagree: disapproval
+font: forge
+seaside: trademark
+irritate: anger, interfere, tease, irritated
+outstanding: better, striking, exception
+initiation: beginning
+precipitation: precipitate, rain
+terrify: frighten
+hobby: entertainment
+grammatical: grammar
+numerical: number, digital, statistically
+criterion: scale
+forecast: guess, anticipation
+disapprove: disapproval
+exotic: foreign, strange
+enhance: improve, widen, increase, decompress
+fusion: merge, melt, call, mixed
+poll: election
+talented: talent, capable
+thaw: melt
+sticky: necessary
+component: composition, elements, partition
+kernel: nucleus, seed
+straighten: stretch, directly
+decorate: decoration
+explicitly: apparently
+presidential: presidency
+coincide: fit
+congratulation: praise
+cartridge: trademark
+scan: sweep
+entitle: right
+betting: condition, fireworks, gambling
+technically: technical, engineering
+elapse: passing, remainder
+economics: economy
+empirical: experience
+dominate: master
+advertise: ad
+librarian: library, trademark
+diffusion: circulation, distribute, spread, publication
+graze: scrape, nominal
+agile: talkative
+kit: equipment, box, set
+practitioner: doctor, coach
+soak: dip, induce
+competitor: rival
+conservation: protect, save, care
+slime: mud, pavement, dribble
+reflex: reflection
+challenging: hard
+urban: city
+embarrass: trouble
+proficiency: trademark
+pollution: pollute, corruption
+chemicals: chemical
+album: 
+baseball: 
+sniff: breath
+mum: mom
+crutch: support
+registration: recording, enter
+soluble: melt
+frightening: terrible, threatening
+specialist: expert, specialty
+yearn: desire, tea
+bathroom: bath
+gamble: gambling, play, adventure, stake
+integral: necessary, integrated
+eliminate: remove, kill
+appendix: attachment, additional, allowance
+gymnasium: trademark
+personnel: employee, crew
+intonation: trademark
+circulate: distribute, improve, spread
+crane: trademark
+contractor: trademark
+notify: trademark
+accessory: trademark
+inclusive: united
+ballroom: trademark
+seller: salesperson, retailer, sell
+harass: nervous, interfere
+unpaid: trademark
+discard: trademark
+explode: burst
+spill: leak, pour
+gratis: free
+ingredient: elements
+deficit: open, tribe
+upsetting: nervous, unpleasant, sad, disorder
+housing: house
+generator: trademark
+photographic: phase, picture, photographer
+axiom: prove
+skim: trademark
+pest: insect
+pill: tablet, ball
+media: press
+wreckage: ruin
+corpus: body, set
+menu: list
+fracture: crack, bone
+pi: silicon
+inefficient: trademark
+forum: bore, court
+salesman: trademark
+momentum: speed, pulse
+slant: lute, bent, hypotenuse, dip
+tile: brick, box
+hacker: pirate
+bookcase: library, bookstore
+computation: account, cosine, compute, counting
+producer: maker
+monetary: money, exchange
+depict: introduce, reflect
+inflation: swell
+marginal: edge, trivial, retail
+fantasy: imaginary
+concierge: trademark
+chef: cook, trademark
+auto: trademark
+undermine: destroy
+coherent: strictly, conjunction
+frustrate: trademark
+fundamentally: terms, infrastructure, foundation
+retrieve: salvation, derived, back, detect
+intentional: deliberately, learn
+virtual: genuine
+algebra: algebraic
+survivor: family
+flux: river, stream
+generic: usual, trademark
+competitive: rival
+dentist: doctor
+budge: moving
+biology: biological
+tuition: trademark
+alcoholic: drunk, wine
+installation: trademark
+discriminate: differentiation, contrasting
+militant: radical, terrorist
+crucial: necessary, decisive, importance
+assignment: work, exercise, duty
+quota: privilege
+solo: 
+excavation: pit, dig, trench
+calcium: football
+commemorate: persuade
+historically: historical
+remote-past-tense: 
+nuclear: nucleus, atomic
+versus: opposite, before, enemy, stand
+hi: hello, welcome, salvation
+elimination: remove, omission
+relaxing: relax, comfort
+accustom: trademark
+caller: trademark
+effectiveness: effective, effect, capable, availability
+handbook: trademark
+vulnerable: susceptible
+stripe: striped, line, band, movie
+transparency: transparent
+facade: mask, outer
+rehearse: trademark
+prototype: instance
+offset: cope, deviation
+ya: then, yeah, you, who
+nutrition: trademark
+restrict: prevent, abridge
+tick: mark, moving
+pedestrian: walking, person
+vat: tank
+allege: blame, insist
+junk: trademark
+uncontrolled: arbitrary
+null: zero, empty
+conditional: attached
+technology: technical
+marketing: trade
+probe: evaluation, satellite
+quarterly: trademark
+economically: economy
+gender: compute, penis, not
+administrator: manager, trustee
+cleaner: fresh, trademark
+portray: introduce, long
+grandchild: granddaughter, nephew
+dual: two, twin
+periodically: trademark
+synthesis: instal, set
+bizarre: strange
+culinary: trademark
+applicant: candidate
+linguistic: language
+tag: mark
+super: 
+illogical: trademark
+collaboration: trademark
+unattended: trademark
+uplift: lift, progress
+thunderstorm: trademark
+phenomenal: elegant, abnormal
+assessment: evaluation, guess
+dynamic: power, dynamical
+revise: check
+breakdown: partition, fall, analysis, decay
+tiring: tired
+campus: college, school
+serial: trademark
+dissertation: thesis
+statistical: statistics, statistically
+formulate: prepare, formulation
+sandwich: bread
+pluractional: 
+stimulation: facilitate, excitement, irritated, inspiration
+censorship: censor
+equip: complement, prepare
+nominate: suggest
+equation: equations, expression
+segment: part, stretch
+cancel: scrap, frustration, abandoned
+meter: measure
+sensory-evidential-mood: 
+tablecloth: trademark
+depress: oppress
+mister: sir, master
+reconstruct: repair
+sophisticated: complex, modern
+emit: discharge
+twitch: shrug
+inappropriate: irrelevant, unfortunate, improper
+sediment: precipitate
+snub: contempt, blame
+variant: different, option
+specify: referential, decisive
+criticize: criticism, visit
+discrepancy: trademark
+boredom: annoyance, misery
+cooperate: cooperation, conjunction, cooperative
+overseas: foreign
+analyse: analysis
+sewer: trademark
+rainfall: rain
+aircraft: bird, set, soar
+intersection: junction
+spicy: sharp
+certify: trademark
+flexibility: elasticity
+paraphrase: trademark
+rocket: missile
+adverb: envelope
+locker: trademark
+instability: unsteady, impermanence
+deprivation: deprive, disadvantage, bite
+generate: produce, forge, prepare
+approximation: approximate, guess
+reconsider: trademark
+morale: awake, moral, mentally
+optimistic: hope, believe
+classify: sort, distribute
+curriculum: course, agenda
+outdoors: outer
+react: reaction, do
+script: manuscript, line, scripture
+blackmail: extort
+pant: trademark
+bonus: reward, premium, additional
+pointer: needle
+asset: estate, presence, capital, resources
+evacuate: trademark
+variability: different, change
+delta: 
+graduation: trademark
+ambiguity: vague, controversial, uncertainty, maze
+trans: 
+neuter: neutral, animal
+handicap: disability, disadvantage, barrier
+photography: picture
+shortage: cut, absence, tribe
+displacement: replace
+occupancy: trademark
+hygiene: trademark
+fungus: bacteria, mushroom, umbrella
+wording: formulation, text, word
+shuttle: transport
+shipment: trademark
+evolve: flourish
+refine: reform, sublimate
+diplomat: ambassador
+initiate: introduce, beginning
+seeker: trademark
+shatter: break
+downtown: trademark
+jog: trademark
+inhale: breath
+incorporate: comprise, indulge
+squash: pumpkin
+voter: constituency
+federation: federal, united
+fisher: spider
+unload: discharge
+habitat: shelter
+evoke: stir, induce
+goodbye: farewell
+demolish: destroy, ruin
+tv: television
+congestion: trademark
+hash: discuss
+horseshoe: horse
+distortion: deviation, wander, distort
+inexpensive: trademark
+slam: beat
+relevant: fit, regard
+functional: practical, work
+molecular: molecule, atomic
+teller: trademark
+displace: oust, replace
+autonomy: independence
+cucumber: option
+undergraduate: foundation, student
+graph: chart, map
+fascinate: captivate, tease
+cute: beautiful, sweet
+abdominal: stomach
+diploma: trademark
+waive: trademark
+literacy: education, capability
+waitress: servant, trademark
+synthetic: artificial
+trainer: coach
+conserve: storage, save, protect, retain
+garbage: scrap, dump, waste, worst
+humidity: trademark
+photo: picture, shot
+textbook: manual, book
+subscriber: trademark
+consolidate: reinforce, merge
+constrain: extort
+economist: economy
+wriggle: grimace
+iodine: mineral
+infect: infection, pollute
+miscarriage: abortion, low
+designer: determined
+firstly: first, primer
+secrete: secretion, hide
+unix: 
+manganese: mineral
+spinach: parent
+intensive: violent, nervous
+cogent: demonstrative
+app: applications, programmer
+debut: first, beginning
+thousandth: thousand
+indoor: inner, deep, covered
+revoke: deprive
+unreliable: trademark
+amplitude: spread
+yen: trademark
+dimension: direction, dimensional, next, scale
+bible: scripture
+quantum: adoption, part
+poster: banner
+accelerate: precipitate, speed
+intensify: reinforce, chronic
+notation: mark
+typically: usual, often, especially
+commitment: promise
+queue: tail, order, currently
+bracket: clip, elbow, hook, supporter, support, parenthesis
+disruption: trademark
+spa: trademark
+inverse: upside-down, inversion, engaged
+evaporate: melt, yawn
+aviation: atmosphere, air, fly, wing
+correlation: balanced, comparison, communication
+ethnic: national
+linear: naive
+compress: zip, jam
+slash: cut
+erosion: decay, tear
+tricky: cunning, elaborate, complex, hard, angel
+characterization: characterize
+affix: splice, parallel, induce
+configuration: disposition, structural, assembly, composition
+interaction: negotiation, overlap, communication, mutual
+quantitative: volume
+introspection: retrospective
+orient: east, dawn
+sperm: seed
+brewery: mill
+simplify: facilitate
+endorse: support, approve
+genre: trademark
+credibility: loyalty, reliability, credit
+acclaim: trademark
+subversion: ruin
+isolate: separated
+deflection: drift, deviation, bias
+injection: needle, vaccine
+coerce: extort
+sandal: shoes
+chunk: lump, chip, paragraph, stretch
+cereal: bean
+container: instrument, tank, pot
+documentary: trademark
+migrate: migration, wander, moving, go
+terminology: terms
+components: features, elements, partition
+electorate: constituency
+erase: remove, destroy
+mediate: reconcile
+capitalism: capitalist
+forestry: forest
+ski: skate
+clearance: gambling, permission
+counselor: trademark
+auditorium: trademark
+selective: choose, election
+static: steady
+converge: merge, focus
+global: international, world, variable
+eject: oust, exhaust
+economize: trademark
+casualty: accident, sacrifice, injury
+ok: equal, very, alright
+pragmatic: practical, realistic, engaged
+referee: rule, judge
+inclusion: recording, comprise
+beneficiary: user, profit
+differential: different
+exhale: breath
+watershed: water
+fixture: adaptation, equipment, goods
+expedite: trademark
+install: instal, established
+traditionally: tradition
+classroom: class
+stationery: equipment, trademark
+potentially: capability
+protocol: agreement
+calculus: account
+colon: spot
+gram: warm, grass
+petrol: gasoline, patrol
+browse: trademark
+adolescent: young
+decimal: minority
+knead: squeeze, trouble
+radium: 
+complementary: complement
+airplane: bird, set, soar
+circa: about, approximate, year
+sponsor: bail
+flashlight: flash
+suitcase: box, baggage
+swap: exchange
+disable: trademark
+optional: custom, arbitrary, option
+iteration: repeated
+matrix: stomach
+portrayal: shoulder, picture
+pre: east, before, meadow, already, dictionary
+advert: ad
+unacceptable: improper
+massage: trademark
+stun: amaze, shock
+incidence: dip
+topple: pour, heart
+sensory: feeling
+consensus: agreement
+supervise: manage, monitor, police, hang
+underlie: foundation
+ideally: trademark
+transplant: exchange
+aluminium: aluminum
+organizer: trademark
+bakery: unemployment, trademark
+fluctuation: oscillation
+simulate: simulation, feign, transcribe
+overdue: trademark
+complicate: complex
+mentor: coach, consultant
+sedan: then, trademark
+slot: opening
+manipulate: manipulation, stir, lie
+authorization: trademark
+vegetarian: vegetable
+norm: specification, rule
+louse: teeth
+subway: tunnel
+respiratory: breath
+mutation: change, convert
+underwear: linen
+ion: 
+modem: 
+acceleration: facilitate
+differentiate: differentiation, distinction, contrasting
+falsify: forge, distort
+seasonal: season
+reopen: trademark
+emission: exhaust, radiation
+villager: rural
+coma: comma
+broaden: trademark
+invert: inversion, opposite
+classmate: trademark
+vacate: trademark
+vendor: trademark
+itinerary: trademark
+supervisor: observer, manual
+microwave: trademark
+audit: check
+deduct: trademark
+warranty: trademark
+hike: soar, wander, lift, walking, increase
+plumber: artisan, trademark
+locus: spot, position
+rebirth: born, reincarnation
+recession: economy
+mileage: trademark
+looting: loot
+motif: theme
+slogan: password
+integration: cooperation, merge
+appliance: trademark
+magenta: purple
+minimize: least, narrow, low
+overtime: trademark
+residential: shelter, resident
+numeral: digital, number, integer
+salty: salt
+invoice: trademark
+cd: 
+theorist: theory
+aquarium: fish
+grill: trademark
+traction: insist
+parachute: umbrella
+importantly: necessary, especially
+overall: all, gross, hypotenuse
+deteriorate: distort
+mirative: 
+dynamics: dynamical, speed, epidemiology
+sexuality: sexual
+predominantly: largely
+stockbroker: trademark
+flip: opposite
+provider: trademark
+bowel: gut
+video: 
+dental: trademark
+archaeology: archaeological
+peanut: bean
+apposition: allowance, permutation
+cooker: stove, kitchen, pot
+trouser: trousers
+criteria: indicator
+oversee: trademark
+radar: 
+geometric: geometry
+overview: outline, brief
+awareness: understanding, perceived
+pharmacy: trademark
+qualitative: quality
+chimpanzee: monkey
+enroll: trademark
+booklet: leaflet, manual, trademark
+genetic: morphological, genetics, gene
+participant: join, role, participle
+rearrange: trademark
+repertoire: talent, software
+reimburse: trademark
+revolutionize: trademark
+worldwide: trademark
+rotate: circulation, play
+teen: trademark
+layout: organization, plan, disposition, permutation, syntax
+homosexual: gay
+respondent: trademark
+voucher: plug, receipt
+hamburger: trademark
+scenario: landscape, circumstances
+theorem: sentence, theory
+boost: increase
+debit: trademark
+amenity: trademark
+assess: evaluation, detect, guess
+cognitive: diagnosis, mentally
+coordinate: coordinates
+clarify: elaborate, explain
+toxic: poison
+stressed: stress, insist
+slump: crisis, dip
+gamma: 
+cater: serve, provided, assure, full
+safari: 
+resistant: chronic, persistent, resistance, immune
+snack: toast
+cinema: movie, movie-theater
+mower: trademark
+faucet: pipe, mill
+marker: mark
+heater: trademark
+peripheral: surrounding, regional
+assertive: determined, predicative, decisive, stubborn
+node: junction, knit
+headline: line
+obese: thick
+subtract: remove, deprive, subtraction
+analyst: surgeon
+intransitive: necessary
+mall: supermarket, goods
+diner: trademark
+convergence: change
+shareholder: partner, stake
+summarize: abridge
+genital: fertility
+helix: spiral, snail, curly
+caterer: trademark
+cookie: biscuit, cake
+beta: 
+inflate: swell
+electronics: electronic
+rewrite: transcribe
+lab: laboratory
+occupational: profession, work, communication
+flyer: trademark
+gradient: mile, dip
+mandatory: trademark
+colorful: colour
+coverage: covered, vaccine, care, blanket, roof, regard, volume
+involvement: join, participation
+coupon: trademark
+cyberspace: cloud
+turnover: trademark
+someday: trademark
+hesitant: trademark
+orientation: direction, tend, position
+parse: analytic, analysis
+quotient: capability, dose
+fabricate: produce
+thermal: oil
+stereotype: exception
+environmental: landscape, ecology, surrounding
+tech: technical
+sigma: 
+residual: remains, redundancy
+disjunction: separated
+lorry: truck
+homemade: trademark
+additionally: trademark
+stadium: field
+visa: 
+cancellation: trademark
+coordination: coordinates
+bacterial: bacteria
+devastate: trademark
+implementation: implement
+adaptive: optimal, adaptation
+biologist: scientist
+appraisal: trademark
+interface: communication, surface
+palladium: assure
+cosmetic: decoration, makeup, trademark
+memorize: memory, save, remember, realize
+pastel: 
+diagnostic: diagnosis, symptom, analysis
+barbecue: trademark
+stockholder: trademark
+popcorn: trademark
+certification: trademark
+businessman: trademark
+connotation: semantic, definition
+hardworking: trademark
+syllabus: abstract
+venue: trademark
+unsure: trademark
+conduction: line, kidnap, transport, circulation, inversion
+millionth: million
+yoga: 
+therapy: treat
+nationalist: national
+mainstream: usual, key
+meaningful: mean, consequential, semantic
+problematic: trouble
+firework: trademark
+footwear: trademark
+jazz: 
+audio: voice
+rebate: trademark
+vend: trademark
+gym: trademark
+brochure: trademark
+metabolism: ambassador
+grid: web, box, lattice
+taker: trademark
+spatial: atmosphere, dimensional, individually
+specialize: expert, specialty
+managerial: trademark
+reflexive: trademark
+weekend: saturday
+exam: graduate, quiz, try
+discrete: separated
+inhibit: inhibition, prevent, intercept
+documentation: manual
+motorcycle: motor
+mantra: 
+multi: more, very
+semester: session
+muggy: damp, warm
+heroin: 
+morphology: morphological, science, form
+disconnect: trademark
+diagnose: diagnosis, realize
+scanner: browser
+graphics: chart, graphical
+coronary: disease, heart
+archive: file
+theta: 
+confrontation: comparison, friction
+freighter: truck
+optimum: optimal, great, classic, least
+basically: terms, largely
+cycling: circulation, bicycle
+motivation: inspiration, irritated
+sulfur: sulphur
+operational: manipulation, action, restart, run
+trajectory: way
+relevance: importance, communication
+current-relevance-marker: 
+bike: bicycle, wheel
+directive: demonstrative, referential
+airline: bird, air, organization, soar
+merger: trademark
+liter: litre
+basketball: basket
+contestant: trademark
+unify: merge, reconcile
+nonetheless: then, whilst
+stance: stand, position, paragraph, drift, role
+minimal: least, low
+cyclic: circulation
+substrate: molecule, surface
+commute: trademark
+nationwide: trademark
+payroll: trademark
+underwater: whichever
+developer: trademark
+flawed: improper
+expertise: experience, specialty
+placement: trademark
+logo: mark, trademark
+icon: map, mark
+ord: 
+electron: electronic
+interactive: overlap, mutual
+initially: first
+sabotage: destroy
+interact: negotiation, communication, socialize
+math: mathematics
+fetal: nucleus
+modernize: modern
+euro: 
+extremist: radical, terrorist
+associative: vice
+laser: 
+piss: urine
+disrupt: trademark
+snuggle: embrace
+anytime: trademark
+okay: very, alright
+tuna: tone, trademark
+refinery: trademark
+swipe: steal
+purposive: deliberately
+semi: halfway, sell, grind, width
+acronym: brief
+initialism: 
+plasma: 
+ongoing: trademark
+ordinal: junction
+neural: nervous
+anti: resist, resistance, rival, opposite
+internationally: trademark
+integrate: synchronize, conjunction, join, radical
+fax: 
+freckle: spot
+proximal: near
+entrepreneur: trademark
+appetizer: trademark
+nutrient: mineral
+unclear: vague, transparent
+medication: trademark
+trauma: shock, injury, ulcer
+adapter: trademark
+pharmaceutical: trademark
+swop: exchange
+spam: 
+weekday: trademark
+evaluate: evaluation, guess
+mana: mentally
+preterite: 
+ordinate: coordinates
+skew: distort
+unspecified: trademark
+clone: copy
+timer: temporary, trademark
+knowledgeable: trademark
+viable: profit
+doorman: trademark
+subsidize: trademark
+backup: shore
+informative: trademark
+bomber: aggressive
+factual: trademark
+replication: copy, answer
+intern: trademark
+lambda: 
+reactive: reaction
+technician: trademark
+girlfriend: partner, girl
+timetable: time, disposition
+syntactic: syntax
+cookbook: trademark
+creativity: trademark
+stabilize: steady, stability
+dissident: rival
+feedback: reaction, suggest, advice
+e-book: trademark
+empathy: sympathy, understanding
+workplace: trademark
+boron: pit
+questionnaire: quiz
+oxidize: call
+analog: 
+millimetre: millimeter
+update: reform
+memo: trademark
+numerator: molecule
+robot: 
+setup: prepare, established
+pharmacist: trademark
+psychiatric: intellectual, mentally
+commuter: suburb, trademark
+syndrome: disease, symptom
+innovative: trademark
+paradigm: conceptual, instance
+sticker: trademark
+cafeteria: trademark
+mini: trademark
+upgrade: trademark
+amino: 
+glyph: 
+aorist: 
+activate: do, action
+micro: subtle, microphone
+renter: trademark
+randomly: random, to-case, persistent
+takeover: trademark
+ostracize: separated, boycott
+copier: trademark
+predictable: guess
+statistic: statistics
+freeware: 
+subset: part
+methodology: way, tactic, once
+artwork: work, artistic
+pizza: 
+sequential: order
+linguistics: science
+impound: hold, seize
+iridium: 
+organizational: trademark
+industrialization: industrialize, industrial
+kilometer: kilometre
+multinational: international
+planner: striped, plan
+dialog: communication
+exponential: exponent
+shareware: 
+carton: cardboard, box, trademark
+cerium: 
+congruent: friendly
+upload: download
+researcher: scientist
+allocate: distribute, dissection, continuation
+blueprint: manual, striped, plan, copy, trademark
+-ish: 
+modulus: coefficient
+obligate: trademark
+lightweight: trademark
+soccer: football
+entitlement: right
+leftovers: remains, remainder, gather
+overpay: trademark
+parameter: elements
+macro: great, gross
+quadratic: tea
+sustainable: steady, balanced
+commutative: exchange
+maximize: maximum
+stereo: trademark
+experiential: experience
+paperback: trademark
+relocation: trademark
+penalize: trademark
+upcoming: trademark
+url: 
+freelance: trademark
+insider: inner, member
+tonne: tone
+prestigious: trademark
+neon: 
+streamline: trademark
+newsstand: trademark
+cryptography: encryption
+module: unit, volume
+osmium: 
+enzyme: yeast
+pasta: 
+opt: trademark
+plagiarize: steal
+briefcase: trademark
+dorm: shelter
+deluxe: trademark
+firewall: 
+teenager: young
+motivate: inspiration
+highlight: mark
+negate: destroy, deprive, negative
+boyfriend: partner, friend
+reactor: reaction
+validate: trademark
+behavioral: behaviour
+hubris: pride
+lunchtime: trademark
+malfunction: trademark
+plutonium: 
+www: 
+escalator: trademark
+thank-you: thank
+lifeguard: trademark
+mastermind: brain, soul, master
+overcrowd: trademark
+yttrium: 
+ecological: ecology
+immigrant: refugee, colonial
+laptop: distant, cell-phone, notebook
+postgraduate: postcard
+embed: dip, indulge
+photocopy: copy, picture
+recursion: hierarchy
+letterhead: letter, trademark
+salespeople: trademark
+argon: 
+phobia: fear
+promotional: trademark
+activist: action
+dishwasher: trademark
+t-shirt: shirt
+therapist: doctor, treat
+asymptote: 
+backpack: trademark
+emoticon: happy
+seafood: sea, trademark
+paycheck: trademark
+trainee: trademark
+tycoon: king, flock
+arousal: excitement, gross
+sync: synchronize, sink
+typeface: scripture, syllable
+acidic: acid
+environmentally: trademark
+realtor: trademark
+chemotherapy: chemical
+lexical: dictionary, word
+modulo: denominator
+proton: 
+pixel: 
+preview: trademark
+break-in: break
+wheelchair: trademark
+layoff: trademark
+walkway: way, pavement, crosswalk, trademark
+xml: 
+classifier: sort
+predator: hunter
+publicize: trademark
+avant-garde: pioneer
+chairperson: head, chairman
+condominium: trademark
+gallium: 
+handout: leaflet
+charismatic: charm
+determiner: determined
+hotline: trademark
+scandium: tellurium
+configure: manage, composition
+neuron: 
+router: 
+guideline: manual
+hypothesize: suppose
+volleyball: trademark
+widget: 
+debug: sieve
+fridge: refrigerator
+reboot: restart
+wristwatch: trademark
+broadband: bandwidth
+neutron: 
+allergy: trademark
+brainstorm: inspiration, idea
+customize: trademark
+replicate: copy, forge
+restroom: trademark
+webmaster: 
+angst: fear, anxious
+ceasefire: truce
+encrypt: encryption
+firmware: 
+gaffe: omission, wrong, slip
+joystick: 
+sibling: brother
+conditioner: trademark
+spokesperson: speaker, representative
+stapler: clip, trademark
+actinium: 
+sauna: trademark
+checkout: check, trademark
+crackpot: abnormal
+hijack: kidnap, plow
+nonmetal: metalloid
+reschedule: trademark
+ytterbium: 
+finalize: trademark
+gigabyte: 
+radon: 
+critique: criticism
+redecorate: trademark
+belt: band
+amused: happy, hilarious, option
+headphone: trademark
+announcer: trademark
+venitive: 
+mudita: 
+mindstream: 
+credit-card: credit
+bohrium: 
+amazed: amaze
+exclamative: 
+exhortative: 
+deport: oust
+converb: 
+qwerty: 
+advisory: trademark
+winn: 
+enrollment: trademark
+sightsee: circulation, bore
+infected: infection
+krypton: 
+costly: trademark
+yaor: 
+backward: back
+hallway: hall
+connector: plug, attachment, junction, socket
+meitnerium: 
+p.m.: afternoon, night
+feminine-: feminine
+getaway: trademark
+checkup: check, trademark
+seaborgium: 
+airfare: trademark
+lawrencium: 
+will-be: 
+renewal: trademark
+ignorative: ignorance, fool
+affordable: trademark
+readme: 
+correlate: hook
+recurse: 
+railcar: 
+moderator: facilitator, manager
+fundraise: trademark
+hotdog: sausage
+goodness: virtue
+usitative: 
+hafnium: 
+bathtub: bath
+proportion: balanced, stake, part, stretch
+precalculus: 
+samsara: 
+hyperlink: hypertext
+wiki: 
+deixis: 
+bulletin: leaflet, information
+litigation: prosecution, quarrel, court
+break-down: partition, decay, differentiation, analysis
+veridical: 
+holmium: 
+easy: easily
+advertiser: trademark
+stunning: amaze, striking
+remunerate: pay
+braid: knit
+alarming: terrible, anxious
+emote: 
+allocation: dividend, allowance
+according-to: second, back
+dominance: effect, power
+podcast: 
+next-to: next
+each-other: one-another, mutual
+andative: 
+unit-of-mass: 
+catalog: list, table, chart
+identifiable: identity
+emergence: appear, exit, epiphany
+byebye: farewell
+remodel: trademark
+rented: rent
+from-case: to-case
+etc.: guitar
+patientive: 
+concessive: soft
+automotive: trademark
+distributive: distribute, distributor
+archeology: archaeological
+unplug: trademark
+dubnium: 
+praseodymium: 
+fluctuate: trademark
+aside-from: except
+flextime: trademark
+rental: trademark
+showroom: trademark
+exabyte: 
+outdate: trademark
+fermium: 
+reviewer: trademark
+terbium-atom: rhodium-atom
+inject: introduce
+canvas: fabric, web, linen
+bitmap: 
+supposedly: apparently, perhaps, suppose
+indium: 
+dysprosium: 
+inventory: trademark
+avogadro's: 
+motorbike: motor
+cheeseburger: trademark
+thulium-atom: rhodium-atom
+instead-of: instead
+retired: retire
+gadolinium: 
+strategies: strategy
+ditransitive: necessary
+dvd: 
+robb: 
+radius: ray
+professor: master
+stochastic: random
+loosely: loose, free, independently, circumstances
+renovate: trademark
+computing: computer, calculator, compute
+paralegal: trademark
+cheaply: low, buy
+amusing: interesting, hilarious, ugly
+optimization: adaptation
+bureaucratic: bureaucracy, official
+detransitive: necessary
+dependable: trademark
+riemannian: 
+thorium-atom: rhodium-atom
+disapproving: disapproval
+surprisingly: surprise
+coding: encryption, colour
+protactinium: 
+ration: dose
+departmental: trademark
+landlord: employer
+apart-from: except
+relocate: trademark
+friendship: friendly
+herbicide: poison
+affine: 
+distractor: trademark
+squad: band
+cheek: play
+healthcare: trademark
+repairperson: trademark
+shopper: trademark
+entertaining: interesting, entertainment, hilarious
+worthwhile: trademark
+redesign: trademark
+screenshot: show
+reassure: trademark
+struggle: war
+dissatisfy: trademark
+authorise: approve, official
+raincoat: trademark
+contrary: resist, opposite, inversion, contrasting
+nobelium: 
+investigator: scientist, detective
+recreational: trademark
+constructive: formulation
+outside-of: except
+extinguisher: trademark
+wisecrack: 
+receptionist: receptor, trademark
+sunscreen: sunshine, trademark
+subject-case: topic-case
+downturn: trademark
+hourly: trademark
+index-finger: indicator
+downsize: trademark
+unused: trademark
+masculine-: male
+facet: direction, side
+expansions: scope
+landowner: angel
+francium: 
+o'clock: spot, occasion, poetry
+to-split: distribute
+arctan: 
+inexperience: trademark
+critic: censor
+onwards: first, next, hold
+website: web-site
+dealership: trademark
+armed: disarm
+descendent: familiar, granddaughter, generation
+descriptor: explain
+mobile-phone: cell-phone
+make-up: makeup
+importe: 
+renovation: trademark
+mistreat: wrong, oppress, steal
+résumé: trademark
+verbalizer: 
+unavailable: trademark
+unauthorize: trademark
+space-marker: 
+excluding: except, including
+state-marker: 
+strikebreaker: 
+outage: trademark
+astatine: 
+else-if: 
+socially: social
+curium: 
+delimited: separated
+architectural: trademark
+standardize: specification
+unquote: quote
+sponsorship: scholarship, care
+battlefield: war
+institutional: structural
+fluorine-atom: rhodium-atom
+auditor: accountant, thank
+tumour: tumor
+wildlife: nature, wild
+founds: established
+recruiter: trademark
+reimbursement: trademark
+used-to: custom
+substantially: largely, enough
+communicative: communication, talkative
+fibonacci: 
+rubidium-atom: rhodium-atom
+lutetium: 
+work-out: exercise, work, elaborate
+fourier: fertile
+educated: education, polite
+californium: 
+einsteinium: 
+complimentary: trademark
+have-to: must, duty
+mendelevium: 
+progression: progress, evolutionary
+cellphone: cell-phone
+at-case: to-case
+restatement: trademark
+enormously: very
+approximative: approximate
+logistic: baggage
+entrant: participle
+belongingness: 
+europium: 
+topos: 
+toner: ink, trademark
+samarium: 
+anticausative: 
+café: trademark
+entrée: trademark
+relativizer: 
+recruitment: trademark
+applied: practical, take
+add-: improve
+passionate: tropical
+problem: trouble, matter
+thallium-atom: rhodium-atom
+goldbach: 
+vanadium-atom: rhodium-atom
+fractals: 
+embarrassment: shame, trouble, confusion
+fermat: 
+polonium-atom: rhodium-atom
+purchaser: trademark
+supplementary: complement, additional
+packaging: pack, pavement
+competence: capable, jurisdiction, qualified, capability
+blog: 
+combinatorics: combinatorial
+pythagoras: 
+via: passing
+dancing: play, dance
+interestingly: interesting, pleasant, matter
+developmental: evolutionary, progress
+circumfix: 
+difficulty: trouble, disadvantage
+photocopier: trademark
+personalize: trademark
+supplier: doubt, supporter
+distributions: distribute
+spyware: 
+interviewer: reporter
+anew: trademark
+xenon: 
+suntan: brown
+schadenfreude: 
+lurking: cache
+storeroom: trademark
+coworker: trademark
+by-law: trademark
+subtend: 
+boardroom: trademark
+alternatively: instead
+neighbourhood: surrounding, live
+rutherfordium: 
+amount-marker: 
+cyan: blue
+factorisation: 
+computability: 
+social-marker: 
+neuter-gender: masculine-gender
+genetically: gene, genetics
+misidentify: trademark
+pro-phrase: pro-sentence
+speed-of-light: 
+generalization: generalize
+presenter: facilitator, donor, trademark
+strontium-atom: rhodium-atom
+processor: processing
+bend: bent, flex, crouch
+complementizer: 
+businessperson: business-person, merchant
+workbook: trademark
+wellness: trademark
+soprano: childish
+incredibly: very
+berkelium: 
+americium: 
+advisable: trademark
+inelative-case: elative-case
+cordless: trademark
+ruthenium-atom: rhodium-atom
+breathing: immune, breath
+ought-to: must
+randomize: random
+i.e.: namely
+enforcement: implement
+neptunium: 
+opposing: resist, opposite, disapproval, resistance, defendant
+posessive-case: genitive-case
+worrying: anxious, care
+workforce: trademark
+nominalization: 
+world-wide-web: 
+objective-case: destination-case
+professionally: trademark
+defence: care, protect
+spammer: 
+poisson: poison
+internship: trademark
+deploy: distribute, indulge
+accompanier: 
+homeowner: trademark
+translative: translation
+contour: outline, form
+captcha: 
+no-one: nothing
+sender: trademark
+journey: visit, expedition
+trinary: 
+instructor: trademark
+miss: cut, not
+excavate: dig
+donut: trademark
+blogger: 
+purser: trademark
+coughing: cough
+videoconference: trademark
+variables: variable, probability
+broadly: width, broad, widen
+egg-white: protein
+underway: trademark
+prhobitive-mood: prohibitive-mood
+keyword: principal
+dyadic: binary
+familiarize: trademark
+change-of-event: 
+projector: trademark
+indirect-object: direct-object
+postessive-case: genitive-case
+attenuative: decay
+resultative: 
+beginner: trademark
+hassium: 
+hiker: trademark
+bloodshed: blood
+matching: fit
+retreat: digress, regression, retire, resignation
+smartphone: trademark
+afterward: future, then, recently, next
+theorems: legal
+subjunctive-mood: conditional-mood, optative-mood
+referral: introduce
+retiree: retire
+skateboard: trademark
+authentic: trademark
+electrician: electronic, trademark
+efficiently: trademark
+clique: conglomerate, click
+read-only-memory: 
+refundable: trademark
+ice-cream: ice, cream
+drastically: trademark
+flatware: 
+entertainer: entertainment, artist
+vocational: specialty, profession
+freshly: fresh, recently, root
+climb: climbing
+enthusiastically: trademark
+radian: 
+erbium: 
+swearing: swear, expletive
+toiletry: trademark
+godel's: 
+charitable: trademark
+timeline: trademark
+config: structural
+centimeter: centimetre, trademark
+telecommunication: trademark
+all-right: equal, very
+soon-future-tense: 
+automate: trademark
+terabyte: 
+contrastive: contrasting, cope
+coreference: 
+linker: conjunction
+audition: trademark
+prepositional-case: nominative-case
+attendee: trademark
+domain-name-system: 
+single-action-verb: 
+lanthanum: tellurium
+housekeep: trademark
+amount-of-substance: 
+webpage: trademark
+remote-future-tense: 
+assemble: trademark
+enumerative: 
+coordinator: trademark
+brag: splurge
+wide: widen, broad, width, corner
+random-access-memory: 
+consignment: trademark
+floating-point-number: 
+multilinear: 
+phishing: 
+incoming: trademark
+past-passive-participle: 
+central-processing-unit: 
+locative-directional-case: 
+frequently-asked-questions: 

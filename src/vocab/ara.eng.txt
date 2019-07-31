@@ -1,0 +1,152 @@
+su li be ob li يكون ya
+su li ob ob li أوب ya
+su li su ob li سو ya
+su li me ob li أنا ya
+su li what ob li ماذا ya
+su li and ob li و ya
+su li it ob li هو ya
+su li if ob li إذا ya
+su li this ob li هذا ya
+su li you ob li أنت ya
+su li ya ob li نعم ya
+su li of ob li من ya
+su li that ob li هذا-الشيء ya
+su li did ob li فعل ya
+su li we ob li نحن ya
+su li or ob li أو ya
+su li namely ob li أي ya
+su li num ob li لا ya
+su li they ob li هم ya
+su li now ob li الآن ya
+su li tha ob li ثا ya
+su li to ob li إلى ya
+su li thee ob li اليك ya
+su li li ob li حرفي ya
+su li wil ob li فيل ya
+su li about ob li حول ya
+su li eh? ob li إيه؟ ya
+su li memory ob li ذاكرة ya
+su li with ob li مع ya
+su li maybe ob li قد-يكون ya
+su li conditionally ob li مشروط ya
+su li aside ob li جانبا ya
+su li yand ob li ياو ya
+su li the ob li ال ya
+su li ha ob li ضحك ya
+su li near ob li قرب ya
+su li from-source ob li من-المصدر ya
+su li plural ob li صيغة-الجمع ya
+su li yaor ob li ياأو ya
+su li for ob li سبيل ya
+su li jolly ob li مرح ya
+su li null ob li باطل ya
+su li from ob li منذ ya
+su li for-example ob li مثلا ya
+su li singular ob li صيغة-المفرد ya
+su li hello ob li مرحبا ya
+su li clause-tail ob li بند-الذيل ya
+su li then ob li ثم ya
+su li ord ob li رتبو ya
+su copy ob li نسخة ya
+su wait ob li انتظر ya
+su past ob li الماضي ya
+su mom ob li أمي ya
+su less ob li أقل ya
+su word ob li كلمة ya
+su mother ob li أم ya
+su think ob li اعتقد ya
+su size ob li حجم ya
+su compare ob li مقارنة ya
+su go ob li اذهب ya
+su end ob li النهاية ya
+su have ob li ديك ya
+su able ob li قادر ya
+su head ob li رئيس ya
+su know ob li علم ya
+su cause ob li سبب ya
+su get ob li الحصول-على ya
+su all ob li جميع ya
+su trade ob li تجارة ya
+su buy ob li شراء ya
+su small ob li صغير ya
+su negate ob li ينفي ya
+su say ob li قول ya
+su point ob li نقطة ya
+su act ob li عمل ya
+su good ob li جيد ya
+su body ob li هيئة ya
+su dad ob li أب ya
+su more ob li أكثر ya
+su place ob li مكان ya
+su father ob li الأب ya
+su many ob li كثير ya
+su meet ob li اجتماع ya
+su joy ob li فرح ya
+su child ob li طفل ya
+su sell ob li بيع ya
+su future ob li مستقبل ya
+su time ob li مرة ya
+su love ob li حب ya
+su tail ob li ذيل ya
+su speak ob li تحدث ya
+su name ob li اسم ya
+su big ob li كبير ya
+su number ob li عدد ya
+su three ob li ثلاثة ya
+su self ob li النفس ya
+su pay ob li دفع ya
+su present ob li الحالي ya
+su begin ob li ابدأ ya
+su inside ob li داخل ya
+su help ob li مساعدة ya
+su topic ob li موضوع ya
+su one ob li واحد ya
+su put ob li وضع ya
+su tree ob li شجرة ya
+su thank ob li شكر ya
+su four ob li أربعة ya
+su glyph ob li الصورة-الرمزية ya
+su two ob li اثنان ya
+su few ob li قليل ya
+su shout ob li صيحة ya
+su add ob li إضافة ya
+su subtract ob li طرح ya
+su rule ob li حكم ya
+su language ob li لغة ya
+su write ob li أكتب ya
+su laugh ob li ضحك ya
+su clause ob li بند ya
+su pronoun ob li ضمير ya
+su phrase ob li العبارة ya
+su grammatical-object ob li النحوية-بين ya
+su proof ob li برهان ya
+su nearby ob li قريب ya
+su source ob li مصدر ya
+su space ob li الفضاء ya
+su question ob li مسألة ya
+su example ob li مثال ya
+su translation-dictionary ob li قاموس-الترجمة ya
+su quote ob li اقتبس ya
+su shop ob li متجر ya
+su translation ob li ترجم ya
+su ordinal ob li ترتيبي ya
+su send ob li إرسال ya
+su person ob li شخص ya
+su emotion ob li عاطفة ya
+su world ob li عالم ya
+su grammar ob li قواعد ya
+su thing ob li شيء ya
+su grammatical-case ob النحوية ya
+su bread ob li خبز ya
+su sell ob li بيع ya
+su enjoy ob li استمتع ya
+su mood ob li مزاج ya
+su ask ob li تطلب ya
+su verb ob li الفعل ya
+su noun ob li اسما ya
+su feel ob li إحساس ya
+su sentence ob li جملة ya
+su grammatical-subject ob li النحوية-الموضوعية ya
+su tense ob li النحوية-متوترة ya
+su activity ob li نشاط ya
+su dictionary ob li قاموس ya

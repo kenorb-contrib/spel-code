@@ -1,0 +1,2678 @@
+infinitive g 2
+nominative-case g 2 ja が 
+accusative-case g 2 ja を 
+topic-case g 2 ja は 
+dad
+mom
+parental
+hello g
+vocative-case g 2
+ancestor
+grandparent
+hungry g 3
+genitive-case g 2
+adjective g
+and g 2
+me g
+you g 2
+us g 3
+it g 2
+destination-case g 2
+dative-case g 2 en of
+realis-mood g 2
+deontic-mood g 2
+conditional-mood g 2
+epistemic-mood g 2
+instrumental-case g 2
+interior-context g 2 en in
+person-context g 2
+independent-clause g
+dependent-clause g 2
+perfective-aspect g 2
+past-tense g 2
+masculine-gender g 2
+comitative-case g 3
+present-tense g 2
+benefactive-case g 3
+essive-case g 3
+negatory-quantifier g 2
+surface-context g 2 en on
+adpositional-case g 2
+location-case g 2 en at
+space-context g 2
+way-case g 2
+interrogative-mood g 2
+and-or g 2
+exclusive-or g 2
+source-case g 2 en from
+ablative-case g 3
+proximity g
+demonstrative g
+clause-tail g 2
+but g 3
+all
+universal-quantifier g
+feminine-gender g 2
+plural-number g 2
+one
+their
+who
+future-tense g 2
+social-context g 2
+when
+imperfective-aspect g 2
+there g 3
+elative-case g 3
+illative-case g 3
+directive-mood g 2
+elective-quantifier g
+what g
+question-word g 3
+copula g 2
+person g 3
+male
+could
+other g 3
+number g 2
+assertive-quantifier g
+time-context g 2
+temporal-case g 3
+only g 3
+hortative-mood g 3
+retrospective-aspect g 3
+volitive-mood g 2
+must
+two
+see
+know
+down
+after g
+first
+alienable-possession g 3
+never
+inalienable-possession g 3
+old
+deliberative-mood g
+day
+come
+vowel
+go
+perlative-case g
+progressive-aspect g 3
+long
+say
+how
+again
+here g 3
+think
+under-context g 2 en under
+found
+hand
+also g
+young
+against
+god
+delative-case g 3
+nothing
+once
+semelfactive-aspect g 3
+left
+saw
+house
+world
+three
+neo g 
+focus g
+love g 3
+always
+night
+king
+between
+mind
+heart
+paucal-number g 2 3
+because g
+causal-case g 3
+done
+name g 2
+proper-noun g
+country
+asked
+visible-evidential g 3
+better g 3
+moment
+cannot
+water
+desiderative-mood g 3
+light
+word g
+door
+morning
+until g
+terminative-case g
+white
+money
+poor
+death
+form
+inessive-case g
+together
+often
+friend
+half
+imperative-mood g 3
+round
+sent
+wife
+believe g 3
+public
+state-context g 2 
+son
+children
+thus
+hope g 3
+dear
+high
+read
+city
+already
+factive-evidential g 3
+girl
+hear
+least
+perhaps
+indeed
+body
+return g
+air
+law
+help
+letter g
+four
+optative-mood g 3
+fire
+hour
+war
+several
+second
+behind
+lost
+thousand
+family
+soul
+question
+truth
+making
+potential-mood g 3
+allative-case g
+anthropic-gender g
+five
+same-subject-marker g
+different-subject g
+answer
+sea
+fear g 3
+understand g 3
+terms
+doubt g 3
+dubitative-mood g 3
+black
+bring
+beautiful g 3
+sort
+ten
+story
+book
+electronic
+account
+interest g 3
+write
+bed
+age
+counterfactual-conditional g 3
+art
+vialis-case g
+brother
+line
+table
+river
+eye
+suddenly
+deep
+purpose
+blood
+rose
+cold g 3
+forward
+late
+suppose
+nearly
+mine
+knowledge
+copy
+husband
+six
+living
+peace g 3
+remember
+natural g
+fall
+service
+except g
+copyright
+army
+horse
+future
+west
+pay
+red
+gold
+desire g 3
+play
+office
+government
+church
+strength
+length g
+company
+paper
+probability g
+especially
+bear
+window
+beauty
+latter
+duty
+distance
+foot
+wild
+green
+trouble g 3
+smile g 3
+sleep g 3
+quoted g 2
+quotative-case g
+visit
+follow
+presence
+sweet
+mouth
+rich
+enemy
+broken
+ship
+inclusive-person g
+influence
+appear
+secret
+please g 3
+precative-mood g 3
+polite-register g
+evil
+march
+places
+stay
+instead
+blue
+impossible
+school
+married
+food
+twenty
+quiet
+prospective-aspect g 3
+giving
+stopped
+language
+week
+hall
+wonder g 3
+born
+court
+gnomic-aspect g 2
+respect g 3
+worth
+tree
+wall
+heaven
+inchoative-aspect g 2
+command
+jussive-mood g 3
+month
+perfect
+experience
+circumstances
+fresh
+duke
+covered
+east
+stone
+noble
+direction
+chair
+waiting
+village
+agree
+permissive-mood g 3
+success g 3
+trying
+hill
+music
+cry
+seven
+private g
+news
+scene
+garden
+begin
+distributive-case g
+learn
+political
+henry
+lie
+cast
+authority
+floor
+summer
+religion
+escape
+author
+brown
+pain g 3
+spring
+soft
+corner
+trademark
+justice
+produce
+laugh g 3
+forget
+europe
+eight
+passing
+terrible
+required
+medium
+breath
+wise g 3
+possessive-marker g
+pleasant
+grave
+island
+camp
+touch
+fortune
+shore
+domain
+commissive-mood g 2
+degree
+winter
+conduct
+running
+minute
+lead
+glass
+board
+vain g 3
+affairs
+safe
+doctor
+completive-aspect g 3
+darkness
+warm g 3
+drink
+example
+anger g 3
+spite g 3
+directly
+hat
+dog
+silver
+servant
+pride g 3
+train
+moral g 3
+enter
+sword
+attack
+health g 3
+paragraph
+social g 3
+refund
+official
+glance
+glory
+twelve
+engaged
+wine
+taste
+iron
+distribute
+trade
+using
+judge
+captain
+cessative-aspect g 2
+curious g 3
+foreign
+intensifier g
+importance
+finally g
+neck
+liberty
+sides
+dry
+aside g
+evidential g 3
+evidential-case g 3
+distant
+progress
+narrow
+building
+page
+holding
+sad g 3
+sin
+sick
+honest
+bank
+accept
+stream
+carefully
+ear
+bread
+choose
+animal
+zoic-gender g
+eventive-mood g 
+same-event-marker g
+multiplicative-case g
+cross
+thick
+dare
+grow
+rain
+surface
+holy
+july
+fashion
+file
+shoulder
+comfort
+anyone
+desired g 3
+grass
+draw
+opening
+june
+fish
+capital
+breast
+claim
+expense
+yours
+million
+pray
+tired g 3
+kill
+shadow
+weight
+gray
+brave
+satisfied g 3
+telling
+national
+weak
+valley
+speculative-mood g 2
+yellow
+heat
+remains
+equally
+box
+pointed g
+principle
+consequence
+season
+science
+apparently
+bore
+uncle
+list
+dangerous
+august
+popular
+unknown
+familiar
+familiar-register g
+reader
+walking
+twice
+priest
+wounded g 3
+palace
+fool g 3
+favour
+nine
+sympathy g 3
+burst
+putting
+dressed
+noise
+literature
+rank
+storm
+pocket
+november
+december
+absence
+population
+thank g 3
+series g
+bird
+owner
+coat
+relations
+rapidly
+smoke
+january
+machine
+teeth
+burning
+shame g 3
+quality
+ring
+phrase
+phrase-marker g
+square
+sunday
+poetry
+preordained g
+buy
+fields
+april
+october
+objects
+bitter g 3
+slave
+loose
+text g
+worst
+credit
+features
+fifteen
+cruel g 3
+dust
+practical
+colour
+nose
+friendly
+supply
+yesterday
+hesternal-tense g
+fail
+wear
+blind
+fly
+devil
+gradually
+mission
+sacrifice g 3
+conscience
+minister
+energy
+hate g 3
+centre
+rational-gender g
+enjoy g 3
+brief
+worship
+skin
+roof
+crown
+castle
+despair g 3
+mile
+circle
+prison
+cup
+member
+civil
+everywhere
+custom
+becoming
+meat
+milk
+vegetal-gender g
+rare
+cousin
+bridge
+stock
+salt
+innocent g 3
+avoid
+admiration g 3
+queen
+count
+dance
+hotel
+fill
+prisoner
+shop
+stairs
+pardon g 3
+gay
+sand
+september
+ruin
+license
+sufficiently
+witness
+kitchen
+sell
+treatment
+speed
+computer
+eternal
+library
+containing
+base g 3
+confusion g 3
+cook
+desert
+kiss
+ice
+ball
+argument
+benedictive-mood g 3
+guilty g 3
+punishment
+police
+hide
+expedition
+ignorant g 3
+cloud
+february
+disease
+initiative-case g
+aunt
+humble g 3
+delayed-imperative g
+reported-evidential g 3
+midnight
+finger
+somewhere
+press
+region
+lately
+melancholy g 3
+staff
+gaze
+reward
+donate
+forehead
+angel
+singular g
+error
+dawn
+sheep
+patience g 3
+referential g
+corn
+majority
+measures
+occasionally
+profit
+sugar
+humanity
+frame
+disk
+lonely g 3
+artist
+charm g 3
+email
+decision
+governor
+branch
+enthusiasm g 3
+inductive-mood g 3
+hurry
+oil
+pipe
+print
+solid-matter
+oh
+discourse-context g 2 
+noon
+cabin
+alarm
+nervous g 3
+observation
+aspect g
+applicable
+silk
+cent
+agent g
+union
+hell
+defective
+mixed
+admonitive-mood g
+ambition g 3
+somehow
+counsel
+constitution
+instrument
+firmly
+online
+tide
+college
+tail
+generation
+crowded g 3
+cat
+direct-evidential g 3
+treaty
+contents
+abandoned
+eleven
+instinct
+tribe
+apprehensive-mood g
+shelter
+rude
+riding
+shake
+industry
+profession
+nurse
+teaching
+shoes
+vague
+activity
+saturday
+capacity
+sunshine
+widow
+shed
+star
+guest
+bless
+inner
+available
+resistance
+derive
+hollow
+province
+civilization
+hang
+shock g 3
+driving
+treasure
+seed
+recent-past-tense g 3
+awake
+furniture
+rope
+adventure
+feast
+annual
+southern
+ceremony
+hunting
+liberal
+christianity
+princess
+altar
+tiny
+web
+cardinal
+purple
+gather
+election
+drunk
+lift
+exchange
+definite-article g
+emperor
+administration
+previously
+ugly g 3
+harmless
+training
+roll
+inch
+shoot
+newspaper
+cutting
+beard
+tear
+eighteen
+historical
+gross
+mud
+bride
+depend
+giant
+simplicity
+autumn
+veil
+gathering
+theatre
+comparison
+rival
+forming
+coach
+humour g 3
+discourse
+novel
+revenge
+distal-demonstrative g 3
+jealous g 3
+invitation
+burnt
+flash
+portrait
+suggest
+conflict
+curse
+imprecative-mood g 3
+helpless
+club
+flood
+indifference g 3
+horizon
+assumptive-mood g 3
+steep
+harmony
+thunder
+childhood
+knee
+unconscious
+mutual
+software
+institutions
+receipt
+discipline
+slip
+revolution
+farmer
+platform
+student
+cave
+tradition
+submit
+tragedy
+virgin
+farewell
+criticism
+cotton
+hospital
+rent
+gas
+inevitable
+leaf
+translation
+funeral
+flour
+romantic
+dollar
+jest g 3
+sixteen
+colony
+wing
+lion
+cunning
+preparation
+mist
+medicine
+proofread
+nest
+fourteen
+objection
+acid
+namely g
+weapon
+user
+orange
+bath
+primitive
+establish
+basket
+secretary
+meantime
+today
+hodiernal-tense g
+poison
+rifle
+talent
+climate
+mate
+revelation
+wash
+confession
+nonsense
+coal
+restore
+canoe
+vice
+temporary
+delimitative-aspect g 3
+pile
+bone
+monday
+tuesday
+wednesday
+federal
+representative
+pole
+linen
+sink
+president
+bloody
+siege
+stomach
+upstairs
+varied
+brass
+summit
+cheap
+contest
+exclusive-person g
+landing
+statue
+artillery
+arrest
+temperature g
+neighborhood
+embrace
+pack
+deer
+bedroom
+bush
+discharge
+heir
+oak
+unpleasant
+incomplete
+program
+piano
+persuade
+invisible
+well-known
+cruelty
+assigned
+temptation
+telic-aspect g 3
+international
+violently
+philosopher
+representation
+sensitive
+welfare
+fishing
+steal
+lip
+retire
+economy
+gallery
+parallel
+atelic-aspect g 3
+continent
+knock
+prohibitive-mood g
+tie
+cell
+egg
+artificial
+inspiration
+crisis
+searching
+lunch
+pine
+push
+sue
+extend
+copper
+sailor
+imperial
+whip
+shirt
+sweep
+sketch
+thief
+channel
+personality
+excess
+reform
+thirst
+threatening
+palm
+speaker
+threshold
+traces
+spear
+session
+damp
+traveller
+tin
+complaint
+angle
+cow
+mill
+map
+collar
+deliberately
+beer
+velvet
+abuse
+flock
+niece
+thirteen
+justify
+manuscript
+warrior
+friday
+brush
+download
+cream
+pitch
+jury
+frozen
+literally
+pot
+planned
+coin
+leap
+apple
+twisted
+discuss
+subscribe
+transcribe
+bet
+virus
+hospitality
+childish g 3
+robe
+reflect
+attain
+opera
+hiding
+elbow
+repair
+suspicious g 3
+educational
+pit
+disorder
+applause
+binary
+abbey
+loyalty g 3
+mechanical
+successfully
+trap g 3
+cake
+entertain
+sir
+seventeen
+feminine
+honey
+unfortunately
+legend
+stove
+rebel
+swell
+improve
+swamp
+earn
+animated g 3
+dressing
+preach
+scenery
+oppose
+chorus
+rational
+crop
+processing
+wolf
+refusal
+carpet
+despise
+fertile
+whistle
+cheese
+bite
+escort
+wander
+navy
+mask
+develop
+cab
+pencil
+vegetable
+exhibit
+trousers
+corruption
+cabinet
+soup
+surgeon
+allowance
+spy
+reckless
+abstract
+accent
+thursday
+sincerely
+traffic
+architecture
+disposal
+crack
+ornament
+recovery
+code
+hunter
+newsletter
+snake
+democracy
+battery
+wax
+sharing
+thrill g 3
+swim
+strip
+envelope
+cigarette
+motor
+volunteer
+reaction
+partially
+baggage
+ministry
+sexual g 3
+axe
+diamond
+alternate
+echo
+identity
+ambassador
+consist
+lazy g 3
+momentane-aspect g 3
+encoding
+imaginary
+ray
+climbing
+cellar
+memorable
+senate
+coffin
+swallow
+indulge
+agricultural
+swing
+meadow
+complex
+resignation
+repeatedly
+conspiracy
+pub
+pepper
+melody
+candidate
+patron
+fox
+regretted g 3
+chimney
+hedge
+accuracy
+former-deceased g
+bud
+blanket
+pig
+ivory
+extract
+observer
+avenue
+nails
+bee
+actor
+sweat
+executive
+illusion
+uncertainty g 3
+fold
+boundary
+stress
+consumption
+groan
+resemble
+sack
+needle
+phenomenon
+behave
+controlled
+curve
+chicken
+barrel
+habitual
+habitual-aspect g 2
+expert
+impress
+bounded g 3
+baker
+olive
+van
+devote
+expose
+birthday
+hammer
+fragrant
+trivial g 3
+pet
+skull
+legislature
+fortunately
+frown
+destroying
+margin
+champion
+billion
+chemical
+pulse
+pilot
+knot
+majestic g 3
+skirt
+weekly
+technical
+vehicle
+flattering g 3
+strengthen
+crow
+attribute
+hook
+tiger
+housekeeper
+highway
+militia
+photograph
+integrity
+plus
+transparent
+nineteen
+qualified
+essay
+efficiency
+unique
+organic
+theology
+float
+oblige
+witch
+studio
+champagne
+banner
+divorce
+bolt
+captivity
+vein
+passive
+foam
+gravel
+apron
+planet
+resurrection
+shelf
+fan
+tropical
+arbitrary g 3
+mercury
+benevolent g 3
+suicide
+pluck
+reporter
+expend
+balcony
+stain
+classic
+accuse
+pension
+verb
+monkey
+signature
+reluctance
+notorious
+import
+founder
+torch
+grammar
+yacht
+extinct
+excursion
+dome
+stubborn
+muscle
+magnitude
+rub
+cowardly
+toast
+mouse
+dialogue
+goat
+tailor
+flourish
+impose
+anonymous
+formal-register g
+sports
+melt
+delete
+umbrella
+mineral
+truce
+duck
+soap
+doll
+villa
+sewing
+congratulate
+reconcile
+suppress
+rabbit
+conductor
+guarantee
+player
+insect
+posture
+owl
+permanently
+violin
+resident
+respectively
+beneficial g 3
+dragon
+auditory-evidential g 3
+exporting
+termination
+linger
+lid
+regulation
+mayor
+hardware
+circus
+minority
+riot
+orchestra
+bacon
+unlimited
+defending
+disadvantage
+deliberation
+musician
+mentally
+inadequate
+architect
+lemon
+cough
+headache
+fertility
+carpenter
+random
+spoon
+balloon
+chalk
+refreshment
+vertical
+preventing
+inferential-evidential g 3
+publisher
+vinegar
+tunnel
+puzzle
+mathematics
+fade
+balanced
+liver
+sublative-case g
+dip
+monopoly
+submarine
+regardless
+earthquake
+laboratory
+worker
+rhythm
+interpret
+embassy
+provoke
+inability
+declarative-mood g
+chocolate
+privileged g 3
+hermit
+coincidence
+scratch
+glove
+kneel
+geography
+systematic
+invincible g 3
+investment
+verbal g
+secular
+hawk
+psychology
+scrap
+pirate
+dose
+salmon
+pudding
+magnetic
+pump
+similarly
+oxygen
+foreman
+certificate
+cluster
+rhetoric
+rung
+oar
+login
+telescope
+spelling
+cloudy
+surf
+whiskey
+relatively
+willow
+camel
+amateur
+isolation
+biography
+donkey
+rumour
+perspective
+pro
+monthly
+reverie g 3
+vacation
+click
+oval
+elastic
+dictionary
+ham
+rainbow
+hereby
+occurring
+editorial
+corporal
+tank
+butterfly
+chart
+twin
+operating
+omen
+wretchedness g 3
+bamboo
+dealer
+accumulation
+unanimous
+nightmare
+carbon
+jam
+listener
+museum
+alphabet
+scatter
+punch
+gum
+brake
+stability
+rot
+aggressive
+friction
+spider
+potato
+greed g 3
+multiply
+spin
+calendar
+nomination
+trillion
+salad
+affirmative-mood g
+applications
+nominal
+demonstrate
+dissatisfaction g 3
+shrug
+football
+partnership
+pioneer
+cabbage
+athletic
+ideophone g
+invaluable
+lever
+senator
+accommodate
+ant
+effectively
+pregnant
+reliance
+everyday
+ankle
+oddly
+variable
+diversity
+discrimination
+awed g 3
+sidewalk
+actively
+frog
+exessive-case g
+atonement
+sponge
+squirrel
+irrealis-mood g 3
+scarcity
+volcano
+equilibrium
+scarf
+exploit
+geological
+passport
+vacancy
+affinity
+immoral
+biscuit
+trance
+apprehensive
+film
+tablet
+atom
+vanilla
+aids
+fastidious
+pyramid
+unlawful
+shyness g 3
+lute
+astronomy
+maze
+descriptive
+scholarship
+turtle
+adviser
+cricket
+denote
+pigeon
+adaptation g 3
+operator
+badge
+triangle
+treasurer
+hydrogen
+printer
+choke
+chronic
+bicycle
+engineering
+transmission
+refresh
+dancer
+migration
+violate
+tennis
+windy
+weave
+collector
+spine
+chord
+frequency
+loom
+directory
+thinker
+budget
+strategy
+quartz
+scissors
+switch
+theoretical
+towel
+patrol
+glacier
+completeness
+prediction
+participate
+manufacturer
+lateral
+defendant
+exhaust
+chess
+cherry
+stumble
+translator
+truck
+surpassing
+mustard
+wireless
+auction
+sieve
+rust
+unsteady
+bankrupt
+islam
+census
+tiptoe
+suspend
+continuity
+guitar
+bias
+zinc
+shiny
+elm
+scramble
+knitted
+pronoun-marker g
+spice
+sharpness
+tease
+java
+recipe
+franchise
+metre
+racial
+comet
+innovation
+ban
+medieval
+sparrow
+footnote
+measurement
+ratification
+orbit
+frugal g 3
+golf
+zero
+zip
+homeless
+chewing
+fulfill
+chip
+yawn
+mole
+pottery
+embryo
+deduction
+yeast
+jargon
+plum
+graveyard
+graduate
+irrigation
+capitalist
+elasticity
+shark
+default
+punctual
+realism
+increasingly
+cafe
+ambulance
+wallet
+ecstatic g 3
+grimace
+scientist
+equanimity g 3
+realistic
+outdoor
+radio
+bean
+informal
+speculate
+steak
+nitrogen
+razor
+mutter
+introductory
+analyze
+contrasting
+undress
+incentive
+furrow
+judaism
+recipient
+complement
+lens
+pegative-case g
+cancer
+pawn
+reminder
+leak
+vindication g 3
+complexity
+talkative
+sufficiency
+retail
+grab
+intervene
+discount
+hierarchy
+jade
+snarl
+lizard
+pad
+waterfall
+gallon
+mosquito
+fluent
+deviation
+explorer
+expiring g 3
+wrestle
+mosaic
+plug
+infectious
+henceforward g 3
+squat
+pregnancy
+grocery
+communist
+amaze
+contrition g 3
+prosecutive-case g
+dictator
+preoccupation g 3
+satellite
+slipper
+proportional
+approximate
+unemployed
+hobby
+criterion
+bulb
+supporter
+chlorine
+chloride
+bacteria
+sticky
+biological
+feign
+byte
+secretion
+ballet
+urine
+garlic
+middle-class
+tongs
+challenging
+strawberry
+pollution
+album
+baseball
+piracy
+participle g
+garage
+crutch
+phosphorus
+structural
+gymnasium
+crane
+contractor
+notify
+ballroom
+artisan
+unpaid
+banana
+generator
+rib
+nickel
+bus
+censor
+tile
+sausage
+tomato
+auto
+potassium
+virtual
+algebra
+generic
+concepts
+optical
+budge
+unemployment
+caterpillar
+browser
+calcium
+remote-past-tense g 3
+historic-tense g
+spectrum
+sodium
+trustee
+hostage
+gourd
+wrinkle
+spike
+tick
+rape
+atheism
+monitor
+conditional
+probe
+quarterly
+gender
+platinum
+dual-number g 3
+lung
+scouring
+tag
+super g 3
+trolley
+locally
+gasoline
+kidney
+unattended
+loot
+overworked g 3
+arsenic
+statistical
+grasshopper
+socialist
+sensory-evidential-mood g 2
+tablecloth
+controversial
+leash
+sediment
+snub
+mandarin
+jockey
+cooperate
+pneumonia
+situate
+rocket
+dividend
+skate
+obsession g 3
+allotment
+pant
+digital
+bitch
+eyelid
+diagonal
+subconscious
+eyebrow
+sneeze
+watt
+hilarious g 3
+occupancy
+hinduism
+refugee
+shuttle
+twinge g 3
+protein
+self-satisfied g 3
+vomit
+gene
+freshman
+accoutrements
+shatter
+sociology
+squash
+voter
+mobility
+regional
+motion-uphill g 3
+retrospective g
+cube
+carrot
+entrap g 3
+molecular
+accountant
+stink
+cucumber
+orgy
+solvent
+phosphate
+fascinate
+alkaline
+gymnastics
+verification
+economist
+comma
+wriggle
+iodine
+motion-downhill g 3
+miscarriage
+pod
+designer
+bragging
+donor
+manganese
+keyboard
+unreliable
+elite g 3
+yen
+parenthesis
+rugby
+bible
+causation
+ulcer
+inflected g
+nibble
+quantum
+sweater
+evolutionary
+dissection
+spa
+linear
+antimony
+superessive-case g
+alpha
+immune
+kidnapping
+brewery
+abridge
+sock
+television
+documentary
+cosmos
+forestry
+aluminum
+horoscope
+expedite
+dolphin
+killer
+stationery
+mammal
+protocol
+dioxide
+colon
+bureaucracy
+galaxy
+clinical
+radium
+rarefied
+refrigerator
+satyr g 3
+iteration
+archaeological
+idiosyncrasy
+unacceptable
+massage
+specification
+sensory
+leaflet
+underlie
+ideally
+anthropology
+tasty
+sedan
+transitive g
+cower g 3
+sunflower
+ion
+extradition
+falsify
+emission
+overlap
+finder
+invert
+classmate
+itinerary
+microwave
+oust
+hairdresser
+folklore
+capillary
+buttocks
+controller
+terrorism
+slogan
+overtime
+sublimate
+grill
+wow g 3
+cobalt
+oat
+motion-upriver g 3
+anus
+bovine
+bowel
+video
+boycott
+quiz
+hockey
+guerrilla
+magnesium
+awareness
+pharmacy
+unambitious g 3
+rearrange
+reliability
+kelp
+reimburse
+worldwide g
+curfew
+hamburger
+theorem
+ignite
+debit
+uranium
+assess
+coordinate
+taxpayer
+integrated
+opine
+gamma
+coefficient
+heater
+subtract
+analyst
+intransitive g
+mall
+bismuth
+diner
+postcard
+convergence
+digress
+shareholder
+microbe
+helix
+morphological
+caterer
+jeans
+alignment
+database
+coupon
+voltage
+calculator
+cyberspace
+investor
+x-ray
+visa
+infrastructure
+firefly
+detector
+splice
+bromine
+palladium
+silicon
+volt
+cosmetic
+grooming
+hiccup
+popcorn
+zoo
+connotation
+yoga
+barium
+behead
+yeah
+firework
+jazz
+audio
+tungsten
+dribble
+alimony
+programmer
+input
+reflexive
+chrysanthemum
+documentation
+vaccine
+heroin
+disconnect
+diagnose
+folder
+cathode
+ideology
+parking
+snapshot
+accessibility
+anticlimax g 3
+selenium
+cortex
+sulfur
+current-relevance-marker g
+airport
+imposter
+cockroach
+chromium
+litre
+nonetheless
+cyclic
+payroll
+hormone
+developer
+perforate
+sabotage
+feminist
+conjugate
+modernize
+extremist
+algorithm
+laser
+millimeter
+flex
+anode
+snuggle
+dog-tired g 3
+part-time
+tuna
+refinery
+sensitivity
+mainframe
+rejuvenation
+demonstrator
+helium
+bilingual
+plasma
+chromosome
+ordinal g
+integer
+kilometre
+fax
+genetics
+screwdriver
+appetizer
+broccoli
+adapter
+spam
+vector g
+tactic
+unspecified
+alright
+ampere
+vitamin
+doorman
+subsidize
+cadmium
+simultaneity
+titanium
+kilo g 3
+copulate
+hourglass
+syntactic
+creativity
+e-book
+workplace
+boron
+inductance
+helicopter
+tellurium
+deadline
+oxidize
+align
+analog
+centimetre
+molybdenum
+lithium
+multimedia
+calorie
+robot
+pharmacist
+homework
+locative
+logarithm
+mantis
+ecology
+sophisticate
+template
+radioactivity
+kilogram
+renter
+overeat
+copier
+freeware
+subset
+sequential g
+eavesdrop
+haircut
+impound
+iridium
+bandwidth
+desktop
+exponential
+headquarter
+misplace
+cerium
+partitive
+partitive-case g
+cassette
+supermarket
+willpower
+offline
+encryption
+overpay
+synchronize
+maximize
+seminar
+stereo
+fastener
+upcoming
+celsius
+neon
+real-time
+streamline
+newsstand
+module
+pasta
+briefcase
+deluxe
+firewall
+artifact
+lunchtime
+oregano
+plutonium
+workstation
+escalator
+lifeguard
+overcrowd
+yttrium
+augmentative g
+username
+salespeople
+argon
+promotional
+dishwasher
+globalization
+wavelength
+recycle
+backpack
+restart
+hepatitis
+paycheck
+torus
+typeface
+realtor
+mid-autumn
+milligram
+pixel
+preview
+tantalum
+thermodynamic
+break-in
+solute
+wheelchair
+genocide
+firefighting
+gallium
+pop-up
+zirconium
+hotline
+nonlinear
+scandium
+beryllium
+configure
+neuron
+predicative g
+router
+factorial
+guideline
+volleyball
+debug
+wristwatch
+neutron
+niobium
+restroom
+germanium
+metalloid
+prolative-case g 3
+biodiversity
+antibiotic
+immobilization
+actinium
+astronaut
+decompress
+extraterrestrial
+octet
+open-source
+crackpot
+marathon
+mid-spring
+autism
+ionize
+junk-mail
+inbox
+processor
+old-age
+redirecting
+folk-music
+excavate
+fundraise
+hyperlink
+tapered
+denominator
+home-page
+rhenium
+flowchart
+netium
+unused
+forging
+headphone
+chatting
+caps-lock
+accident
+obviousness
+nth-root
+showroom
+read-only
+referral
+gas-pedal
+emanating
+professor
+yogurt
+dissatisfy
+installing
+nonremittal
+distractor
+phishing
+ingredients
+ghostwriter
+fool-around
+bald
+one-another
+chauvinist
+verb-affix g
+safflower
+else-if g
+non-human g
+compile
+receptor
+phoneme
+post-office
+ethium
+paralegal
+touring
+koran
+next-to
+ip-address
+blue-jean
+hourly
+hertz
+comic-strip
+color-blind
+referring
+upside-down
+blog
+spyware
+projector
+disembarking
+receptionist
+delimitation
+thorium-atom
+thulium-atom
+reviewer
+terbium-atom
+praseodymium
+shorts
+rhodium-atom
+houseplant
+trial-number g 3
+human-body
+flats
+hypnothize
+invading
+causative g
+recruiter
+centric-case g
+inexperience
+extinguisher
+toner
+departmental
+goal-trigger g
+mobile-phone
+spammer
+departing
+maturation
+middle-voice g 3 
+oblique-case g
+patient-case g
+prehodiernal g
+index-finger
+cardboard
+containers
+mail-carrier
+inhibition
+contacting
+paralyzed
+undressing
+pro-sentence g
+buddhism
+conquering
+connectors
+lanthanum
+neodymium
+corroding
+disapproving
+evoking
+terabyte
+trojan-horse
+sender
+surrendering
+blase g 3
+striped
+raincoat
+surprisingly
+binary-value g
+boardroom
+wear-out g 3
+suburb
+bad-tempered
+web-host
+unit-of-mass
+retail-store
+triple-point
+individually
+dramatically
+aerosol
+flow-current
+attaching
+fining
+microphone
+bitmap
+month-of-may
+at-case g
+si-units
+civil-rights
+rashness
+notability
+redecorate
+dot-matrix
+automatically
+poet
+polonium-atom
+eulers-number
+thallium-atom
+attributes
+meandering
+locative-case g 3
+cesium
+counterattack
+makers
+swimming-pool
+morpheme
+strikebreaker
+webpage
+subsisting
+malware
+screenshot
+short-circuit
+status-bar
+rubidium-atom
+superiors
+vanadium-atom
+legality
+fluorine-atom
+physics
+skateboard
+multal-number g 3
+smartphone
+search-engine
+galaxy-gender g
+vocalizations
+scroll-bar
+quarreling
+toolbar
+mid-summer
+abessive-case g
+adessive-case g
+agentive-case g
+agent-trigger g
+bookmark
+mid-winter
+common-gender g
+citation-form g
+actor-role g
+trans-numeral g
+restatement
+suasion
+direct-object g
+ergative-case g
+fragmentation
+work-out
+rescuing
+movie-theater
+volubility
+passive-voice g 3
+personalize
+world-wide-web
+primary-object g
+polarity
+feces
+star-gender g
+generalization
+final-particle g
+imaginary-unit
+speed-of-light
+unavailable
+evitative-case g
+critical-point
+subessive-case g
+air-force
+possessed-case g 3
+clip-art
+computer-virus
+police-officer
+radian
+erasing
+antessive-case g
+ruthenium-atom
+adverbial-case g
+prime-minister
+advertiser
+strontium-atom
+roles
+suspiciousness
+animate-gender g 3
+empathetic-joy g 3
+finite-verb g
+vehicle-gender g
+mineral-gender g
+rehabilitation
+user-interface
+log-out
+gnomic-mood g
+virtual-memory
+word-processor
+cloud-computing
+virtual-machine
+second-language g
+lative-case g
+change-of-event g
+self-confidence g 3
+different-event g
+costly
+crastinal-tense g
+reflexive-voice g 3
+universe-gender g
+transitive-verb g
+locality-gender g
+research-gender g
+artistic-gender g
+patient-trigger g
+abstract-gender g
+business-person
+videoconference
+indirect-speech g
+exocentric-case g
+inject
+past-perfective g
+motorist
+xenon
+collective-noun g 3
+verbal-noun g
+spreadsheet
+absolutive-case g
+impersonal-verb g
+teminal
+virtual-reality
+planetary-gender g
+antibody
+grammatical-case
+computer-program
+operating-system
+clip-board
+data-mining
+domain-name
+flash-drive
+read-only-memory
+floppy-disk
+motherboard
+triggered
+core-benefactive g
+krypton
+text-editor
+associative-case g
+mistreating
+superlative-case g
+electric-current g
+inanimate-gender g 3
+propositive-mood g
+reciprocal-voice g 3
+ration
+rationality
+telecommunication
+evaluative
+social-networking
+successive-clause g
+summarizing
+soon-future-tense g 3
+shift-key
+applicative-voice g 3
+antipassive-voice g 3
+coworker g 3
+continutive-aspect g
+necessitative-mood g
+passive-participle g
+railcar
+existential-clause g
+luminous-intensity g
+singulative-number g
+excessive-duration g
+grammatical-object
+single-action-verb g 3
+superlative-degree g
+present-participle g
+amount-of-substance g
+pronouncing
+connective-particle g
+supercritical-fluid
+epenthetic-morpheme g
+swear-in
+remote-future-tense g 3
+postpositional-case g
+runtime
+random-access-memory
+first-hand
+modal-case g
+allocutive-agreement g
+frequentative-aspect g
+distributive-pronoun g 3
+floating-point-number g
+swearing
+past-passive-participle g
+central-processing-unit
+locative-directional-case g
+frequently-asked-questions

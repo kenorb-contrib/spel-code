@@ -1,0 +1,20 @@
+SPEL (Speakable Programming for Every Language), is a language
+for communication and programming or education of humans and
+computers.
+
+Each SPEL variant, has high-precision machine translation to 
+all other languages, human and computer alike. 
+Note that to learn a variant does take some effort.
+
+Mwak is the core pivot SPEL language, which all the other
+languages are translated to and from. It is based on Linguistic
+Universals.
+
+, as it is
+more regular than the "parent language" it comes from, 
+also there may be different ways of saying things,
+which conform to regular API's and most common ways something is
+said cross-linguistically.   But otherwise it should be easier
+to learn than for instance Esperanto, since the parent language
+vocabulary is used. 
+
